@@ -1,0 +1,24 @@
+Arrive 0730.
+
+106726
+
+Brief chat with Brian Baker. Brian feels it is too early to accurately forecast EAC with confidence. He also noted that they have made as much progress as they can on the Pigging Module without PSV information. He also observed that the P3 phase was not fully developed.
+
+Noted that there are hours charged that are missing a WBS assignment (found via the 023 report.) Notified affected disciplines (CtrlSys, Electrical, Piping, Process and Structural Engrg) and asked for guidance on the appropriate WBS fof the hours. Will need to follow up with an hours transfer. (Hours transfers should be done on Wednesdays per Justin.)
+
+Added ANV.442.010.PMAC.685 to roll up IFF of all Ladder and Platform Designs. Linked individual L&P Design IFFs as predecessors. Successor set to ANV.442.015.E125 <Ladders/Platforms> Fabricate.
+
+Added ANV.442.010.PMAC.695 VSM IFF and coded to appear in PNR WBS MS Review Layout.
+
+Visibility on the PNR WBS MS Review Layout is controlled with UDF user_text1=M.
+
+Recoded VSM and Platform and Ladder Fabrication to be visible on PNR WBS MS Review Layout. Also made Well House Fab visible.
+
+Attended team meeting.
+
+Actions:
+* [ ] Reconfigure IFC sequence per Mirek's suggestions.
+* [ ] Re-open P3,300 for Controls
+* [ ] Transfer "No WBS" Control Systems hours from 441 to P3,300 per Ken Garcia.
+
+Out at 1730.

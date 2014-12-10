@@ -1,0 +1,9 @@
+Arrive 0715.
+
+Worked with Anna and Mirek to start reviewing VDDR needs for WPs. For the Blowdown Tank, Review of VDDR can run in parallel with Prepare IFR Package. Tied these FF. VDDR on blowdown tank not expected until December; pushes IFR date to 1/7 from 10/7. Anna to work with Mike Dyer to identify more accurate durations for receipt of VDDR. #106726
+
+Mirek also noted that the Buried Utiliway on-site and lead time have been updated in IPDMS. Need to capture in schedule. #106726
+
+Worked up a copy of the NDS-1 schedule to reflect VDDR dependencies. Copy is in the test node. Will need to integrate with main schedule when dust settles. #106726
+
+Out at 1430 (Sump day)

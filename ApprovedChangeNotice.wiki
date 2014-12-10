@@ -1,0 +1,5 @@
+Upon receipt of CN approval:
+
+[ ] Mark CN as Approved in PSE - Change Management
+[ ] Mark CN as Approved on the Change Log
+[ ] Mark CN as Approved in EPOCH

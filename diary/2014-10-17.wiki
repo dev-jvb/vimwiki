@@ -1,0 +1,36 @@
+Arrive 0715.
+
+Looked at NDS-1 SPI for last three periods. It is improving:
+
+|               | WE 9/26 | WE 10/03 | WE 10/10 |
+|---------------|---------|----------|----------|
+| Earned Hours  | 25797   | 27635    | 29495    |
+| Planned Hours | 27376   | 28753    | 30216    |
+| SPI           | 0.94    | 0.96     | 0.98     |
+
+Sent results to Brent for his reference.
+
+For OTPEX:
+
+|               | WE 9/26 | WE 10/03 | WE 10/10 |
+|---------------|---------|----------|----------|
+| Earned Hours  | 23707   | 25142    | 26811    |
+| Planned Hours | 29853   | 31823    | 33414    |
+| SPI           | 0.79    | 0.79     | 0.80     |
+
+
+Variance due to Rate Differential
+
+     Variance   = Earned Dollars - Actual Dollars
+                = (Earned Hours x Budget Rate) - (Actual Hours x Actual Rate)
+
+If we are working at 100% efficiency (no performance issues),
+
+     Actual Hours = Earned Hours
+
+so,
+
+     Variance   = (Earned Hours x Budget Rate) - (Earned Hours x Actual Rate)
+                = Earned Hours x (Budget Rate - Actual Rate)
+
+Out at 1400.

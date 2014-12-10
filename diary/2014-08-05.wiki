@@ -1,0 +1,81 @@
+Arrive 0730.
+
+Call from Tony Alhakim; wondering about HAZLOC designation on Heaters and Fans. HAZLOC is a brand. Tony later confirmed that HAZLOC is not the required brand. There may be a change in the designation in IPDMS. Tony to advise. #106726
+
+Processed approved CNs 122 and 124. #105451
+
+At Brent's request, talked to Mike Dyer about need for Procurement hours in CN4. Mike indicated that there was no need for additional hours. Revised the text of the CN to remove mention of additional RFQ and re-sent to Brent. #106726
+
+Cashflow Notes #105451
+
+Materials:
+C218955 Invensys                                Not Anvil PO
+C212062 Emmert International                    Not Anvil PO
+C216014 AEI LLC                                 Not Anvil PO
+C217735 Lowther Rolton LLC                      Not Anvil PO
+C219142 London Offshore Consultants Inc         Not Anvil PO
+C219813 West Coast Expediter                    Not Anvil PO
+
+C210373 Hantech                                 Re-distributed to Sept, Oct and Nov per IPDMS
+C210374 Hantech                                 Re-distributed to Sept, Oct and Nov per IPDMS
+C210792 Redman Equipment & Mfg                  Balance pushed to August
+C212700 Cust O Fab                              PO Complete
+
+C209449	FLOWSERVE PUMP DIV (WORTHINGTON SPA     Re-distributed to August and Sept per IPDMS
+C210055	DRESSER RAND CO.                        Balance pushed to August
+C217076	BENTLY NEVADA LLC                       PO Complete
+C217609	BENTLY NEVADA LLC                       PO Complete
+
+C217220	PEDERSON BROS.,INC.                     Balance pushed to August-September
+
+C213010	TYCO VALVES AND CONTROLS LP             PO Complete
+C213118	DIAMOND B CONSTRUCTORS INC              PO Complete
+C213187	WILLIAMS FIRE & HAZARD CONTROL          PO Complete
+C213564	MCJUNKIN CORPORATION                    PO Complete
+C213963	DIAMOND B CONSTRUCTORS INC.             PO Complete
+C214886	PARAMOUNT SUPPLY CO                     PO Complete
+C215333	MCJUNKIN CORPORATION                    PO Complete
+C216108	SUMMIT SUPPLY CO                        PO Complete
+C217445	BAY VALVE SERVICE AND ENGINEERING LLC   Adjusted payments in September and December per IPDMS
+C217459	MOKVELD USA INC                         PO Complete
+C218118	SUNBELT SUPPLY                          Balance pushed to August (on-site 8/5)
+C218555	U S METALS INC                          PO Complete
+C218753	ONIS, INC.                              Balance pushed to August per IPDMS
+C218930	ANVIL INTERNATIONAL INC.                Balance pushed to August per IPDMS
+C219274	MCJUNKIN CORPORATION                    Payment due in September
+C219314	DIAMOND B CONSTRUCTORS INC.             Re-distributed to September per IPDMS
+C220162	BAKERSFIELD PIPE AND SUPPLY             Re-distributed to September per IPDMS
+C220567	TEAM INDUSTRIAL SERVICES, INC.          Not Anvil PO
+
+C203510	GAYESCO LLC AND OR GAYESCO SERVICES LLC PO Complete
+C207859	GAYESCO LLC AND OR GAYESCO SERVICES LLC PO Complete
+C210318	GAYESCO LLC AND OR GAYESCO SERVICES LLC Re-distributed to September per IPDMS
+C212591	O'BRIEN IRON WORKS                      PO Complete
+C215413	TTT ENVIRONMENTAL, LLC                  PO Complete
+C215881	FROST ENGINEERING SERVICE CO            PO Complete
+C216142	ROSEMOUNT INC                           PO Complete
+C216753	PARAMOUNT SUPPLY CO                     PO Complete
+C217449	HONEYWELL INC                           PO Complete
+C217561	FLUIDIC TECHNIQUES                      Not Anvil PO
+C218060	SUPERIOR PRODUCTS INC                   PO Complete
+C218097	PENTAIR VALVES & CONTROLS US LP         Balance due in October per IPDMS
+C218272	PCE PACIFIC INC                         Balance due in October per IPDMS
+C218386	FROST ENGINEERING SERVICE CO            PO Complete
+C218726	WESCO DISTRIBUTION, INC.                PO Complete
+C218944	ACS INC                                 PO Complete
+C219300	PARAMOUNT SUPPLY CO                     PO Complete
+C219487	BAY VALVE SERVICE AND ENGINEERING LLC   Balance due in April 2015 per IPDMS
+C219788	O'BRIEN IRON WORKS                      Balance due in August per IPDMS
+C220146	ROSEMOUNT INC                           Balance due in September per IPDMS
+C220907	UNIT PROCESS CO                         Not Anvil PO
+
+C210201	DYKMAN ELECTRICAL INC                   PO Complete
+C211368	ELLIOTT CONTROL COMPANY, LTD.           PO Complete
+C213104	ELLIOTT CONTROL COMPANY, LTD.           PO Complete
+C213320	PARAMOUNT SUPPLY CO                     PO Complete
+C214389	PARAMOUNT SUPPLY CO                     PO Complete
+C218308	GEXPRO                                  Not Anvil PO
+C218320	GEXPRO                                  PO Complete
+C218730	GEXPRO                                  PO Complete
+
+Priced CN5 and emailed documents to Brent. #106726

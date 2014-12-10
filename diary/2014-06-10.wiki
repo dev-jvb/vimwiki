@@ -1,0 +1,54 @@
+Arrive 0730.
+
+Justin asked that I review PSE and PT with Tom this morning. Also have him run a Labor Distribution Report and side-calc FTEs for the Caelus program.
+
+Revised Structural Designer Tracker from Chris Seigman to Brady Jensen per Brady Jensen request.
+
+Attended OTPEX team meeting for familiarity.
+
+106726 - Attended NDS1 Team Meeting:
+Who's doing what presently:
+
+        * Controls (Bill Guevara)
+                * Working on Data sheets for Modules
+                * Working on Procurement plan
+
+        * Structural (Mirek)
+                * Low temp steel issues
+                * Mirek intends to be full time on project next week
+                * Brady also full time next week
+                        * Modelling platforms
+                        * Working accessibility issues
+                * Will need fabricator input in ~2w
+        * Mechanical (Nadine)
+                * Updating PSR
+                * P&IDs for injection skids
+
+        * Piping (Brady)
+                * Review comments have been picked up
+                * Well row piperack is close
+                * 1 person working on well houses
+                * There are inconsistencies in model data
+                * Working interface at Utiliway
+                * Need sizing information for Pigging Module
+                * Need skelotons for other modules
+
+        * Electrical (Cesar)
+                * Major equipment electrical specs
+                        * Switchgear and transformers
+                * Adding cable trays to 3D model
+
+        * Process (Bruce Stevens)
+                * PHA next week
+                * Pick up earlier comments
+                * Started PSVs
+                * Some PDRs are done; need to coordinate with Control Systems
+                
+        * HVAC
+                * Preliminary locations in Pigging Module
+                
+        * Project Controls (AIN LIst)
+                * Fire Marshall dates need to be captured in schedule
+                * Rules of credit discussion with Diane
+
+Attended State of Anvil presentation.

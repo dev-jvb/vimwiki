@@ -1,0 +1,36 @@
+NDS-1 Schedule Update Checklist
+
+* [ ] Open project
+* [ ] Set filter to "In Progress"
+* [ ] Turn on Spotlight.
+* [ ] Adjust ending spotlight date to the Data Date.
+* [ ] Review IPDMS Exception Report and adjust Finish dates as needed to align schedule with IPDMS
+* [ ] Adjust activity Finish dates to align with input from the Schedule Update Workbook
+        * [ ] CSYS
+        * [ ] ELEC
+        * [ ] EQUI
+        * [ ] HVAC
+        * [ ] PIPE
+        * [ ] STRU
+* [ ] When all finish dates are as indicated on the mark-up, save a "Pre_DD_Move" baseline.
+* [ ] Actualize activities as needed.
+* [ ] Update percent completes using the [[Percent Complete Update Process]]
+* [ ] Assign the "Pre_DD_Move" baseline as the Project and User Primary baseline.
+* [ ] Move the data date and schedule the project.
+* [ ] Adjust activity durations to bring finish dates back to their desired values (there should be zero BL Variance.)
+* [ ] Referring to the marked up Spotlight printout, adjust durations to align activity end dates with mark-ups.
+        * [ ] Set the following activities to LoE and Reschedule to update end dates:
+              * [ ] ANV.442.010.PMAC.005	Discipline Coordination	
+              * [ ] ANV.442.010.PMAC.015	PMAC Coordination	
+              * [ ] ANV.442.010.PMAC.025	Procurement Coordination
+        * [ ] Reset the above activities to Task Dependent
+* [ ] Verify that the schedule log is clean. Resolve any issues.
+* [ ] Re-assign the official project baseline.
+* [ ] Save an update baseline.
+* [ ] Document any newly added or deleted activities in a memo to Diane to accompany the report.
+* [ ] Export XER for Transmittal 
+* [ ] Print and Publish a Milestone Schedule for the team
+* [ ] Print and Publish a Float Report for Brent
+* [ ] Update .REM file if needed
+* [ ] Print WBP Milestone for Remind Layout
+* [ ] Setup Schedule Workbook for Next Cycle

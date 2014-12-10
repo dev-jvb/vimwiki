@@ -1,0 +1,13 @@
+In at 0715.
+
+Re-worked WP re-order schedule using priority information received from Ben Anglen.
+
+Attended weekly NDS-1 team meeting (Earl Mabe sighting!)
+
+Adjust fab schedule to no longer be driven by material on-site dates; driven only by IFF dates.
+
+There are changes to the pigging module resulting ina re-IFF. Changes are due to reconsideration of fire wall philosophy. Per Brent, this is not a CN; so it will have to be trended.
+
+Mike Dyer reports that the Caelus purchasing system is not ready for prime time. Working through glitches, but there may be delays in getting POs issued.
+
+Out at 1700.

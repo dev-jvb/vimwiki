@@ -1,0 +1,4 @@
+Arrive 0715
+
+Working on Change Log; found several CNs in the Contract Engineering columsn that are not Anvil Engineering. This is contributing to the total for Anvil Engineering being too high. Have some questions for John Andres on this. Will call him on Monday to discuss. #105451
+

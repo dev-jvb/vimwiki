@@ -1,0 +1,27 @@
+Arrive 0715.
+
+Met with Anna to review IPDMS report needs. Identified 5 reports:
+
+1) Outstanding MRs
+	Purpose: Identify MRs needing expediting to support IFF or On-site dates.
+	Criteria: MR Req'd in Procurement Date < Report Date
+
+2) Outstanding POs
+	Purpose: Identify Mrs that are in procurement but for which POs have not yet been issued. Identify to Procurement which POs need to be expedited.
+	Criteria: MR received in Procurement AND PO # is null
+
+3) POs holding for Caelus
+	Purpose: Identify items for which the PO is ready for issue but is being held by Caelus (T&C resolution or other issues.)
+	Criteria: Need to identify a field to use a a flag for this. PREQ Entered Date? PO Draft Issued Date?
+
+4) Expeditors Report
+	Purpose: Identify items that are on order but are not meeting on-site date.
+	Criteria: Forecast On-Site Date > Scheduled On-Site Date
+
+5) IFF Impact
+	Purpose: Identify items that are impacting IFF release dates.
+	Criteria: PO Issue Date > PO Need By Date for IFF (IFF - 6 - VDDR LeadTime)
+
+Anna's priority is for Report 5 first to assess IFF impact.
+
+Out at 1715.

@@ -1,0 +1,17 @@
+Arrive 0730.
+
+Re-aligned schedule remaining units with Progress Tracker.
+
+Reviewed re-aligned resources in schedule with Justin. Thinking is that we are probably OK on control systems personnel, but will need (1) additional Electrical Engineer and 1/2 of an Electrical Designer.
+
+Attended NDS-1 Team Meeting
+
+	Actions:
+		* [ ] Add column to the release schedule listing the deadline for getting material to Pam (Friday before IFF date.)
+		* [ ] Issues with 480V MCC bids (not scope complete) May cause delay in getting to PO issue.
+		* [ ] Deliveries to the North Slope should have a default on-site date of 1/1/2016 unless better information is available.
+		* [ ] Concerned about IFF of WP 0013; scope not well defined and pending further discussions with client. Stay tuned.
+
+Tom delivered an excellent summation of the issues and challenges surrounding Progress Tracking ansd EHTC.
+
+Out at 1700.

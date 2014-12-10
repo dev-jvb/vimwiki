@@ -1,0 +1,17 @@
+Schedule Update Checklist
+
+* [ ] Open project
+* [ ] Set filter to "Working - Unactualized Activities"
+* [ ] Turn on Spotlight.
+* [ ] Adjust ending spotlight date to the Data Date.
+* [ ] Referring to the marked up Spotlight printout, adjust durations to align activity end dates with mark-ups.
+* [ ] When all finish dates are as indicated on the mark-up, save a "Pre_DD_Move" baseline.
+* [ ] Actualize activities as needed.
+* [ ] Assign the "Pre_DD_Move" baseline as the Project and User Primary baseline.
+* [ ] Move the data date and schedule the project.
+* [ ] Adjust activity durations to bring finish dates back to their desired values (there should be zero BL Variance.)
+* [ ] Verify that the schedule log is clean. Resolve any issues.
+* [ ] Re-assign the official project baseline.
+* [ ] Save an update baseline.
+* [ ] Print PDFs of the "Remaining" schedule and the complete schedule. Save these to the Project Controls - Schedule - Updates folder.
+* [ ] Copy the PDFs to the "Current Project Information" folder under Transmitted Products.

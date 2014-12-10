@@ -1,0 +1,13 @@
+Arrive 0745.
+
+After consult with Justin, renamed Waste Water MR and RFQ prep activities to remove "Waste Water." Also deleted the Envirovac procurement WBS as this is no longer Anvil scope. Justin suggested that we leave the MR and RFQ prep activities and their associated hours in the schedule in case there is other procurement required. #106726
+
+Demonstrated IPDMS Exception report to Justin. Justin agreed that disciplines need to review IPDMS and validate that the items therein are in scope and add any that are missing. #106726
+
+Met with Tony Alhakim. Provided updated WBS list. Need to show Well House-related procurement in schedule (N1-WH01 - 51.) #106726
+
+Renamed the VFD1 XFRMR Platform WBS to VFD 2 & 5 kV MCC. Removed XFRMR Procurement activities. Tied VFD2 Module Fabrication to align with VFD1 Module Fabrication. Renamed the WBS in PSE. #106726
+
+Sent email to discipline leads requesting update to IPDMS by COB Tuesday. #106726
+
+Prepared 028 report for John Andres and emailed to him. #105451

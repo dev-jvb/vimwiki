@@ -1,0 +1,22 @@
+Arrive 0730.
+
+106653 Responded to Jeff Hauck email re CN1.
+
+Asked Tom to research PO values for Caelus projects to confirm that we are fully funded and have POs in place.
+
+106726 - Set up Swimlane by Work Package layout. Used "Work Package" field, not to be confused with the "WP" field, to assign milestones to swimlanes. Only activities with non-blank Work Package values show in the swimlanes.
+
+Discussed idea of watching the ratio of number of employees relative to FTE hours with Justin. Justin has observed this on previous jobs and thinks it could be an indicator of efficiency. Something to continue to monitor.
+
+Attended Caelus Coordination Meeting:
+        * Send XER file to Diane and Christina this week (Friday)
+        * Christina is anxious for a progress report this week. Brent will provide a narrative summary this week and each week going forward. He will work with Pam to format the updates from the discipline leads. Also to include an Issues and Concerns section.
+        * Brent will be off-site for the PHA next week.
+        * Discussed ratio of # of employees to FTE actuals. This is an indicator and we should continue to monitor.
+        * Justin confirmed that schedules are back-end loaded.
+
+Called Erik to inquire about weekly cost report. He is waiting on rates from Amanda to complete and send.
+
+105451 - Paige informed me that the revised Gayesco delivery is now 9/9/2014.
+
+Received communication from Terry regarding delay in WP14 as BP considers their options for bleed valves.

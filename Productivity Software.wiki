@@ -1,0 +1,10 @@
+* Cygwin
+* gVim
+* Remind
+* todotxt.net
+* Dropbox
+* Evernote
+* OpenVPN GUI (from Whatbox)
+* TPLink Wireless Configuration Utility
+* Lastpass
+*

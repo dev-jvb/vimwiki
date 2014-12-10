@@ -1,0 +1,23 @@
+Arrive 0700.
+
+Created new baseline for CN13 as follows:
+
+        * [ ] Imported IFA XER into a new project (IFA)
+        * [ ] Opened the new project (IFA)
+        * [ ] Constrained WP0006 IFR and IFF dates to new dates
+        * [ ] Rescheduled the project (IFA)
+        * [ ] Close the project (IFA)
+        * [ ] Open the live Project (Live)
+        * [ ] Maintain baselines, Add, Convert another project to a new basseline of the current project. Select the (IFA) project.
+        * [ ] Renamed the newly-added baseline to CN13
+        * [ ] Assign the CN 13 baseline and verify IFR and IFF dates were updated.
+
+Reviewed budgeted unit vs. PT. Tom to update PT with missing SAIDs.
+
+Develop 4 week look ahead by engineering discipline.
+
+Reviewed IPDMS for MRs in Procurement and identified those that need to be added to the schedule.
+
+Out at 1630 to pick up Harvey.
+
+

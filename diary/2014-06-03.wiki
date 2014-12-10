@@ -1,0 +1,33 @@
+Arrive 0730.
+
+To Do:
+* [X] Update project and schedule narratives.
+* [X] Call Justin about Procurement updates
+* [X] Revise Anvil cashflow line in cashflow workbook
+* [X] Call Craig Wilson
+* [X] Meet with Scott Kothe re schedule
+* [X] Review ESR
+* [X] Transcribe notes from IPS
+* [X] Meet with Jim to discuss transition
+
+106292
+With guidance from Scott Kothe, extended duration of Unit 17 Support documentation to have it issue in August 2014. Tied IFC to Begin Operate stage as successor.
+
+106726 - Nuna NDS-1
+Mirek Wazny noted descrepancies between the elements available in Timesheets and the WBS numbering/description schema. Also noted that SJ443 was not available in Timesheets. Checking ACE, found SJ443 was marked as On-Hold Booked. Switched to Active to get it to appear in Timesheet (hopefully.) In addition, ther eappears to be SJ400 floating around in the Charge Elements.
+
+Developed a WBS/Discipline Package Matrix using a dump from PSE: [[file:///S:/Caelus/106726/Project Controls/Davis/Discipline-WP Matrix.xlsx|Discipline/WP Matrix]]
+
+Justin asked that I review the schedule and validate PO Issue dates in the schedule against those in IPDMS. Should be significant procurement in Summer 2014. Especially long-lead equipment. (What defines long-lead?)
+
+Prepared a new Primavera layout organizing POs by Month. [[file:///S:/Caelus/106726/Project Controls/Davis/POs by Month.pdf|POs by Month]]
+
+Per Justin, First Oil date is 1 Jun 2016. This is the only key Program date until the schedule is approved and locks in our baseline commitments.
+
+Justin installed Primavera on my computer.
+
+106653 - Nuna OTP Expansion - Team meeting cancelled.
+
+106438 - Learned of a CN (003) that needs a Schedule to go with.
+
+Personal - Booked shuttle for Ashley and Anthony for tomorrow. Confirmation # 1078045. 1300 pm shuttle, arrives Burlington 1455.

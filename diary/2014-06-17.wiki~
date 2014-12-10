@@ -1,0 +1,17 @@
+Arrive 0730.
+
+Reviewed ESR for NHDS. Change Log supports EAC.
+
+105451 - Call from John Andres re: Cashflow chart in Monthly Report. Dan would like to see the Plan data aligned with the original plan as established when full funding was recieved (March/April 2013). Use cashflow from that time to establish the plan values. Used May 2013 cashflow worksheet as source for Planned values through 2014.
+
+Revisited chart and validated monthly actuals against EPOCH. Extended data set through end of 2015. Re-sent to John Andres.
+
+Tooka last run at the cashflow chart with guidance from John Andres. I think we're good now.
+
+106726 - Reviewed Schedule Basis. Found two "Pioneer" references (corrected.) Added Memorial Day 2016 to list of Recognized holidays. Verfied key project dates against Primavera schedule.
+
+Started to progress the schedule. Updating Physical % Complete and Remaining Units with %Complete and EHTC respectively from Progress Tracking. Note that in order to progress an activity, the activity must be started. If it is not scheduled to be started until later, care must be taken to adjust the duration after the data date move to maintain the planned finish date.
+
+Need to resume schedule updating at WP 0003, Activity ID ELEC.135.
+
+Out at 1730.

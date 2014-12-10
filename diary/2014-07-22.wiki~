@@ -1,0 +1,22 @@
+Arrive 0700.
+
+Revised Schedule Update Workbook to highlight activities scheduled to complete during the current reporting period. #106726
+
+Incorporated schedule changes from Renat #106653.
+
+Transferred 38 hours from Marcus Casserd from 441-001 P&IDs to 442-414 Well Row Pipe Rack. #106726
+
+At the request of Anna Badyoczek, added Duration, Start and Finish columns to the 4WLA. #106726
+
+Prepared draft of IFC schedule; sent to Mirek for review of alignment with his markups.
+
+Attended weekly team meeting. A number of resulting actions (all added to todo.txt):
+* [ ] Talk to Scott Horne about producing an IPDMS Exception Report for the Caelus projects
+* [ ] Verify install sequence on schedule is aligned with installation plan
+* [ ] Confirm to Renat that Anvil will supply HVAC for the Control Room Module
+* [ ] Verfiy that schedule bid return for VFD is 7/30
+* [ ] consider use of 6 week PSR look ahead in addition to Primavera 4WLA for team meeting
+* [ ] Add PSR updates to White Week Cadence
+* [ ] Add Update Schedule per PSR to Blue Week Cadence
+* [ ] Email Discipline leads to remind them that if an activity that was scheduled to finish will not be reported as 100% complete, they need to provide a new ECD.
+* [ ] Add coding to schedule to facilitate Procurement tracking

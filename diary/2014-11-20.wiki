@@ -1,0 +1,9 @@
+Arrive 0715.
+
+Merged NDS-1 Reflection back into source project. Confirmed IFF/IFC dates per release schedule.
+
+Discussed idea of managing procurement with IPDMS and PSR only; not in schedule. Exception being any procurement that is driving engineering.
+
+Updated schedule. Still need to clean up schedule log.
+
+Out at 1630.

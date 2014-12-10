@@ -1,0 +1,143 @@
+Issues/Questions/Holds
+
+Pigging Module - CSYS.129 - Vendor Drawing Review - What drawings need to be reviewed and are they needed for IFF? @ Ken Garcia
+
+Per Ken Garcia: There are no VDDR needs to make IFF.
+
+Blowdown Tank - How to re-structure schedule. Do we no longer need to wait for tank VDDR? @Anna
+
+Per discussion with Mirek: We could IFF on original date with a hold for anchor bolt diameter. Anvil to determine anchor locations, tank vendor to define anchor diameter. Or, we could hold off until vendor provides anchor diameter and IFF without holds. Fabrication of this module is not holding up any others. Anna will put the question to Ben tomorrow.
+
+= Schedule Update Summary =
+
+Reciept of VDDR data continues to be a concern. Until POs are placed, we have only estimates of when VDDR will be received. Anvil is working with disciplines to identify the most critical date and with vendors as orders are placed to obtain the most critical data as early as possible.
+
+Following a discussion at Anvil with the client, Anvil was able to mitigate the slide in the IFF date for WP0009 - Blowdown Tank. Anvil will provide the tank vendor with the anchor locations and IFF the package with holds for the anchor bolt diameter. This allows Anvil to meet the planned IFF date of 11/12/2014.
+
+The WP0011 - 35kV Transformer Platform and WP0012 - 35 kV Switchgear Module IFR and IFF dates continue to slide as a result of estimates for receipt of vendor data for the Transformers and AHU respectively. PO placement for the transformers is imminent and Anvil expects to receive sufficient VDDR on the Transformers to enable some schedule recovery. The AHU for WP0012 must be re-bid as the previous vendor was determined to be unqualified. Schedule impact of this delay is still evolving.
+
+Anvil continues to explore alternative package issue sequences in an effort to mitigate delays and support leveling of module fabrication workload.
+
+= Schedule Additions/Deletions =
+
+The following activities were deleted from the schedule.
+
+| Activity ID          | Activity Name                                                    |
+|----------------------|------------------------------------------------------------------|
+| ANV.442.011.HVAC.201 | Prepare Calcs - HVAC/FP                                          |
+| ANV.442.011.HVAC.203 | Develop Plan Drawings                                            |
+| ANV.442.011.HVAC.205 | Prepare MRs                                                      |
+| ANV.442.011.HVAC.207 | Review Vendor Drawings                                           |
+| ANV.442.011.HVAC.209 | Develop HVAC/FP Basis of Design                                  |
+| ANV.442.011.HVAC.211 | Prepare SOW                                                      |
+| ANV.442.011.HVAC.213 | Prepare Datasheets / Orthos                                      |
+| ANV.442.011.HVAC.215 | Mech Drawing Check                                               |
+| ANV.442.011.PIPE.227 | Prepare Orthos                                                   |
+| ANV.442.012.PIPE.231 | Develop Flexibility Calcs                                        |
+| ANV.442.010.E082     | <Choke Valve 4" 1500#> MR Received in Procurement                |
+| ANV.442.010.E051     | <Choke Valve 4" 1500#> Prepare RFQ Package                       |
+| ANV.442.010.E052     | <Choke Valve 4" 1500#> Issue RFQ                                 |
+| ANV.442.010.E053     | <Choke Valve 4" 1500#> Vendor Provide Quotes                     |
+| ANV.442.010.E055     | <Choke Valve 4" 1500#> Prepare/Review Bid Tabs                   |
+| ANV.442.010.E054     | <Choke Valve 4" 1500#> Issue PO                                  |
+| ANV.442.010.E056     | <Choke Valve 4" 1500#> Vendor Drawing Submittal                  |
+| ANV.442.010.E057     | <Choke Valve 4" 1500#>  Review Vendor Drawings (Anvil/Caelus)    |
+| ANV.442.010.E058     | <Choke Valve 4" 1500#> Fabricate                                 |
+| ANV.442.010.E059     | <Choke Valve 4" 1500#> Delivery                                  |
+| ANV.442.010.E060     | <Choke Valve 4" 1500#> On-Site at Fabricator                     |
+| ANV.442.006.E251     | <VFD Heaters> MR Received in Procurement                         |
+| ANV.442.006.E280     | <VFD Heaters> Prepare RFQ Package                                |
+| ANV.442.006.E231     | <VFD Heaters> Issue RFQ                                          |
+| ANV.442.006.E155     | <VFD Heaters> Vendor Provide Quotes                              |
+| ANV.442.006.E156     | <VFD Heaters> Prepare/Review Bid Tabs                            |
+| ANV.442.006.E270     | <VFD Heaters> Issue PO                                           |
+| ANV.442.006.E221     | <VFD Heaters> Vendor Drawing Submittal                           |
+| ANV.442.006.E212     | <VFD Heaters>  Review Vendor Drawings (Anvil/Caelus)             |
+| ANV.442.006.E158     | <VFD Heaters> Fabricate                                          |
+| ANV.442.006.E290     | <VFD Heaters> Delivery                                           |
+| ANV.442.006.E222     | <VFD Heaters> On-Site at Fabricator                              |
+| ANV.442.012.E091     | <35Kv Switchgear Heaters> MR Received in Procurement             |
+| ANV.442.012.E310     | <35Kv Switchgear Heaters> Prepare RFQ Package                    |
+| ANV.442.012.E231     | <35Kv Switchgear Heaters> Issue RFQ                              |
+| ANV.442.012.E165     | <35Kv Switchgear Heaters> Vendor Provide Quotes                  |
+| ANV.442.012.E166     | <35Kv Switchgear Heaters> Prepare/Review Bid Tabs                |
+| ANV.442.012.E300     | <35Kv Switchgear Heaters> Issue PO                               |
+| ANV.442.012.E221     | <35Kv Switchgear Heaters> Vendor Drawing Submittal               |
+| ANV.442.012.E232     | <35Kv Switchgear Heaters>  Review Vendor Drawings (Anvil/Caelus) |
+| ANV.442.012.E168     | <35Kv Switchgear Heaters> Fabricate                              |
+| ANV.442.012.E320     | <35Kv Switchgear Heaters> Delivery                               |
+| ANV.442.012.E242     | <35Kv Switchgear Heaters> On-Site at Fabricator                  |
+|                      |                                                                  |
+
+                    	
+The following activities were added to the schedule:
+
+| Activity ID          | Activity Name                                                               |
+|----------------------|-----------------------------------------------------------------------------|
+| ANV.442.003.E071     | <N1-P04 Heaters> MR Received in Procurement                                 |
+| ANV.442.003.E475     | <N1-P04 Heaters> Prepare RFQ Package                                        |
+| ANV.442.003.E061     | <N1-P04 Heaters> Issue RFQ                                                  |
+| ANV.442.003.E042     | <N1-P04 Heaters> Vendor Provide Quotes                                      |
+| ANV.442.003.E444     | <N1-P04 Heaters> Prepare/Review Bid Tabs                                    |
+| ANV.442.003.E043     | <N1-P04 Heaters> Issue PO                                                   |
+| ANV.442.003.E450     | <N1-P04 Heaters> Vendor Drawing Submittal                                   |
+| ANV.442.003.E465     | <N1-P04 Heaters> Review Vendor Drawings (Anvil/Caelus)                      |
+| ANV.442.003.E456     | <N1-P04 Heaters> Fabricate                                                  |
+| ANV.442.003.E457     | <N1-P04 Heaters> Delivery                                                   |
+| ANV.442.003.E458     | <N1-P04 Heaters> On-Site at Fabricator                                      |
+| ANV.442.003.E455     | <N1-P04 Fire Suppression System> Prepare RFQ Package                        |
+| ANV.442.003.E031     | <N1-P04 Fire Suppression System> Issue RFQ                                  |
+| ANV.442.003.E051     | <N1-P04 Fire Suppression System> MR Received in Procurement                 |
+| ANV.442.003.E032     | <N1-P04 Fire Suppression System> Vendor Provide Quotes                      |
+| ANV.442.003.E434     | <N1-P04 Fire Suppression System> Prepare/Review Bid Tabs                    |
+| ANV.442.003.E033     | <N1-P04 Fire Suppression System> Issue PO                                   |
+| ANV.442.003.E440     | <N1-P04 Fire Suppression System> Vendor Drawing Submittal                   |
+| ANV.442.003.E445     | <N1-P04 Fire Suppression System> Review Vendor Drawings (Anvil/Caelus)      |
+| ANV.442.003.E446     | <N1-P04 Fire Suppression System> Fabricate                                  |
+| ANV.442.003.E447     | <N1-P04 Fire Suppression System> Delivery                                   |
+| ANV.442.003.E448     | <N1-P04 Fire Suppression System> On-Site at Fabricator                      |
+| ANV.442.003.E191     | <N1-P04 HVAC Accessories> MR Received in Procurement                        |
+| ANV.442.003.E495     | <N1-P04 HVAC Accessories> Prepare RFQ Package                               |
+| ANV.442.003.E181     | <N1-P04 HVAC Accessories> Issue RFQ                                         |
+| ANV.442.003.E052     | <N1-P04 HVAC Accessories> Vendor Provide Quotes                             |
+| ANV.442.003.E454     | <N1-P04 HVAC Accessories> Prepare/Review Bid Tabs                           |
+| ANV.442.003.E053     | <N1-P04 HVAC Accessories> Issue PO                                          |
+| ANV.442.003.E460     | <N1-P04 HVAC Accessories> Vendor Drawing Submittal                          |
+| ANV.442.003.E485     | <N1-P04 HVAC Accessories> Review Vendor Drawings (Anvil/Caelus)             |
+| ANV.442.003.E466     | <N1-P04 HVAC Accessories> Fabricate                                         |
+| ANV.442.003.E467     | <N1-P04 HVAC Accessories> Delivery                                          |
+| ANV.442.003.E468     | <N1-P04 HVAC Accessories> On-Site at Fabricator                             |
+| ANV.442.014.E230     | <N1-PR1xx High Yield Pipe & Fittings> Prepare RFQ Package                   |
+| ANV.442.014.E211     | <N1-PR1xx High Yield Pipe & Fittings> Issue RFQ                             |
+| ANV.442.014.E155     | <N1-PR1xx High Yield Pipe & Fittings> Vendor Provide Quotes                 |
+| ANV.442.014.E156     | <N1-PR1xx High Yield Pipe & Fittings> Prepare/Review Bid Tabs               |
+| ANV.442.014.E220     | <N1-PR1xx High Yield Pipe & Fittings> Issue PO                              |
+| ANV.442.014.E201     | <N1-PR1xx High Yield Pipe & Fittings> Vendor Drawing Submittal              |
+| ANV.442.014.E182     | <N1-PR1xx High Yield Pipe & Fittings> Review Vendor Drawings (Anvil/Caelus) |
+| ANV.442.014.E158     | <N1-PR1xx High Yield Pipe & Fittings> Fabricate                             |
+| ANV.442.014.E240     | <N1-PR1xx High Yield Pipe & Fittings> Delivery                              |
+| ANV.442.014.E192     | <N1-PR1xx High Yield Pipe & Fittings> On-Site at Fabricator                 |
+| ANV.442.014.E115     | <Trunk Line Valves> Prepare RFQ Package                                     |
+| ANV.442.014.E120     | <Trunk Line Valves> Issue RFQ                                               |
+| ANV.442.014.E111     | <Trunk Line Valves> Vendor Provide Quotes                                   |
+| ANV.442.014.E113     | <Trunk Line Valves> Prepare/Review Bid Tabs                                 |
+| ANV.442.014.E112     | <Trunk Line Valves> Issue PO                                                |
+| ANV.442.014.E116     | <Trunk Line Valves> Vendor Drawing Submittal                                |
+| ANV.442.014.E117     | <Trunk Line Valves> Review Vendor Drawings (Anvil/Caelus)                   |
+| ANV.442.014.E118     | <Trunk Line Valves> Fabricate                                               |
+| ANV.442.014.E119     | <Trunk Line Valves> Delivery                                                |
+| ANV.442.014.E130     | <Trunk Line Valves> On-Site at Fabricator                                   |
+| ANV.442.010.E076     | <Choke Valve 3" & 4"> Vendor Drawing Submittal                              |
+| ANV.442.010.E077     | <Choke Valve 3" & 4">  Review Vendor Drawings (Anvil/Caelus)                |
+| ANV.442.010.E078     | <Choke Valve 3" & 4"> Fabricate                                             |
+| ANV.442.010.E084     | <Choke Valve 3" & 4"> Issue PO                                              |
+| ANV.442.010.E073     | <Choke Valve 3" & 4"> Vendor Provide Quotes                                 |
+| ANV.442.010.E080     | <Choke Valve 3" & 4"> Prepare RFQ Package                                   |
+| ANV.442.010.E132     | <Choke Valve 3" & 4"> Issue RFQ                                             |
+| ANV.442.010.E075     | <Choke Valve 3" & 4"> Prepare/Review Bid Tabs                               |
+| ANV.442.010.E079     | <Choke Valve 3" & 4"> Delivery                                              |
+| ANV.442.010.E100     | <Choke Valve 3" & 4"> On-Site at Fabricator                                 |
+| ANV.442.010.E152     | <Choke Valve 3" & 4"> MR Received in Procurement                            |
+|                      |                                                                             |
+
+

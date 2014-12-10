@@ -1,0 +1,22 @@
+Monthly Anvil Management Report Contents:
+
+* [ ] Progress Summary
+        * [ ] NDS-1
+        * [ ] OTPEX
+        * [ ] PGP
+* [ ] Critical Path Analysis for each IFC
+        * [ ] NDS-1
+        * [ ] OTPEX
+        * [ ] PGP
+* [ ] Change Log
+        * [ ] NDS-1
+        * [ ] OTPEX
+        * [ ] PGP
+* [ ] Progress Curves
+        * [ ] NDS-1
+        * [ ] OTPEX
+        * [ ] PGP
+* [ ] Milestone Schedule
+        * [ ] NDS-1
+        * [ ] OTPEX
+        * [ ] PGP

@@ -1,0 +1,14 @@
+Arrive 0715.
+
+Added ANV.441.001.PROC.997 - Provide Stamped PSV Audit Files to Caelus.
+
+Added "Checking by Alaska PEs / Stamping" activities to all work packages.
+
+Continued developing shedule slides with Anna.
+
+Attended NDS-1 team meeting.
+	5 kV Switchgear - Selected vendor will supply equipment consistent with catalog dimensions. VDDR no longer a schedule factor.
+	480 V Switchgear - Selected vendor will supply equipment consistent with catalog dimensions. VDDR no longer a schedule factor.
+	ESD Valve for ESD & Meter Module - VDDR not a driver for IFR.
+
+Out at 1700.

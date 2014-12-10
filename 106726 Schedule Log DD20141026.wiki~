@@ -1,0 +1,95 @@
+Scheduling/Leveling Report - 10/29/14 - PM.exe
+==============================================
+
+	Default Project..................................................106726
+
+	Projects: 
+		106726...........................................................NDS-1
+
+Scheduling/Leveling Settings:
+-----------------------------
+	General
+	-------
+	Scheduling ......................................................Yes
+	Leveling ........................................................No
+	Ignore relationships to and from other projects .................No
+	Make open-ended activities critical .............................No
+	Use Expected Finish Dates .......................................No
+	Schedule automatically when a change affects dates ..............No
+	Level resources during scheduling ...............................No
+	Recalculate assignment costs after scheduling ...................No
+	When scheduling progressed activities use .......................Retained Logic
+	Calculate start-to-start lag from ...............................Early Start
+	Define critical activities as Total Float less than or equal to .0
+	Compute Total Float As ..........................................Finish Float
+	Calendar for scheduling Relationship Lag ........................Successor Activity Calendar
+
+	Advanced
+	--------
+	Calculate multiple float paths...................................No
+
+Statistics:
+-----------
+	# Projects.......................................................1
+	# Activities.....................................................1706
+	# Not Started....................................................1054
+	# In Progress....................................................358
+	# Completed......................................................294
+	# Relationships..................................................2592
+	# Activities with Constraint.....................................12
+		Project:	106726	Activity:	ANV.442.003.PMAC.585	60% Model Review - WP 003, WP 009, WP 014
+		Project:	106726	Activity:	ANV.442.006.PMAC.600	60% Model Review - WP 006, WP 011
+		Project:	106726	Activity:	ANV.442.008.PMAC.625	60% Model Review - WP 008, WP 015
+		Project:	106726	Activity:	ANV.442.010.PMAC.045	Project Placed On-Hold Project 1/13/14
+		Project:	106726	Activity:	ANV.442.010.PMAC.055	Restart Project 5/5/14
+		Project:	106726	Activity:	ANV.442.010.PMAC.645	60% Model Review - WP 007, WP 010
+		Project:	106726	Activity:	ANV.442.012.PMAC.665	60% Model Review - WP 012, WP 013, WP 016
+		Project:	106726	Activity:	ANV.500.101	Install VSMs
+		Project:	106726	Activity:	ANV.500.900	Mechanically Complete
+		Project:	106726	Activity:	ANV.500.910	First Oil In
+		Project:	106726	Activity:	ANV.500.920	Drill Rig On-site
+		Project:	106726	Activity:	ANV.500.940	All Modules On-site
+
+Errors:
+-------
+Warnings:
+---------
+	Activities without predecessors..................................1
+		Project:	106726	Activity:	ANV.442.010.PMAC.915	NTP
+
+	Activities without successors....................................1
+		Project:	106726	Activity:	ANV.500.910	First Oil In
+
+	Out-of-sequence activities.......................................0
+
+	Activities with Actual Dates > Data Date.........................0
+
+	Milestone Activities with invalid relationships..................0
+
+Scheduling/Leveling Results:
+----------------------------
+	# Projects Scheduled/Leveled.....................................1
+	# Activities Scheduled/Leveled...................................1706
+	# Relationships with other projects..............................27
+	Data Date........................................................10/26/14
+	Earliest Early Start Date........................................10/26/14
+	Latest Early Finish Date.........................................6/1/16
+Exceptions:
+-----------
+	Critical Activities..............................................9
+		Project:	106726	Activity:	ANV.442.008.PMAC.625	60% Model Review - WP 008, WP 015
+		Project:	106726	Activity:	ANV.442.010.PMAC.645	60% Model Review - WP 007, WP 010
+		Project:	106726	Activity:	ANV.442.012.PMAC.665	60% Model Review - WP 012, WP 013, WP 016
+		Project:	106726	Activity:	ANV.500.101	Install VSMs
+		Project:	106726	Activity:	ANV.500.272	Set Well Houses/Install Thermosyphons
+		Project:	106726	Activity:	ANV.500.900	Mechanically Complete
+		Project:	106726	Activity:	ANV.500.910	First Oil In
+		Project:	106726	Activity:	ANV.500.920	Drill Rig On-site
+		Project:	106726	Activity:	ANV.500.940	All Modules On-site
+
+	Activities with unsatisfied constraints..........................0
+
+	Activities with unsatisfied relationships........................0
+
+	Activities with external dates...................................0
+

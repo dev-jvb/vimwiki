@@ -1,0 +1,12 @@
+NDS-1 Engineering Critical Path
+
+Each WP has it's own Critical Path (CP) to IFF Issue, visible on the attached CP schedule. At a summary level, the number of CP activities by discipline are:
+
+PIPE	36
+CSYS	19
+STRU	18
+ELEC	16
+
+NDS-1 Procurement Critical Path
+
+At this time, the Procurement CP goes through procurement of the 4", 1500# Choke Valve.

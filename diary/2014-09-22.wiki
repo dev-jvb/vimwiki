@@ -1,0 +1,9 @@
+Arrive 0715.
+
+Met with Chris Higgins and demonstrated the Schedule Update workbook and IPDMS Exception Report. He is expereiencing similar challenges wrt Progress Tracking and Schedule updates. #106726
+
+Sat with Jacob Wegley and went through the HVAC section of the SUW. He was very helpful. Updated Schedule with Jacob's input. For activities in WP0011, he suggested transferring the labor units in equal amounts to the other process modules. #106726
+
+Attended meeting with Electrical to discuss VFD CNs. #106726
+
+Out at 1715.

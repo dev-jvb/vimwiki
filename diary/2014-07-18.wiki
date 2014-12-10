@@ -1,0 +1,15 @@
+Arrive 0730.
+
+To do today:
+Schedule Updates
+* [X] PGP - Actualize and advance DD
+* [X] OTPEX - Enter Status (?), actualize and advance DD.
+* [X] NHDS Status, actualize and advance DD
+Other 
+* [ ] Process approved NHDS CNs.
+
+Updated PGP Schedule. Prepared PDFs and XERs of NHDS, PGP and OTPEX for bi-weekly report.
+
+Met with Kevin and Tom to discuss progress curves. Still some work to do here; but we seem to be converging on a solution. Additional discussions with ?Brent and Anna. Plan is to provide % Complete plots (period and Cumulative.) Client can indirectly arrive at performance knowing % Complete and budget; thus the Earned and the actuals from the cost report.
+
+Out at 1715.

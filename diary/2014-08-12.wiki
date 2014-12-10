@@ -1,0 +1,19 @@
+Arrive 0730.
+
+Talked to Justin about % Completes on new Control Systems activities in WP006. He suggests that we set them to 0% complete in the schedule until updated by the disciplines. #106726
+
+Assigned SAIDs to elements in CN03. Verified SAIDs in CN04 and CN05. #106726
+
+Responded to Terry Caetano emails about original and current Composite Rates. #105451
+
+Emailed IFF/IFC dates to project team. #106726
+
+Marked ANV 125 as submitted in EPOCH. #105451
+
+After discussion with Justin, merged CNs 2-5 into Progress Tracker. Disciplines to status as required. #106726
+
+Attended team meeting. Need ot add 60% Model Review milestone to schedule for each package. Disciplines to aid in determining placement. Need to work with Mirek to validate on-site dates for structural procurement. #106726
+
+At Brent's request, added Finish date column to the 4 Week Look Ahead layout. #106726
+
+Out at 1700.

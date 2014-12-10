@@ -1,0 +1,33 @@
+Team Roster OPGP
+
+= Anvil Corporation =
+
+| Name           | Role                   | Email    | Phone |
+| --+--          | --+--                  | --+--    | --+-- |
+| Michael Klix   | Process                | mklix    |       |
+| Brant Faulkner | Equip Engineer         | bfaulkne | 3375  |
+| Bryan Olson    | Piping Engrg           | bolson   | 3086  |
+| Julian Ruiz    | Piping Design          |          |       |
+| Chris Walker   | Elect Engrg            | cwalker  | 3583  |
+| TBD            | Elect Design           |          |       |
+| Ric Maddock    | Civil/Struct Engrg     | rmaddock | 3061  |
+| Brady Jensen   | Civil/Struct Design    | bjensen  | 3731  |
+| Ken Garcia     | Control Systems Engr   | kgarcia  | 3407  |
+| TBD            | Control Systems Design |          |       |
+| Michael Dyer   | Procurement Lead       | mdyer    | 3444  |
+| Pam McAllister | Project Administrator  | pmcallis | 3781  |
+
+
+= Caelus Energy Alaska =
+
+| Name                | Role                   | Email                                | Phone        |
+| --+--               | --+--                  | --+--                                | --+--        |
+| Quyen Kay           | Project Manager        | quyen.kay@caeluseneergy.com          | 907-343-2120 |
+| Dave Hart           | Operations Manager     | david.hart@caelusenergy.com          | 907-353-2125 |
+| Jim Gilroy          | Ops/Project Specialist | jim.gilroy@caelusenergy.com          | 907-343-2180 |
+| Gary Ross           | Ops Superintendent     | gary.ross@caelusenergy.com           | 907-343-2181 |
+| Erin Renfro         | Engineering Manager    | erin.renfro@caelusenergy.com         | 907-343-2127 |
+| Christina Parkinson | Project Engineer       | christine.parkinson@caelusenergy.com | 907-343-2166 |
+| Aaron Helmericks    | Director of IT         | aaron.helmericks@caelusenergy.com    | 907-343-2178 |
+
+

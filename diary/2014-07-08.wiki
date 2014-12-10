@@ -1,0 +1,40 @@
+Arrive 0730.
+
+105451 - Researched cost of Pre Fab Pipe from Diamond B; sent bids to John Andres.
+
+106726 - Prepared 4WLA for team meeting. Reviewed format with Brent. Settled on a "mid-level" of detail. Sent out email to discipline trackers reminding them that it is a statusing week and containing a link to the schedule update workbook.
+
+Attended weekly team meeting and subsequent Change Notice meeting.
+
+New team members: Renta (HVAC), Kent (Process), Sean Rodriqueze(Structural)
+
+Caelus has assigned a project number for all currently active projects: 31500
+
+VFDs will be medium voltage units. These have advantages wrt supporting infrastucture: We can eliminate the VFD Transformer Platform (N1-E07.) However, depending on the chosen vendor, we may need (2) VFD modules. This also enables a change from 480 V switchgear to medium voltage MCCs.
+
+N2 system will be relocated from the Control Room to another module (possibly the Chemical Injection Module.)
+
+Upcoming meetings:
+        7/9 - Confirm electrical interface
+        7/9 - Turck Cable applications
+        7/14 - Procurement Responsibility Matrix
+        7/14 - Fabrication Specification Review
+        7/26 - Quyen Kay and Dave Hart at Anvil Bellingham
+
+Change Management:
+        Revising distance between pipe rack frames for increased clearance
+        Incomplete FEED Package from Nana Worley Parsons
+
+Other Comments:
+        Richard Martinez expressed that it is only this week that there will finally be (2) full-time Control Systems Designers on the project. He expects schedule dates to slip due to manpower shortages.
+
+Change Management Meeting:
+        There are two potential CNs brewing:
+                1. Pipe Rack Design Options Study
+                        To include costs of revising the pipe rack frames for clearance.
+                2. Incomplete FEED Package from NWP
+                        This is not intended to capture ALL of the P3 hours.
+                        Disciplines should focus on identifying efforts needed to finish the incomplete NWP model
+                        Brent wants to collect input from the disciplines and discuss with Caelus next week before opening the CN
+
+Out at 1645 (feeling like crap.)

@@ -1,0 +1,11 @@
+Arrive at 0730.
+
+Sat with Marcus Casserd and reviewed schedule update workbook. He deferred to Brian Baker on most. Called Brian and discussed letting 3D model slide to 9/25; and still support new IFR of 10/1. #106726
+
+Updated schedule with EQUI input from schedule update workbook. Looks like a tangle in the procurement for WP0008 and WP0009. Also need to look at EQUI Procurement in WP0013. #106726
+
+Reviewed PSR status against schedule for MRs received by Procurement. Need to add some MRs.
+
+Discussed pipe procurement for the Well Row Piperack. Per Mike Dyer, pipe is to go to Flowline in Fairbanks by 4/1/2015. Flowline will fab the spools and insulate, then plac eint eh racks prior to delivery to the slope. #106726
+
+Out at 1630. (82 degrees in the office.)

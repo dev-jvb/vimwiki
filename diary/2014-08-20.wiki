@@ -1,0 +1,20 @@
+Arrive 0730.
+
+Worked schedule to incorporate comments from Mirek. Added an IFF release toe WP 020 and 021 to address need to release fabrication drawings to the well house fabricator in advance of the IFC release. #106726
+
+Met with Brent, Anna, Brian Baker and Brady Jensen to discuss potential change sin the NDS-1 site plan. Quyen appears to be directing a return to the original, permitted gravel layout. This would cause revisions to the site plan. Brent will set up a conference call to confirm Caelus request and identify scope of change required to implement. #106726
+
+Brent also mentioned that Caelus is changing the well count (again.) Now they are indicating 40 wells. #106726
+
+Procurement Schedule Updating
+- Will the two VFD Module shave different AHUs or will they be the same?
+- Will all of the VFDs for both VFD Modules be ordered on the same MR?
+- Per Brian Baker, the Pulsation Dampner is part of the Chemical Injection Skid and provided by the skid vendor. Does this need to be dropped from our PSR?
+ 
+Prepared a Piping activity Schedule for Brian Baker. #106726
+
+Worked with Anna on resolving issues with PSR. Summarized discussion and issues in an email. Anna called a meeting for tomorrow to discuss further. I feel that schedule IFA is in jeopardy due to these issues. #106726
+
+Attended Caelus coordination meeting. Brent requested an IFR/IFF/IFC summary table for OTEPX and NDS1. Prepared and emailed to Brent, cc: Anna. #106726 #106653
+
+Out at 1730.

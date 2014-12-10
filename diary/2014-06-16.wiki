@@ -1,0 +1,26 @@
+Arrive 0730.
+
+Schedule XER sent by Justin Friday afternoon.
+
+Reviewed tracking for NDS1. Also statused NHDS in Tracker and emailed disciplines about status updates.
+
+Justin walked Tom and I through the bi-weekly report workbook. Erik to update with current data then it will need to be reviewed.
+
+Progress Reporting Schedule:
+Monday noon - verify all progressing (NDS1 John, OTPEX Erik)
+Tuesday noon - Erik complete actuals for the report (Critical)
+Wednesday - Narratives due
+Thursday - Compile the report
+Friday - Transmit the report
+
+105451 - John Andres noted an issue with Cumulative Plan and Forecast on the Cashflow chart in the Monthly Engineering Report. Planned should not have been equal to Forecast. Plan should have been fixed, i.e. not varying month-to-month. Revised using the Planned values from the January workbook. Discussed with John and he will talk to Dan to see if more work is needed.
+
+106726 - Audit of Resources in Schedule vs Tracker
+        ANV.442.006.ELEC.139 is 4 hours high on Electrical Engineering
+        ANV.442.013.ELEC.145 is 8 hours high on Electrical Designer
+        ANV.442.014.ELEC.145 is 8 hours high on Electrical Designer
+Suspect differential is in duplicate activities that were moved to PMAC.
+
+Sent Module On-Site Milestone schedule to Christina Parkinson.
+
+Out at 1730.

@@ -1,0 +1,201 @@
+== NDS-1 Schedule Update Summary for DD 11/16/2014 ==
+
+This update cycle included a significant re-organization of the work package release dates. At the client's direction, IFR release for most of the work packages were eliminated. This enabled some recovery of the IFF release dates to be nearer to the Anvil August IFA dates. Also reflected in the schedule is the client's commitment to a 1 week review period for any remaining IFR packages. These revisions are addressed in Anvil CN21. 
+
+Also at the client's direction, individual material on-site dates were de-linked from the module fabrication activities and are no longer driving module fabrication. Milestones representing "All Materials On-site at Fabricator" were added to the schedule. Per client direction, these milestones are constrained to finish 6 weeks after package IFF. These milestones, listed below, will indicate negative float when material on-site dates do not satisfy the constraint date. As additional material procurement items are added to the schedule, the associated on-site dates will be linked to these module milestones.
+
+| ANV.442.003.PMAC.605 | Pigging Module All Material On-Site at Fabricator (12/10/14)            |
+| ANV.442.006.PMAC.625 | VFD & 1 kV Switchgear All Material On-Site at Fabricator (2/4/15)       |
+| ANV.442.007.PMAC.645 | E&I Module All Material On-Site at Fabricator (5/20/15)                 |
+| ANV.442.008.PMAC.565 | Chemical Injection All Material On-Site at Fabricator (4/8/15)          |
+| ANV.442.009.PMAC.665 | Blowdown Tank All Material On-Site at Fabricator (12/24/14)             |
+| ANV.442.010.PMAC.705 | ESD & Meter Module All Material On-Site at Fabricator (4/8/15)          |
+| ANV.442.011.PMAC.705 | 35 kV Transformer Platform All Material On-Site at Fabricator (3/11/15) |
+| ANV.442.012.PMAC.725 | 35 kV Switchgear Module All Material On-Site at Fabricator (3/18/15)    |
+| ANV.442.013.PMAC.745 | Control Room All Material On-Site at Fabricator (2/18/15)               |
+| ANV.442.014.PMAC.765 | Well Row Piperack All Material On-Site at Fabricator (1/715)            |
+| ANV.442.015.PMAC.785 | Interconnecting Pipe Rack All Material On-Site at Fabricator (7/1/15)   |
+
+
+== Schedule Additions/Deletions ==
+The following duration activities were added to the schedule at the client's request to bring visibility to the stamping requirements for IFF and IFC packages:
+
+| ANV.442.011.PIPE.227 | Prepare Orthos                                                                             |
+| ANV.442.012.PIPE.231 | Develop Flexibility Calcs                                                                  |
+| ANV.441.001.PROC.997 | Provide Stamped PSV Audit Files to Caelus                                                  |
+| ANV.442.006.PMAC.521 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.442.007.PMAC.519 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.442.008.PMAC.519 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.442.009.PMAC.521 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.442.010.PMAC.519 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.442.011.PMAC.521 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.442.012.PMAC.519 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.442.013.PMAC.519 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.442.015.PMAC.519 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.442.016.PMAC.519 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.443.017.PMAC.519 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.443.018.PMAC.519 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.443.019.PMAC.519 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.443.020.PMAC.529 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.443.020.PMAC.539 | Checking by Alaska PEs / Stamping - Producer Well Laterals Supports and Well Tree Platform |
+| ANV.443.021.PMAC.529 | Checking by Alaska PEs / Stamping - Injector Well Laterals Supports and Well Tree Platform |
+| ANV.443.021.PMAC.539 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.443.022.PMAC.519 | Checking by Alaska PEs / Stamping                                                          |
+| ANV.443.023.PMAC.519 | Checking by Alaska PEs / Stamping                                                          |
+
+The following Milestones were added to the schedule to better track arrival of vendor data:
+
+| ANV.442.006.E21  | <VFD> VDDR Received                                                  |
+| ANV.442.012.E31  | <VFD> VDDR Received                                                  |
+| ANV.442.003.E490 | <N1-P04 Heaters> VDDR Received                                       |
+| ANV.442.012.E065 | <35Kv Switchgear> VDDR Received                                      |
+| ANV.442.003.E520 | <Electrical Bulk Materials> VDDR Received                            |
+| ANV.442.003.E480 | <N1-P04 Fans> VDDR Received                                          |
+| ANV.442.010.E81  | <3-Phase Meter> VDDR Received                                        |
+| ANV.442.003.E500 | <N1-P04 Fire Suppression System> VDDR Received                       |
+| ANV.442.003.E221 | <N1-P04 Pressure Safety Valves> VDDR Received                        |
+| ANV.442.003.E510 | <N1-P04 HVAC Accessories> VDDR Received                              |
+| ANV.442.011.E056 | <4MVA Transformer> VDDR Received                                     |
+| ANV.442.011.E016 | <3MVA Transformer> VDDR Received                                     |
+| ANV.442.011.E066 | <9MVA Transformer> VDDR Received                                     |
+| ANV.442.006.E075 | <5Kv Switchgear> VDDR Received                                       |
+| ANV.442.007.E036 | <480V Switchgear> VDDR Received                                      |
+| ANV.442.014.E126 | <WR Plug Valves> VDDR Received                                       |
+| ANV.442.008.E016 | <Choke Valve 4" Angle Body> VDDR Received                            |
+| ANV.442.008.E087 | <Chemical Injection Skids (5)> VDDR Received                         |
+| ANV.442.014.E221 | <N1-PR1xx High Yield Pipe & Fittings> VDDR Received                  |
+| ANV.442.015.E241 | <N1-PR2xx High Yield Pipe & Fittings> VDDR Received                  |
+| ANV.442.008.E460 | <N1-P01 Fire Suppresion System> VDDR Received                        |
+| ANV.442.003.E231 | <N1-P04 Large Bore Valves> VDDR Received                             |
+| ANV.442.003.E241 | <N1-P04 High Yield Pipe & Fittings> VDDR Received                    |
+| ANV.442.003.E251 | <N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2> VDDR Received |
+| ANV.442.008.E077 | <Blowdown Liquids Pump> VDDR Received                                |
+| ANV.442.010.E116 | <Choke Valve 3" & 4"> VDDR Received                                  |
+| ANV.442.003.E137 | <Pig Receiver Closure 14"> VDDR Received                             |
+| ANV.442.003.E147 | <Pig Launcher Closure 20"> VDDR Received                             |
+| ANV.442.014.E136 | <Trunk Line Valves> VDDR Received                                    |
+| ANV.442.010.E136 | <Valve, Plug, 3&4", DBB> VDDR Received                               |
+| ANV.442.006.E221 | <VFD Air Handler Unit> VDDR Received                                 |
+| ANV.442.010.E146 | <Valves, Bulk Order, Ball, Check, Plug, Gate> VDDR Received          |
+| ANV.442.012.E261 | <VFD Air Handler Unit> VDDR Received                                 |
+| ANV.442.007.E066 | <600V MCC> VDDR Received                                             |
+| ANV.442.010.E216 | <Choke Valve 2" 1500#> VDDR Received                                 |
+| ANV.442.010.E176 | <Choke Valve 3" 1500#> VDDR Received                                 |
+| ANV.442.010.E186 | <Choke Valve 4" 2500#> VDDR Received                                 |
+| ANV.442.010.E196 | <Choke Valve 2" 2500#> VDDR Received                                 |
+| ANV.442.010.E206 | <Choke Valve 4" 1500#> VDDR Received                                 |
+| ANV.442.013.E231 | <N1-C05 Fans> VDDR Received                                          |
+| ANV.442.013.E301 | <N1-C05 Heaters> VDDR Received                                       |
+| ANV.442.009.E241 | <N1-TK13 Blowdown Valves/Specialties> VDDR Received                  |
+| ANV.442.007.E076 | <UPS> VDDR Received                                                  |
+| ANV.442.007.E086 | <HT Control Panel> VDDR Received                                     |
+| ANV.442.007.E176 | <UPS-Batteries/Rack/Charger> VDDR Received                           |
+| ANV.442.010.E232 | <N1-P02 Fans> VDDR Received                                          |
+| ANV.442.010.E221 | <N1-P02 Heaters> VDDR Received                                       |
+| ANV.442.007.E186 | <Panel 1200A> VDDR Received                                          |
+| ANV.442.007.E156 | <Panel 800A> VDDR Received                                           |
+| ANV.442.007.E166 | <Panel 400A> VDDR Received                                           |
+| ANV.442.008.E201 | <N1-P01 Heaters> VDDR Received                                       |
+| ANV.442.008.E212 | <N1-P01 Fans> VDDR Received                                          |
+| ANV.442.018.E261 | <RW NC Valves/Specialties> VDDR Received                             |
+| ANV.442.009.E71  | <Blowdown Tank> VDDR Received                                        |
+| ANV.442.010.E470 | <N1-P02 Fire Suppression System> VDDR Received                       |
+| ANV.442.007.E201 | <N1-E06 Fans> VDDR Received                                          |
+| ANV.442.007.E213 | <N1-E06 Heaters> VDDR Received                                       |
+| ANV.442.013.E260 | <N1-C05 Valves/Specialties> VDDR Received                            |
+| ANV.442.010.E137 | <Pulsation Dampner> VDDR Received                                    |
+| ANV.442.010.E91  | <N1-P02 Valves/Specialties> VDDR Received                            |
+| ANV.442.015.E121 | <IC Valves/Specialties> VDDR Received                                |
+| ANV.442.021.E201 | <Inj Tie-Ins NC Valves/Specialties> VDDR Received                    |
+| ANV.442.022.E221 | <Pre-Prod NC Valves/Specialties> VDDR Received                       |
+| ANV.442.020.E181 | <Tie-Ins NC Valves/Specialties> VDDR Received                        |
+| ANV.442.019.E141 | <Setting NC Valves/Specialties> VDDR Received                        |
+
+The following milestones were added to track the material on-site targets for material arriving at the module fabricator:
+
+| ANV.442.003.PMAC.605 | Pigging Module All Material On-Site at Fabricator (12/10/14)            |
+| ANV.442.006.PMAC.625 | VFD & 1 kV Switchgear All Material On-Site at Fabricator (2/4/15)       |
+| ANV.442.007.PMAC.645 | E&I Module All Material On-Site at Fabricator (5/20/15)                 |
+| ANV.442.008.PMAC.565 | Chemical Injection All Material On-Site at Fabricator (4/8/15)          |
+| ANV.442.009.PMAC.665 | Blowdown Tank All Material On-Site at Fabricator (12/24/14)             |
+| ANV.442.010.PMAC.705 | ESD & Meter Module All Material On-Site at Fabricator (4/8/15)          |
+| ANV.442.011.PMAC.705 | 35 kV Transformer Platform All Material On-Site at Fabricator (3/11/15) |
+| ANV.442.012.PMAC.725 | 35 kV Switchgear Module All Material On-Site at Fabricator (3/18/15)    |
+| ANV.442.013.PMAC.745 | Control Room All Material On-Site at Fabricator (2/18/15)               |
+| ANV.442.014.PMAC.765 | Well Row Piperack All Material On-Site at Fabricator (1/715)            |
+| ANV.442.015.PMAC.785 | Interconnecting Pipe Rack All Material On-Site at Fabricator (7/1/15)   |
+| ANV.442.016.PMAC.805 | Buried Utiliway All Material On-Site at Fabricator (2/4/15)             |
+
+The following activities were deleted form the Procurement section as they are no longer in scope:
+
+| ANV.442.013.E132 | <Water Heater> Prepare RFQ Package     |
+| ANV.442.013.E133 | <Water Heater> Issue RFQ               |
+| ANV.442.013.E134 | <Water Heater> Vendor Provide Quotes   |
+| ANV.442.013.E136 | <Water Heater> Prepare/Review Bid Tabs |
+| ANV.442.013.E135 | <Water Heater> Issue PO                |
+| ANV.442.013.E139 | <Water Heater> Fabricate               |
+| ANV.442.013.E140 | <Water Heater> Delivery                |
+| ANV.442.013.E141 | <Water Heater> On-Site at Fabricator   |
+| ANV.442.013.E142 | <Water Accum.> Prepare RFQ Package     |
+| ANV.442.013.E143 | <Water Accum.> Issue RFQ               |
+| ANV.442.013.E144 | <Water Accum.> Vendor Provide Quotes   |
+| ANV.442.013.E146 | <Water Accum.> Prepare/Review Bid Tabs |
+| ANV.442.013.E145 | <Water Accum.> Issue PO                |
+| ANV.442.013.E149 | <Water Accum.> Fabricate               |
+| ANV.442.013.E150 | <Water Accum.> Delivery                |
+| ANV.442.013.E151 | <Water Accum.> On-Site at Fabricator   |
+          |
+
+The following activites were deleted from the schedule after discussions with Ben Anglen and Quyen Kay to remove IFRs and recover schedule on IFFs:
+
+| ANV.442.006.PMAC.501 | Prepare IFR Package                              |
+| ANV.442.006.PMAC.503 | Print IFR Package                                |
+| ANV.442.006.PMAC.505 | Issue WP006 - VFD 1 & 5kV Switchgear IFR Package |
+| ANV.442.006.PMAC.507 | Client Review IFR Package                        |
+| ANV.442.006.PMAC.509 | Pick-Up  Client Comments                         |
+| ANV.442.007.PMAC.501 | Prepare IFR Package                              |
+| ANV.442.007.PMAC.503 | Print IFR Package                                |
+| ANV.442.007.PMAC.505 | Issue WP007 - E&I Module IFR Package             |
+| ANV.442.007.PMAC.507 | Review Fabrication Package                       |
+| ANV.442.007.PMAC.509 | Pick-Up  Client Comments                         |
+| ANV.442.008.PMAC.501 | Prepare IFR Package                              |
+| ANV.442.008.PMAC.503 | Print IFR Package                                |
+| ANV.442.008.PMAC.505 | Issue WP008 - Chemical Injection IFR Package     |
+| ANV.442.008.PMAC.507 | Review Fabrication Package                       |
+| ANV.442.008.PMAC.509 | Pick-Up  Client Comments                         |
+| ANV.442.010.PMAC.501 | Prepare IFR Package                              |
+| ANV.442.010.PMAC.503 | Print IFR Package                                |
+| ANV.442.010.PMAC.505 | Issue WP010 - ESD & Meter Module IFR Package     |
+| ANV.442.010.PMAC.507 | Review Fabrication Package                       |
+| ANV.442.010.PMAC.509 | Pick-Up  Client Comments                         |
+| ANV.442.011.PMAC.501 | Prepare IFR Package                              |
+| ANV.442.011.PMAC.503 | Print IFR Package                                |
+| ANV.442.011.PMAC.505 | Issue WP011 - 35KV Transformer IFR Package       |
+| ANV.442.011.PMAC.507 | Review Fabrication Package                       |
+| ANV.442.011.PMAC.509 | Pick-Up  Client Comments                         |
+| ANV.442.012.PMAC.501 | Prepare IFR Package                              |
+| ANV.442.012.PMAC.503 | Print IFR Package                                |
+| ANV.442.012.PMAC.505 | Issue WP012 - 35KV Switchgear IFR Package        |
+| ANV.442.012.PMAC.507 | Review Fabrication Package                       |
+| ANV.442.012.PMAC.509 | Pick-Up  Client Comments                         |
+| ANV.442.013.PMAC.501 | Prepare IFR Package                              |
+| ANV.442.013.PMAC.503 | Print IFR Package                                |
+| ANV.442.013.PMAC.505 | Issue WP013 - Control Room IFR Package           |
+| ANV.442.013.PMAC.507 | Review Fabrication Package                       |
+| ANV.442.013.PMAC.509 | Pick-Up  Client Comments                         |
+| ANV.442.016.PMAC.501 | Prepare IFR Package                              |
+| ANV.442.016.PMAC.503 | Print IFR Package                                |
+| ANV.442.016.PMAC.505 | Issue WP016 - Buried Utiliway IFR Package        |
+| ANV.442.016.PMAC.507 | Review Fabrication Package                       |
+| ANV.442.016.PMAC.509 | Pick-Up  Client Comments                         |
+| ANV.443.017.PMAC.501 | Prepare IFR Package                              |
+| ANV.443.017.PMAC.503 | Print IFR Package                                |
+| ANV.443.017.PMAC.505 | Issue WP017 - On Pad Piling (VSM) IFR Package    |
+| ANV.443.017.PMAC.507 | Review Fabrication Package                       |
+| ANV.443.017.PMAC.509 | Pick-Up  Client Comments                         |
+| ANV.443.018.PMAC.501 | Prepare IFR Package                              |
+| ANV.443.018.PMAC.503 | Print IFR Package                                |
+| ANV.443.018.PMAC.505 | Issue WP018 - Well Row Pipe Rack IFR Package     |
+| ANV.443.018.PMAC.507 | Review Fabrication Package                       |
+| ANV.443.018.PMAC.509 | Pick-Up  Client Comments                         |
+

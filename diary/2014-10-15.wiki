@@ -1,0 +1,19 @@
+Arrive 0730.
+
+Worked on reconciling schedule budgeted units with PT. Found discrepancies with HVAC and EQUI activities in WP0011 and WP0013. Set meeting for tomorrow with Dennis McGrew and Diana Dillman to review and re-organize HVAC work.
+
+Attended Caelus Coordination Telecon with Brent and Anna. Brent voiced the need for a P5 budget to be established to deal with RFIs. He will broach the subject with Quyen. I am to identify any guidelines for how much budget should be requested. Jim Eaton suggested looking that APPs for 15HC projects as they address this issue. Ron and Anna will develop a P5 APP. Ron mentioned that he felt that his PMAC LoE budget would run out in April/May; short of completion of work. Asked Tom to look into NDS-1 to make sure we are OK.
+
+Reworked schedule activities for EQUI in WP0013.
+
+| Old SAID             | New SAID             |
+|----------------------|----------------------|
+| ANV.442.013.EQUI.161 | ANV.442.008.EQUI.207 |
+| ANV.442.013.EQUI.163 | ANV.442.008.EQUI.209 |
+| ANV.442.013.EQUI.165 | ANV.442.008.EQUI.211 |
+| ANV.442.013.EQUI.191 | ANV.442.008.EQUI.213 |
+| ANV.442.013.EQUI.193 | ANV.442.008.EQUI.215 |
+| ANV.442.013.EQUI.195 | ANV.442.008.EQUI.217 |
+|                      |                      |
+
+Out at 1730.

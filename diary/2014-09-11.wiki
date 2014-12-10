@@ -1,0 +1,11 @@
+Arrive 0945 (delayed start due to Jury Duty)
+
+Anticipated power cutoff tomorrow from noon until 1300.
+
+Prepared 1 Pager layouts for Brent. For OTPEX and PGP, use layout jd2 - Project 1 Pager layout; filter for Not completed, Non LOE, and PMAC WP Only. For NDS-1, use jd2 - WBS-WP Milestones for Remind layout. #106726 #106653 #105675
+
+Revised WP403 IFR date to 10/1 per direction from Brent via Justin. Holding IFF date of 10/22. #106726
+
+Removed redundant Skimpy and SIS Control Panels from PSR for 420 and 421. #106726
+
+Out at 1700.

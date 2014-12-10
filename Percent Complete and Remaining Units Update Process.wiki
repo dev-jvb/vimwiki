@@ -1,0 +1,23 @@
+In P6:
+     - Export XLS
+          - Select Activities and Resource Assignments
+     - Use the Progress Tracking Update Template
+
+In PT:
+     - Use Summary tab
+     - Group by Sub Job, WBS and SAID
+     - Copy Paste results into Progress Tracking Update workbook (Paste data into Column B.)
+
+In Excel:
+     - Build a formula in Column A to construct the SAID (="ANV."&LEFT(B14,3)&"."&MID(C14,2,3)&"."&D14)
+     - Use LOOKUP function to fill in user_number column:
+	     - (=IF(VLOOKUP(A3,Sheet1!$A$2:$M$543,8,FALSE)*100>VALUE(E3),VLOOKUP(A3,Sheet1!$A$2:$M$543,8,FALSE)*100,E3)
+             - JMD - 10/13/2014 - Per discussion with Justin, modified the lookup formula to use an IF statement to preclude lowering of % Complete from the scheduled value.
+     - Use formula to update remaining units (note that this is an ARRAY formual; Ctrl-Shift-Enter):
+	     - =INDEX(Sheet1!$A$2:$G$900,MATCH(1,(Sheet1!$A$2:$A$900=TASKRSRC!A3)*(Sheet1!$C$2:$C$900=TASKRSRC!F3),0),7)	
+
+In P6:
+     - Import XLS
+     - Use Global Change
+	     - Update %Complete with User_Number1
+

@@ -1,0 +1,33 @@
+= Project Description =
+The Nuna Drillsite 1 (NDS-1) project will construct a new drillsite for Pioneer Natural Resources on the edge of the Colville River Delta, six miles west of the Oooguruk Tie-in Pad on the Alaskan North Slope. Project scope includes infrastructure to support one disposal well, 25 production wells, and 25 injection wells.  The boundaries of this project are between the surface safety valves on the production/injection well trees and the flow line tie-ins at the edge of the drill pad.  The wells are arranged in one straight line and are connected via a standard trunk and lateral piping configuration. The primary production mode of the wells is via electric submersible pumps (ESPs), with lift gas as a backup.  Well row headers and lateral connections will be provided for production, test, water injection, lift gas, corrosion inhibitor, and scale inhibitor.  Process modules will be provided for chemical injection, pigging, emergency shutdown, and 3-phase metering.  Electrical modules will be provided for 35kV switchgear, 35kV transformers, variable frequency drives (VFDs) for the ESPs, and for electrical and instrumentation equipment.  A VFD transformer module also may be included pending a decision on the type of VFD to be installed.  Also included are an unheated storage building and blast-resistant control module housing utility equipment and control room.  The control module will include a communications mast.
+
+Phase 1 of this project will install only 31 of the 51 total wells.  The gravel pad and well row piping and instrumentation will be installed to accommodate all 51 wells, but only one VFD module housing 15 VFDs will be provided. The plot plan will accommodate the addition of a future VFD module for the remaining production wells.  This phase includes supply and installation of 31 wellhouses.
+
+= Scope of Work =
+Anvil’s project services scope will include final engineering and design to produce construction drawings and several work packages for facility work, process modules, electrical modules, equipment skids, and piperack module fabrication. The project is organized in the following Anvil work areas: 
+== Module Fabrication ==
+•       0003 Pigging Module – 1 (at NDS-1)
+•       0005 VDF 1
+•       0007 E&I Module
+•       0008 Chemical Injection
+•       0009 Blowdown Tank, Platform, and Secondary Containment
+•       0010 ESD Meter Module 
+•       0011 35 kV Transformer Platform
+•       0012 35 kV Switchgear Module
+•       0013 Control Room/Utility Module (include communications mast)
+•       0014 Well Row Piperack 
+•       0015 Interconnecting Piperack
+•       0016 Buried Utiliway
+== North Slope Construction ==
+•       0017 On Pad Piling (VSM)
+•       0018 Well Row Piperack (Disposal Well)
+•       0019 Module Setting, Interconnects, Buried Utiliway, Tank Secondary Containment
+•       0022 Pre-Production
+•       0023 Cold Storage Building
+== Well Tie-Ins ==
+•       0020 Producer Well Tie-ins
+•       0021 Injector Well Tie-ins
+== Project Management and Control ==
+•       0010PM Project Management and Procurement
+•       0001 P&IDs
+•       0002 Site Plans

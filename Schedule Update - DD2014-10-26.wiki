@@ -1,0 +1,63 @@
+= Schedule Update Summary =
+
+The overall project critical path is through Work Package 17 (On Pad Piling), fabrication and installation of the VSMs. The VSMs currently have 26 days of float.
+
+The following work packages are at risk for schedule slides:
+
+WP0011 - 35kV Transformer Platform - The module’s IFR and IFF dates are forecast to be delayed due to delay in placement of PO for Transformers. PO placement was delayed as a result of additional coordination with the transformer vendor to obtain quotes for the correct configuration. This effort is documented in CN16. A letter of intent was issued to the vendor on 10/23 and VDDR is expected to be received the week of 10 November. 
+
+WP0012 - 35kV Switchgear Module - The module’s IFR and IFF dates are forecast to be delayed and are at risk for further delay pending receipt of VDDR for the module's air handling unit (AHU). Current schedule calls for the AHU PO to be issued November 19, 2014 with VDDR receipt 6 weeks later. Further delay of the PO placement or receipt of VDDR may impact the work package IFF.
+
+WP0014 - Well Row Piperack - This modules IFR and IFF dates were revised as a result of CN17; wherein the client requested that the Well Row Piperack be relocated 5 ft to the South.
+
+Schedule variances above are relative to the dates from the IFA Schedule Baseline (issued August 17, 2014.)
+
+= Schedule Additions/Deletions =
+
+The following activities were deleted:
+
+| SAID                 | WP   | Activity Name                        |
+| ANV.442.013.EQUI.163 | 0013 | Prepare RFQ - N2 Package             |
+| ANV.442.013.EQUI.161 | 0013 | Prepare MR - N2 Package              |
+| ANV.442.013.EQUI.181 | 0013 | Prepare MR - Chemical Inj Tanks      |
+| ANV.442.013.EQUI.191 | 0013 | Prepare MR - N2 Receiver             |
+| ANV.442.013.EQUI.193 | 0013 | Prepare RFQ - N2 Receiver            |
+| ANV.442.013.EQUI.195 | 0013 | Review Vendor Drawings - N2 Receiver |
+| ANV.442.013.EQUI.165 | 0013 | Review Vendor Drawings - N2 Package  |
+|                      |      |                                      |
+
+The following activities were added:
+
+| SAID                 | WP   | Activity Name                                                                        |
+| ANV.442.008.EQUI.209 | 0008 | Prepare RFQ - N2 Package                                                             |
+| ANV.442.008.EQUI.207 | 0008 | Prepare MR - N2 Package                                                              |
+| ANV.442.008.EQUI.219 | 0008 | Prepare MR - Chemical Inj Tanks                                                      |
+| ANV.442.008.EQUI.215 | 0008 | Review Vendor Drawings - N2 Receiver                                                 |
+| ANV.442.008.EQUI.211 | 0008 | Prepare MR - N2 Receiver                                                             |
+| ANV.442.008.EQUI.213 | 0008 | Prepare RFQ - N2 Receiver                                                            |
+| ANV.442.008.EQUI.217 | 0008 | Review Vendor Drawings - N2 Package                                                  |
+| ANV.442.010.E192     | 0008 | <Valves, Bulk Order, Ball, Check, Plug, Gate> MR Received in Procurement             |
+| ANV.442.010.E140     | 0008 | <Valves, Bulk Order, Ball, Check, Plug, Gate> Prepare RFQ Package                    |
+| ANV.442.010.E182     | 0008 | <Valves, Bulk Order, Ball, Check, Plug, Gate> Issue RFQ                              |
+| ANV.442.010.E093     | 0008 | <Valves, Bulk Order, Ball, Check, Plug, Gate> Vendor Provide Quotea                  |
+| ANV.442.010.E105     | 0008 | <Valves, Bulk Order, Ball, Check, Plug, Gate> Prepare/Review Bid Tabs                |
+| ANV.442.010.E104     | 0008 | <Valves, Bulk Order, Ball, Check, Plug, Gate> Issue PO                               |
+| ANV.442.010.E106     | 0008 | <Valves, Bulk Order, Ball, Check, Plug, Gate> Vendor Drawing Submittal               |
+| ANV.442.010.E097     | 0008 | <Valves, Bulk Order, Ball, Check, Plug, Gate>  Review Vendor Drawings (Anvil/Caelus) |
+| ANV.442.010.E108     | 0008 | <Valves, Bulk Order, Ball, Check, Plug, Gate> Fabricate                              |
+| ANV.442.010.E099     | 0008 | <Valves, Bulk Order, Ball, Check, Plug, Gate> Delivery                               |
+| ANV.442.010.E150     | 0008 | <Valves, Bulk Order, Ball, Check, Plug, Gate> On-Site at Fabricator                  |
+| ANV.442.010.E172     | 0008 | <Valve, Plug, 3&4", DBB> MR Received in Procurement                                  |
+| ANV.442.010.E110     | 0008 | <Valve, Plug, 3&4", DBB> Prepare RFQ Package                                         |
+| ANV.442.010.E162     | 0008 | <Valve, Plug, 3&4", DBB> Issue RFQ                                                   |
+| ANV.442.010.E083     | 0008 | <Valve, Plug, 3&4", DBB> Vendor Provide Quotes                                       |
+| ANV.442.010.E095     | 0008 | <Valve, Plug, 3&4", DBB> Prepare/Review Bid Tabs                                     |
+| ANV.442.010.E094     | 0008 | <Valve, Plug, 3&4", DBB> Issue PO                                                    |
+| ANV.442.010.E096     | 0008 | <Valve, Plug, 3&4", DBB> Vendor Drawing Submittal                                    |
+| ANV.442.010.E087     | 0008 | <Valve, Plug, 3&4", DBB>  Review Vendor Drawings (Anvil/Caelus)                      |
+| ANV.442.010.E098     | 0008 | <Valve, Plug, 3&4", DBB> Fabricate                                                   |
+| ANV.442.010.E089     | 0008 | <Valve, Plug, 3&4", DBB> Delivery                                                    |
+| ANV.442.010.E120     | 0008 | <Valve, Plug, 3&4", DBB> On-Site at Fabricator                                       |
+| ANV.442.014.PMAC.521 | 0014 | CN17 - Well Row Pipe Rack Shift                                                      |
+|                      |      |                                                                                      |
+

@@ -1,0 +1,26 @@
+NDS-1 IFF/IFC Dates
+
+Modules                                                                             | IFF/IFC
+------------------------------------------------------------------------------------|-----------
+Complete WP 003 Pigging 1 (@NDS1)	                                            | 10/22/2014
+Complete WP 005 VFD 1	                                                            | 12/23/2014
+Complete WP 006 VFD 1 XFMR Platform	                                            | 11/5/2014
+Complete WP 007 E&I Module	                                                    | 3/18/2015
+Complete WP 008 Chemical Injection	                                            | 2/18/2015
+Complete WP 009 Blowdown Tank, Platform & Secondary Containment                     | 11/12/2014
+Complete WP 010 ESD & Meter Module	                                            | 4/2/2015
+Complete WP 011 35Kv Transformer Platform	                                    | 12/10/2014
+Complete WP 012 35 Kv Switchgear Module	                                            | 1/14/2015
+Complete WP 013 Control Room/Utility Module (Includes Comm Mast)	            | 2/4/2015
+Complete WP 014 Well Row Pipe Rack	                                            | 11/5/2014
+Complete WP 015 Interconnecting Pipe Rack	                                    | 3/4/2015
+Complete WP 016 Buried Utiliway	                                                    | 1/21/2015
+Complete WP 017 On Pad Piling	                                                    | 5/13/2015
+Complete WP 018 Well Row Pipe Rack	                                            | 4/8/2015
+Complete WP 019 Module Setting, Interconnects, Buried Utiliway, Tank Secondary Cont.| 6/4/2015
+Complete WP 020 Producer Well Tie-Ins	                                            | 6/3/2015
+Complete WP 021 Injector Well Tie-Ins	                                            | 6/3/2015
+Complete WP 022 Pre-Production	                                                    | 6/3/2015
+Complete WP 023 Cold Storage Building	                                            | 3/25/2015
+Issue All Ladder and Platform Designs IFF                                           | 6/4/2015
+

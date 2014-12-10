@@ -1,0 +1,183 @@
+Schedule Update Narrative for Data Date 9/28/2014
+
+During this update Anvil undertook an audit of VDDR needs and their impact on work package release dates. The schedule was revised to insure that correct logic between the receipt of vendor data and the issue of work packages was in place. Also, the schedule was updated to reflect the making of WP0005 into a "Spare" and WP0006 becoming the VFD1 & 5 kV Switchgear Module. This involved deleting schedule activities related to WP0005 and revising WP0006 to reflect the correct scope going forward. Some activities were renumbered to make them consistent with their associated work packages.
+
+Note that the schedule reflects a slide in the IFR and IFF dataes for WP 0006. This slide is documented in CN13.
+
+The following activities were deleted:
+
+ANV.442.005.PMAC.501	Prepare IFR Package
+ANV.442.005.PMAC.503	Print IFR Package
+ANV.442.005.PMAC.505	Issue WP005 - VFD 1 IFR Package
+ANV.442.005.PMAC.507	Review Fabrication Package
+ANV.442.005.PMAC.509	Pick-Up  Client Comments
+ANV.442.005.PMAC.511	Prepare IFF Package
+ANV.442.005.PMAC.513	Print IFF Package
+ANV.442.005.PMAC.515	Issue WP005 - VFD 1 IFF Package
+ANV.442.005.STRU.243	Develop Structural Drawings
+ANV.442.005.STRU.245	Develop Architectural Drawings
+ANV.442.005.STRU.249	Structural Drawing Check
+ANV.442.005.STRU.241	Prepare IFC Documentation / SOW
+ANV.442.005.STRU.251	Ladder and Platform Design
+ANV.442.005.STRU.261	Ladder and Platform Design IFF
+ANV.442.005.STRU.247	Review Shop Drawings
+ANV.442.005.PIPE.227	Prepare Orthos
+ANV.442.005.PIPE.221	Develop 3D Model
+ANV.442.005.PIPE.231	Develop Flexibility Calcs
+ANV.442.005.PIPE.225	Prepare ISOs
+ANV.442.005.PIPE.255	Piping Drawing Check
+ANV.442.005.PIPE.229	Prepare SOW
+ANV.442.005.PIPE.223	Final MTOs and BOMs
+ANV.442.005.HVAC.201	Prepare Calcs - HVAC/FP
+ANV.442.005.HVAC.203	Develop Plan Drawings
+ANV.442.005.HVAC.209	Develop HVAC/FP Basis of Design
+ANV.442.005.HVAC.205	Prepare MRs
+ANV.442.005.HVAC.213	Prepare Datasheets / Orthos
+ANV.442.005.HVAC.211	Prepare SOW
+ANV.442.005.HVAC.215	Mech Drawing Check
+ANV.442.005.HVAC.207	Review Vendor Drawings
+ANV.442.005.ELEC.131	Input 3D Model
+ANV.442.005.ELEC.135	Prepare MR
+ANV.442.005.ELEC.133	Develop Plan Drawings
+ANV.442.005.ELEC.137	Prepare Schematics
+ANV.442.005.ELEC.139	Prepare SOW
+ANV.442.005.ELEC.141	Prepare Panel Board Schedules
+ANV.442.005.ELEC.143	Develop Single Lines
+ANV.442.005.ELEC.147	Develop Motor MCP& Overload Configuration
+ANV.442.005.ELEC.151	Vendor Drawing Review
+ANV.442.005.ELEC.149	Electrical Drawing Check
+ANV.442.005.ELEC.145	Develop Installation Details
+ANV.442.005.CSYS.123	Prepare Schematics/wiring Diagrams
+ANV.442.005.CSYS.113	Develop Installation Drawings
+ANV.442.005.CSYS.121	Prepare Schedules & Lists
+ANV.442.005.CSYS.127	Controls Systems Selection
+ANV.442.005.CSYS.109	Perform Constructability
+ANV.442.005.CSYS.111	Prepare Data Sheets
+ANV.442.005.CSYS.107	Input to 3D Model
+ANV.442.005.CSYS.117	Develop Plan Drawings
+ANV.442.005.CSYS.119	Prepare MRs
+ANV.442.005.CSYS.125	Control Systems Drawing Check
+ANV.442.005.CSYS.129	Review Vendor Documents
+ANV.442.005.PMAC.585	Start WP 005 VFD 1
+ANV.442.005.PMAC.595	Complete WP 005 VFD 1
+ANV.442.005.E181	<VFD Air Handler Unit> MR Received in Procurement
+ANV.442.005.E190	<VFD Air Handler Unit> Prepare RFQ Package
+ANV.442.005.E151	<VFD Air Handler Unit> Issue RFQ
+ANV.442.005.E125	<VFD Air Handler Unit> Vendor Provide Quotes
+ANV.442.005.E126	<VFD Air Handler Unit> Prepare/Review Bid Tabs
+ANV.442.005.E180	<VFD Air Handler Unit> Issue PO
+ANV.442.005.E141	<VFD Air Handler Unit> Vendor Drawing Submittal
+ANV.442.005.E152	<VFD Air Handler Unit>  Review Vendor Drawings (Anvil/Caelus)
+ANV.442.005.E128	<VFD Air Handler Unit> Fabricate
+ANV.442.005.E200	<VFD Air Handler Unit> Delivery
+ANV.442.005.E162	<VFD Air Handler Unit> On-Site at Fabricator
+ANV.442.005.E191	<VFD Heaters> MR Received in Procurement
+ANV.442.005.E220	<VFD Heaters> Prepare RFQ Package
+ANV.442.005.E171	<VFD Heaters> Issue RFQ
+ANV.442.005.E135	<VFD Heaters> Vendor Provide Quotes
+ANV.442.005.E136	<VFD Heaters> Prepare/Review Bid Tabs
+ANV.442.005.E210	<VFD Heaters> Issue PO
+ANV.442.005.E161	<VFD Heaters> Vendor Drawing Submittal
+ANV.442.005.E172	<VFD Heaters>  Review Vendor Drawings (Anvil/Caelus)
+ANV.442.005.E138	<VFD Heaters> Fabricate
+ANV.442.005.E230	<VFD Heaters> Delivery
+ANV.442.005.E182	<VFD Heaters> On-Site at Fabricator
+ANV.442.005.FAB.111	VFD 1 Module Shop Drawings
+ANV.442.005.FAB.121	VFD 1 Module Fabrication
+ANV.442.005.FAB.131	VFD 1 Delivery
+ANV.442.005.FAB.141	VFD 1 Module On-Site
+ANV.442.003.E221	<N1-P04 Heaters> MR Received in Procurement
+ANV.442.003.E280	<N1-P04 Heaters> Prepare RFQ Package
+ANV.442.003.E211	<N1-P04 Heaters> Issue RFQ
+ANV.442.003.E155	<N1-P04 Heaters> Vendor Provide Quotes
+ANV.442.003.E156	<N1-P04 Heaters> Prepare/Review Bid Tabs
+ANV.442.003.E270	<N1-P04 Heaters> Issue PO
+ANV.442.003.E201	<N1-P04 Heaters> Vendor Drawing Submittal
+ANV.442.003.E158	<N1-P04 Heaters> Fabricate
+ANV.442.003.E212	<N1-P04 Heaters>  Review Vendor Drawings (Anvil/Caelus)
+ANV.442.003.E290	<N1-P04 Heaters> Delivery
+ANV.442.003.E222	<N1-P04 Heaters> On-Site at Fabricator
+ANV.442.013.EQUI.185	Review Vendor Drawings - Waste Water System
+ANV.442.013.EQUI.183	Prepare RFQ - Chemical Inj Tanks
+ANV.442.013.EQUI.171	Prepare MR - Potable Water System
+ANV.442.013.EQUI.173	Prepare RFQ - Potable Water System
+ANV.442.013.EQUI.175	Review Vendor Drawings - Potable Water System
+ANV.500.242		Set Module N1-E08
+
+
+The following new activities were created:
+
+ANV.442.006.STRU.245	Develop Architectural Drawings
+ANV.442.006.STRU.251	Ladder and Platform Design
+ANV.442.006.STRU.261	Ladder and Platform Design IFF
+ANV.442.006.PIPE.221	Develop 3D Model
+ANV.442.006.PIPE.231	Develop Flexibility Calcs
+ANV.442.006.PIPE.225	Prepare ISOs
+ANV.442.006.PIPE.255	Piping Drawing Check
+ANV.442.006.PIPE.229	Prepare SOW
+ANV.442.006.PIPE.223	Final MTOs and BOMs
+ANV.442.006.HVAC.207	Review Vendor Drawings
+ANV.442.006.ELEC.137	Prepare Schematics
+ANV.442.006.ELEC.149	Electrical Drawing Check
+ANV.442.006.ELEC.151	Vendor Drawing Review
+ANV.442.003.E170	<N1-P04 High Yield Pipe & Fittings> Prepare RFQ Package
+ANV.442.003.E151	<N1-P04 High Yield Pipe & Fittings> Issue RFQ
+ANV.442.003.E125	<N1-P04 High Yield Pipe & Fittings> Vendor Provide Quotes
+ANV.442.003.E126	<N1-P04 High Yield Pipe & Fittings> Prepare/Review Bid Tabs
+ANV.442.003.E160	<N1-P04 High Yield Pipe & Fittings> Issue PO
+ANV.442.003.E141	<N1-P04 High Yield Pipe & Fittings> Vendor Drawing Submittal
+ANV.442.003.E132	<N1-P04 High Yield Pipe & Fittings>  Review Vendor Drawings (Anvil/Caelus)
+ANV.442.003.E138	<N1-P04 High Yield Pipe & Fittings> Fabricate
+ANV.442.003.E180	<N1-P04 High Yield Pipe & Fittings> Delivery
+ANV.442.003.E152	<N1-P04 High Yield Pipe & Fittings> On-Site at Fabricator
+ANV.442.003.E200	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2> Prepare RFQ Package
+ANV.442.003.E171	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2> Issue RFQ
+ANV.442.003.E145	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2> Vendor Provide Quotes
+ANV.442.003.E146	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2> Prepare/Review Bid Tabs
+ANV.442.003.E190	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2> Issue PO
+ANV.442.003.E161	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2> Vendor Drawing Submittal
+ANV.442.003.E162	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2>  Review Vendor Drawings (Anvil/Caelus)
+ANV.442.003.E148	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2> Fabricate
+ANV.442.003.E210	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2> Delivery
+ANV.442.003.E172	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2> On-Site at Fabricator
+ANV.442.006.E111	<5Kv Switchgear> MR Received in Procurement
+ANV.442.006.E070	<5Kv Switchgear> Prepare RFQ Package
+ANV.442.006.E101	<5Kv Switchgear> Issue RFQ
+ANV.442.006.E072	<5Kv Switchgear> Vendor Provide Quotes
+ANV.442.006.E074	<5Kv Switchgear> Prepare/Review Bid Tabs
+ANV.442.006.E073	<5Kv Switchgear> Issue PO
+ANV.442.006.E065	<5Kv Switchgear> Vendor Drawing Submittal
+ANV.442.006.E066	<5Kv Switchgear>  Review Vendor Drawings (Anvil/Caelus)
+ANV.442.006.E077	<5Kv Switchgear> Fabricate
+ANV.442.006.E078	<5Kv Switchgear> Delivery
+ANV.442.006.E079	<5Kv Switchgear> On-Site at Fabricator
+ANV.442.012.E241	<VFD Air Handler Unit> MR Received in Procurement
+ANV.442.012.E280	<VFD Air Handler Unit> Prepare RFQ Package
+ANV.442.012.E233	<VFD Air Handler Unit> Issue RFQ
+ANV.442.012.E155	<VFD Air Handler Unit> Vendor Provide Quotes
+ANV.442.012.E156	<VFD Air Handler Unit> Prepare/Review Bid Tabs
+ANV.442.012.E270	<VFD Air Handler Unit> Issue PO
+ANV.442.012.E251	<VFD Air Handler Unit> Vendor Drawing Submittal
+ANV.442.012.E212	<VFD Air Handler Unit>  Review Vendor Drawings (Anvil/Caelus)
+ANV.442.012.E158	<VFD Air Handler Unit> Fabricate
+ANV.442.012.E290	<VFD Air Handler Unit> Delivery
+ANV.442.012.E222	<VFD Air Handler Unit> On-Site at Fabricator
+
+
+The following activities were renumbered:
+
+| Activity ID Was      | Activity ID Is Now   |
+|----------------------|----------------------|
+| ANV.442.005.PMAC.600 | ANV.442.006.PMAC.600 |
+| ANV.442.010.E132     | ANV.442.008.E132     |
+| ANV.442.010.E001     | ANV.442.008.E001     |
+| ANV.442.010.E002     | ANV.442.008.E002     |
+| ANV.442.010.E003     | ANV.442.008.E003     |
+| ANV.442.010.E005     | ANV.442.008.E005     |
+| ANV.442.010.E004     | ANV.442.008.E004     |
+| ANV.442.010.E006     | ANV.442.008.E006     |
+| ANV.442.010.E007     | ANV.442.008.E007     |
+| ANV.442.010.E008     | ANV.442.008.E008     |
+| ANV.442.010.E009     | ANV.442.008.E009     |
+| ANV.442.010.E011     | ANV.442.008.E011     |
+|                      |                      |

@@ -1,0 +1,21 @@
+Arrive 0730.
+
+- Schedule Updates
+        - Pigging Module, aligned IFR and IFC dates.
+                - Why is 442.003.CSYS.119 (Prepare MRs) tied to 442.003.E133 (Pig Receiver Closure MR Rec's in Procurement?
+        - VFD 1
+        -
+        - General Notes:
+                - Electrical has blanket statused the schedule with one Finish date for all activities in a WP. See WP 407 for example. This is not good practice as it limits visibility of progress. Need to talk to this at next team meeting. Discussed with Cesar and he will re-evaluate.
+                - 
+
+Anna requested to open CN9 - Update Pad size and Pipe Rack Length. tom to handle. #106726
+
+Reviewed Schedule log and corrected issues found. #106726
+
+Attended meeting with Brent, Anna, Mike Dyer and Kent Charrette to discuss NDS1 PSR issues. Actions:
+        * [ ] Anna to provide new on-sit edates for modules 403 and 412.
+        * [ ] JD to enter new dates into IPDMS
+        * [ ] Kent to clean up Ship To Locations (Fab Site or NDS1 are only choices.)
+
+Met with Mirek to ask about schedule for release of the Generic Module Base Package. Mirek indicates that he plans to IFF the package 9/3. Added Prep, Print and Issue activities in the Pigging Module WBS reflecting this schedule. #106726

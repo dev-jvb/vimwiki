@@ -1,0 +1,30 @@
+On site at BP Cherry Point
+
+Vanilla WiFi WEP Key:
+410a2836580b12360986c12983
+
+Each UNIT contains multiple INSPECTION POINTS (IP) each of varying complexity. There are 2-300 total IPs.
+
+Idea is to create one WO for each UNIT that has CHILD WOs for each IP. Should be able to create a SQL Query to extract cost data from Maximo.
+
+?? - Does each CHILD WO require a unique PR; or, does only the parent WO need a PR? PRs capture cost information.
+
+Working with Peter Ashurst, identified 39 unique WOs corresponding to the UNITs.
+
+Awaiting access to Maximo that will permit me to enter WOs.
+
+Received Maximo credentials. Saved to LastPass vault.
+
+WO Naming Standard: [Unit #] - [Unit Name] - [Description] - [YYYY]
+Example: 10 - Crude Unit - Thermography Inspection - 2014
+Example: 10 - Crude Unit - Other Inspection Services - 2014
+
+Entered 78 WOs into Maximo; 39 each for Thermography and Other Inspection Services.
+
+Next step: create PRs to link WOs to Vendors. One PR can link to multiple WOs on a per-line basis.
+
+Had to cycle back through all 78 WOs to change Fiduciary field to OTTEDE (Daren Otter). Was unable to assign WOs to PRs without this field.
+
+Next step: Need to create 2 PRs, each with 39 lines corresponding to the 39 WOs. That's tomorrow's task.
+
+Upon returning to Anvil, Justin Allyne approached me about doing some work on the Caelus program. It's become more than he can juggle by himself. Justin wanted to plant the seed; the final decision will be Kevin's.

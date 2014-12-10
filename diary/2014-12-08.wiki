@@ -1,0 +1,7 @@
+Arrive 0730.
+
+Worked with Power Query to devleop reports from IPDMS data for outstanding MRs, PO need dates to support Module Fabrication and IFF. Also produce a list of outstanding MRs due by year-end.
+
+Update Procurement Chart workbook and PC Deck slides.
+
+Out at 1715.

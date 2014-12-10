@@ -1,0 +1,18 @@
+Team Roster NDS-1
+
+| Name             | Role               | Email     | Phone |
+| --+--            | --+--              | --+--     | --+-- |
+| Bruce Stevens    | Process            | bstevens  | 3454  |
+| Dennis McGrew    | Mech/Equip         | dmcgrew   | 3467  |
+| Marcus Casserd   | Mech/Piping Engrg  | mcasserd  | 3319  |
+| Brian Baker      | Mech/Piping Design | bbaker    | 3533  |
+| Diana Dillman    | Mech/HVAC          | ddillman  | 3785  |
+| Mirek Wazny      | Structural Engrg   | mwazny    | 3786  |
+| Brady Jensen     | Structural Design  | bjensen   | 3731  |
+| Cesar Salire     | Elect Engrg        | csalire   | 3456  |
+| Mark Ridenhour   | Elect Design       | mridenho  | 3379  |
+| Bill Guevara     | CS Engrg           | wguevara  | 3490  |
+| Richard Martinez | CD Design          | rmartinez | 3700  |
+| Erik Hellsund    | Cost Engineer      | ehellsun  | 3081  |
+
+

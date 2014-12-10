@@ -1,0 +1,5 @@
+WP005 - IFC now -24d wrt IFR date. Driven by slide in ANV.442.005.STRU.241. Per Mirek, this change is driven by the elimination of the VFD XFRMR Platform (WP006) and replacement of same with a second VFD Module. (This should be picked up in a CN.)
+
+Electrical is the first discipline to 100% complete a scheduled activity! (MR for VFDs)
+
+WP005 scope has changed now that it consists of two modules. This has driven the slide in the Issue date.

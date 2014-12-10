@@ -1,0 +1,13 @@
+Arrive 0745.
+
+Met informally with Justin and Brent re: CN03. Decided that we would move the 300 actuals into P4 and roll the CN03 hours into P4 (as entered in PSE.) The actuals from 300 will be transferred proportionally into P4. Tom will merge the CN, transfer the 300 hours and update the PT earned to reflect that CN03 is 100% complete.
+
+Evernote import from command line:
+ENScript.exe createNote /s file /n notebook /i title
+
+find . -iname '*.wiki' -exec ENScript.exe createNote /s {} /n Diary \;
+
+This will step through all *.wiki files in the folder and create a new note in the Diary notebook with the name equal to the .wiki filename and text content.
+
+        for f in *.wiki; do cat "$f" | ENScript.exe createNote /i "$f" /n Diary; done
+
