@@ -1,0 +1,26 @@
+Deleted Activities
+
+| ANV.442.003.STRU.251 | Ladder and Platform Design                        |
+| ANV.442.003.STRU.261 | Ladder and Platform Design IFF                    |
+| ANV.442.009.STRU.271 | Ladder and Platform Design                        |
+| ANV.442.009.STRU.261 | Ladder and Platform Design IFF                    |
+| ANV.442.014.STRU.261 | Ladder and Platform Design                        |
+| ANV.442.014.STRU.251 | Ladder and Platform Design IFF                    |
+| ANV.442.011.STRU.261 | Ladder and Platform Design                        |
+| ANV.442.011.STRU.251 | Ladder and Platform Design IFF                    |
+| ANV.442.012.STRU.261 | Ladder and Platform Design                        |
+| ANV.442.006.STRU.251 | Ladder and Platform Design                        |
+| ANV.442.012.STRU.251 | Ladder and Platform Design IFF                    |
+| ANV.442.006.STRU.261 | Ladder and Platform Design IFF                    |
+| ANV.442.010.STRU.251 | Ladder and Platform Design IFF                    |
+| ANV.442.010.STRU.261 | Ladder and Platform Design IFF                    |
+| ANV.442.007.STRU.261 | Ladder and Platform Design                        |
+| ANV.442.007.STRU.251 | Ladder and Platform Design IFF                    |
+| ANV.442.015.STRU.261 | Ladder and Platform Design                        |
+| ANV.442.015.STRU.251 | Ladder and Platform Design IFF                    |
+| ANV.442.010.PMAC.685 | Issue All Ladder and Platform Designs IFF Package |
+| ANV.442.015.E125     | <Ladders/Platforms> Fabricate                     |
+| ANV.442.015.E137     | <Ladders/Platforms> Delivery                      |
+| ANV.442.015.E139     | <Ladders/Platforms> On-Site at Fabricator         |
+
+Above activities deleted because Ladders and Platform Designs will be included in the individual module/platform work packages.

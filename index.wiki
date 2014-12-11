@@ -1,6 +1,8 @@
 = My Wiki =
 
 [[Phone Directory]]
+[[GitCommandReference]]
+
 	
 == Checklists ==
         * [[BP Schedule Update Checklist|BP Schedule Update Checklist]]

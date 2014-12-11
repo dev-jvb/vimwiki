@@ -1,0 +1,18 @@
+To remove files:
+Source: http://stackoverflow.com/questions/1143796/remove-a-file-from-a-git-repository-without-deleting-it-from-the-local-filesyste
+
+Edit .gitignore file.
+
+	ECHO mylogfile.log >> .gitignore
+
+Remove all items from index.
+
+	git rm -r -f --cached .
+
+Rebuild index.
+
+	git add .
+
+Make new commit
+
+	git commit -m "Removed mylogfile.log"
