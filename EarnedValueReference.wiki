@@ -1,0 +1,17 @@
+Budget - The amount that can be earned. Hours or dollars
+Earned - The value of the work completed so far. Hours or dollars.
+Actual - The amount of work expended to complete the work. Hours or dollars.
+EHTC - Estimated Hours to Complete the Remaining Budgeted Work
+
+CPI - Cost Performance Index
+	CPI = Earned / Actual
+
+Forecast - The estimated amount of effort needed to complete the budgeted work.
+	Forecast = Actual + EHTC
+
+Earned = Budget X % Complete, hours or dollars
+
+Remaining Budget - The amount of budget that is left to earn.
+	Remaining Budget = Budget - Earned to date
+
+
