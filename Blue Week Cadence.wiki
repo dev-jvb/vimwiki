@@ -8,10 +8,10 @@ Schedule Data Date
 * [ ] Prepare FTE Deficit 4-week Look Back for Brent
 * [ ] Review 006 Reports for NDS and PGP, noting any major deficiencies
 * [ ] Review actual rates
-* [ ] Run PSR; update any Issued POs.
 * [ ] Get VDDR Report from Don Tolliver x3430
 
 = Tuesday =
+* [ ] Run PSR; update any Issued POs.
 * [ ] Update schedule with data from Progress Tracking, Schedule Update workbook, and PSR
         * [[NDS-1 Schedule Update Checklist]]
 * [ ] Update [[file:///S:/Caelus/106726/Project Controls/Davis/Procurement Chart.xlsx|Procurement Chart]]

@@ -3,6 +3,8 @@
 [[Phone Directory]]
 [[PersonalAddressBook]]
 [[GitCommandReference]]
+[[EarnedValueReference]]
+
 
 	
 == Checklists ==
