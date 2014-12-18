@@ -24,3 +24,191 @@ Deleted Activities
 | ANV.442.015.E139     | <Ladders/Platforms> On-Site at Fabricator         |
 
 Above activities deleted because Ladders and Platform Designs will be included in the individual module/platform work packages.
+
+Following activities were deleted as they were found to be unnecessary or redundant after scrubbing of PSR; they no longer appear in IPDMS.
+
+| ANV.442.003.E191  | <N1-P04 HVAC Accessories>MR Received in Procurement              |
+| ANV.442.003.E495  | <N1-P04 HVAC Accessories> Prepare RFQ Package                    |
+| ANV.442.003.E181  | <N1-P04 HVAC Accessories> Issue RFQ                              |
+| ANV.442.007.E142  | <Panel 800A> MR Received in Procurement                          |
+| ANV.442.007.E152  | <Panel 400A> MR Received in Procurement                          |
+| ANV.442.010.E082  | <Choke Valve 4" 1500#> MR Received in Procurement                |
+| ANV.442.010.E102  | <Choke Valve 2" 2500#> MR Received in Procurement                |
+| ANV.442.010.E112  | <Choke Valve 3" 2500#> MR Received in Procurement                |
+| ANV.442.010.E122  | <Choke Valve 3" 1500#> MR Received in Procurement                |
+| ANV.442.010.E142  | <Choke Valve 4" 2500#> MR Received in Procurement                |
+| ANV.442.007.E111  | <Panel 800A> Prepare RFQ Package                                 |
+| ANV.442.007.E121  | <Panel 400A> Prepare RFQ Package                                 |
+| ANV.442.007.E112  | <Panel 800A> Issue RFQ                                           |
+| ANV.442.007.E122  | <Panel 400A> Issue RFQ                                           |
+| ANV.442.007.E181  | <N1-E06 Fans> MR Received in Procurement                         |
+| ANV.442.007.E191  | <N1-E06 Heaters> MR Received in Procurement                      |
+| ANV.442.003.E052  | <N1-P04 HVAC Accessories> Vendor Provide Quotes                  |
+| ANV.442.010.E010  | <Choke Valve 3" 1500#> Prepare RFQ Package                       |
+| ANV.442.010.E021  | <Choke Valve 4" 2500#> Prepare RFQ Package                       |
+| ANV.442.010.E061  | <Choke Valve 2" 2500#> Prepare RFQ Package                       |
+| ANV.442.010.E012  | <Choke Valve 3" 1500#> Issue RFQ                                 |
+| ANV.442.010.E022  | <Choke Valve 4" 2500#> Issue RFQ                                 |
+| ANV.442.010.E062  | <Choke Valve 2" 2500#> Issue RFQ                                 |
+| ANV.442.007.E220  | <N1-E06 Fans> Prepare RFQ Package                                |
+| ANV.442.007.E253  | <N1-E06 Heaters> Prepare RFQ Package                             |
+| ANV.442.007.E171  | <N1-E06 Fans> Issue RFQ                                          |
+| ANV.442.007.E193  | <N1-E06 Heaters> Issue RFQ                                       |
+| ANV.442.010.E051  | <Choke Valve 4" 1500#> Prepare RFQ Package                       |
+| ANV.442.010.E052  | <Choke Valve 4" 1500#> Issue RFQ                                 |
+| ANV.442.013.E281  | <N1-C05 Fans> MR Received in Procurement                         |
+| ANV.442.013.E291  | <N1-C05 Heaters> MR Received in Procurement                      |
+| ANV.442.007.E113  | <Panel 800A> Vendor Provide Quotes                               |
+| ANV.442.007.E123  | <Panel 400A> Vendor Provide Quotes                               |
+| ANV.442.010.E041  | <Choke Valve 3" 2500#> Prepare RFQ Package                       |
+| ANV.442.010.E013  | <Choke Valve 3" 1500#> Vendor Provide Quotes                     |
+| ANV.442.010.E023  | <Choke Valve 4" 2500#> Vendor Provide Quotes                     |
+| ANV.442.010.E063  | <Choke Valve 2" 2500#> Vendor Provide Quotes                     |
+| ANV.442.003.E454  | <N1-P04 HVAC Accessories> Prepare/Review Bid Tabs                |
+| ANV.442.010.E042  | <Choke Valve 3" 2500#> Issue RFQ                                 |
+| ANV.442.003.E053  | <N1-P04 HVAC Accessories> Issue PO                               |
+| ANV.442.013.E340  | <N1-C05 Heaters> Prepare RFQ Package                             |
+| ANV.442.013.E2501 | <N1-C05 Fans> Prepare RFQ Package                                |
+| ANV.442.013.E251  | <N1-C05 Heaters> Issue RFQ                                       |
+| ANV.442.013.E261  | <N1-C05 Fans> Issue RFQ                                          |
+| ANV.442.008.E213  | <N1-P01 Heaters> MR Received in Procurement                      |
+| ANV.442.007.E435  | <N1-E06 Fans> Vendor Provide Quotes                              |
+| ANV.442.007.E145  | <N1-E06 Heaters> Vendor Provide Quotes                           |
+| ANV.442.010.E053  | <Choke Valve 4" 1500#> Vendor Provide Quotes                     |
+| ANV.442.008.E250  | <N1-P01 Heaters> Prepare RFQ Package                             |
+| ANV.442.008.E191  | <N1-P01 Heaters> Issue RFQ                                       |
+| ANV.442.003.E460  | <N1-P04 HVAC Accessories> Vendor Drawing Submittal               |
+| ANV.442.003.E510  | <N1-P04 HVAC Accessories> VDDR Received                          |
+| ANV.442.010.E143  | <Pulsation Dampner> MR Received in Procurement                   |
+| ANV.442.007.E115  | <Panel 800A> Prepare/Review Bid Tabs                             |
+| ANV.442.007.E125  | <Panel 400A> Prepare/Review Bid Tabs                             |
+| ANV.442.007.E114  | <Panel 800A> Issue PO                                            |
+| ANV.442.007.E124  | <Panel 400A> Issue PO                                            |
+| ANV.442.010.E015  | <Choke Valve 3" 1500#> Prepare/Review Bid Tabs                   |
+| ANV.442.010.E025  | <Choke Valve 4" 2500#> Prepare/Review Bid Tabs                   |
+| ANV.442.010.E043  | <Choke Valve 3" 2500#> Vendor Provide Quotes                     |
+| ANV.442.010.E065  | <Choke Valve 2" 2500#> Prepare/Review Bid Tabs                   |
+| ANV.442.010.E014  | <Choke Valve 3" 1500#> Issue PO                                  |
+| ANV.442.010.E024  | <Choke Valve 4" 2500#> Issue PO                                  |
+| ANV.442.010.E064  | <Choke Valve 2" 2500#> Issue PO                                  |
+| ANV.442.003.E485  | <N1-P04 HVAC Accessories>  Review Vendor Drawings (Anvil/Caelus) |
+| ANV.442.013.E175  | <N1-C05 Heaters> Vendor Provide Quotes                           |
+| ANV.442.013.E465  | <N1-C05 Fans> Vendor Provide Quotes                              |
+| ANV.442.010.E133  | <Pulsation Dampner> Prepare RFQ Package                          |
+| ANV.442.010.E123  | <Pulsation Dampner> Issue RFQ                                    |
+| ANV.442.007.E438  | <N1-E06 Fans> Prepare/Review Bid Tabs                            |
+| ANV.442.007.E146  | <N1-E06 Heaters> Prepare/Review Bid Tabs                         |
+| ANV.442.007.E236  | <N1-E06 Fans> Issue PO                                           |
+| ANV.442.007.E243  | <N1-E06 Heaters> Issue PO                                        |
+| ANV.442.010.E055  | <Choke Valve 4" 1500#> Prepare/Review Bid Tabs                   |
+| ANV.442.008.E145  | <N1-P01 Heaters> Vendor Provide Quotes                           |
+| ANV.442.010.E054  | <Choke Valve 4" 1500#> Issue PO                                  |
+| ANV.443.020.E95   | <Thermosyphons> Prepare RFQ Package                              |
+| ANV.443.020.E105  | <Thermosyphons> Issue RFQ                                        |
+| ANV.442.010.E045  | <Choke Valve 3" 2500#> Prepare/Review Bid Tabs                   |
+| ANV.442.008.E146  | <N1-P01 Heaters> Prepare/Review Bid Tabs                         |
+| ANV.442.010.E044  | <Choke Valve 3" 2500#> Issue PO                                  |
+| ANV.442.008.E240  | <N1-P01 Heaters> Issue PO                                        |
+| ANV.442.007.E161  | <N1-E06 Fans> Vendor Drawing Submittal                           |
+| ANV.442.007.E183  | <N1-E06 Heaters> Vendor Drawing Submittal                        |
+| ANV.442.007.E201  | <N1-E06 Fans> VDDR Received                                      |
+| ANV.442.007.E213  | <N1-E06 Heaters> VDDR Received                                   |
+| ANV.442.003.E466  | <N1-P04 HVAC Accessories> Fabricate                              |
+| ANV.442.010.E124  | <Pulsation Dampner> Vendor Provide Quotes                        |
+| ANV.442.013.E176  | <N1-C05 Heaters> Prepare/Review Bid Tabs                         |
+| ANV.442.013.E468  | <N1-C05 Fans> Prepare/Review Bid Tabs                            |
+| ANV.442.013.E330  | <N1-C05 Heaters> Issue PO                                        |
+| ANV.442.013.E266  | <N1-C05 Fans> Issue PO                                           |
+| ANV.442.007.E321  | <N1-E06 Fans> Fabricate                                          |
+| ANV.442.007.E148  | <N1-E06 Heaters> Fabricate                                       |
+| ANV.443.020.E77   | <Thermosyphons> Vendor Provide Quotes                            |
+| ANV.442.007.E172  | <N1-E06 Fans>  Review Vendor Drawings (Anvil/Caelus)             |
+| ANV.442.007.E194  | <N1-E06 Heaters>  Review Vendor Drawings (Anvil/Caelus)          |
+| ANV.442.003.E467  | <N1-P04 HVAC Accessories> Delivery                               |
+| ANV.442.003.E468  | <N1-P04 HVAC Accessories> On-Site at Fabricator                  |
+| ANV.442.007.E231  | <N1-E06 Fans> Delivery                                           |
+| ANV.442.007.E260  | <N1-E06 Heaters> Delivery                                        |
+| ANV.442.007.E203  | <N1-E06 Heaters> On-Site at Fabricator                           |
+| ANV.442.008.E181  | <N1-P01 Heaters> Vendor Drawing Submittal                        |
+| ANV.442.008.E148  | <N1-P01 Heaters> Fabricate                                       |
+| ANV.442.008.E201  | <N1-P01 Heaters> VDDR Received                                   |
+| ANV.442.013.E241  | <N1-C05 Heaters> Vendor Drawing Submittal                        |
+| ANV.442.013.E221  | <N1-C05 Fans> Vendor Drawing Submittal                           |
+| ANV.442.013.E231  | <N1-C05 Fans> VDDR Received                                      |
+| ANV.442.013.E301  | <N1-C05 Heaters> VDDR Received                                   |
+| ANV.442.013.E178  | <N1-C05 Heaters> Fabricate                                       |
+| ANV.442.013.E3511 | <N1-C05 Fans> Fabricate                                          |
+| ANV.442.008.E192  | <N1-P01 Heaters>  Review Vendor Drawings (Anvil/Caelus)          |
+| ANV.442.008.E260  | <N1-P01 Heaters> Delivery                                        |
+| ANV.442.008.E202  | <N1-P01 Heaters> On-Site at Fabricator                           |
+| ANV.442.013.E252  | <N1-C05 Heaters>  Review Vendor Drawings (Anvil/Caelus)          |
+| ANV.442.013.E2621 | <N1-C05 Fans>  Review Vendor Drawings (Anvil/Caelus)             |
+| ANV.442.010.E126  | <Pulsation Dampner> Prepare/Review Bid Tabs                      |
+| ANV.442.013.E350  | <N1-C05 Heaters> Delivery                                        |
+| ANV.442.013.E271  | <N1-C05 Fans> Delivery                                           |
+| ANV.442.010.E125  | <Pulsation Dampner> Issue PO                                     |
+| ANV.442.013.E262  | <N1-C05 Heaters> On-Site at Fabricator                           |
+| ANV.442.013.E2721 | <N1-C05 Fans> On-Site at Fabricator                              |
+| ANV.442.010.E046  | <Choke Valve 3" 2500#> Vendor Drawing Submittal                  |
+| ANV.442.010.E166  | <Choke Valve 3" 2500#> VDDR Received                             |
+| ANV.442.007.E116  | <Panel 800A> Vendor Drawing Submittal                            |
+| ANV.442.007.E126  | <Panel 400A> Vendor Drawing Submittal                            |
+| ANV.442.007.E156  | <Panel 800A> VDDR Received                                       |
+| ANV.442.007.E166  | <Panel 400A> VDDR Received                                       |
+| ANV.442.010.E016  | <Choke Valve 3" 1500#> Vendor Drawing Submittal                  |
+| ANV.442.010.E026  | <Choke Valve 4" 2500#> Vendor Drawing Submittal                  |
+| ANV.442.010.E066  | <Choke Valve 2" 2500#> Vendor Drawing Submittal                  |
+| ANV.442.010.E176  | <Choke Valve 3" 1500#> VDDR Received                             |
+| ANV.442.010.E186  | <Choke Valve 4" 2500#> VDDR Received                             |
+| ANV.442.010.E196  | <Choke Valve 2" 2500#> VDDR Received                             |
+| ANV.443.020.E76   | <Thermosyphons> Prepare/Review Bid Tabs                          |
+| ANV.443.020.E60   | <Thermosyphons> Issue PO                                         |
+| ANV.442.010.E056  | <Choke Valve 4" 1500#> Vendor Drawing Submittal                  |
+| ANV.442.010.E206  | <Choke Valve 4" 1500#> VDDR Received                             |
+| ANV.442.010.E047  | <Choke Valve 3" 2500#>  Review Vendor Drawings (Anvil/Caelus)    |
+| ANV.442.007.E182  | <N1-E06 Fans> On-Site at Fabricator                              |
+| ANV.442.007.E117  | <Panel 800A>  Review Vendor Drawings (Anvil/Caelus)              |
+| ANV.442.007.E127  | <Panel 400A>  Review Vendor Drawings (Anvil/Caelus)              |
+| ANV.442.010.E017  | <Choke Valve 3" 1500#>  Review Vendor Drawings (Anvil/Caelus)    |
+| ANV.442.010.E027  | <Choke Valve 4" 2500#>  Review Vendor Drawings (Anvil/Caelus)    |
+| ANV.442.010.E067  | <Choke Valve 2" 2500#>  Review Vendor Drawings (Anvil/Caelus)    |
+| ANV.442.012.E081  | <High Resistance Ground> MR Received in Procurement              |
+| ANV.442.010.E057  | <Choke Valve 4" 1500#>  Review Vendor Drawings (Anvil/Caelus)    |
+| ANV.442.010.E127  | <Pulsation Dampner> Vendor Drawing Submittal                     |
+| ANV.442.010.E137  | <Pulsation Dampner> VDDR Received                                |
+| ANV.442.012.E060  | <High Resistance Ground> Prepare RFQ Package                     |
+| ANV.442.012.E061  | <High Resistance Ground> Issue RFQ                               |
+| ANV.442.010.E128  | <Pulsation Dampner>  Review Vendor Drawings (Anvil/Caelus)       |
+| ANV.442.012.E062  | <High Resistance Ground> Vendor Provide Quotes                   |
+| ANV.443.020.E163  | <Thermosyphons> Fabricate                                        |
+| ANV.442.010.E129  | <Pulsation Dampner> Fabricate                                    |
+| ANV.443.020.E173  | <Thermosyphons> Delivery                                         |
+| ANV.443.020.E183  | <Thermosyphons> On-Site at North Slope                           |
+| ANV.442.012.E064  | <High Resistance Ground> Prepare/Review Bid Tabs                 |
+| ANV.442.012.E063  | <High Resistance Ground> Issue PO                                |
+| ANV.442.010.E130  | <Pulsation Dampner> Delivery                                     |
+| ANV.442.010.E131  | <Pulsation Dampner> On-Site at Fabricator                        |
+| ANV.442.007.E118  | <Panel 800A> Fabricate                                           |
+| ANV.442.007.E128  | <Panel 400A> Fabricate                                           |
+| ANV.442.007.E119  | <Panel 800A> Delivery                                            |
+| ANV.442.007.E129  | <Panel 400A> Delivery                                            |
+| ANV.442.007.E120  | <Panel 800A> On-Site at Fabricator                               |
+| ANV.442.007.E130  | <Panel 400A> On-Site at Fabricator                               |
+| ANV.442.012.E067  | <High Resistance Ground> Fabricate                               |
+| ANV.442.010.E018  | <Choke Valve 3" 1500#> Fabricate                                 |
+| ANV.442.010.E028  | <Choke Valve 4" 2500#> Fabricate                                 |
+| ANV.442.010.E068  | <Choke Valve 2" 2500#> Fabricate                                 |
+| ANV.442.012.E068  | <High Resistance Ground> Delivery                                |
+| ANV.442.012.E069  | <High Resistance Ground> On-Site at Fabricator                   |
+| ANV.442.010.E058  | <Choke Valve 4" 1500#> Fabricate                                 |
+| ANV.442.010.E048  | <Choke Valve 3" 2500#> Fabricate                                 |
+| ANV.442.010.E019  | <Choke Valve 3" 1500#> Delivery                                  |
+| ANV.442.010.E029  | <Choke Valve 4" 2500#> Delivery                                  |
+| ANV.442.010.E069  | <Choke Valve 2" 2500#> Delivery                                  |
+| ANV.442.010.E020  | <Choke Valve 3" 1500#> On-Site at Fabricator                     |
+| ANV.442.010.E030  | <Choke Valve 4" 2500"> On-Site at Fabricator                     |
+| ANV.442.010.E070  | <Choke Valve 2" 2500#> On-Site at Fabricator                     |
+| ANV.442.010.E059  | <Choke Valve 4" 1500#> Delivery                                  |
+| ANV.442.010.E060  | <Choke Valve 4" 1500#> On-Site at Fabricator                     |
+| ANV.442.010.E049  | <Choke Valve 3" 2500#> Delivery                                  |
+| ANV.442.010.E050  | <Choke Valve 3" 2500#> On-Site at Fabricator                     |

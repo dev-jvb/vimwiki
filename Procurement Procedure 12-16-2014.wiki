@@ -1,0 +1,9 @@
+Procedure For Client Review of Material Requisitions (MRs) and Issue of MRs to Procurement
+12/16/14
+
+1.	Engineer completes MR and requests transmittal of MR to Caelus by the PA.  At that time, engineer emails MR package hyperlink to PA.
+2.	PA transmits MR to Caelus and copies engineer.
+3.	Immediately after transmittal of MR to Caelus, PA separately emails MR package hyperlink to buyer and copies scheduler and project engineer.  Subject line of email reads <MR #> IFR <Date>.  
+4.	At 48 hour expiration and no Caelus comments, buyer will proceed with release of the RFQ based on the MR package sent to Caelus for review.
+5.	If Caelus does have comments to the MR package and if revisions are made to the MR package, engineer immediately notifies buyer to hold on issue of the RFQ.  Upon revision of the MR package engineer emails revised MR package hyperlink to buyer and copies scheduler and project engineer.  Email subject line to read: <MR #> IFB <Date>.
+

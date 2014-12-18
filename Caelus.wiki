@@ -11,6 +11,7 @@
 * [[Monthly Anvil Management Report]]
 * [[Default PMAC for CNs]]
 * [[https://external.anvilcorp.com/progmgmt/DoyonAnvil/Caelus/106726/Lists/Calendar/calendar.aspx|SharePoint Vacation Calendar]]
+* [[Procurement Procedure 12-16-2014]]
 
 == Projects ==
 * [[106653 - Nuna OTP Expansion (OTPEX)]]
