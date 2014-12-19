@@ -1,4 +1,12 @@
-Deleted Activities
+= Schedule Update Narrative for DD 12-14-2014 =
+
+Schedule is slowing a 9d slide in the IFF for WP0006. This is due to delay in placing order for module Air Handling Units and receipt of VDDR.
+
+Schedule is slowing a 14d slide in the IFF for WP0008. This is due to delay in placing order for module Chemical Injection Skids and receipt of VDDR.
+
+Schedule is slowing a 11d slide in the IFF for WP0012. This is due to delay in placing order for module Air Handling Units and receipt of VDDR.
+
+= Deleted Activities =
 
 | ANV.442.003.STRU.251 | Ladder and Platform Design                        |
 | ANV.442.003.STRU.261 | Ladder and Platform Design IFF                    |

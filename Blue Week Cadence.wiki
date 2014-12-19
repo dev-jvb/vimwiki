@@ -35,12 +35,14 @@ Schedule Data Date
 
 = Friday =
 * [ ] PA Compile Cost and Schedule report [[Bi Weekly Report Contents]]
-        * [ ] Schedule Update PDF
-        * [ ] Schedule Update XER
-        * [ ] Bi Weekly Cost Report PDF
-        * [ ] Bi Weekly Cost Report XLS
-        * [ ] 8 Week PO Look Ahead (make sure May 2014 IFR baseline milestones are displayed) (Added WE 070414)
-        * [ ] Performance Chart (Banana Curve; added 071814; only sent with the last report of the month.)
+        Schedule Products:
+		* [ ] Schedule Update PDF
+		* [ ] Schedule Update XER
+		* [ ] 8 Week PO Look Ahead (make sure May 2014 IFR baseline milestones are displayed) (Added WE 070414)
+        Cost Engineer Products:
+		* [ ] Bi Weekly Cost Report PDF
+		* [ ] Bi Weekly Cost Report XLS
+		* [ ] Performance Chart (Banana Curve; added 071814; only sent with the last report of the month.)
 * [ ] PL review Cost and Schedule report
 * [ ] PA Transmit Cost and Schedule report
 * [ ] Prepare 4 week look ahead for NDS-1 Team Meeting; send to Discipline Leads for review (moved from Tuesday)
