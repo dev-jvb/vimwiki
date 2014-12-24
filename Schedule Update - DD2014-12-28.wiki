@@ -1,0 +1,16 @@
+New Activities
+
+| ANV.442.008.E310 | <N1-P01 Heaters> Prepare RFQ Package                    |
+| ANV.442.008.E241 | <N1-P01 Heaters> Issue RFQ                              |
+| ANV.442.008.E273 | <N1-P01 Heaters> MR Received in Procurement             |
+| ANV.442.008.E165 | <N1-P01 Heaters> Vendor Provide Quotes                  |
+| ANV.442.008.E166 | <N1-P01 Heaters> Prepare/Review Bid Tabs                |
+| ANV.442.008.E300 | <N1-P01 Heaters> Issue PO                               |
+| ANV.442.008.E231 | <N1-P01 Heaters> Vendor Drawing Submittal               |
+| ANV.442.008.E251 | <N1-P01 Heaters> VDDR Received                          |
+| ANV.442.008.E292 | <N1-P01 Heaters>  Review Vendor Drawings (Anvil/Caelus) |
+| ANV.442.008.E168 | <N1-P01 Heaters> Fabricate                              |
+| ANV.442.008.E320 | <N1-P01 Heaters> Delivery                               |
+| ANV.442.008.E302 | <N1-P01 Heaters> On-Site at Fabricator                  |
+
+
