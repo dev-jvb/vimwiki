@@ -1,0 +1,9 @@
+Arrive 0700.
+
+Added Design Review date to IFF-IFC table.
+
+Added On-Site dates to IFF-IFC table for IFC packages.
+
+Per Anna's direction, revised schedule to reflect a 1 week slide in the WP0006 and WP0012 IFF dates.
+
+Out at 1500.

@@ -1,4 +1,10 @@
-New Activities
+= Schedule Concerns and Issues =
+
+Due to anticipated delays in receipt of vendor data, we are forecasting a 1 week delay, relative to the schedule baseline, for WPs 0006 and 0012. All other WP issue dates are unchanged.
+
+= New Activities =
+
+The following activities were added to the schedule:
 
 | ANV.442.008.E310 | <N1-P01 Heaters> Prepare RFQ Package                    |
 | ANV.442.008.E241 | <N1-P01 Heaters> Issue RFQ                              |
@@ -13,4 +19,151 @@ New Activities
 | ANV.442.008.E320 | <N1-P01 Heaters> Delivery                               |
 | ANV.442.008.E302 | <N1-P01 Heaters> On-Site at Fabricator                  |
 
+ = Deleted Activities =
+ 
+The Following activities were deleted as they were found to be unnecessary or redundant after scrubbing of PSR; they no longer appear in IPDMS:
+
+ | ANV.442.007.E051     | <Panel 1200A> Prepare RFQ Package                                                       |
+ | ANV.442.007.E102     | <Panel 1200A> Issue RFQ                                                                 |
+ | ANV.442.007.E103     | <Panel 1200A> Vendor Provide Quotes                                                     |
+ | ANV.442.007.E104     | <Panel 1200A> Issue PO                                                                  |
+ | ANV.442.007.E105     | <Panel 1200A> Prepare/Review Bid Tabs                                                   |
+ | ANV.442.007.E106     | <Panel 1200A> Vendor Drawing Submittal                                                  |
+ | ANV.442.007.E107     | <Panel 1200A>  Review Vendor Drawings (Anvil/Caelus)                                    |
+ | ANV.442.007.E108     | <Panel 1200A> Fabricate                                                                 |
+ | ANV.442.007.E109     | <Panel 1200A> Delivery                                                                  |
+ | ANV.442.007.E110     | <Panel 1200A> On-Site at Fabricator                                                     |
+ | ANV.442.007.E186     | <Panel 1200A> VDDR Received                                                             |
+ | ANV.442.009.E165     | <N1-TK13 Blowdown Valves/Specialties> Vendor Provide Quotes                             |
+ | ANV.442.009.E166     | <N1-TK13 Blowdown Valves/Specialties> Prepare/Review Bid Tabs                           |
+ | ANV.442.009.E168     | <N1-TK13 Blowdown Valves/Specialties> Fabricate                                         |
+ | ANV.442.009.E221     | <N1-TK13 Blowdown Valves/Specialties> Vendor Drawing Submittal                          |
+ | ANV.442.009.E231     | <N1-TK13 Blowdown Valves/Specialties> Issue RFQ                                         |
+ | ANV.442.009.E232     | <N1-TK13 Blowdown Valves/Specialties>  Review Vendor Drawings (Anvil/Caelus)            |
+ | ANV.442.009.E241     | <N1-TK13 Blowdown Valves/Specialties> VDDR Received                                     |
+ | ANV.442.009.E242     | <N1-TK13 Blowdown Valves/Specialties> On-Site at Fabricator                             |
+ | ANV.442.009.E300     | <N1-TK13 Blowdown Valves/Specialties> Issue PO                                          |
+ | ANV.442.009.E310     | <N1-TK13 Blowdown Valves/Specialties> Prepare RFQ Package                               |
+ | ANV.442.009.E320     | <N1-TK13 Blowdown Valves/Specialties> Delivery                                          |
+ | ANV.442.010.E031     | <Choke Valve 2" 1500#> Prepare RFQ Package                                              |
+ | ANV.442.010.E032     | <Choke Valve 2" 1500#> Issue RFQ                                                        |
+ | ANV.442.010.E033     | <Choke Valve 2" 1500#> Vendor Provide Quotes                                            |
+ | ANV.442.010.E034     | <Choke Valve 2" 1500#> Issue PO                                                         |
+ | ANV.442.010.E035     | <Choke Valve 2" 1500#> Prepare/Review Bid Tabs                                          |
+ | ANV.442.010.E036     | <Choke Valve 2" 1500#> Vendor Drawing Submittal                                         |
+ | ANV.442.010.E037     | <Choke Valve 2" 1500#>  Review Vendor Drawings (Anvil/Caelus)                           |
+ | ANV.442.010.E038     | <Choke Valve 2" 1500#> Fabricate                                                        |
+ | ANV.442.010.E039     | <Choke Valve 2" 1500#> Delivery                                                         |
+ | ANV.442.010.E040     | <Choke Valve 2" 1500#> On-Site at Fabricator                                            |
+ | ANV.442.010.E216     | <Choke Valve 2" 1500#> VDDR Received                                                    |
+ | ANV.442.010.E60      | <N1-P02 Valves/Specialties> Prepare RFQ Package                                         |
+ | ANV.442.010.E61      | <N1-P02 Valves/Specialties> Issue RFQ                                                   |
+ | ANV.442.010.E70      | <N1-P02 Valves/Specialties> Issue PO                                                    |
+ | ANV.442.010.E71      | <N1-P02 Valves/Specialties> Vendor Drawing Submittal                                    |
+ | ANV.442.010.E72      | <N1-P02 Valves/Specialties>  Review Vendor Drawings (Anvil/Caelus)                      |
+ | ANV.442.010.E85      | <N1-P02 Valves/Specialties> Vendor Provide Quotes                                       |
+ | ANV.442.010.E86      | <N1-P02 Valves/Specialties> Prepare/Review Bid Tabs                                     |
+ | ANV.442.010.E88      | <N1-P02 Valves/Specialties> Fabricate                                                   |
+ | ANV.442.010.E90      | <N1-P02 Valves/Specialties> Delivery                                                    |
+ | ANV.442.010.E91      | <N1-P02 Valves/Specialties> VDDR Received                                               |
+ | ANV.442.010.E92      | <N1-P02 Valves/Specialties> On-Site at Fabricator                                       |
+ | ANV.442.013.E200     | <N1-C05 Valves/Specialties> Prepare RFQ Package                                         |
+ | ANV.442.013.E205     | <N1-C05 Valves/Specialties> Issue RFQ                                                   |
+ | ANV.442.013.E215     | <N1-C05 Valves/Specialties> Vendor Provide Quotes                                       |
+ | ANV.442.013.E220     | <N1-C05 Valves/Specialties> Issue PO                                                    |
+ | ANV.442.013.E225     | <N1-C05 Valves/Specialties> Prepare/Review Bid Tabs                                     |
+ | ANV.442.013.E230     | <N1-C05 Valves/Specialties> Vendor Drawing Submittal                                    |
+ | ANV.442.013.E235     | <N1-C05 Valves/Specialties>  Review Vendor Drawings (Anvil/Caelus)                      |
+ | ANV.442.013.E240     | <N1-C05 Valves/Specialties> Fabricate                                                   |
+ | ANV.442.013.E245     | <N1-C05 Valves/Specialties> Delivery                                                    |
+ | ANV.442.013.E250     | <N1-C05 Valves/Specialties> On-Site at Fabricator                                       |
+ | ANV.442.013.E260     | <N1-C05 Valves/Specialties> VDDR Received                                               |
+ | ANV.442.015.E101     | <IC Valves/Specialties> Issue RFQ                                                       |
+ | ANV.442.015.E103     | <IC Valves/Specialties> Vendor Provide Quotes                                           |
+ | ANV.442.015.E105     | <IC Valves/Specialties> Issue PO                                                        |
+ | ANV.442.015.E107     | <IC Valves/Specialties> Prepare/Review Bid Tabs                                         |
+ | ANV.442.015.E109     | <IC Valves/Specialties> Prepare RFQ Package                                             |
+ | ANV.442.015.E111     | <IC Valves/Specialties> Vendor Drawing Submittal                                        |
+ | ANV.442.015.E113     | <IC Valves/Specialties>  Review Vendor Drawings (Anvil/Caelus)                          |
+ | ANV.442.015.E115     | <IC Valves/Specialties> Fabricate                                                       |
+ | ANV.442.015.E117     | <IC Valves/Specialties> Delivery                                                        |
+ | ANV.442.015.E119     | <IC Valves/Specialties> On-Site at Fabricator                                           |
+ | ANV.442.015.E121     | <IC Valves/Specialties> VDDR Received                                                   |
+ | ANV.442.018.E175     | <RW NC Valves/Specialties> Vendor Provide Quotes                                        |
+ | ANV.442.018.E176     | <RW NC Valves/Specialties> Prepare/Review Bid Tabs                                      |
+ | ANV.442.018.E178     | <RW NC Valves/Specialties> Fabricate                                                    |
+ | ANV.442.018.E241     | <RW NC Valves/Specialties> Vendor Drawing Submittal                                     |
+ | ANV.442.018.E251     | <RW NC Valves/Specialties> Issue RFQ                                                    |
+ | ANV.442.018.E252     | <RW NC Valves/Specialties>  Review Vendor Drawings (Anvil/Caelus)                       |
+ | ANV.442.018.E261     | <RW NC Valves/Specialties> VDDR Received                                                |
+ | ANV.442.018.E262     | <RW NC Valves/Specialties> On-Site at North Slope                                       |
+ | ANV.442.018.E330     | <RW NC Valves/Specialties> Issue PO                                                     |
+ | ANV.442.018.E340     | <RW NC Valves/Specialties> Prepare RFQ Package                                          |
+ | ANV.442.018.E350     | <RW NC Valves/Specialties> Delivery                                                     |
+ | ANV.442.019.E115     | <Setting NC Valves/Specialties> Vendor Provide Quotes                                   |
+ | ANV.442.019.E116     | <Setting NC Valves/Specialties> Prepare/Review Bid Tabs                                 |
+ | ANV.442.019.E118     | <Setting NC Valves/Specialties> Fabricate                                               |
+ | ANV.442.019.E121     | <Setting NC Valves/Specialties> Vendor Drawing Submittal                                |
+ | ANV.442.019.E131     | <Setting NC Valves/Specialties> Issue RFQ                                               |
+ | ANV.442.019.E132     | <Setting NC Valves/Specialties>  Review Vendor Drawings (Anvil/Caelus)                  |
+ | ANV.442.019.E141     | <Setting NC Valves/Specialties> VDDR Received                                           |
+ | ANV.442.019.E142     | <Setting NC Valves/Specialties> On-Site at North Slope                                  |
+ | ANV.442.019.E150     | <Setting NC Valves/Specialties> Issue PO                                                |
+ | ANV.442.019.E160     | <Setting NC Valves/Specialties> Prepare RFQ Package                                     |
+ | ANV.442.019.E170     | <Setting NC Valves/Specialties> Delivery                                                |
+ | ANV.442.020.E135     | <Tie-Ins NC Valves/Specialties> Vendor Provide Quotes                                   |
+ | ANV.442.020.E136     | <Tie-Ins NC Valves/Specialties> Prepare/Review Bid Tabs                                 |
+ | ANV.442.020.E138     | <Tie-Ins NC Valves/Specialties> Fabricate                                               |
+ | ANV.442.020.E161     | <Tie-Ins NC Valves/Specialties> Vendor Drawing Submittal                                |
+ | ANV.442.020.E171     | <Tie-Ins NC Valves/Specialties> Issue RFQ                                               |
+ | ANV.442.020.E172     | <Tie-Ins NC Valves/Specialties>  Review Vendor Drawings (Anvil/Caelus)                  |
+ | ANV.442.020.E181     | <Tie-Ins NC Valves/Specialties> VDDR Received                                           |
+ | ANV.442.020.E182     | <Tie-Ins NC Valves/Specialties> On-Site at North Slope                                  |
+ | ANV.442.020.E210     | <Tie-Ins NC Valves/Specialties> Issue PO                                                |
+ | ANV.442.020.E220     | <Tie-Ins NC Valves/Specialties> Prepare RFQ Package                                     |
+ | ANV.442.020.E230     | <Tie-Ins NC Valves/Specialties> Delivery                                                |
+ | ANV.442.021.E145     | <Inj Tie-Ins NC Valves/Specialties> Vendor Provide Quotes                               |
+ | ANV.442.021.E146     | <Inj Tie-Ins NC Valves/Specialties> Prepare/Review Bid Tabs                             |
+ | ANV.442.021.E148     | <Inj Tie-Ins NC Valves/Specialties> Fabricate                                           |
+ | ANV.442.021.E181     | <Inj Tie-Ins NC Valves/Specialties> Vendor Drawing Submittal                            |
+ | ANV.442.021.E191     | <Inj Tie-Ins NC Valves/Specialties> Issue RFQ                                           |
+ | ANV.442.021.E192     | <Inj Tie-Ins NC Valves/Specialties>  Review Vendor Drawings (Anvil/Caelus)              |
+ | ANV.442.021.E201     | <Inj Tie-Ins NC Valves/Specialties> VDDR Received                                       |
+ | ANV.442.021.E202     | <Inj Tie-Ins NC Valves/Specialties> On-Site at North Slope                              |
+ | ANV.442.021.E240     | <Inj Tie-Ins NC Valves/Specialties> Issue PO                                            |
+ | ANV.442.021.E250     | <Inj Tie-Ins NC Valves/Specialties> Prepare RFQ Package                                 |
+ | ANV.442.021.E260     | <Inj Tie-Ins NC Valves/Specialties> Delivery                                            |
+ | ANV.442.022.E155     | <Pre-Prod NC Valves/Specialties> Vendor Provide Quotes                                  |
+ | ANV.442.022.E156     | <Pre-Prod NC Valves/Specialties> Prepare/Review Bid Tabs                                |
+ | ANV.442.022.E158     | <Pre-Prod NC Valves/Specialties> Fabricate                                              |
+ | ANV.442.022.E201     | <Pre-Prod NC Valves/Specialties> Vendor Drawing Submittal                               |
+ | ANV.442.022.E211     | <Pre-Prod NC Valves/Specialties> Issue RFQ                                              |
+ | ANV.442.022.E212     | <Pre-Prod NC Valves/Specialties>  Review Vendor Drawings (Anvil/Caelus)                 |
+ | ANV.442.022.E221     | <Pre-Prod NC Valves/Specialties> VDDR Received                                          |
+ | ANV.442.022.E222     | <Pre-Prod NC Valves/Specialties> On-Site at North Slope                                 |
+ | ANV.442.022.E270     | <Pre-Prod NC Valves/Specialties> Issue PO                                               |
+ | ANV.442.022.E280     | <Pre-Prod NC Valves/Specialties> Prepare RFQ Package                                    |
+ | ANV.442.022.E290     | <Pre-Prod NC Valves/Specialties> Delivery                                               |
+ | ANV.443.017.E103     | <VSMs> Fabricate                                                                        |
+ | ANV.443.017.E113     | <VSMs> Delivery                                                                         |
+ | ANV.443.017.E123     | <VSMs> On-Site at North Slope                                                           |
+ | ANV.443.017.E40      | <VSMs> Issue PO                                                                         |
+ | ANV.443.017.E55      | <VSMs> Prepare RFQ Package                                                              |
+ | ANV.443.017.E56      | <VSMs> Prepare/Review Bid Tabs                                                          |
+ | ANV.443.017.E57      | <VSMs> Vendor Provide Quotes                                                            |
+ | ANV.443.017.E65      | <VSMs> Issue RFQ                                                                        |
+ | ANV.443.020.E103     | <Well Houses> Fabricate                                                                 |
+ | ANV.443.020.E73      | <Well Houses> Fabricate                                                                 |
+ | ANV.442.010.E106     | <Valves, Bulk Order, Ball, Check, Plug, Gate> Vendor Drawing Submittal                  |
+ | ANV.442.010.E146     | <Valves, Bulk Order, Ball, Check, Plug, Gate> VDDR Receivedtal                          |
+ | ANV.442.010.E097     | <Valves, Bulk Order, Ball, Check, Plug, Gate>  Review Vendor Drawings (Anvil/Caelus)tal |
+ | ANV.442.016.E45      | <Timbers/Steel> MR Received in Procurement                                              |
+ | ANV.442.016.E15      | <Timbers/Steel> Prepare RFQ Packagement                                                 |
+ | ANV.442.016.E35      | <Timbers/Steel> Issue RFQment                                                           |
+ | ANV.442.016.E37      | <Timbers/Steel> Vendor Provide Quotesment                                               |
+ | ANV.442.016.E36      | <Timbers/Steel> Prepare/Review Bid Tabsment                                             |
+ | ANV.442.016.E20      | <Timbers/Steel> Issue POment                                                            |
+ | ANV.442.016.E43      | <Timbers/Steel> Fabricatement                                                           |
+ | ANV.442.016.E53      | <Timbers/Steel> Deliveryment                                                            |
+ | ANV.442.016.E63      | <Timbers/Steel> On-Site at Fabricatorment                                               |
 
