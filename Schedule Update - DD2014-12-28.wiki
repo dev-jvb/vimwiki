@@ -2,6 +2,8 @@
 
 Due to anticipated delays in receipt of vendor data, we are forecasting a 1 week delay, relative to the schedule baseline, for WPs 0006 and 0012. All other WP issue dates are unchanged.
 
+In addition, we are anticipating direction from the client to revise the IFF date for WP0013 (Control Room).
+
 = New Activities =
 
 The following activities were added to the schedule:
