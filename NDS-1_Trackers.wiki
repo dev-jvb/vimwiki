@@ -1,0 +1,24 @@
+| Workgroup                | Tracker                |
+| HVAC/FP Engineer         | Baker, Phill           |
+| Equipment Engineer       | McGrew, Dennis         |
+| Piping Engineer          | Casserd, Marcus        |
+| Piping Designer          | Baker, Brian           |
+| Process Engineer         | Stevens, Bruce         |
+| Control Systems Engineer | Guevara, Bill          |
+| Control Systems Designer | Schramer, Joe          |
+| Control Systems Designer | Geise, Josh            |
+| Electrical Engineer      | Salire, Cesar          |
+| Electrical Designer      | Ridenhour, Mark        |
+| Electrical Engineer      | Mabe, Earl             |
+| Electrical Engineer      | Bertagnolli, Tom       |
+| Structural Designer      | Maksin, Larry          |
+| Structural Engineer      | Wazny, Mirek           |
+| PC Cost Engineer         | Davis, John            |
+| Piping Designer          | Goodwin, Jared         |
+| Buyer/Expeditor          | Dyer, Michael          |
+| HVAC/FP Designer         | Dillman Nichols, Diana |
+| HVAC/FP Designer         | Butenschoen, Tom       |
+| Piping Engineer          | Olson, Bryan           |
+| Electrical Designer      | Hallinan, John         |
+| Structural Engineer      | Maddock, Ric           |
+

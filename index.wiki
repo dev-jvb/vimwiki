@@ -4,6 +4,9 @@
 [[PersonalAddressBook]]
 [[GitCommandReference]]
 [[EarnedValueReference]]
+[[MyReadingList]]
+[[MyMovieList]]
+
 
 
 [[Portfolio to Share with Kevin at Review]]

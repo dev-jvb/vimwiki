@@ -1,8 +1,9 @@
 Latest versions of the following:
-		[[file:///S:/caelus/106726/Project Controls/Change Management/CN21 Module Fabrication Schedule Shift IFR IFF/Live Files & Previous Revisions/|Graphic Schedule]]
-006 Report
-Procurement Backlog/Burndown
-Reporting Calendar
-Cost Report
-Rates and OT
-Change Log
+	[[file:///S:/Caelus/106726/Project Controls/Change Management/CN21 Module Fabrication Schedule Shift IFR IFF/Live Files & Previous Revisions/|IFF-IFC Table]]
+	[[file:///S:/Caelus/106726/Project Controls/Change Management/CN21 Module Fabrication Schedule Shift IFR IFF/Live Files & Previous Revisions/|Graphic Schedule]]
+	2015 Calendar
+	[[file:///C:/cygwin64/home/jdavis2/|Monthly Program - Project Calendar]]
+	Monthly S-Curve
+	Weekly PC Deck
+	018 Report
+	006 Report
