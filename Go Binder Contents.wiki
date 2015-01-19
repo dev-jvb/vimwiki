@@ -1,9 +1,20 @@
 Latest versions of the following:
+	2015 Calendar
+	Cost Report
+	Rates
+NDS-1
 	[[file:///S:/Caelus/106726/Project Controls/Change Management/CN21 Module Fabrication Schedule Shift IFR IFF/Live Files & Previous Revisions/|IFF-IFC Table]]
 	[[file:///S:/Caelus/106726/Project Controls/Change Management/CN21 Module Fabrication Schedule Shift IFR IFF/Live Files & Previous Revisions/|Graphic Schedule]]
-	2015 Calendar
 	[[file:///C:/cygwin64/home/jdavis2/|Monthly Program - Project Calendar]]
 	Monthly S-Curve
 	Weekly PC Deck
 	018 Report
 	006 Report
+
+OTPEX
+	IFF-IFC Table
+	Graphic Schedule
+	[[file:///C:/cygwin64/home/jdavis2/|Monthly Program - Project Calendar]]
+	Monthly S-Curve
+	Weekly PC Deck
+	018 Report
