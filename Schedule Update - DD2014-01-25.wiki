@@ -1,0 +1,19 @@
+The following activities were deleted from the schedule; the Pig Receiver and Launcher Closures were combined into a single MR.
+
+  ANV.442.003.E163	<Pig Launcher Closure 20"> MR Received in Procurement
+  ANV.442.003.E142	<Pig Launcher Closure 20"> Prepare RFQ Package
+  ANV.442.003.E153	<Pig Launcher Closure 20"> Issue RFQ
+  ANV.442.003.E134	<Pig Launcher Closure 20"> Vendor Provide Quotes
+  ANV.442.003.E136	<Pig Launcher Closure 20"> Prepare/Review Bid Tabs
+  ANV.442.003.E135	<Pig Launcher Closure 20"> Issue PO
+  ANV.442.003.E127	<Pig Launcher Closure 20"> Vendor Drawing Submittal
+  ANV.442.003.E147	<Pig Launcher Closure 20"> VDDR Received
+  ANV.442.003.E128	<Pig Launcher Closure 20">  Review Vendor Drawings (Anvil/Caelus)
+  ANV.442.003.E129	<Pig Launcher Closure 20"> Fabricate
+  ANV.442.003.E150	<Pig Launcher Closure 20"> Delivery
+  ANV.442.003.E131	<Pig Launcher Closure 20"> On-Site at Fabricator
+  
+  Schedule Update Notes
+
+  VDDR for Blowdown Liquids Pump is impacting IFF of WP0008 - Chemical Injection Module. At client's direction (Ben Anglen via Anna Badyoczek) removed the pump VDDR from the IFF chain. Package will issue with holds if necessary.
+
