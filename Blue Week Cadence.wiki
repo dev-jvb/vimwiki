@@ -32,6 +32,7 @@ Schedule Data Date
 * [ ] PC Leads Review cost report
 * [ ] Discipline leads submit narratives to PA
 * [ ] PL Reviews Monthly Management (Anvil) Report
+* [ ] Update Cost to Complete Analysis
 
 = Friday =
 * [ ] PA Compile Cost and Schedule report [[Bi Weekly Report Contents]]

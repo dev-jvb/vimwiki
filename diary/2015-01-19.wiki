@@ -1,3 +1,6 @@
 Arrive 0730.
 
+In PT, Changed all elements of CN05 and CN09 to 100% complete. Also change FCST Quantity to 2 to effectively lock them from further updates. CN05 and CN 09 were intended to cancel each other out but had not been fully earned.
+
+Out at 1700.
 

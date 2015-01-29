@@ -23,6 +23,7 @@ White Week Cadence
 
 = Thursday =
 * [ ] Review cost report
+* [ ] Update Cost to Complete Analysis
 * [ ] Discipline narratives due to PA
 * [ ] Send out reminder to update: Progress Tracking, Schedule Update and IPDMS 
 * [ ] Disciplines complete status reporting
