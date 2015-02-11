@@ -5,10 +5,8 @@ Schedule Data Date
 
 = Monday =
 * [ ] Prepare Labor Distributions for Brent, Mike, and Ron
-* [ ] Prepare FTE Deficit 4-week Look Back for Brent
 * [ ] Review 006 Reports for NDS and PGP, noting any major deficiencies
 * [ ] Review actual rates
-* [ ] Get VDDR Report from Don Tolliver x3430
 
 = Tuesday =
 * [ ] Run PSR; update any Issued POs.
@@ -33,6 +31,7 @@ Schedule Data Date
 * [ ] Discipline leads submit narratives to PA
 * [ ] PL Reviews Monthly Management (Anvil) Report
 * [ ] Update Cost to Complete Analysis
+* [ ] If monthly reporting week: Update Critical Path Analysis
 
 = Friday =
 * [ ] PA Compile Cost and Schedule report [[Bi Weekly Report Contents]]
@@ -49,4 +48,5 @@ Schedule Data Date
 * [ ] Prepare 4 week look ahead for NDS-1 Team Meeting; send to Discipline Leads for review (moved from Tuesday)
 * [ ] Publish MS Review Schedule for team (moved from Tuesday)
 * [ ] Publish Float Report for Brent (moved from Tuesday)
+* [ ] Complete and Approve Time Sheet
 

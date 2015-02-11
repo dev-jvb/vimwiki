@@ -1,6 +1,6 @@
 Ride Along
 The Lincoln Lawyer
-Nebraska
+-Nebraska
 -Dallas Buyers Club
 -American Hustle
 *Particle Fever
@@ -27,6 +27,7 @@ This is What Winning Looks Like
 Inside Germany's Sex Supermarkets
 -United States of Secrets
 War Made Easy
-Inside Job
+-Inside Job
 The Islamic State
-Real Steel
+-Real Steel
+The Imitation Game

@@ -5,6 +5,8 @@ White Week Cadence
 * [ ] Review 006 Reports for NDS and PGP, noting any major deficiencies
 * [ ] After 1300:
         * [ ] Prepare "zero-earned" report and distribute to team leads
+* [ ] Prepare updated IPDMS reports for Anna
+* [ ] Complete Time Sheet
 
 = Tuesday =
 * [ ] Run informational 014 and 006 reports for the prior period
@@ -12,12 +14,14 @@ White Week Cadence
 * [ ] Update [[file:///S:/Caelus/106726/Project Controls/Davis/Procurement Chart.xlsx|Procurement Chart]]
 * [ ] Update [[file:///F:/106726/106726 - NDS-1 - Overdue MRs.xlsx|Overdue MR Report]]
 * [ ] Update Team Meeting Deck
+* [ ] Complete Time Sheet
 
 11:00 - 12:00 OTP Team Meeting
 15:00 - 16:00 NDS-1 Team Meeting
 
 = Wednesday =
 * [ ] Cost report ready for review by PC Leads
+* [ ] Complete Time Sheet
 
 15:00 - 16:00 Caelus Program Coordination Meeting
 
@@ -27,9 +31,11 @@ White Week Cadence
 * [ ] Discipline narratives due to PA
 * [ ] Send out reminder to update: Progress Tracking, Schedule Update and IPDMS 
 * [ ] Disciplines complete status reporting
+* [ ] Complete Time Sheet
 
 = Friday =
 * [ ] PA Compiles Report
 * [ ] PL reviews report; approves for issue
 * [ ] PA Transmits Cost report
 * [ ] Disciplines complete schedule workbook updates and IPDMS updates
+* [ ] Complete and Approve Time Sheet

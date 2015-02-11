@@ -6,6 +6,7 @@
 [[EarnedValueReference]]
 [[MyReadingList]]
 [[MyMovieList]]
+[[ProjectControlsGlossary]]
 
 
 
@@ -16,7 +17,6 @@
         * [[BP Schedule Update Checklist|BP Schedule Update Checklist]]
         * [[Approved Change Notice|BP Approved Change Notice]]
         * [[Productivity Software]]
-        * 
         
 = [[Caelus]] =
 
