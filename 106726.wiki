@@ -45,6 +45,7 @@
 	* [[Schedule Update - DD2014-01-25]]
 		* [[c:/Users/jdavis2/Dropbox/vimwiki/Schedule Update Log - DD2015-01-25.wiki]]
 		* [[CriticalPathAnalysis_DD01252015]]
+	* [[Schedule Update - DD2015-02-08]]
 	 
 * Schedule Change Notices
 	* [[January2015]]

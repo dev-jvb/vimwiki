@@ -16,6 +16,7 @@ Schedule Data Date
 * [ ] Update [[file:///F:/106726/106726 - NDS-1 - Overdue MRs.xlsx|Overdue MR Report]]
 * [ ] Run final 014 and 006 reports for the reporting period
 * [ ] Update Project Controls deck for team meeting
+* [ ] Update Project Go Binder
 
 11:00 - 12:00 OTP Team Meeting
 15:00 - 16:00 NDS-1 Team Meeting

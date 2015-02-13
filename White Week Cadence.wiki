@@ -15,6 +15,7 @@ White Week Cadence
 * [ ] Update [[file:///F:/106726/106726 - NDS-1 - Overdue MRs.xlsx|Overdue MR Report]]
 * [ ] Update Team Meeting Deck
 * [ ] Complete Time Sheet
+* [ ] Update Project Go Binder
 
 11:00 - 12:00 OTP Team Meeting
 15:00 - 16:00 NDS-1 Team Meeting

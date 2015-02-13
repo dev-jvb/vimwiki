@@ -3,6 +3,7 @@ NOTE: It is necessary to pull data from Progress Tracker differently for Physica
 Update Physical Percent Complete
 
 1. Export from P6:
+      - Select Spreadhseet - (XLS) for the Export Format.
       - On Export Type screen, select Activities and Resource Assignments (top and bottom choices)
       - Select the project to export
       - Select the Progress Tracking Update Template
@@ -31,14 +32,6 @@ Update Physical Percent Complete
 4. Create a new tab (Sheet 2) in the export file.
 
 5. In Progress Tracker:
-     - Select the Summary Information tab
-     - Select the Program, Cleient, Job and Phase
-     - Group by Sub Job, Work Group, WBS and Schedule Activity ID.
-     - Hit Find Now.
-     - When the data is returned, click Edit, Select All (or Ctrl A)
-     - Click Edit, Copy (or Ctrl C). Click Yes to also copy the Column headings.
-
-6. In Progress Tracker:
      - Select the Summary Information tab
      - Select the Program, Cleient, Job and Phase
      - Group by Sub Job, Work Group, WBS and Schedule Activity ID.
