@@ -1,0 +1,12 @@
+= Change Management =
+
+Change is inevitable. Change Management is the process by which project change is documented and managed. Project change comes in two forms:
+	# Scope Change. New project scope, not included in the original budget.
+	# Trends. A Trend is used to document additional hours required to complete _known_ scope. Trends are not caused by additional scope. A common Trend is caused by in scope work taking more time than budgeted. This may be due to inefficiency or the work being more difficult than anticipated.
+
+Change impacts the project budget in different ways, depending on the type of Change and its status. Each project has three Budget values:
+	# Original Budget. This is the original budget as established in Anvil's Project Services Estimate (PSE).
+	# Current Budget. The current budget is the Original Budget plus approved Change Notices.
+	# Pending Budget. The Current Budget plus Pending Change Notices.
+
+In addition, the project also has a Trended Forecast compossed of the Current Budget plus Trend Change Notices. This can also be thought of as the budget for which Anvil has docuementation, whether it be Change or Trend.

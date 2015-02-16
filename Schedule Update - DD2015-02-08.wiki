@@ -1,0 +1,122 @@
+At the client's direction, Work Packages 20, 21 and 22 were cancelled. Consequently, the following activities were deleted from the schedule:
+
+| ANV.443.020.PMAC.501 | Prepare IFR Package                                                                         |
+| ANV.443.020.PMAC.521 | Prepare IFR Package - Producer Well Laterals Supports and Well Tree Platform                |
+| ANV.443.020.PMAC.503 | Print IFR Package                                                                           |
+| ANV.443.020.PMAC.523 | Print IFR Package - Producer Well Laterals Supports and Well Tree Platform                  |
+| ANV.443.020.PMAC.505 | Issue WP020 - Producer IFR Package                                                          |
+| ANV.443.020.PMAC.525 | Issue WP020 IFR Package - Producer Well Laterals Supports and Well Tree Platform            |
+| ANV.443.020.PMAC.507 | Review Fabrication Package                                                                  |
+| ANV.443.020.PMAC.517 | Review Package - Producer Well Laterals Supports and Well Tree Platform Fabrication Package |
+| ANV.443.020.PMAC.509 | Pick-Up  Client Comments                                                                    |
+| ANV.443.020.PMAC.519 | Pick-Up Client Comments - Producer Well Laterals Supports and Well Tree Platform            |
+| ANV.443.020.PMAC.529 | Checking by Alaska PEs / Stamping                                                           |
+| ANV.443.020.PMAC.539 | Checking by Alaska PEs / Stamping - Producer Well Laterals Supports and Well Tree Platform  |
+| ANV.443.020.PMAC.531 | Prepare Producer Well Laterals Supports and Well Tree Platform IFF Package                  |
+| ANV.443.020.PMAC.511 | Prepare IFC Package                                                                         |
+| ANV.443.020.PMAC.533 | Print Producer Well Laterals Supports and Well Tree Platform IFF Package                    |
+| ANV.443.020.PMAC.535 | Issue WP020 - Producer Well Laterals Supports and Well Tree Platform IFF Package            |
+| ANV.443.020.PMAC.513 | Print IFC Package                                                                           |
+| ANV.443.020.PMAC.515 | Issue WP020 - Producer IFC Package                                                          |
+| ANV.443.020.STRU.243 | Develop Structural Drawings                                                                 |
+| ANV.443.020.STRU.257 | Structural Drawing Check                                                                    |
+| ANV.443.020.STRU.241 | Prepare IFC Documentation / SOW                                                             |
+| ANV.443.020.PIPE.221 | Develop 3D Model                                                                            |
+| ANV.443.020.PIPE.231 | Develop Flexibility Calcs                                                                   |
+| ANV.443.020.PIPE.227 | Prepare Orthos                                                                              |
+| ANV.443.020.PIPE.223 | Final MTOs and BOMs                                                                         |
+| ANV.443.020.PIPE.225 | Prepare ISOs                                                                                |
+| ANV.443.020.PIPE.233 | Review Shop Drawings                                                                        |
+| ANV.443.020.PIPE.235 | Piping Drawing Check                                                                        |
+| ANV.443.020.PIPE.229 | Prepare SOW                                                                                 |
+| ANV.443.020.HVAC.209 | Develop HVAC/FP Basis of Design                                                             |
+| ANV.443.020.HVAC.213 | Prepare Datasheets / Orthos                                                                 |
+| ANV.443.020.HVAC.201 | Prepare Calcs - HVAC/FP                                                                     |
+| ANV.443.020.HVAC.205 | Prepare MRs                                                                                 |
+| ANV.443.020.HVAC.211 | Prepare SOW                                                                                 |
+| ANV.443.020.HVAC.215 | Mech Drawing Check                                                                          |
+| ANV.443.020.CSYS.113 | Develop Installation Drawings                                                               |
+| ANV.443.020.CSYS.109 | Perform Constructability                                                                    |
+| ANV.443.020.CSYS.127 | Controls Systems Selection                                                                  |
+| ANV.443.020.CSYS.117 | Develop Plan Drawings                                                                       |
+| ANV.443.020.CSYS.119 | Prepare MRs                                                                                 |
+| ANV.443.020.CSYS.111 | Prepare Data Sheets                                                                         |
+| ANV.443.020.CSYS.121 | Prepare Schedules & Lists                                                                   |
+| ANV.443.020.CSYS.123 | Prepare Schematics/wiring Diagrams                                                          |
+| ANV.443.020.CSYS.131 | Develop Loop Drawings                                                                       |
+| ANV.443.020.CSYS.125 | Control Systems Drawing Check                                                               |
+| ANV.443.021.PMAC.501 | Prepare IFR Package                                                                         |
+| ANV.443.021.PMAC.521 | Prepare IFR Package - Injector Well Laterals Supports and Well Tree Platform                |
+| ANV.443.021.PMAC.503 | Print IFR Package                                                                           |
+| ANV.443.021.PMAC.523 | Print IFR Package - Injector Well Laterals Supports and Well Tree Platform                  |
+| ANV.443.021.PMAC.505 | Issue WP021 - Injector IFR Package                                                          |
+| ANV.443.021.PMAC.525 | Issue IFR Package WP021 - Injector Well Laterals Supports and Well Tree Platform            |
+| ANV.443.021.PMAC.507 | Review Fabrication Package                                                                  |
+| ANV.443.021.PMAC.517 | Review Package - Injector Well Laterals Supports and Well Tree Platform Fabrication         |
+| ANV.443.021.PMAC.509 | Pick-Up  Client Comments                                                                    |
+| ANV.443.021.PMAC.519 | Pick-Up Client Comments - Injector Well Laterals Supports and Well Tree Platform            |
+| ANV.443.021.PMAC.529 | Checking by Alaska PEs / Stamping - Injector Well Laterals Supports and Well Tree Platform  |
+| ANV.443.021.PMAC.539 | Checking by Alaska PEs / Stamping                                                           |
+| ANV.443.021.PMAC.531 | Prepare IFF Package - Injector Well Laterals Supports and Well Tree Platform                |
+| ANV.443.021.PMAC.511 | Prepare IFC Package                                                                         |
+| ANV.443.021.PMAC.533 | Print IFF Package - Injector Well Laterals Supports and Well Tree Platform                  |
+| ANV.443.021.PMAC.535 | Issue IFF Package WP021 - Injector Well Laterals Supports and Well Tree Platform            |
+| ANV.443.021.PMAC.513 | Print IFC Package                                                                           |
+| ANV.443.021.PMAC.515 | Issue WP021 - Injector IFC Package                                                          |
+| ANV.443.021.STRU.243 | Develop Structural Drawings                                                                 |
+| ANV.443.021.STRU.257 | Structural Drawing Check                                                                    |
+| ANV.443.021.STRU.241 | Prepare IFC Documentation / SOW                                                             |
+| ANV.443.021.PIPE.221 | Develop 3D Model                                                                            |
+| ANV.443.021.PIPE.231 | Develop Flexibility Calcs                                                                   |
+| ANV.443.021.PIPE.225 | Prepare ISOs                                                                                |
+| ANV.443.021.PIPE.227 | Prepare Orthos                                                                              |
+| ANV.443.021.PIPE.235 | Piping Drawing Check                                                                        |
+| ANV.443.021.PIPE.229 | Prepare SOW                                                                                 |
+| ANV.443.021.PIPE.223 | Final MTOs and BOMs                                                                         |
+| ANV.443.021.PIPE.233 | Review Shop Drawings                                                                        |
+| ANV.443.021.HVAC.209 | Develop HVAC/FP Basis of Design                                                             |
+| ANV.443.021.HVAC.213 | Prepare Datasheets / Orthos                                                                 |
+| ANV.443.021.HVAC.201 | Prepare Calcs - HVAC/FP                                                                     |
+| ANV.443.021.HVAC.205 | Prepare MRs                                                                                 |
+| ANV.443.021.HVAC.211 | Prepare SOW                                                                                 |
+| ANV.443.021.HVAC.215 | Mech Drawing Check                                                                          |
+| ANV.443.021.CSYS.111 | Prepare Data Sheets                                                                         |
+| ANV.443.021.CSYS.113 | Develop Installation Drawings                                                               |
+| ANV.443.021.CSYS.117 | Develop Plan Drawings                                                                       |
+| ANV.443.021.CSYS.121 | Prepare Schedules & Lists                                                                   |
+| ANV.443.021.CSYS.123 | Prepare Schematics/wiring Diagrams                                                          |
+| ANV.443.021.CSYS.131 | Develop Loop Drawings                                                                       |
+| ANV.443.021.CSYS.127 | Controls Systems Selection                                                                  |
+| ANV.443.021.CSYS.109 | Perform Constructability                                                                    |
+| ANV.443.021.CSYS.119 | Prepare MRs                                                                                 |
+| ANV.443.021.CSYS.125 | Control Systems Drawing Check                                                               |
+| ANV.443.022.PMAC.501 | Prepare IFR Package                                                                         |
+| ANV.443.022.PMAC.503 | Print IFR Package                                                                           |
+| ANV.443.022.PMAC.505 | Issue WP022 - Pre-Production IFR Package                                                    |
+| ANV.443.022.PMAC.507 | Review Fabrication Package                                                                  |
+| ANV.443.022.PMAC.509 | Pick-Up  Client Comments                                                                    |
+| ANV.443.022.PMAC.519 | Checking by Alaska PEs / Stamping                                                           |
+| ANV.443.022.PMAC.511 | Prepare IFC Package                                                                         |
+| ANV.443.022.PMAC.513 | Print IFC Package                                                                           |
+| ANV.443.022.PMAC.515 | Issue WP022 - Pre-Production IFC Package                                                    |
+| ANV.443.022.STRU.243 | Develop Structural Drawings                                                                 |
+| ANV.443.022.STRU.257 | Structural Drawing Check                                                                    |
+| ANV.443.022.STRU.241 | Prepare IFC Documentation / SOW                                                             |
+| ANV.443.022.ELEC.145 | Develop Installation Details                                                                |
+| ANV.443.022.ELEC.141 | Prepare Panel Board Schedules                                                               |
+| ANV.443.022.ELEC.143 | Develop Single Lines                                                                        |
+| ANV.443.022.ELEC.149 | Electrical Drawing Check                                                                    |
+| ANV.443.022.ELEC.139 | Prepare SOW                                                                                 |
+| ANV.443.022.CSYS.109 | Perform Constructability                                                                    |
+| ANV.443.022.CSYS.119 | Prepare MRs                                                                                 |
+| ANV.443.022.CSYS.107 | Input to 3D Model                                                                           |
+| ANV.443.022.CSYS.111 | Prepare Data Sheets                                                                         |
+| ANV.443.022.CSYS.117 | Develop Plan Drawings                                                                       |
+| ANV.443.022.CSYS.123 | Prepare Schematics/wiring Diagrams                                                          |
+| ANV.443.022.CSYS.127 | Controls Systems Selection                                                                  |
+| ANV.443.022.CSYS.129 | Review Vendor Documents                                                                     |
+| ANV.443.022.CSYS.121 | Prepare Schedules & Lists                                                                   |
+| ANV.443.022.CSYS.125 | Control Systems Drawing Check                                                               |
+
+
+

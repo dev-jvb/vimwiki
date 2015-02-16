@@ -1,0 +1,235 @@
+Scheduling/Leveling Report - 01/29/2015 - PM.exe
+================================================
+
+	Default Project..................................................106726
+
+	Projects: 
+		106726...........................................................NDS-1
+
+Scheduling/Leveling Settings:
+-----------------------------
+	General
+	-------
+	Scheduling ......................................................Yes
+	Leveling ........................................................No
+	Ignore relationships to and from other projects .................No
+	Make open-ended activities critical .............................No
+	Use Expected Finish Dates .......................................No
+	Schedule automatically when a change affects dates ..............No
+	Level resources during scheduling ...............................No
+	Recalculate assignment costs after scheduling ...................No
+	When scheduling progressed activities use .......................Retained Logic
+	Calculate start-to-start lag from ...............................Early Start
+	Define critical activities as Total Float less than or equal to .0
+	Compute Total Float As ..........................................Finish Float
+	Calendar for scheduling Relationship Lag ........................Successor Activity Calendar
+
+	Advanced
+	--------
+	Calculate multiple float paths...................................No
+
+Statistics:
+-----------
+	# Projects.......................................................1
+	# Activities.....................................................1424
+	# Not Started....................................................445
+	# In Progress....................................................414
+	# Completed......................................................565
+	# Relationships..................................................2292
+	# Activities with Constraint.....................................25
+		Project:	106726	Activity:	ANV.442.003.PMAC.585	60% Model Review - WP 003, WP 009, WP 014
+		Project:	106726	Activity:	ANV.442.003.PMAC.605	Pigging Module Material On-Site at Fabricator (12/10/14)
+		Project:	106726	Activity:	ANV.442.006.PMAC.515	Issue WP006 - VFD 1 & 5kV Switchgear IFF Package
+		Project:	106726	Activity:	ANV.442.006.PMAC.600	60% Model Review - WP 006, WP 011
+		Project:	106726	Activity:	ANV.442.006.PMAC.625	VFD 1 & 5 kV Switchgear Material On-Site at Fabricator (2/4/15)
+		Project:	106726	Activity:	ANV.442.007.PMAC.645	E&I Module Material On-Site at Fabricator (5/20/15)
+		Project:	106726	Activity:	ANV.442.008.PMAC.565	Chemical Injection Material On-Site at Fabricator (4/8/15)
+		Project:	106726	Activity:	ANV.442.008.PMAC.625	60% Model Review - WP 008, WP 010
+		Project:	106726	Activity:	ANV.442.009.PMAC.665	Blowdown Tank Material On-Site Fabricator (12/24/14)
+		Project:	106726	Activity:	ANV.442.010.PMAC.045	Project Placed On-Hold Project 1/13/14
+		Project:	106726	Activity:	ANV.442.010.PMAC.055	Restart Project 5/5/14
+		Project:	106726	Activity:	ANV.442.010.PMAC.645	60% Model Review - WP 007, WP 015
+		Project:	106726	Activity:	ANV.442.010.PMAC.705	ESD & Meter Module Material On-Site at Fabricator (4/8/15)
+		Project:	106726	Activity:	ANV.442.011.PMAC.705	35 kV Transformer Platform Material On-Site at Fabricator (3/11/15)
+		Project:	106726	Activity:	ANV.442.012.PMAC.665	60% Model Review - WP 012, WP 013, WP 016
+		Project:	106726	Activity:	ANV.442.012.PMAC.725	35 kV Switchgear Module Material On-Site at Fabricator (3/18/15)
+		Project:	106726	Activity:	ANV.442.013.PMAC.745	Control Room Material On-Site at Fabricator (2/18/15)
+		Project:	106726	Activity:	ANV.442.014.PMAC.765	Well Row Pipe Rack Material On-Site at Fabricator (1/7/15)
+		Project:	106726	Activity:	ANV.442.015.PMAC.785	Interconnecting Pipe Rack Material On-Site at Fabricator (7/1/15)
+		Project:	106726	Activity:	ANV.500.101	Install VSMs
+		Project:	106726	Activity:	ANV.500.900	Mechanically Complete
+		Project:	106726	Activity:	ANV.500.910	First Oil In
+		Project:	106726	Activity:	ANV.500.920	Drill Rig On-site
+		Project:	106726	Activity:	ANV.500.930	Begin Module Delivery
+		Project:	106726	Activity:	ANV.500.940	All Modules On-site
+
+Errors:
+-------
+Warnings:
+---------
+	Activities without predecessors..................................1
+		Project:	106726	Activity:	ANV.442.010.PMAC.915	NTP
+
+	Activities without successors....................................1
+		Project:	106726	Activity:	ANV.500.910	First Oil In
+
+	Out-of-sequence activities.......................................0
+
+	Activities with Actual Dates > Data Date.........................0
+
+	Milestone Activities with invalid relationships..................0
+
+Scheduling/Leveling Results:
+----------------------------
+	# Projects Scheduled/Leveled.....................................1
+	# Activities Scheduled/Leveled...................................1424
+	# Relationships with other projects..............................18
+	Data Date........................................................01/25/2015
+	Earliest Early Start Date........................................01/25/2015
+	Latest Early Finish Date.........................................06/01/2016
+Exceptions:
+-----------
+	Critical Activities..............................................128
+		Project:	106726	Activity:	ANV.442.003.E102	<N1-P04 Large Bore Valves> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.003.E108	<N1-P04 Pressure Safety Valves> Fabricate
+		Project:	106726	Activity:	ANV.442.003.E110	<N1-P04 Large Bore Valves> Delivery
+		Project:	106726	Activity:	ANV.442.003.E117	<Pig Launcher & Receiver Closure 14"> Vendor Drawing Submittal
+		Project:	106726	Activity:	ANV.442.003.E118	<Pig Launcher & Receiver Closure 14">  Review Vendor Drawings (Anvil/Caelus)
+		Project:	106726	Activity:	ANV.442.003.E119	<Pig Launcher & Receiver Closure 14"> Fabricate
+		Project:	106726	Activity:	ANV.442.003.E120	<Pig Launcher & Receiver Closure 14"> Delivery
+		Project:	106726	Activity:	ANV.442.003.E121	<Pig Launcher & Receiver Closure 14"> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.003.E122	<N1-P04 Pressure Safety Valves> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.003.E137	<Pig Launcher & Receiver Closure 14"> VDDR Received
+		Project:	106726	Activity:	ANV.442.003.E140	<N1-P04 Pressure Safety Valves> Delivery
+		Project:	106726	Activity:	ANV.442.003.E148	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2> Fabricate
+		Project:	106726	Activity:	ANV.442.003.E152	<N1-P04 High Yield Pipe & Fittings> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.003.E161	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2> Vendor Drawing Submittal
+		Project:	106726	Activity:	ANV.442.003.E162	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2>  Review Vendor Drawings (Anvil/Caelus)
+		Project:	106726	Activity:	ANV.442.003.E172	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.003.E180	<N1-P04 High Yield Pipe & Fittings> Delivery
+		Project:	106726	Activity:	ANV.442.003.E210	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2> Delivery
+		Project:	106726	Activity:	ANV.442.003.E251	<N1-P04 VALVE, 3"&4" 300LB VALVE BALL DBB FP B2RD-LN2> VDDR Received
+		Project:	106726	Activity:	ANV.442.003.E436	<N1-P04 Fans> Fabricate
+		Project:	106726	Activity:	ANV.442.003.E437	<N1-P04 Fans> Delivery
+		Project:	106726	Activity:	ANV.442.003.E438	<N1-P04 Fans> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.003.E445	<N1-P04 Fire Suppression System>  Review Vendor Drawings (Anvil/Caelus)
+		Project:	106726	Activity:	ANV.442.003.E446	<N1-P04 Fire Suppression System> Fabricate
+		Project:	106726	Activity:	ANV.442.003.E447	<N1-P04 Fire Suppression System> Delivery
+		Project:	106726	Activity:	ANV.442.003.E448	<N1-P04 Fire Suppression System> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.003.E456	<N1-P04 Heaters> Fabricate
+		Project:	106726	Activity:	ANV.442.003.E457	<N1-P04 Heaters> Delivery
+		Project:	106726	Activity:	ANV.442.003.E458	<N1-P04 Heaters> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.003.E476	<Electrical Bulk Materials> Fabricate
+		Project:	106726	Activity:	ANV.442.003.E477	<Electrical Bulk Materials> Delivery
+		Project:	106726	Activity:	ANV.442.003.E478	<Electrical Bulk Materials> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.003.E82	<N1-P04 Large Bore Valves>  Review Vendor Drawings (Anvil/Caelus)
+		Project:	106726	Activity:	ANV.442.003.E98	<N1-P04 Large Bore Valves> Fabricate
+		Project:	106726	Activity:	ANV.442.003.PMAC.605	Pigging Module Material On-Site at Fabricator (12/10/14)
+		Project:	106726	Activity:	ANV.442.006.E065	<5Kv Switchgear> Vendor Drawing Submittal
+		Project:	106726	Activity:	ANV.442.006.E066	<5Kv Switchgear>  Review Vendor Drawings (Anvil/Caelus)
+		Project:	106726	Activity:	ANV.442.006.E075	<5Kv Switchgear> VDDR Received
+		Project:	106726	Activity:	ANV.442.006.E077	<5Kv Switchgear> Fabricate
+		Project:	106726	Activity:	ANV.442.006.E078	<5Kv Switchgear> Delivery
+		Project:	106726	Activity:	ANV.442.006.E079	<5Kv Switchgear> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.006.E148	<VFD Air Handler Unit> Fabricate
+		Project:	106726	Activity:	ANV.442.006.E192	<VFD Air Handler Unit>  Review Vendor Drawings (Anvil/Caelus)
+		Project:	106726	Activity:	ANV.442.006.E202	<VFD Air Handler Unit> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.006.E260	<VFD Air Handler Unit> Delivery
+		Project:	106726	Activity:	ANV.442.006.HVAC.207	Review Vendor Drawings
+		Project:	106726	Activity:	ANV.442.006.PMAC.625	VFD 1 & 5 kV Switchgear Material On-Site at Fabricator (2/4/15)
+		Project:	106726	Activity:	ANV.442.007.E026	<480V MCC> Vendor Drawing Submittal
+		Project:	106726	Activity:	ANV.442.007.E027	<480V MCC>  Review Vendor Drawings (Anvil/Caelus)
+		Project:	106726	Activity:	ANV.442.007.E028	<480V MCC> Fabricate
+		Project:	106726	Activity:	ANV.442.007.E029	<480V MCC> Delivery
+		Project:	106726	Activity:	ANV.442.007.E030	<480V MCC> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.007.E066	<480V MCC> VDDR Received
+		Project:	106726	Activity:	ANV.442.007.ELEC.135	Prepare MR
+		Project:	106726	Activity:	ANV.442.007.PMAC.645	E&I Module Material On-Site at Fabricator (5/20/15)
+		Project:	106726	Activity:	ANV.442.008.E008	<Choke Valve 4" Angle Body> Fabricate
+		Project:	106726	Activity:	ANV.442.008.E009	<Choke Valve 4" Angle Body> Delivery
+		Project:	106726	Activity:	ANV.442.008.E011	<Choke Valve 4" Angle Body> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.008.E059	<Chemical Injection Skids (5)> Fabricate
+		Project:	106726	Activity:	ANV.442.008.E060	<Chemical Injection Skids (5)> Delivery
+		Project:	106726	Activity:	ANV.442.008.E061	<Chemical Injection Skids (5)> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.008.E069	<Blowdown Liquids Pump> Fabricate
+		Project:	106726	Activity:	ANV.442.008.E070	<Blowdown Liquids Pump> Delivery
+		Project:	106726	Activity:	ANV.442.008.E071	<Blowdown Liquids Pump> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.008.E099	<N2 Generation> Fabricate
+		Project:	106726	Activity:	ANV.442.008.E100	<N2 Generation> Delivery
+		Project:	106726	Activity:	ANV.442.008.E101	<N2 Generation> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.008.PMAC.565	Chemical Injection Material On-Site at Fabricator (4/8/15)
+		Project:	106726	Activity:	ANV.442.010.CSYS.119	Prepare MRs
+		Project:	106726	Activity:	ANV.442.010.E089	<Valve, Plug, 3&4", DBB> Delivery
+		Project:	106726	Activity:	ANV.442.010.E098	<Valve, Plug, 3&4", DBB> Fabricate
+		Project:	106726	Activity:	ANV.442.010.E107	<Shutoff Valve>  Review Vendor Drawings (Anvil/Caelus)
+		Project:	106726	Activity:	ANV.442.010.E109	<Shutoff Valve> Delivery
+		Project:	106726	Activity:	ANV.442.010.E118	<Shutoff Valve> Fabricate
+		Project:	106726	Activity:	ANV.442.010.E119	<Shutoff Valve> Delivery
+		Project:	106726	Activity:	ANV.442.010.E120	<Valve, Plug, 3&4", DBB> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.010.E138	<Shutoff Valve> Fabricate
+		Project:	106726	Activity:	ANV.442.010.E170	<Shutoff Valve> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.010.E190	<Shutoff Valve> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.010.E226	<Shutoff Valve> Vendor Drawing Submittal
+		Project:	106726	Activity:	ANV.442.010.E236	<Shutoff Valve> VDDR Received
+		Project:	106726	Activity:	ANV.442.010.E45	<3-Phase Meter> Fabricate
+		Project:	106726	Activity:	ANV.442.010.E46	<3-Phase Meter> Delivery
+		Project:	106726	Activity:	ANV.442.010.E47	<3-Phase Meter> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.010.PMAC.645	60% Model Review - WP 007, WP 015
+		Project:	106726	Activity:	ANV.442.010.PMAC.705	ESD & Meter Module Material On-Site at Fabricator (4/8/15)
+		Project:	106726	Activity:	ANV.442.011.PMAC.705	35 kV Transformer Platform Material On-Site at Fabricator (3/11/15)
+		Project:	106726	Activity:	ANV.442.012.E057	<35Kv Switchgear> Fabricate
+		Project:	106726	Activity:	ANV.442.012.E058	<35Kv Switchgear> Delivery
+		Project:	106726	Activity:	ANV.442.012.E059	<35Kv Switchgear> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.012.E158	<35kV Switchgear Module Air Handler Unit> Fabricate
+		Project:	106726	Activity:	ANV.442.012.E222	<35kV Switchgear Module Air Handler Unit> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.012.E290	<35kV Switchgear Module Air Handler Unit> Delivery
+		Project:	106726	Activity:	ANV.442.012.ELEC.135	Prepare MR
+		Project:	106726	Activity:	ANV.442.012.PMAC.725	35 kV Switchgear Module Material On-Site at Fabricator (3/18/15)
+		Project:	106726	Activity:	ANV.442.013.E079	<Instrument Air> Fabricate
+		Project:	106726	Activity:	ANV.442.013.E080	<Instrument Air> Delivery
+		Project:	106726	Activity:	ANV.442.013.E081	<Instrument Air> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.013.PMAC.745	Control Room Material On-Site at Fabricator (2/18/15)
+		Project:	106726	Activity:	ANV.442.014.E106	<WR Plug Valves> Vendor Drawing Submittal
+		Project:	106726	Activity:	ANV.442.014.E107	<WR Plug Valves>  Review Vendor Drawings (Anvil/Caelus)
+		Project:	106726	Activity:	ANV.442.014.E108	<WR Plug Valves> Fabricate
+		Project:	106726	Activity:	ANV.442.014.E109	<WR Plug Valves> Delivery
+		Project:	106726	Activity:	ANV.442.014.E110	<WR Plug Valves> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.014.E116	<Trunk Line Valves> Vendor Drawing Submittal
+		Project:	106726	Activity:	ANV.442.014.E117	<Trunk Line Valves>  Review Vendor Drawings (Anvil/Caelus)
+		Project:	106726	Activity:	ANV.442.014.E118	<Trunk Line Valves> Fabricate
+		Project:	106726	Activity:	ANV.442.014.E119	<Trunk Line Valves> Delivery
+		Project:	106726	Activity:	ANV.442.014.E126	<WR Plug Valves> VDDR Received
+		Project:	106726	Activity:	ANV.442.014.E130	<Trunk Line Valves> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.014.E136	<Trunk Line Valves> VDDR Received
+		Project:	106726	Activity:	ANV.442.014.E158	<N1-PR1xx High Yield Pipe & Fittings> Fabricate
+		Project:	106726	Activity:	ANV.442.014.E182	<N1-PR1xx High Yield Pipe & Fittings>  Review Vendor Drawings (Anvil/Caelus)
+		Project:	106726	Activity:	ANV.442.014.E192	<N1-PR1xx High Yield Pipe & Fittings> On-Site at Fabricator
+		Project:	106726	Activity:	ANV.442.014.E201	<N1-PR1xx High Yield Pipe & Fittings> Vendor Drawing Submittal
+		Project:	106726	Activity:	ANV.442.014.E221	<N1-PR1xx High Yield Pipe & Fittings> VDDR Received
+		Project:	106726	Activity:	ANV.442.014.E240	<N1-PR1xx High Yield Pipe & Fittings> Delivery
+		Project:	106726	Activity:	ANV.442.014.PMAC.765	Well Row Pipe Rack Material On-Site at Fabricator (1/7/15)
+		Project:	106726	Activity:	ANV.442.015.PMAC.785	Interconnecting Pipe Rack Material On-Site at Fabricator (7/1/15)
+		Project:	106726	Activity:	ANV.442.016.FAB.241	Buried Utiliway Delivery
+		Project:	106726	Activity:	ANV.442.016.FAB.251	Buried Utiliway On-Site
+		Project:	106726	Activity:	ANV.500.101	Install VSMs
+		Project:	106726	Activity:	ANV.500.272	Set Well Houses/Install Thermosyphons
+		Project:	106726	Activity:	ANV.500.900	Mechanically Complete
+		Project:	106726	Activity:	ANV.500.910	First Oil In
+		Project:	106726	Activity:	ANV.500.920	Drill Rig On-site
+		Project:	106726	Activity:	ANV.500.930	Begin Module Delivery
+		Project:	106726	Activity:	ANV.500.940	All Modules On-site
+
+	Activities with unsatisfied constraints..........................8
+		Project:	106726	Activity:	ANV.442.003.PMAC.605	Pigging Module Material On-Site at Fabricator (12/10/14)
+		Project:	106726	Activity:	ANV.442.006.PMAC.625	VFD 1 & 5 kV Switchgear Material On-Site at Fabricator (2/4/15)
+		Project:	106726	Activity:	ANV.442.007.PMAC.645	E&I Module Material On-Site at Fabricator (5/20/15)
+		Project:	106726	Activity:	ANV.442.008.PMAC.565	Chemical Injection Material On-Site at Fabricator (4/8/15)
+		Project:	106726	Activity:	ANV.442.010.PMAC.705	ESD & Meter Module Material On-Site at Fabricator (4/8/15)
+		Project:	106726	Activity:	ANV.442.012.PMAC.725	35 kV Switchgear Module Material On-Site at Fabricator (3/18/15)
+		Project:	106726	Activity:	ANV.442.013.PMAC.745	Control Room Material On-Site at Fabricator (2/18/15)
+		Project:	106726	Activity:	ANV.442.014.PMAC.765	Well Row Pipe Rack Material On-Site at Fabricator (1/7/15)
+
+	Activities with unsatisfied relationships........................0
+
+	Activities with external dates...................................0
+

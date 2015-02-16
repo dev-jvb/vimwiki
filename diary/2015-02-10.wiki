@@ -1,0 +1,13 @@
+Arrive 0800.
+
+Met with Larry and Mirek to discuss Trended Variance issues. Good discussion about EHTC, Trends and charging. Mirek did allow that there may be some hours that were charged in the wrong places. Explained that one should always charge where they are working. If a charge element is not open, contact PC and they will open it for you as needed. Also explained that charging to the wrong place could be construed as fraud. Discussed T&M vs. Fixed Price contracts and that Anvil does not do well on FP contracts due to the need to tightly manage change. Larry and Mirek will develop a list of Trend candidates with hours to document their variance.
+
+Spoke with Dave Cunningham re: EHTC and EAC. Dave will review EHTC by end of day.
+
+Learned that Earl Mabe is no longer with Anvil. Nate LaValley will be F&G PoC going forward.
+
+Lesson Learned - Do not rely on future savings to offset short-term deficits. The later work may be cancelled; negating the savings.
+
+Updated schedule for Key MRs with data from IPDMS.
+
+Out at 1700.

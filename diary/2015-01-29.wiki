@@ -1,0 +1,15 @@
+Arrive 0730.
+
+Checked with Kent on status of receipt of MR A10846 and A10979. Kent is pretty sure A10846 is substantially received; unsure of the other. There is no mechanism for GCI to inform Anvil when items are received. Is there some mechanism in CAPPS? Kent will investigate.
+
+Cleaned up schedule log issues. [[c:/Users/jdavis2/Dropbox/vimwiki/Schedule Update Log - DD2015-01-25.wiki]]
+
+Received word from Ben via Anna that the Control Room IFF WP0013 will be delayed. Revised schedule to reflect change.
+
+Completed schedule update and produced report materials.
+
+Prepared and submitted Critical Path Analysis statement for Monthly Report.
+
+Updated graphic schedule with Anna.
+
+Out at 1630.

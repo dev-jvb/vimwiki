@@ -1,0 +1,5 @@
+EAC:: Estimate at Completion. Actual Hours plus Estimated Hours to complete (EHTC)
+Trended Forecast:: The Pending Budget plus Trends.
+Pending Budget:: The Current Budget plus Pending change Notices.
+Current Budget:: The Original Budget plus Approved Change Notices.
+Trended Variance:: Trended Forecast minus EAC.

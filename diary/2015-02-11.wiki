@@ -1,0 +1,11 @@
+Arrive 0745.
+
+Brian Baker looking for a way to search past timesheets on the basi sof the Notes field. Per Aaron Rockwell, no facility to search on notes, but can view past timesheets with notes field in the 017 report.
+
+Updated schedule. Removed WP 0020, 0021, 0022.
+
+Produced schedule deliverables for performance report.
+
+Reduced EHTC for WP 0020, 0021, and 0022 to zero with exception of activities related to MRs. Was 2462 hours; is now 133 hours.
+
+Out at 1700.

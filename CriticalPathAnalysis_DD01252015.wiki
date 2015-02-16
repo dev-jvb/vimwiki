@@ -1,0 +1,8 @@
+During this reporting period, Doyon Anvil issued WP0011 - 35kV Transformer Platform on time on January 28.
+
+Points of concern in the schedule are:
+
+	* WP0008 - Chemical Injection Tank - VDDR for Blowdown Liquids Pump put the IFF date at risk. At the client's direction (Ben Anglen via Anna Badyoczek) removed the pump VDDR from the IFF chain. Package will issue on time with holds if necessary.
+	* WP0013 - Control Room - Per client direction (Ben Anglen) this package will be issued 2 weeks after receipt of data from GIS. Added a milestone to indicate receipt of electrical loads data and a 2 week duration activity to incorporate the data into the IFF package. Assuming that we receive the data on 2/2, the earliest IFF data is 2/18/2015.
+
+The overall project critical path remains through Work Package 17 (On Pad Piling), fabrication and installation of the VSMs.

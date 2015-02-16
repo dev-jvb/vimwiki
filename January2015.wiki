@@ -1,0 +1,9 @@
+The following scheudle changes were made during January 2015.
+
+On December 31, 2014, It was agreed that WP0006 and WP0012 would Issue for Fabrication on 2/11/2015. This is a 1 week slide from the IFA Baseline IFF date of 2/4/2015. This slide is to accommodate incorporation of VDDR information for the Air Handling Units. On February 2, an additional slide from 2/4/2015 to 2/25/2015 to reduce/eliminate engineering holds in the work packages was agreed to.
+
+On January 5, 2015, it was agreed that WP0013 would Issue for Fabrication on 2/4/2015. This is a 4 week slide from the IFA Baseline IFF date of 1/7/2015. This chang eis to allow time for incorporation of information from GIS to reduce the engineering holds in the work package.
+
+On January 28, 2015, Anvil received direction from Caelus to not issue WP0013 until all input from GIS is received. It was agreed that Anvil would require 2 weeks after receipt of the HVAC I/O and electrical loads to IFF the work package. The IFF date was changed from 2/4/2015 to 2/18/2015 (unde rthat assumption that Anvil would receive the required data by 2/4/2015. (The material has not yet been received and the IFF date is at risk for further delay.)
+
+On February 4, it was agreed to change the IFF date for WP0008 and WP0010 from 2/2/5/2015 to 3/4/2015. This change is to avoid the need to release 4 IFF Packages in the same week.

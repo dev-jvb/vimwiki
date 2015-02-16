@@ -1,0 +1,20 @@
+= Estimated Hours to Complete (EHTC) =
+
+== Definition ==
+EHTC is the estimated number of hours to be expended (burned) to complete the remaining known work. One can also think of it as the number of hours that are expecte dto be charge dto the job to complete the known work. EHTC should account for known inefficiencies in the completion of the work.
+
+At the beginning of a project, on day 0, the EHTC is equal to the [[Change Management|Original Budget]] hours. Once work begins, the EHTC should be re-estimated at each reporting period on the basis of the effort required to complete the remaining known work.
+
+As the project progresses, the EHTC, when added to the actual hours to date, comprises the project's Estimate at Completion (EAC.) The EAC is frequently compared to the [[Change Management|Trended Forecast]] to identify a Trended Variance that indicates that the project will finish above or below the documented budget.
+
+== How to determine the EHTC ==
+After objectively determining the Percent Complete for each element of the known scope, one should objectively evaluate the remaining effort required to complete the known work, taking into account presumed efficiency and the degree of difficulty o fthe remaining known work. Do not take into account the hours spent to date; these are sunk hours. Also do not take into account any speculation about additional scope or work that is not defined.
+
+One should not determine EHTC on the basis of assigned manpower. The following is not correct:
+
+	I have 3 people assigned to the project full time for 4 weeks, therefore my EHTC is:
+		$ 3 x 40 x 4 = 480 hours. $
+
+Again, EHTC is an _Objective_ estimate of the effort required to complete the _known_ work.
+
+Once the EHTC is determined, one should allocate these hours to the available resources in the [[EHTC Forecasting Tool]] in a manner that supports the project schedule.

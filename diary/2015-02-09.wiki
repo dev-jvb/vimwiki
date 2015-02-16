@@ -1,0 +1,12 @@
+Arrive 0800.
+
+At direction of Caelus, we are to cancel WP0020,21 and 22.
+	Remaining Budgets (dollars from Cost Report, Hours from PT):
+		WP0020 - $100143, 2429 - 1460 = 969 hours
+		WP0021 - $106648, 1859 - 916 = 943 hours
+		WP0022 - $71694, 856 - 114 = 742 hours
+Discussed with Justin. Concluded that we should give back the difference between the Pending Budget Dollars and tke Actual $ from the cost report. (Less the value of the hours needed to complete the associated MRs.)	
+
+Direction from Ben to allow Control Room WP to continue to slide until GIS gets data to Anvil.
+
+Out at 1630.
