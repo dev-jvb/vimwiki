@@ -1,0 +1,11 @@
+Arrive 0800.
+
+Revised Cost to Complete Analysis to reflect CN 32 credit of $191911. Out of Money date is WE 3/27 for NDS-1. No change to OTPEX; Out of Money data remains WE 5/8.
+
+Received an invitation to join Ross Warne for an informal lunch on Wednesday, 2/25.
+
+Zeroed out HVAC EHTC in WP20-22 in anticipation of merging of CN32 by Tom.
+
+Merged CN32 into budget. Has some issues with negative earned in WP22. Might be due to 100% earning the negative budget. Changed to 0%; waiting for refresh to reporting.
+
+Out at 1630. Off to Mom & Dad's to troubleshoot printer problem.

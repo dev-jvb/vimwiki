@@ -1,0 +1,24 @@
+Arrive 0730.
+
+Brief talk with Mike Dyer. He is unsure of his EHTC at this time. Quyen is now "cherry-picking" line items on POs as opposed to cancelling the entire order. This is consuming a lot of effort.
+
+Discussed plans for reducing EHTC on WP 20 - 22 with Tom.
+
+Attended Caelus Conference Call.
+	* Lessons Learned to be a recurring agenda item for weekly team meeting. Focus on WWW/TALA.
+	* Schedule still has some uncertainty around VDDR dates. Use best estimates and assume IFF = VDDR +2W.
+	* EHTC Do we need to capture "churn" time associated with Procurement stoppage in a CN.  Agreed that hours to remove IFF package holds should NOT be included in current EHTC. Limit the EHTC scope to include finishing the packages with identified holds.
+	* There is a possibility that Quyen will be in Bellingham next week.
+	* Document Control issues contributing to delays in return of VDDR to vendors.
+	* [ ] Update funding forecast to see when we run out of money. (Pending update of budgets after WP cancellation.)
+	* Lesson Learned - We need to better document our estimate assumptions (e.g. number of drawings.)
+
+Per Tom: He had a conversation with Mark Ridenhour and Kim Thompson re actuals charged to WP22 last week. This package was cancelled. Gist of the conversation was that the hours got charged because they heard tha the WP was cancelled. Major FOUL. Sent an email to Kim, Diane Maurer and Mark asking where those hours really should be. Looked in PT and saw no significant progress for the actuals charged. Tom will be locking the WBS. Why does anyone think this would be OK?
+
+Justin and I had a conference call with Kevin to outline the situation.
+
+Talked to Mark and he will provide a breakdown of where Kim and Diane' shours should be properly distributed. Mark's expressed concern was that the other packages CPIs would take a hit. Explained that if that is the reality, we need to see that.
+
+Made transfers per Mark Ridenhour's email.
+
+Out at 1700.

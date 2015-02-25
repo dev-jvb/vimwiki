@@ -1,0 +1,23 @@
+Arrive 0750.
+
+Asked Jim Eaton about Trending Utility. It's in PSE under the Tools menu. Only works at the SubJob level; not the WBS level.
+
+Shelving Schedule CN for January. Will continue to document slides. Added a discussion of schedule change management going forward to suggested agenda for Caelus visit tomorrow.
+
+Updated schedule with Progress data from PT.
+
+Attended NDS-1 Weekly Team Meeting.
+Per Caelus direction; there are to be no holds on IFF packages.
+
+IFF Dates:
+	WP0006 expected to IFF 3/6/15; All material to PA 3/4/15. All disciplines Green.
+	WP0012 IFF 3/13/15; All material to PA 3/11/15. All disciplines Green
+	WP0010 IFF 3/20/15; All material to PA 3/18/15. CSYS Yellow (checking manpower.)
+	WP0008 IFF 3/27/15; All material to PA 3/25.15. CSYS Yelloe (checking manpower.)
+	WP0013 - Still waiting for wiring diagram from GIS; continue to push.
+	
+CSYS/E will be tuning up EHTC tonight or first thing tomorrow am. May impact EAC. Re-check in the morning.
+
+Out at 1630.
+
+

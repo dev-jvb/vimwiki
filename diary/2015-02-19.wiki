@@ -1,0 +1,24 @@
+Arrive 0800.
+
+Advised Tom that Electrical Designer hours were transferred off of WP22 last night.
+
+Contacted Andrew McMannis to see if the 30 hours of Equipment Engineer EHTC in WP09 is still needed as the WP has been cancelled. Andrew will consult with Dennis McGrew and advise.
+
+Attended meeting with CSYS re OTPEX Trednad Variance. Much ground covered. Including, but not limited to:
+	* Time being charged to the wrong WP to protect others.
+	* Manpower brought on too early resulting in hours burned with little to no earned. (Then why were they brough on early? To meet perceived staffing demands.)
+	* Poor communication and coordination between offices and disciplines resulted in much wasted effort.
+	* Lesson Learned - don't engage CSYS until other discipline's work is advanced enough for them to be effective.
+	* Lesson Learned - insufficient time allotted to prepare PSE. Only 3 days.
+	* Lesson Learned - Manage & Coordinate budget was stripped from the project. Unclear if this was by client or Anvil management.
+	* CSYS statuses at 1:1 until 50% complete. This is SOP for this group.
+
+Attended meeting with CSYS, STRU and ELEC to discuss EHTC on WP 20-22. Some concern about being able to justify the amount of reported earned.
+Some Lessons Learned:
+	* Too many WBSs creates confusion about WP scope.
+	* A WBS Dictionary would be helpful to better define WP scope and communicate the scope to the team.
+	* More time is needed during estimating to allocate budget properly and document assumptions.
+	* Don't earn outside of packages where you are burning. Skews the earned values.
+	* We probably should have done inter-work package budget transfers when needed early on. This would make things cleaner when work packages get cancelled.
+
+Out at 1700.

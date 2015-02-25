@@ -1,3 +1,14 @@
 Arrive 0730.
 
+Install vim-fugitive plugin.
 
+Loaned Tom my Primavera 102 book.
+
+Updated NDS-2 Outstanding MR Report for Anna.
+
+Met with Justin and Kevin for my annual review. Good marks across the board; good feedback. May be future opportunities in Billings and/or Anchorage. Expressed interest in either.
+
+The following are affecting our ability to provide an accurate EAC:
+	# Uncertainty about remaining scope in WP 20 - 22.
+	# Uncertainty about Procurement EHTC.
+Discussed this with Anna and she is working this with Ben.

@@ -10,10 +10,8 @@ Schedule Data Date
 
 = Tuesday =
 * [ ] Run PSR; update any Issued POs.
-* [ ] Update schedule with data from Progress Tracking, Schedule Update workbook, and PSR
+* [ ] Update schedule with data from Progress Tracking
         * [[NDS-1 Schedule Update Checklist]]
-* [ ] Update [[file:///S:/Caelus/106726/Project Controls/Davis/Procurement Chart.xlsx|Procurement Chart]]
-* [ ] Update [[file:///F:/106726/106726 - NDS-1 - Overdue MRs.xlsx|Overdue MR Report]]
 * [ ] Run final 014 and 006 reports for the reporting period
 * [ ] Update Project Controls deck for team meeting
 * [ ] Update Project Go Binder
@@ -22,6 +20,7 @@ Schedule Data Date
 15:00 - 16:00 NDS-1 Team Meeting
 
 = Wednesday =
+* [ ] Update schedule with IPDMS Exception Report data
 * [ ] Cost report ready for review by PC Leads
 
 11:00 - 12:00 Caelus Program Coordination Meeting
@@ -32,22 +31,24 @@ Schedule Data Date
 * [ ] Discipline leads submit narratives to PA
 * [ ] PL Reviews Monthly Management (Anvil) Report
 * [ ] Update Cost to Complete Analysis
-* [ ] If monthly reporting week: Update Critical Path Analysis
+* [ ] If monthly reporting week:
+	* [ ] Update Critical Path Analysis
+	* [ ] Prepare 1-Pager Milestone Schedule (WBS-WP Milestones for Remind Layout)
+		* [ ] NDS-1
+		* [ ] OTPEX
 
 = Friday =
 * [ ] PA Compile Cost and Schedule report [[Bi Weekly Report Contents]]
         Schedule Products:
 		* [ ] Schedule Update PDF
 		* [ ] Schedule Update XER
-		* [ ] 8 Week PO Look Ahead (make sure May 2014 IFR baseline milestones are displayed) (Added WE 070414)
+		* [ ] 8 Week PO Look Ahead (make sure May 2014 IFR baseline milestones are displayed) (Added WE 070414; Deleted 021615)
         Cost Engineer Products:
 		* [ ] Bi Weekly Cost Report PDF
 		* [ ] Bi Weekly Cost Report XLS
-		* [ ] Performance Chart (Banana Curve; added 071814; only sent with the last report of the month.)
+		* [ ] If monthly reporting week:
+			* [ ] Performance Chart (Banana Curve; added 071814; only sent with the last report of the month.)
 * [ ] PL review Cost and Schedule report
 * [ ] PA Transmit Cost and Schedule report
-* [ ] Prepare 4 week look ahead for NDS-1 Team Meeting; send to Discipline Leads for review (moved from Tuesday)
-* [ ] Publish MS Review Schedule for team (moved from Tuesday)
-* [ ] Publish Float Report for Brent (moved from Tuesday)
 * [ ] Complete and Approve Time Sheet
 

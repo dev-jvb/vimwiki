@@ -33,7 +33,7 @@ Update Physical Percent Complete
 
 5. In Progress Tracker:
      - Select the Summary Information tab
-     - Select the Program, Cleient, Job and Phase
+     - Select the Program, Client, Job and Phase
      - Group by Sub Job, Work Group, WBS and Schedule Activity ID.
      - Hit Find Now.
      - When the data is returned, click Edit, Select All (or Ctrl A)
@@ -42,7 +42,7 @@ Update Physical Percent Complete
      - Enter the following formula in cell A2 of Sheet 2 to construct the SAID
 	     ="ANV."&LEFT(B2,3)&"."&IF(LEFT(D2,3)="010","010",MID(D2,2,3))&"."&E2
 
-7. Build remaining units lookup formula in export file:
+6. Build remaining units lookup formula in export file:
      - Switch to the TASKRSRC tab of the export file.
      - Enter the following formula in cell J3 of the TASKRSRC tab  (This formula looks up the EHTC for each resource on each Activity from the Progress Tracker data on Sheet 2.):
 	     =INDEX(Sheet2!$A$2:$I$5000,MATCH(1,(Sheet2!A$2:A$5000=TASKRSRC!A3)*(Sheet2!C$2:C$5000=TASKRSRC!F3),0),7)
@@ -51,33 +51,33 @@ Update Physical Percent Complete
      - Copy the data in column J and Paste Values into Column G (Remaining Early Units(h))
      - Save and close the export file.
 
-8. Import the file back into P6:
+7. Import the file back into P6:
      - In P6, with the Project open, click File, Import.
      - Select Spreadsheet -(XLS) for the Import Format.
      - Navigate to and select the modified export file.
-     - On Import Type screen, select Activities and Resource Assignments (top and bottom choices; shoul dbe the only ones not grayed out.)
+     - On Import Type screen, select Activities and Resource Assignments (top and bottom choices; should be the only ones not grayed out.)
      - On Import Project Options Screen select the project in the Import To box.
      - Click on OK when the import is complete. (Do not worry about 'Errors were recorded; we'll validate the data later.)
 
-9. Visual scan the data:
+8. Visual scan the data:
      - In the Activities view in P6, add the user_number1 column to your layout. Position it next to the Physical % Complete column. This will allow a visual comparison between the curretn Physical % Complete and the Progress TRacker % Complete (in the user_number1 column.)
      - Scan the two columns for any obvious errors. In general, the value in the user_number1 column should be greater than or equal to the Physical & Complete column.
      - Once you are satisifed tha the values in the user_number1 column reflect the desired Physical % Complete, proceed to Perform the Global Update.
 
-10. Perform Global Update:
+9. Perform Global Update:
      - In P6, Click Tools, Global Change.
      - Select the Physical % Complete1 and click Apply Change.
-     - REview the error report. Note that you will see an error for each completed activity because you cannot modify the % complete of a completed activity.
+     - Review the error report. Note that you will see an error for each completed activity because you cannot modify the % complete of a completed activity.
      - After reviewing the report, click on Commit Changes in lower right of the report window. This will actually perform the change in the schedule.
      - Save the log file if desired.
      - Close the Global Change window.
 
-11. Import validation:
+10. Import validation:
      - Scan the Physical % Complete and user_number1 columns now, they should be the same.
      - Note 2: Changing an activity's Physical % Complete to 100% does not automatically change the activity status to Completed.You should review all activities where Physical % Complete = 100 and Activity Status does not equal Complete and manually complete them (or not) as needed to satisfy schedule logic.
      - Note 3: An activity that is Not Started cannot have it's Physical Percent complete changed from 0. You should filter for these cases and manually start the activty and enter the Physical % Complete.
 
-12. Verify Remaining Units against EHTC:
+11. Verify Remaining Units against EHTC:
      - Add the Remaining Labor Units column to your layout.
      - Compare the Remaining Labor Units to the EHTC from reporting/Progress Tracking for the Project and each WBS. Adjust resource assignments as needed to get amounts to align (within reason.)
 

@@ -1,0 +1,11 @@
+* Lesson Learned - don't engage CSYS until other discipline's work is advanced enough for them to be effective.
+* Lesson Learned - insufficient time allotted to prepare PSE. Only 3 days.
+* Lesson Learned - Manage & Coordinate budget was stripped from the project. Unclear if this was by client or Anvil management.
+* Too many WBSs creates confusion about WP scope.
+* A WBS Dictionary would be helpful to better define WP scope and communicate the scope to the team.
+* More time is needed during estimating to allocate budget properly and document assumptions.
+* Don't earn outside of packages where you are burning. Skews the earned values.
+* We probably should have done inter-work package budget transfers when needed early on. This would make things cleaner when work packages get cancelled.
+* Lesson Learned - We need to better document our estimate assumptions (e.g. number of drawings.)
+* Lesson Learned - Do not rely on future savings to offset short-term deficits. The later work may be cancelled; negating the savings.
+* Lesson Learned - 4-6 weeks prior to a release date, begin weekly polling of disciplines for status (Red/Yellow/Green) wrt to meeting date. If Yellow, identify risks. If Red, identify stoppers. Watch out for "story" vs. status.

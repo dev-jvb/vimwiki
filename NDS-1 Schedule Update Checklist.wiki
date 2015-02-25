@@ -38,8 +38,5 @@ NDS-1 Schedule Update Checklist
                 * [ ] Set Primary BL to Last Update BL
                 * [ ] Set Secondary BL to IFA BL.
 * [ ] Document any newly added or deleted activities in a memo to Diane to accompany the report.
-* [ ] Print and Publish a Milestone Schedule for the team
-* [ ] Print and Publish a Float Report for Brent
 * [ ] Update .REM file if needed
 * [ ] Print WBP Milestone for Remind Layout
-* [ ] Setup Schedule Workbook for Next Cycle

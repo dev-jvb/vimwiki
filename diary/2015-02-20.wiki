@@ -1,0 +1,17 @@
+Arrive 0715.
+
+Met with Brent to get download from his meetings in Anchorage.
+	* We will not submit any further CNs. This is per Quyen direction.
+	* We will continue to docuement internally but will not transmit.
+	* Quyen is signaling that he does want to finish engineering and intends to restart the project.
+	* Lock our EHTC at the end of February.
+	* In estimating EHTC, assume no holds and no waiting time.
+	* For CNs that are Pending and the work is done, consider them as approved change.
+	* For CNs that are Pending and the work is not done, consider the work as not in scope.
+	* Manage change to EHTC going forward on a case by case basis.
+
+Requested Dave Cunningham earn out his HVAC Designer hours in WP0014. Completed. He also indicated that he has scrubbed his EHTC.
+
+Asked Mirek to zero out his EHTC in WP0009. Completed.
+
+Out at 1215.
