@@ -1,0 +1,3 @@
+During this reporting period, Doyon Anvil issued no work packages. The client directed Anvil to stop all procurement activity and to cancel orders that were not critical to completion of engineering. Work packages 20, 21 and 22 were descoped to include only MRs.
+
+With the cancellation of procurement and module construction, Doyon Anvil's scope is effectively reduced to module engineering. The critical path has therefore shifted to the engineering work packages and associated vendor data. In particular, receipt of Control Room wiring diagrams from GIS is impacting the completion of WP0013. Other work packages that have been delayed to allow for incorporation of vendor data are WP0006, WP0012, WP0010 and WP0008.

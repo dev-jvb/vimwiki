@@ -1,0 +1,13 @@
+Arrive 0800.
+
+Attended OTPEX weekly team conference call.
+
+Worked on worksheet for BRPC reporting. Need some clarity on Regular and OT rates by category and employee category mapping.
+
+Requested primary and alternate trackers for BRPC Mustang from work group leads.
+
+Checked with Terry Caetano regarding BRPC reporting. He supplied the report that Justin developed. Three week rolling hours and dollars report. Is this what they are going to want for 107315?
+
+Informed by Chrisd Higgins that there is another module in paly for BRPC. CN2 is for the Electrical Modules (Module 65?) Chris will restore the deleted Module 65 elements and push them into CN2 for the disciplines to review and revise. Discussd possible strategies fro spreading M&C amongst the three. Advised Chris that M&C elements should still be in SJ400.
+
+Out at 1645.

@@ -2,6 +2,7 @@
 
 [[Phone Directory]]
 [[PersonalAddressBook]]
+[[PersonalPhoneDirectory]]
 [[GitCommandReference]]
 [[EarnedValueReference]]
 [[MyReadingList]]
@@ -10,9 +11,10 @@
 	[[EHTC]]
 	[[Change Management]]
 [[Quotes]]
+[[Lexophiles]]
 [[MySimpleRules]]
 [[LessonsLearned]]
-
+[[BestPractices]]
 
 [[Portfolio to Share with Kevin at Review]]
 

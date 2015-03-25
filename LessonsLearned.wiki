@@ -9,3 +9,11 @@
 * Lesson Learned - We need to better document our estimate assumptions (e.g. number of drawings.)
 * Lesson Learned - Do not rely on future savings to offset short-term deficits. The later work may be cancelled; negating the savings.
 * Lesson Learned - 4-6 weeks prior to a release date, begin weekly polling of disciplines for status (Red/Yellow/Green) wrt to meeting date. If Yellow, identify risks. If Red, identify stoppers. Watch out for "story" vs. status.
+* Lesson Learned - Kent - IPDMS/PSR is a tool for the team. It is not limited to Procurement. All groups need to be familiar with the use of the tool (or whatever replaces it.) There is a need for training here.
+* Lesson Learned - Brent - Incomplete PSR. Even after several requests, there were still items found to be missing from the PSR.
+* Lesson Learned - Mirek - There were multiple revisions to structural details at the request of the module fabricators. Need to identify these as change after 1 revision.
+* Lesson Learned - Tom/Anna - Training on Project Controls tools. Maybe using the Safety Training model.
+* Lesson Learned - Brent - WBS was too granular.
+* Lesson Learned - Should work packages be broken up by disciplines?
+* Lesson Learned - Disciplines, especially leads, need to be trained in the use of Project Controls tools, especially Progress Tracker.
+* Lesson Learned/Best Practice - Re-evaluate/re-estimate the project at 40 and 70% complete.

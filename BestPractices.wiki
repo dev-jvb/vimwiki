@@ -1,0 +1,4 @@
+= Best Practices =
+Include the full file path in the footer of spreadsheets/documents to enable ease of location.
+Red is bad. Negative values are bad.
+Green is good. Positive values are good.

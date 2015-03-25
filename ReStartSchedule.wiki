@@ -1,0 +1,11 @@
+NDS-1 Restart Schedule Assumptions
+	* First Oil is 6/1/2017.
+	* Durations from Module Fab complete to First Oil are per previous schedule.
+	* Module Fabrication duration is based on 40 week overall duration estimate from Don Redick. Assumes starting module fabrication over from start. Also assumes individual Module Fabrication does not begin until all procured materials are on-site at fabricator.
+	* Procurement Lead time is the longest lead time of unpurchased materials for each module.
+	* Estimate 4 weeks for Procurement restart (need time to request and recieve updated quotes.)
+	* Assumed 4 weeks to transfer on-hand/stored materials from storage to module fabrication site.
+	* Pile install no earlier than November 1 2016.
+	* Blowdown Tank to ship direct to North Slope.
+	* Schedule contains no float/contingency.
+	* North Slope Construction Engineering Packages can be produced in parallel with Procurement and Module Fabrication activities.

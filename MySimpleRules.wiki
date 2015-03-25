@@ -1,20 +1,21 @@
 = My Simple Rules =
 
-* Always be honest.
+* Always be honest. The only correct answer is the truth.
 * Always charge your time to the job/subjob/WBS where you are working and no where else (see Rule #1.)
 * If you need to charge to a closed charge element, call Project Controls. Don't charge the hours somewhere else (see Rule #1.)
 * Do not attempt to game the system or fudge the numbers; it serves no one (see Rule #1.)
 * Never work on new or changed scope without client approval. If it's not in Progress Tracker, it's probably not in scope. If in doubt, raise the change flag.
 * If you like my work, tell my boss. If you don't, tell me.
 * You cannot hurt my feelings.
-* I respect your work and time, please respect mine. 
+* I respect your work and your time, please respect mine. 
 * I will not waste your time by asking you to do something unless it needs it to be done.
 * If I give you a deadline, there is a reason for it. If you can't or won't meet the deadline, let me know. Note that "won't" implies a willful decision to not meet the deadline. I'll probably take this up with your supervisor.
 * Leads, Progress Tracker is your domain. I will not update your % Complete nor EHTC unless specifically asked to do so (in writing.)
 * Leads are responsible for assuring that their group is represented at all team meetings.
 * Leads are responsible for assuring that Progress Tracking is updated on time each week.
-* Leads are responsible for designating a delegate. The delegate should have the authority to assume the lead's responsibilities and act on the lead's behalf in the event that the lead is unavailble.
+* Leads are responsible for designating a delegate. The delegate should have the authority to assume the lead's responsibilities and act on the lead's behalf in the event that the lead is unavailable.
 * Leads are responsible for maintaining EHTC Forecasting, including assigning hours to specific individuals.
 * Document overages and trends as you go. If a task is taking longer than budgeted, document it as it happens. This makes it easier to understand overages later.
-* When I ask for status, don't give me a story. Status is Red/Yellow/Green. Green, no issues, on track to meet deadline. Yellow, deadline at risk; identify the risks. Red, deadline missed or will be missed; identify reasons and plan to get back on track.
+* When I ask for status, don't give me a story. Status is Red/Yellow/Green. Green, no issues, on track; will meet deadline. Yellow, deadline at risk; identify the risks. Red, deadline missed or will be missed; identify reasons and plan to get back to Green.
+* Use the Anvil tools. They are integrated so that the information is consistent across multiple tools. I cannot see your personal planning workbook, so it is of no value to me.
 

@@ -1,4 +1,4 @@
-NOTE: It is necessary to pull data from Progress Tracker differently for Physical Percent complete and Remaining Unit supdate. This is because the Physical Percent Complete is totalled differently when the PT data is grouped by Work Group (which is necessary for Remaining Units update.)
+NOTE: It is necessary to pull data from Progress Tracker differently for Physical Percent complete and Remaining Units update. This is because the Physical Percent Complete is totalled differently when the PT data is grouped by Work Group (which is necessary for Remaining Units update.)
 
 Update Physical Percent Complete
 

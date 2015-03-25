@@ -1,0 +1,13 @@
+Arrive 0715.
+
+Prepared MR Report for Anna.
+
+Discussed need for weekly EHTC forecast to support burn rate forecast for Caelus with Tom.
+
+Met with Ross Warne to discuss potential opportunity as owner's representative for Brooks Range at fabrication shops in Alberta. Details are still forming, but Ross believes this to be a 6-month opportunity (working in Canada for > 6 months creates tax complications.) Role is to insure that BR gets what they want, when they want it and for the the price they pay. Would be able to coordinate other Anvil resources (QA for example) as needed to support module fabrication. Ross believes this may be an April/May through November assignment. Indicated that they would not send me up there and have it cost me money. So there would be a living expenses allowance, etc. to cover costs and also periodic return visits to WA. He will mention my interest to Brent. Stay tuned.
+
+Met with Brent to discuss additional funding request. Prepared a summary table for his use.
+
+Met with EDES; Mark R., Kim T., Gwen, Erik J. to discuss EHTC and Trended Var. Consensus is that EHTC is 700-1000 hours too high. Team will reduce when tracking this week. Tom to follow up with Nate LaValley to tune up F&G EHTC. In general, EDES feels tha tthey need ~1500 hours to compelt ethe job, which would bring them in right on their Pending Budget. Not including some additional rework in the process modules due to a code violation related to HVAC. (Anna directed EDES to proceed with this work.) For manpowere, assume 3.5 EDES trough end of May.
+
+Out at 1400 to visit Bremerton.

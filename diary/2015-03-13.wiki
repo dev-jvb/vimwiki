@@ -1,0 +1,9 @@
+Arrive 0915.
+
+Discussed PMAC budget on Mustang with Justin. Justin feel strongly that we should hold to ~20%. The project is very schedule driven and therefore merits the attention. Also, need some clarity on what PMAc service BRPC will require/desire.
+
+Seems BRPC has descoped the project to a single module. May be no need for scheduler and minimal for Project Controls. So much for that life boat. Now what?
+
+Met with Brent. For Caelus Restart Schedule, Brent would like to see modules listed and staggered plus lone lead items by module. I think I'm going to have to do this in P6. Turning into more than I thought. Built a schedule for NDS-1; enlisted Chris to do same for OTPEX.
+
+Out at 1515.

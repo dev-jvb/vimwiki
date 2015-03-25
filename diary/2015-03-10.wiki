@@ -1,0 +1,17 @@
+Arrive 0730.
+
+At the request of Mike Moora, sent email to Cynthia Geiermann, BRPC Project Controls, to introduce myself and begin conversation about reporting expectations.
+
+Per Justin, there may be some confusion wrt BRPC. Kevin Formway believes that I was submitted as a primary for the Calgary position and secondary for the P4 engineering position. Need to confirm with Brent that I was submitted for Calgary. So, Calgary may not yet be off the table after all. Confirmed with Brent that I was submitted for the Calgary position. Justin was submitted for the P4 PC Lead position.
+
+NDS-1 Restart Schedule Assumptions
+	* First Oil is 6/1/2017.
+	* Durations from Module Fab complete to First Oil are per previous schedule.
+	* Module Fabrication duration is based on a 6 month duration for completion of all modules. assumes starting module fabrication over from start. Also assumes Module Fabrication does not begin until all procured materials are on-ist eat fabricator. (Per discussionwith Justin Allyne.)
+	* Procurement Lead time is the longest lead time of unpurchased materials.
+		* 24 weeks for NDS-1 (per Mike Dyer & Kent Charette)
+		* 50 weeks for OTPEX (Production Seperator, per Mike Dyer & Kent Charette) Per Brent, the Production Separator does not impact module fabrication as it ships direct to slope. Next longest lead is:
+			* Standby Generator
+	* Estimate 4 weeks for Procurement restart (need time to request and recieve updated quotes.)
+
+Out at 1730.

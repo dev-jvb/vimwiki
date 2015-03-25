@@ -1,0 +1,20 @@
+Arrive 0730.
+
+Generated and emailed OT report to Ron Otero.
+
+Attended OTPEX team meeting.
+
+Attended NDS-1 team meeting.
+	WP0006 - All disciplines reporting Green for 3/6 release.
+	60% Designe Review on 3/11 - All disciplines reporting Green.
+	WP0012 - All disciplines reporting Green for 3/13 release
+	
+	Lessons Learned:
+	Kent - IPDMS/PSR is a tool for the team. It is not limited to Procurement. All groups need to be familiar with the use of the tool (or whatever replaces it.) There is a need for training here.
+	Brent - Incomplete PSR. Even after several requests, there were still items found to be missing from the PSR.
+	Mirek - There were multiple revisiosn to structural details at the request of the module fabricators. Need to identify these as change after 1 revision.
+	Tom/Anna - Training on Project Controls tools. Maybe using the Safety Training model.
+	Brent - WBS was too granular.
+	Should work packages be broken up by disciplines?
+	
+Out at 1645.

@@ -1,0 +1,33 @@
+Arrive 0730.  
+
+Had new headshot taken by Erica Nelson.  
+
+Reviewed roster vs. employees charging and sent out emails for NDS-1.
+
+Requested background info from Heather on BRPC Mustang. (Received, reviewed and incorporated into BRPC Mustang Wiki.)
+
+Questions for BRPC Mustang Meeting:
+	* What is the basis for our estimate?
+	* What schedule constraints have been identified?
+	* Are there any BRPC Reporting requirements?
+
+Prepared Outstanding MR Report for Anna.
+
+Attended BRPC Mustang Conference Call (Justin, Mike, Heather)
+	* Estimate assumptions are being documented in the PSE Assumptions tool.
+	* Some discussion around whether or not DA is doing vendor drawing reviews; needs closure.
+	* BRPC is signalling shipment of Power Gen module to the slope in October/November time frame.
+	* BRPC is requesting VSM locations, sizes, etc. ASAP to support VSM installation in April.
+	* We are not re-purposing Caelus Structural resources onto BRPC. Not sure of reason. This is a point of concern as familiarity with the Caelus design may be lost.
+	* PMAC budget guesstimates
+		* Project Controller/Scheduler - ~65 hours/week combined.
+		* Project Assistant - ~ 15 hours/week
+		* Doc control - TBD.
+	* Justin guesstimating project at 15-20,000 hours. Mike Moora was thinking 20,000.
+
+Per Anna, expect some Structural hours charged against HVAC. Structural will be back-charging HVAC for rework.
+
+Still trying to understand interplay between EHTC Forecasting, EHTC and EAC. Haven't gotten the numbers to line up just yet.
+
+Out at 1650.
+
