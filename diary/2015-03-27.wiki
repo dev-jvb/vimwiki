@@ -10,4 +10,4 @@ BRPC CN2 - Per Chris, Heather is indicating an 18 week duration. PMAC estimate s
 
 Loaded Piping Engineer hours into PSE for CN1 per direction from Bryan Olson. Sent and 001 report for review/confirmation.
 
-Discussed with Dan Lewis the challenges of BRPC reporting. Each BRPC job has a different rate table. Also, when new employees are added, they are not categorized until the end of the month when invoices are prepared. Werner Plagge makes the category determination.
+Discussed with Dan Lewis the challenges of BRPC reporting Each BRPC job has a different rate table. Also, when new employees are added, they are not categorized until the end of the month when invoices are prepared. Werner Plagge makes the category determination.
