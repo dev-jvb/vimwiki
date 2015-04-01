@@ -1,0 +1,4 @@
+During  this  reporting  period,  Doyon  Anvil  issued  two work packages  for  NDS-1; WP0006 and WP0012. Doyon Anvil also issued to two IFF package revisions; WP0003 (Structural only) and WP0014.
+ 
+With the cancellation of procurement and module fabrication, Doyon Anvil's scope is effectively reduced to module engineering. The critical path has therefore shifted to the engineering work packages  and  associated  vendor  data. Doyon Anvil continues to expedite vendor data and is releasing packages as holds are cleared. Receipt  of  Control  Room  wiring  diagrams from GIS continues to impact the completion of WP0013.
+

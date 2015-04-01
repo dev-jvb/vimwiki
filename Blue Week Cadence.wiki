@@ -7,6 +7,9 @@ Schedule Data Date
 * [ ] Prepare Labor Distributions for Brent, Mike, and Ron
 * [ ] Review 006 Reports for NDS and PGP, noting any major deficiencies
 * [ ] Review actual rates
+* [ ] Update IPDMS Outstanding MR Report for Anna
+
+11:30 - 12:30 BRPC Team Meeting
 
 = Tuesday =
 * [ ] Run PSR; update any Issued POs.
@@ -42,7 +45,6 @@ Schedule Data Date
         Schedule Products:
 		* [ ] Schedule Update PDF
 		* [ ] Schedule Update XER
-		* [ ] 8 Week PO Look Ahead (make sure May 2014 IFR baseline milestones are displayed) (Added WE 070414; Deleted 021615)
         Cost Engineer Products:
 		* [ ] Bi Weekly Cost Report PDF
 		* [ ] Bi Weekly Cost Report XLS

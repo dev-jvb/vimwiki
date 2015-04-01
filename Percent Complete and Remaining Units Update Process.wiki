@@ -59,8 +59,8 @@ Update Physical Percent Complete
      - On Import Project Options Screen select the project in the Import To box.
      - Click on OK when the import is complete. (Do not worry about 'Errors were recorded; we'll validate the data later.)
 
-8. Visual scan the data:
-     - In the Activities view in P6, add the user_number1 column to your layout. Position it next to the Physical % Complete column. This will allow a visual comparison between the curretn Physical % Complete and the Progress TRacker % Complete (in the user_number1 column.)
+8. Visually scan the data:
+     - In the Activities view in P6, add the user_number1 column to your layout. Position it next to the Physical % Complete column. This will allow a visual comparison between the current Physical % Complete and the Progress TRacker % Complete (in the user_number1 column.)
      - Scan the two columns for any obvious errors. In general, the value in the user_number1 column should be greater than or equal to the Physical & Complete column.
      - Once you are satisifed tha the values in the user_number1 column reflect the desired Physical % Complete, proceed to Perform the Global Update.
 
@@ -74,8 +74,8 @@ Update Physical Percent Complete
 
 10. Import validation:
      - Scan the Physical % Complete and user_number1 columns now, they should be the same.
-     - Note 2: Changing an activity's Physical % Complete to 100% does not automatically change the activity status to Completed.You should review all activities where Physical % Complete = 100 and Activity Status does not equal Complete and manually complete them (or not) as needed to satisfy schedule logic.
-     - Note 3: An activity that is Not Started cannot have it's Physical Percent complete changed from 0. You should filter for these cases and manually start the activty and enter the Physical % Complete.
+     - Note 2: Changing an activity's Physical % Complete to 100% does not automatically change the activity status to Completed. You should review all activities where Physical % Complete = 100 and Activity Status does not equal Complete and manually complete them (or not) as needed to satisfy schedule logic.
+     - Note 3: An activity that is Not Started cannot have it's Physical Percent complete changed from 0. You should filter for these cases and manually start the activity and enter the Physical % Complete.
 
 11. Verify Remaining Units against EHTC:
      - Add the Remaining Labor Units column to your layout.
