@@ -17,7 +17,8 @@
 | Hellsund    | 3081                |
 | Higgins     | 3014                |
 | LaValley    | 3009                |
-| Lewis       | 3767                |
+| Lewis, P.   | 3767                |
+| Lewis, D.   | 3701                |
 | Mabe        | 3167                |
 | Marshburn   | 3010                |
 | Martinez    | 3700                |

@@ -1,0 +1,50 @@
+= Brooks Range Mustang Project Scope for Doyon Anvil = 
+DA Project 107315 
+M Moora Rev 0, 4 Mar-15 
+
+= Purpose = 
+This document is aimed at defining the scope of work associated with taking on Phase 4 detailed design activities for several Brooks Range Petroleum modules. The goal is to provide sufficient background to develop a Rough Order of Magnitude Engineering Cost Estimate to deliver IFC packages for these, based upon the very similar modules recently designed on the Caelus Nuna Project. 
+
+= Project Introduction = 
+Brooks Range Petroleum Corp (BRPC) is developing a nominal 15,000 bbl/day greenfield production facility in the Southern Miluveach Unit, SW of the CPAI Kuparuk Unit – known as the Mustang Development. Approximately 15 weeks ago they closed on a funding deal, and have embarked on an extremely assertive schedule to produce First Oil by April 2016. This objective is driven by a very lucrative tax credit program that expires soon after this milestone. 
+
+= Relationship of Mustang Project to Caelus Nuna = 
+As you know, Caelus is slowing the development of their Nuna Project by at least one year, and is offering to sell equipment procured to date to BRPC for their Mustang Development. BRPC sees significant cost and schedule advantages in acquiring equipment that will save capital, as well as accelerate the schedule.  Additionally, there is interest in transferring manageable segments of work to Doyon Anvil, and take advantage of the engineering invested in the Caelus NUNA modules. BRPC is focusing on the three (3) modules in the Southeast corner of the plot plan (attached), which are designated as: 
+
+	Mod 63: Turbine Generator Module  
+	Mod 65: Generator Switchgear/Utility Area Transformer Modules 
+	Mod 70: Utility Module (Instrument/Utility Air and N2 Generation) 
+
+BRPC wants to acquire the rights to the engineering developed for Caelus, and use Doyon Anvil to make the incremental changes necessary to have fully-functional modules for the Mustang Project. Following are brief descriptions of these modules, from a perspective of their similarity to their Caelus Nuna counterparts: 
+
+= Mod 63 – Turbine Generator Module = 
+This module system is analogous to Modules U107, U108, U110 and U111 on the Nuna Project.  The following table is an attempt to capture the relative comparability of the current design elements of the NUNA modules by work group.  Distinct differences are as follows: 
+	a)  2 x Dual fuel Solar Centaur 50, slightly smaller envelop dimensions. 
+	b)  Generate @ 4160 VAC 
+	c)  No heat recovery 
+	d)  Non-arctic lube oil coolers 
+	e)  Arctic Pack enclosures are included, primarily for noise attenuation 
+	f)  Fuel gas is generated on-site, with compression and conditioning in remote modules 
+	g)  Fuel filters, auxiliary volume bottles,  and switching valves are located in an adjacent module 1
+
+The TG packages ship 25 July. Doyon Anvil’s piping designer, Bruce Raymond, has completed concept layouts using the E1111 module model, demonstrating a workable arrangement of the two C-50s in this space. BRPC reps reviewed this model at length on Tuesday, 3 March, and were enthusiastic about advancing the design. 
+
+= Mod 65: Generator Switchgear/Utility Area Transformer Modules = 
+The contents of this system are analogous to NUNA modules E110, E111 and E112.  The following table is an attempt to capture the relative comparability of the current design elements of the NUNA modules by work group. The electrical gear and related transformers to be used at Mustang will be vastly different, based primarily on the voltage differences. Apart from the envelope sizes of these modules, almost every component used for the BRPC application will be different. An exception will be the Solar turbine generator control panel, which is expected to be identical to the T-60 unit used for NUNA. 
+
+The components in these modules have been bid, and vendor will be selected in the next week or two.    
+
+= Mod 70: Utility Module (Instrument/Utility Air and N2 Generation) = 
+The analogous NUNA module for this system is H105. The following table is an attempt to capture the relative comparability of the current design elements of the NUNA modules by work group.  
+
+Discussions with BRPC indicate that the current design for H105 can be used, with the addition of third compressor, to give 3 x 33% capacity machines. Pending information on the Mustang nitrogen capacity requirements, this system will also be added to the H105 design. To accommodate these additions, we have proposed that the H105 length be increased by 10 feet. 
+
+There have been no BRPC procurement activities associated with this utility equipment. 
+
+= Engineering Estimate Strategy =
+DA requested that BRPC provide a minimum of 50K in seed funding to develop the concept TG model and provide an estimate of the engineering hours to conduct this work. Unfortunately the PO amount was 25K, and approximately 25 to 35% of this has been consumed to date. DA doesn’t have the funding to pursue a detailed development of an APP and PSE, and from BRPC’s perspective, there also isn’t available schedule. We must use a short-cut approach to developing an ROM engineering estimate, that at best will have an accuracy of -25%, +50%. 
+
+For this shortcut estimate, we are requesting that the Resource Managers have the following delivered in 8 hours or less, per work group: 
+	* Use Caelus PSE, including all relevant changes in budget from change notices as the starting basis for your group’s estimate of hours required to adapt the Nuna modules to the BRPC Mustang application. Heather Marshburn will distribute an extract from the PSE which can be used to summarize what is currently included in the Nuna PSE. 
+	* Delete elements of the Nuna PSE which do not apply (e.g. sizing, data sheets preparation, procurement support), and factor other portions as you perceive the need to adjust the hours to a BRPC Mustang application. 
+	* Submit this revised PSE and notify Heather Marshburn when complete. We are attempting to complete this effort by COB Tuesday. 

@@ -1,0 +1,16 @@
+= Update the Burn Up Chart Workbook =
+	Open the Excel file containing the [[file:///R:/BRPC/107315/Project Controls/Reports/107315 - BRPC Mustang - Burn Up Chart - Weekly and Cumulative Performance.xlsx|Burn Up Chart]]
+	Switch to the Reporting Data tab.
+	
+	Open Reporting and Select the Budget History tab.
+		Select the Program, Client and Job
+		Select Phase P4
+		Select To Date for Date View.
+		Hit "Find Now"
+		Select All and Copy
+		Switch back to the Burn Up Chart workbook and Paste the Reporting data into cell A1 on the Reporting Data tab.
+		Manually enter the Cumulative Plan values in Column AB.
+		Switch to the Report tab and place your curser ina cell in the pivot table. Click Alt-F5 to update the pivot table.
+		PDF and save to the reports folder.
+		Save and CLose the Actuals workbook.
+		

@@ -1,5 +1,9 @@
 = My Wiki =
+\ww  = This wiki
+2\ww = BRPC Wiki
 
+[[Blue Week Cadence]]
+[[White Week Cadence]]
 [[Phone Directory]]
 [[PersonalAddressBook]]
 [[PersonalPhoneDirectory]]

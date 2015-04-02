@@ -4,6 +4,10 @@ Blue Week Cadence
 Schedule Data Date
 
 = Monday =
+BRPC:
+* [ ] Prepare for team meeting.
+
+Caelus:
 * [ ] Prepare Labor Distributions for Brent, Mike, and Ron
 * [ ] Review 006 Reports for NDS and PGP, noting any major deficiencies
 * [ ] Review actual rates
@@ -33,7 +37,7 @@ Schedule Data Date
 * [ ] PC Leads Review cost report
 * [ ] Discipline leads submit narratives to PA
 * [ ] PL Reviews Monthly Management (Anvil) Report
-* [ ] Update Cost to Complete Analysis
+* [ ] Update [[file:///S:/Caelus/106726/Project Controls/Project Accounting/106726 - NDS-1 & OTPEX - Cost to Complete Analysis - Through WE 032015.xlsx|Cost to Complete Analysis]]
 * [ ] If monthly reporting week:
 	* [ ] Update Critical Path Analysis
 	* [ ] Prepare 1-Pager Milestone Schedule (WBS-WP Milestones for Remind Layout)
@@ -41,16 +45,20 @@ Schedule Data Date
 		* [ ] OTPEX
 
 = Friday =
-* [ ] PA Compile Cost and Schedule report [[Bi Weekly Report Contents]]
-        Schedule Products:
-		* [ ] Schedule Update PDF
-		* [ ] Schedule Update XER
-        Cost Engineer Products:
-		* [ ] Bi Weekly Cost Report PDF
-		* [ ] Bi Weekly Cost Report XLS
-		* [ ] If monthly reporting week:
-			* [ ] Performance Chart (Banana Curve; added 071814; only sent with the last report of the month.)
-* [ ] PL review Cost and Schedule report
-* [ ] PA Transmit Cost and Schedule report
+BRPC:
+	* [ ] Issue Weekly Cost Report
+
+Caelus:
+	* [ ] PA Compile Cost and Schedule report [[Bi Weekly Report Contents]]
+		Schedule Products:
+			* [ ] Schedule Update PDF
+			* [ ] Schedule Update XER
+		Cost Engineer Products:
+			* [ ] Bi Weekly Cost Report PDF
+			* [ ] Bi Weekly Cost Report XLS
+			* [ ] If monthly reporting week:
+				* [ ] Performance Chart (Banana Curve; added 071814; only sent with the last report of the month.)
+	* [ ] PL review Cost and Schedule report
+	* [ ] PA Transmit Cost and Schedule report
 * [ ] Complete and Approve Time Sheet
 

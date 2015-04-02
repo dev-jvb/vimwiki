@@ -1,0 +1,15 @@
+Name			Title				Telephone	Email
+Werner Plagge		General Manager			907-677-3057	wplagge@anvilcorp.com
+Mike Moora		Program Manager			907-677-3030	mmoora@anvilcorp.com
+Ron Otero		Project Leader			907-677-3130	rotero@avilcorp.com
+Heather Marshburn	Assistant Project Leader	907-677-3010	hmarshbu@anvilcorp.com
+John Davis		Project Controls		360-937-3695	jdavis2@anvilcorp.com
+Nathan Brown		Controls Engineering Lead	907-677-3034	nbrown@anvilcorp.com
+Chuck Russo		Controls Design Lead		907-677-3153	crusso@anvilcorp.com
+Jeff Carleton		Electrical Engineering Lead	907-677-3011	jcarleto@anvilcorp.com
+Barry Failor		Electrical Design Lead		907-677-3163	bfailor@anvilcorp.com
+Bill Scott		Structural Engineering Lead	360-937-0493	wscott@anvilcorp.com
+Nick Evancho		Structural Design Lead		360-937-0520	nevancho@anvilcorp.com
+Bryan Olson		Piping Engineering Lead		907-677-3086	bolson@anvilcorp.com
+Bruce Raymond		Piping Design Lead		907-677-3026	braymond@anvilcorp.com
+Dave Smith		HVAC Engineering Lead		907-677-3132	dsmith3@anvilcorp.com

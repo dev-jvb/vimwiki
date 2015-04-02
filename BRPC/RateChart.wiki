@@ -1,0 +1,18 @@
+= Confidential =
+
+| Classification                                   | Status     | ST Rate | OT Rate |
+|--------------------------------------------------|------------|---------|---------|
+| Project Manager (PM)                             | Exempt     | 175     |         |
+| Project Engineer (PE)                            | Exempt     | 155     |         |
+| Senior Engineering Specialist (SES)              | Exempt     | 175     |         |
+| Senior Engineer (SE)                             | Exempt     | 155     |         |
+| Engineer (E)                                     | Exempt     | 125     |         |
+| Junior Engineer (JE)                             | Non-Exempt | 95      | 128.25  |
+| Lead Designer (LD)                               | Non-Exempt | 145     | 195.75  |
+| Senior Designer (SD)                             | Non-Exempt | 130     | 175.50  |
+| Designer (D)                                     | Non-Exempt | 100     | 135.00  |
+| Junior Designer (JD)                             | Non-Exempt | 70      | 94.50   |
+| Project Controls Engineer (PCE)                  | Non-Exempt | 100     | 135.00  |
+| Support Staff (Admin. Asst. / Doc. Control) (SS) | Non-Exempt | 80      | 108.00  |
+|                                                  |            |         |         |
+

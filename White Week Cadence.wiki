@@ -1,6 +1,12 @@
 White Week Cadence
 
 = Monday =
+BRPC:
+* [ ] Prepare for team meeting.
+
+11:30 - 12:30 BRPC Team Meeting
+
+Caelus:
 * [ ] Prepare Labor Distributions for Brent, Mike, and Ron
 * [ ] Review 006 Reports for NDS and PGP, noting any major deficiencies
 * [ ] After 1300:
@@ -32,6 +38,10 @@ White Week Cadence
 * [ ] Complete Time Sheet
 
 = Friday =
+BRPC:
+	* [ ] Issue Weekly Cost Report
+
+Caelus:
 * [ ] PA Compiles Report
 * [ ] PL reviews report; approves for issue
 * [ ] PA Transmits Cost report

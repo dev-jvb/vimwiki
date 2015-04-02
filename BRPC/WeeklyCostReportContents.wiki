@@ -1,0 +1,11 @@
+= Weekly Cost Report Contents =
+
+006 Report
+	Export to doc format.
+	Re-format to change "Anvil" to "Doyon Anvil"
+	PDF and save to the report folder.
+[[file:///R:/BRPC/107315/Project Controls/Reports/Weekly Cost Reports/107315 Weekly Report.xlsx|Weekly Cost Report]]
+	[[WeeklyCostReportPreparation]]
+[[file:///R:/BRPC/107315/Project Controls/Reports/107315 - BRPC Mustang - Burn Up Chart - Weekly and Cumulative Performance.xlsx|Burn Up Chart]]
+	[[BurnUpChartPreparation]]
+

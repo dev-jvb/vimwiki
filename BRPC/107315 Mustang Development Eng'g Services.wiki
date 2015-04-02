@@ -1,0 +1,32 @@
+= 107315 Mustang Development Eng'g Services =
+	[[file:///R:/Brooks Range/107315/3 Project Mgmt/APP/Org Chart/Brooks Range Petroleum.pdf|Org Chart]]
+	[[file:///R:/Brooks Range/107315/3 Project Mgmt/APP/Seed Funding Doyon Anvil 12 Feb-15 r1.pdf|Seed Funding Proposal]]
+	[[DA Scoping Document - 4 Mar 2015]]
+	[[KeyPersonnel]]
+	[[RateChart]]
+	[[WeeklyCostReportContents]]
+	[[file:///c:/Users/jdavis2/Dropbox/reminders/BRPCMustang.rem|Remind File]]
+	[[file:///|RAGB Report]]
+
+	P4 WBS
+		400 - PMAC
+		405 - Site Design
+		410 - Module Bases
+		415 - Module 63 - Turbine Generator Module
+			RFS# MSF-0033; AFE# 650510; Cost Code 01-40-9461
+			NTE $450,000 - 3681 hours @ $122.25/hour
+			[[file:///R:/Brooks Range/107315/3 Project Mgmt/APP/Mod 63 DAPP/DAPP BRPC Mod 63 Cover Letter.docx|DAPP Cover Letter]]
+			[[file:///R:/BRPC/107315/3 Project Mgmt/APP/Mod 63 DAPP/BRPC Module  63 DAPP.docx|DAPP]]
+			[[Notes on Original Budget - DAPP]]
+			PMAC Budget Assumptions in DAPP for Module 63 only
+				Project Leader - 10 hours/week
+				Project Cost Engineer - 5-6 hours/week
+				Project Scheduler - 5-6 hours/week
+				Project Duration - 10-12 weeks
+		417 - Module 62 - Fuel Gas Treatment Skid
+		420 - Module 65 - Generator Switchgear Module Utility Area Transformer Platform
+		425 - Module 70 - Utility Module
+		430 - Interconnects
+		435 - Chemical Injection Module
+		4xx - Module 05
+

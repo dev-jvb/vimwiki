@@ -1,0 +1,17 @@
+= Brooks Range Petroleum Corporation (BPRC) =
+Project Controls Contact:
+	Full Name:	Cynthia Schiller Geiermann
+	Job Title:	Project Controls
+	Company:	Brooks Range Petroleum Corp.
+	Business:	(907) 339-9965
+	Mobile:		(907) 350-9905
+	E-mail:		cgeiermann@brpcak.com
+
+= Projects =
+107252	Mustang Development PHA Services
+[[107278 Mustang Project Procurement Services]]
+[[107315 Mustang Development Eng'g Services]]
+
+= General Tools and Resources =
+[[file:///R:/BRPC/107315/Project Controls/Project Accounting/CN PMAC Hours Calculator.xlsx|CN PMAC Hours Calculator]]
+
