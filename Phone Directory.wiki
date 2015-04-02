@@ -29,6 +29,7 @@
 | Olson, B    | 3086                |
 | Olson, M    | 3802                |
 | Otero       | 3130                |
+| Plagge      | 3057                |
 | Ridenhour   | 3379                |
 | Schramer    | 3714                |
 | Tolliver    | 3430                |
