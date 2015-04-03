@@ -29,6 +29,8 @@
         * [[BP Schedule Update Checklist|BP Schedule Update Checklist]]
         * [[Approved Change Notice|BP Approved Change Notice]]
         * [[Productivity Software]]
+	* [[Blue Week Cadence]]
+	* [[White Week Cadence]]
         
 = [[Caelus]] =
 

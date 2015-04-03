@@ -16,6 +16,18 @@ Caelus:
 11:30 - 12:30 BRPC Team Meeting
 
 = Tuesday =
+BRPC:
+* [ ] Run and issue cost report for 107278.
+	Ditribution:
+		Fred Fitzhugh
+		Mark Wiggans
+		Cynthia Geiermann
+		Gerry Thompson
+		Mike Moora
+		Terry Caetano
+		Werner Plagge
+
+Caelus:
 * [ ] Run PSR; update any Issued POs.
 * [ ] Update schedule with data from Progress Tracking
         * [[NDS-1 Schedule Update Checklist]]
