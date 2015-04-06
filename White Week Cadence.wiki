@@ -2,7 +2,10 @@ White Week Cadence
 
 = Monday =
 BRPC:
+* [ ] Run 006 and check for tracking.
 * [ ] Prepare for team meeting.
+	* [ ] CPIs by discipline
+	* [ ] SPIs by discipline
 
 11:30 - 12:30 BRPC Team Meeting
 
@@ -15,6 +18,17 @@ Caelus:
 * [ ] Complete Time Sheet
 
 = Tuesday =
+BRPC:
+* [ ] Run and issue cost report for 107278.
+	Ditribution:
+		Fred Fitzhugh
+		Mark Wiggans
+		Cynthia Geiermann
+		Gerry Thompson
+		Mike Moora
+		Terry Caetano
+
+Caelus:
 * [ ] Run informational 014, 018, and 006 reports for the prior period
 * [ ] Update Team Meeting Deck
 * [ ] Complete Time Sheet

@@ -29,7 +29,7 @@ NDS-1 Schedule Update Checklist
 * [ ] Save an update baseline.
 * [ ] Create a copy of the project. Include the IFR BL when copying.
 * [ ] Delete the Module Fabrication WBS.
-* [ ] Export XER for Transmittal to Caelus. 
+* [ ] Export XER (Version 8.2) for Transmittal to Larkspur. 
 * [ ] Back in the master schedule:
         * [ ] PDF Schedule w/o Module Fabrication WBS.
         * [ ] PDF IFF Milestone Layout for Don Redick.
