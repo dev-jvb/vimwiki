@@ -4,21 +4,20 @@ White Week Cadence
 BRPC:
 * [ ] Run 006 and check for tracking.
 * [ ] Prepare for team meeting.
-	* [ ] CPIs by discipline
-	* [ ] SPIs by discipline
 
 11:30 - 12:30 BRPC Team Meeting
 
 Caelus:
 * [ ] Prepare Labor Distributions for Brent, Mike, and Ron
-* [ ] Review 006 Reports for NDS and PGP, noting any major deficiencies
+* [ ] Review 006 Reports for NDS and noting any major deficiencies
 * [ ] After 1300:
         * [ ] Prepare "zero-earned" report and distribute to team leads
 * [ ] Prepare updated IPDMS reports for Anna
+ 
 * [ ] Complete Time Sheet
 
 = Tuesday =
-BRPC:
+BRPC
 * [ ] Run and issue cost report for 107278.
 	Ditribution:
 		Fred Fitzhugh
@@ -27,21 +26,26 @@ BRPC:
 		Gerry Thompson
 		Mike Moora
 		Terry Caetano
+* [ ] Run informational 014, 018, and 006 reports for the prior period
+* [ ] Update Project Go Binder
 
 Caelus:
 * [ ] Run informational 014, 018, and 006 reports for the prior period
 * [ ] Update Team Meeting Deck
-* [ ] Complete Time Sheet
 * [ ] Update Project Go Binder
 
+* [ ] Complete Time Sheet
+ 
 11:00 - 12:00 OTP Team Meeting
 15:00 - 16:00 NDS-1 Team Meeting
 
 = Wednesday =
 * [ ] Cost report ready for review by PC Leads
+
 * [ ] Complete Time Sheet
 
-15:00 - 16:00 Caelus Program Coordination Meeting
+11:00 - 12:00 Caelus Program Coordination Meeting
+16:00 - 17:00 Caelus Conference Call with Quyen
 
 = Thursday =
 * [ ] Review cost report
@@ -49,15 +53,17 @@ Caelus:
 * [ ] Discipline narratives due to PA
 * [ ] Send out reminder to update: Progress Tracking, Schedule Update and IPDMS 
 * [ ] Disciplines complete status reporting
+ 
 * [ ] Complete Time Sheet
 
 = Friday =
 BRPC:
-	* [ ] Issue Weekly Cost Report
+* [ ] Issue Weekly Cost Report
 
 Caelus:
 * [ ] PA Compiles Report
 * [ ] PL reviews report; approves for issue
 * [ ] PA Transmits Cost report
 * [ ] Disciplines complete schedule workbook updates and IPDMS updates
+
 * [ ] Complete and Approve Time Sheet
