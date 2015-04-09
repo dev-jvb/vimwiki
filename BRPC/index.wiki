@@ -10,7 +10,10 @@ Project Controls Contact:
 = Projects =
 107252	Mustang Development PHA Services
 [[107278 Mustang Project Procurement Services]]
-[[107315 Mustang Development Eng'g Services]]
+[[107315 Mustang Development Eng'g Services - Module 63 - Turbine Generator]]
+[[107384 Mustang Development Eng'g Services - Module XX - VFD]]
+[[107386 Mustang Development Eng'g Services - Module 65 - Generator/Electrical Switchgear]]
+[[107391 Mustang Development Eng'g Services - Module 05 - Chemical Injection Skid]]
 
 = General Tools and Resources =
 [[file:///R:/BRPC/107315/Project Controls/Project Accounting/CN PMAC Hours Calculator.xlsx|CN PMAC Hours Calculator]]
