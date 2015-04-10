@@ -7,7 +7,6 @@
 	[[WeeklyCostReportContents]]
 	[[file:///c:/Users/jdavis2/Dropbox/reminders/BRPCMustang.rem|Remind File]]
 	[[file:///|RAGB Report]]
-	[[CostEngineerErrata]]
 
 	P4 WBS
 		400 - PMAC
@@ -24,8 +23,8 @@
 				Project Cost Engineer - 5-6 hours/week
 				Project Scheduler - 5-6 hours/week
 				Project Duration - 10-12 weeks
-		417 - Module 62 - Fuel Gas Treatment Skid (CN1)
-		420 - Module 65 - Generator Switchgear Module Utility Area Transformer Platform (CN2)
+		417 - Module 62 - Fuel Gas Treatment Skid
+		420 - Module 65 - Generator Switchgear Module Utility Area Transformer Platform
 		425 - Module 70 - Utility Module
 		430 - Interconnects
 		435 - Chemical Injection Module
