@@ -6,7 +6,7 @@
 	[[RateChart]]
 	[[WeeklyCostReportContents]]
 	[[file:///c:/Users/jdavis2/Dropbox/reminders/BRPCMustang.rem|Remind File]]
-	[[file:///|RAGB Report]]
+	[[file:///R:/BRPC/107315/Project Controls/Schedules/RAGB Report.xlsx|RAGB Report]]
 	[[CostEngineerErrata]]
 
 	P4 WBS

@@ -15,10 +15,19 @@ Caelus:
 
 11:30 - 12:30 BRPC Team Meeting
 
-* [ ] Complete and Approve Time Sheet
+* [ ] Complete Time Sheet
 
 = Tuesday =
 BRPC:
+* [ ] Run and issue cost report for 107315.
+	Ditribution:
+		Mark Wiggans
+		Dan Gleason
+		Cynthia Geiermann
+		Raj Bhargava (Rbhargava@brpcak.com)
+		Mike Moora
+		Ron Otero
+		Chris Higgins
 * [ ] Run and issue cost report for 107278.
 	Ditribution:
 		Fred Fitzhugh
@@ -42,7 +51,7 @@ Caelus:
 11:00 - 12:00 OTP Team Meeting
 15:00 - 16:00 NDS-1 Team Meeting
 
-* [ ] Complete and Approve Time Sheet
+* [ ] Complete Time Sheet
 
 = Wednesday =
 * [ ] Update schedule with IPDMS Exception Report data
@@ -51,7 +60,7 @@ Caelus:
 11:00 - 12:00 Caelus Program Coordination Meeting
 16:00 - 17:00 Conference Call with Quyen Kay
 
-* [ ] Complete and Approve Time Sheet
+* [ ] Complete Time Sheet
 
 = Thursday =
 * [ ] PC Leads Review cost report
@@ -64,7 +73,7 @@ Caelus:
 		* [ ] NDS-1
 		* [ ] OTPEX
 
-* [ ] Complete and Approve Time Sheet
+* [ ] Complete Time Sheet
 
 = Friday =
 BRPC:

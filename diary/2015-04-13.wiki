@@ -1,0 +1,17 @@
+Arrive 0800.
+
+Exported CN3 to 107391. Contains only ELEC hours. Is this correct? Call Heather to confirm.
+
+Chris exported CN2 to 107386.
+
+Deleted CN4 at Heather's direction. Did not contain any hours. NOTE: Have to delete associated elements in the Find Tool before deleting the CN in Change Management.
+
+Attended BRPC weekly team meeting. Stressed that earned performance is lagging. CPIs are poor as are SPIs. (Later discussion with Heather, she is concerned that some may be sandbagging.)
+
+Talked to Bill Scott about STRU-E tracking. He volunteered for a PT training session, Wednesday morning at his desk.
+
+Discussed with Werner need to issue BRPC reports on Tuesday. Werner also relayed a request from CSG to not display rate information on the report. Discussed with Justin and we are in agreement.
+
+Set up client funding for P2-200 on JN 107384 and JN 107391. Deducted from funding on 107315 SJ220.
+
+Out at 1700.

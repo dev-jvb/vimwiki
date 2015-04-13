@@ -33,6 +33,9 @@
 | Ridenhour   | 3379                |
 | Russo       | 3153                |
 | Schramer    | 3714                |
+| Schiavi     | 3056                |
+| Scott       | 3497                |
+| Smith, D    | 3132                |
 | Tolliver    | 3430                |
 | Wazny       | 3786                |
 |             |                     |

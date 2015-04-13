@@ -7,10 +7,11 @@
 		Select Phase P4
 		Group By All Employees
 		Group By All OT Hours
+		Select To Date for the Date View
 		Hit "Find Now"
 		Select All and Copy
 		Switch back to the Actuals workbook and Paste the Reporting data into cell A1.
-		Save and CLose the Actuals workbook.
+		Save and Close the Actuals workbook.
 		
 = Update the Weekly Report. =
 	Open the Weekly Report Excel file:
@@ -18,7 +19,7 @@
 	In the Workbook Queries pane on the right, right click on Actuals and select Refresh.
 	Confirm the Total Hours are as expected and that all Employees have a ProjectClassification assigned. For any employees that do not have a Classification, contact Werner Plagge to obtain the correct Classification. See [[Update Employee Classification Instructions]] to maintain the Employee table.
 	If you have previously made updates to the Employee Table, right click on Employees and select Refresh.
-	Switch to the Report tab and place your curser ina cell in the pivot table. Click Alt-F5 to update the pivot table.
+	Switch to the Report tab and place your curser in a cell in the pivot table. Click Alt-F5 to update the pivot table.
 	Use the Week Ending pulldown to select the desired periods for inclusion.
 	PDF and save to the reports folder.
 
