@@ -20,7 +20,7 @@ Caelus:
 = Tuesday =
 BRPC:
 * [ ] Run and issue cost report for 107315.
-	Ditribution:
+	Distribution:
 		Mark Wiggans
 		Dan Gleason
 		Cynthia Geiermann
@@ -29,7 +29,7 @@ BRPC:
 		Ron Otero
 		Chris Higgins
 * [ ] Run and issue cost report for 107278.
-	Ditribution:
+	Distribution:
 		Fred Fitzhugh
 		Mark Wiggans
 		Cynthia Geiermann

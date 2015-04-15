@@ -5,7 +5,7 @@
 	[[KeyPersonnel]]
 	[[RateChart]]
 	[[WeeklyCostReportContents]]
-	[[file:///c:/Users/jdavis2/Dropbox/reminders/BRPCMustang.rem|Remind File]]
+	[[file:///c:/Users/jdavis2/Dropbox/reminders/107315.rem|Remind File]]
 	[[file:///R:/BRPC/107315/Project Controls/Schedules/RAGB Report.xlsx|RAGB Report]]
 	[[CostEngineerErrata]]
 
@@ -25,9 +25,9 @@
 				Project Scheduler - 5-6 hours/week
 				Project Duration - 10-12 weeks
 		417 - Module 62 - Fuel Gas Treatment Skid
-		420 - Module 65 - Generator Switchgear Module Utility Area Transformer Platform
+			RFS for CN1 received 4-14-15 per Werner.
+		420 - Module 65 - Generator Switchgear Module Utility Area Transformer Platform - Moved to JN 107386, SJ 420
 		425 - Module 70 - Utility Module
 		430 - Interconnects
-		435 - Chemical Injection Module
-		4xx - Module 05
+		435 - Chemical Injection Module - Moved to JN 107391 SJ 435
 
