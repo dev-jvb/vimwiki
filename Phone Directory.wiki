@@ -6,6 +6,7 @@
 | Baker, P    | 3386 C:509-768-5922 |
 | Belsher     | 3765                |
 | Bertagnolli | 3313                |
+| Brown       | 3034                |
 | Caetano     | 3768                |
 | Charette    | 3852                |
 | Crabtree    | 3372                |
@@ -15,6 +16,7 @@
 | Emplit      | 3635                |
 | Evancho     | 3520                |
 | Formway     | 3364                |
+| Freeman     | 3504                |
 | Guevara     | 3490                |
 | Hellsund    | 3081                |
 | Higgins     | 3014                |
