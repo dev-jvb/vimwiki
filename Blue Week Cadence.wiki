@@ -44,7 +44,6 @@ Caelus:
 * [ ] Run PSR; update any Issued POs.
 * [ ] Update schedule with data from Progress Tracking
         * [[NDS-1 Schedule Update Checklist]]
-* [ ] Run final 014 and 006 reports for the reporting period
 * [ ] Update Project Controls deck for team meeting
 * [ ] Update Project Go Binder
 
@@ -54,6 +53,7 @@ Caelus:
 * [ ] Complete Time Sheet
 
 = Wednesday =
+* [ ] Run final 014 and 006 reports for the reporting period
 * [ ] Update schedule with IPDMS Exception Report data
 * [ ] Cost report ready for review by PC Leads
 

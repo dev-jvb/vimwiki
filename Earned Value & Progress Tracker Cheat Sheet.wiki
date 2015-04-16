@@ -1,0 +1,19 @@
+Earned Value & Progress Tracker Cheat Sheet
+
+In Progress Tracker:
+     Budget at Completion (BAC) = Current Budget for the element
+     Earned = BAC * % Complete
+     Estimated Hours to Complete (EHTC) = The hours remaining to complete the element
+     Forecast (FCST) = The expected hours that will be used to complete the element; assuming work continues at the same pace.
+          FCST = EHTC / (1 - %Comp)
+
+In Reporting:
+     Earned = BAC * % Complete
+     Current Budget = Original Budget + Approved Changes
+     Pending Budget = Current Budget + Pending Changes
+                    = Original Budget + Approved Changes + Pending Changes
+     Trended Forecast = Pending Budget + Trends
+                      = Current Budget + Pending Changes + Trends
+                      = Original Budget + Approved Changes + Pending Changes + Trends
+     Estimate at Completion (EAC) = Actual + EHTC
+

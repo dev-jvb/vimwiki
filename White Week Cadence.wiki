@@ -26,11 +26,9 @@ BRPC
 		Gerry Thompson
 		Mike Moora
 		Terry Caetano
-* [ ] Run informational 014, 018, and 006 reports for the prior period
 * [ ] Update Project Go Binder
 
 Caelus:
-* [ ] Run informational 014, 018, and 006 reports for the prior period
 * [ ] Update Team Meeting Deck
 * [ ] Update Project Go Binder
 
@@ -40,6 +38,7 @@ Caelus:
 15:00 - 16:00 NDS-1 Team Meeting
 
 = Wednesday =
+* [ ] Run final 014 and 006 reports for the reporting period
 * [ ] Cost report ready for review by PC Leads
 
 * [ ] Complete Time Sheet
