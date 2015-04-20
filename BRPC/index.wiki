@@ -7,13 +7,24 @@ Project Controls Contact:
 	Mobile:		(907) 350-9905
 	E-mail:		cgeiermann@brpcak.com
 
-= Projects =
+= Projects Only Active Phases and SubJobs Listed =
 107252	Mustang Development PHA Services
 [[107278 Mustang Project Procurement Services]]
 [[107315 Mustang Development Eng'g Services - Module 63 - Turbine Generator]]
-[[107384 Mustang Development Eng'g Services - Module XX - VFD]]
+	P4
+		400 - PMAC
+		415 - Module 63 - Turbine Generator
+		417 - Module 62 - Fuel Skid
+[[107384 Mustang Development Eng'g Services - Module 64 - VFD]]
+	P2
+		200 - Scoping Work for Module 64
 [[107386 Mustang Development Eng'g Services - Module 65 - Generator/Electrical Switchgear]]
+	P4
+		400 - PMAC
+		420 - Generator/Electrical Switchgear
 [[107391 Mustang Development Eng'g Services - Module 05 - Chemical Injection Skid]]
+	P2
+		200 - Scoping Work for Module 05
 
 = General Tools and Resources =
 [[file:///R:/BRPC/107315/Project Controls/Project Accounting/CN PMAC Hours Calculator.xlsx|CN PMAC Hours Calculator]]

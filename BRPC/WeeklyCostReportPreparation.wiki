@@ -1,6 +1,6 @@
 = Update the Actuals workbook. =
 	Open the Excel file containing the Reporting Actuals:
-		[[file:///R:/BRPC/107315/Project Controls/Reports/Weekly Cost Reports/107315 Actuals.xlsx|Actuals.xlsx]]
+		[[file:///R:/BRPC/107315/Project Controls/Reports/1 -Weekly Reporting Package Workbooks/107315 Actuals.xlsx|Actuals.xlsx]]
 
 	Open Reporting and Select the Actual Hours tab.
 		Select the Program, Client and Job
@@ -15,7 +15,7 @@
 		
 = Update the Weekly Report. =
 	Open the Weekly Report Excel file:
-		[[file:///R:/BRPC/107315/Project Controls/Reports/Weekly Cost Reports/107315 Weekly Report.xlsx|Weekly Cost Report]]
+		[[file:///R:/BRPC/107315/Project Controls/Reports/1 -Weekly Reporting Package Workbooks/107315 Weekly Report.xlsx|Weekly Cost Report]]
 	In the Workbook Queries pane on the right, right click on Actuals and select Refresh.
 	Confirm the Total Hours are as expected and that all Employees have a ProjectClassification assigned. For any employees that do not have a Classification, contact Werner Plagge to obtain the correct Classification. See [[Update Employee Classification Instructions]] to maintain the Employee table.
 	If you have previously made updates to the Employee Table, right click on Employees and select Refresh.
