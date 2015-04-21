@@ -19,8 +19,8 @@
 [[MySimpleRules]]
 [[LessonsLearned]]
 [[BestPractices]]
-[[TenCommandmentsOfPRojectControls]]
-
+[[TenCommandmentsOfProjectControls]]
+[[IntellectualJokes]]
 [[Earned Value & Progress Tracker Cheat Sheet]]
 
 

@@ -2,7 +2,11 @@ White Week Cadence
 
 = Monday =
 BRPC:
-* [ ] Run 006 and check for tracking.
+* [ ] Run 006's and check for tracking.
+	* [ ] 107278
+	* [ ] 107315
+	* [ ] 107386
+	 
 * [ ] Prepare for team meeting.
 
 11:30 - 12:30 BRPC Team Meeting
@@ -10,36 +14,41 @@ BRPC:
 Caelus:
 * [ ] Prepare Labor Distributions for Brent, Mike, and Ron
 * [ ] Review 006 Reports for NDS and noting any major deficiencies
-* [ ] After 1300:
-        * [ ] Prepare "zero-earned" report and distribute to team leads
 * [ ] Prepare updated IPDMS reports for Anna
  
 * [ ] Complete Time Sheet
 
 = Tuesday =
 BRPC:
-* [ ] Run and issue cost report for 107315.
+* [ ] 107278 - Run and issue cost report
+	Ditribution:
+		Fred Fitzhugh
+		Mark Wiggins
+		Cynthia Geiermann
+		Gerry Thompson
+		Mike Moora
+		Terry Caetano
+* [ ] 107315 - Run and issue cost report 
 	Distribution:
-		Mark Wiggans
+		Mark Wiggins
 		Dan Gleason
 		Cynthia Geiermann
 		Raj Bhargava (Rbhargava@brpcak.com)
 		Mike Moora
 		Ron Otero
 		Chris Higgins
-* [ ] Run and issue cost report for 107278.
-	Ditribution:
-		Fred Fitzhugh
-		Mark Wiggans
+* [ ] 107386 - Run and issue cost report 
+	Distribution:
+		Mark Wiggins
+		Dan Gleason
 		Cynthia Geiermann
-		Gerry Thompson
+		Raj Bhargava (Rbhargava@brpcak.com)
 		Mike Moora
-		Terry Caetano
-* [ ] Update Project Go Binder
+		Ron Otero
+		Chris Higgins
 
 Caelus:
 * [ ] Update Team Meeting Deck
-* [ ] Update Project Go Binder
 
 * [ ] Complete Time Sheet
  
@@ -47,7 +56,9 @@ Caelus:
 15:00 - 16:00 NDS-1 Team Meeting
 
 = Wednesday =
-* [ ] Run final 014 and 006 reports for the reporting period
+* [ ] Update Project Go binders with final 018, 014 and 006 reports for the reporting period
+	* [ ] BRPC
+	* [ ] Caelus
 * [ ] Cost report ready for review by PC Leads
 
 * [ ] Complete Time Sheet
