@@ -17,7 +17,16 @@ Caelus:
 * [ ] Complete Time Sheet
 
 = Tuesday =
-BRPC
+BRPC:
+* [ ] Run and issue cost report for 107315.
+	Distribution:
+		Mark Wiggans
+		Dan Gleason
+		Cynthia Geiermann
+		Raj Bhargava (Rbhargava@brpcak.com)
+		Mike Moora
+		Ron Otero
+		Chris Higgins
 * [ ] Run and issue cost report for 107278.
 	Ditribution:
 		Fred Fitzhugh
