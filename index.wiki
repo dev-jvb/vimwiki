@@ -1,4 +1,4 @@
-[[=]] My Wiki =
+= My Wiki =
 \ww  = This wiki
 2\ww = BRPC Wiki
 
