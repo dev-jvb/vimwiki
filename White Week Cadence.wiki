@@ -8,6 +8,7 @@ BRPC:
 	* [ ] 107386
 	 
 * [ ] Prepare for team meeting.
+* [ ] Updated Seed Funding Balance to Heather
 
 11:30 - 12:30 BRPC Team Meeting
 
@@ -76,9 +77,6 @@ Caelus:
 * [ ] Complete Time Sheet
 
 = Friday =
-BRPC:
-* [ ] Issue Weekly Cost Report
-
 Caelus:
 * [ ] PA Compiles Report
 * [ ] PL reviews report; approves for issue

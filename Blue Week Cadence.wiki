@@ -6,6 +6,7 @@ Schedule Data Date
 = Monday =
 BRPC:
 * [ ] Prepare for team meeting.
+* [ ] Updated Seed Funding Balance to Heather
 
 Caelus:
 * [ ] Prepare Labor Distributions for Brent, Mike, and Ron
@@ -85,9 +86,6 @@ Caelus:
 * [ ] Complete Time Sheet
 
 = Friday =
-BRPC:
-	* [ ] Issue Weekly Cost Report
-
 Caelus:
 	* [ ] PA Compile Cost and Schedule report [[Bi Weekly Report Contents]]
 		Schedule Products:
