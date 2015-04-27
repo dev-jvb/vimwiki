@@ -1,5 +1,5 @@
 = Update the Burn Up Chart Workbook =
-	Open the Excel file containing the [[file:///R:/BRPC/107315/Project Controls/Reports/107315 - BRPC Mustang - Burn Up Chart - Weekly and Cumulative Performance.xlsx|Burn Up Chart]]
+	Open the Excel file containing the [[file:///R:/BRPC/107315/Project Controls/Reports/1 -Weekly Reporting Package Workbooks/107315 - BRPC Mustang - Burn Up Chart - Weekly and Cumulative Performance.xlsx|Burn Up Chart]]
 	Switch to the Reporting Data tab.
 	
 	Open Reporting and Select the Budget History tab.
