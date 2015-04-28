@@ -40,6 +40,7 @@
 | Schiavi     | 3056                |
 | Scott       | 3497                |
 | Smith, D    | 3132                |
+| Stonke      | 3094                |
 | Thompson    | 3471                |
 | Tolliver    | 3430                |
 | Wazny       | 3786                |

@@ -8,7 +8,6 @@ BRPC:
 	* [ ] 107386
 	 
 * [ ] Prepare for team meeting.
-* [ ] Updated Seed Funding Balance to Heather
 
 11:30 - 12:30 BRPC Team Meeting
 
@@ -47,6 +46,8 @@ BRPC:
 		Mike Moora
 		Ron Otero
 		Chris Higgins
+* [ ] Updated Seed Funding Balance to Heather
+* [ ] Updated Weekly Cum Performance by Workgroup to Heather
 
 Caelus:
 * [ ] Update Team Meeting Deck

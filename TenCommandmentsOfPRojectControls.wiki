@@ -4,3 +4,5 @@ Thou shalt not over-report thy progress.
 Thou shalt not covet thy neighbor's budget, nor their CPI.
 Thou shalt not work on new scope without an approved Change Notice.
 Delay not thy progress tracking lest ye feel the wrath of the Project Controller.
+Own the inputs.
+communication is what the listener does.

@@ -5,8 +5,12 @@ Schedule Data Date
 
 = Monday =
 BRPC:
+* [ ] Run 006's and check for tracking.
+	* [ ] 107278
+	* [ ] 107315
+	* [ ] 107386
+ 
 * [ ] Prepare for team meeting.
-* [ ] Updated Seed Funding Balance to Heather
 
 Caelus:
 * [ ] Prepare Labor Distributions for Brent, Mike, and Ron
@@ -50,6 +54,7 @@ BRPC:
 * [ ] Run informational 014, 018, and 006 reports for the prior period
 * [ ] Update Project Go Binder
 * [ ] Updated Seed Funding Balance to Heather
+* [ ] Updated Weekly Cum Performance by Workgroup to Heather
 
 Caelus:
 * [ ] Update Project Controls deck for team meeting
