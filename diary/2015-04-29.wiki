@@ -1,0 +1,15 @@
+Arrive 0730.
+
+NDS-1 Restart Schedule Assumptions:
+- First Module to be delivered/placed is N1-E06 (E&I Module).
+- VSM Install constrained to On or After 11/1.
+- Setting and Connecting Well Row Piperack begins 10ed after VSMs installed. Lasts 3ew.
+- Delivery and Setting of Modules begins 4ed after start of Setting and Connecting Well Row Pipe Rack. Lasts 6ed. First Mod is N1-E06, last is N1-U15.
+
+Reviewed re-start schedules with Brent.
+
+107315 CN10 will not be pursued per Ron Otero.
+
+Cleaned up Change Log and asked Tiffany to prepare STRU CNs.
+
+Reviewed Caelus cost report. Updated cost to complete workbook.
