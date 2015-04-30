@@ -1,0 +1,39 @@
+Orcas Island Ride Plan
+
+Ferry from Anacortes:
+
+	Leaving Anacortes
+	Depart	Est. Arrive	ADA
+	AM
+	5:30	6:20	ADA Accessible
+	7:30	8:20	ADA Accessible
+	10:35	11:50	ADA Accessible
+	PM
+	3:40	4:45	ADA Accessible
+	6:30	7:35	ADA Accessible
+	8:55	9:55	ADA Accessible
+	Fare: 24.15 for Motorcycle and Driver; 17.65 if Senior	
+Stops:
+	- Rosario Resort Hotel
+	- Deer Harbor Marina
+	- Lunch at Camiyo
+	  123 N Beach Road
+	  Eastsound, WA
+	- Mount Constitution
+
+Return via Ferry.
+
+	Leaving Orcas Island
+	Depart	Est. Arrive	ADA
+	AM
+	6:45	8:10	ADA Accessible
+	8:45 1	10:10	ADA Accessible
+	PM
+	12:25	1:30	ADA Accessible
+	5:15	6:05	ADA Accessible
+	7:50	8:40	ADA Accessible
+	10:05	10:55
+
+https://www.google.com/maps/dir/Bob's+Burgers+%26+Brew+Burlington,+9394+Old+Highway+99+North+Road,+Burlington,+WA+98233/Deer+Harbor+Marina,+Deer+Harbor+Road,+Deer+Harbor,+WA/123+N+Beach+Rd,+Eastsound,+WA+98245/Rosario+Resort+%26+Spa,+Rosario+Road,+Eastsound,+WA/Obstruction+Pass+State+Park,+Olga,+WA/Mount+Constitution,+San+Juan+County,+WA/Bob's+Burgers+%26+Brew+Burlington,+9394+Old+Highway+99+North+Road,+Burlington,+WA+98233/@48.6328987,-122.9832699,12z/data=!4m54!4m53!1m5!1m1!1s0x548572903c9475f3:0x79ae64a6feffa7e3!2m2!1d-122.337734!2d48.509298!1m10!1m1!1s0x548587c7b019c535:0x5eac731872640d34!2m2!1d-123.00276!2d48.620048!3m4!1m2!1d-122.9513949!2d48.6551988!3s0x548586037130a2d5:0xf6c26773629489e5!1m5!1m1!1s0x54858f9fa6809f01:0x89c88485dc97fe06!2m2!1d-122.9065274!2d48.6955179!1m5!1m1!1s0x548585b17e988963:0x3a55fc2dbb213271!2m2!1d-122.873289!2d48.644602!1m5!1m1!1s0x5485838b9879f6d9:0xee05c7ceb3373402!2m2!1d-122.826973!2d48.604792!1m10!1m1!1s0x54858547c4faf4cb:0xa827f2d26bbda8cd!2m2!1d-122.8310165!2d48.6776047!3m4!1m2!1d-122.9390109!2d48.6576227!3s0x548585fd853823f1:0x910803312e86bda2!1m5!1m1!1s0x548572903c9475f3:0x79ae64a6feffa7e3!2m2!1d-122.337734!2d48.509298!3e0
+
+https://goo.gl/maps/38R5l
