@@ -41,6 +41,15 @@ BRPC:
 		Mike Moora
 		Ron Otero
 		Chris Higgins
+* [ ] 107384 - Run and issue cost report 
+	Distribution:
+		Mark Wiggins
+		Dan Gleason
+		Cynthia Geiermann
+		Raj Bhargava (Rbhargava@brpcak.com)
+		Mike Moora
+		Ron Otero
+		Chris Higgins
 * [ ] 107386 - Run and issue cost report 
 	Distribution:
 		Mark Wiggins

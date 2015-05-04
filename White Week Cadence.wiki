@@ -5,9 +5,11 @@ BRPC:
 * [ ] Run 006's and check for tracking.
 	* [ ] 107278
 	* [ ] 107315
+	* [ ] 107384
 	* [ ] 107386
 	 
 * [ ] Prepare for team meeting.
+	* [ ] Send Agenda Items to Heather
 
 11:30 - 12:30 BRPC Team Meeting
 
@@ -29,6 +31,15 @@ BRPC:
 		Mike Moora
 		Terry Caetano
 * [ ] 107315 - Run and issue cost report 
+	Distribution:
+		Mark Wiggins
+		Dan Gleason
+		Cynthia Geiermann
+		Raj Bhargava (Rbhargava@brpcak.com)
+		Mike Moora
+		Ron Otero
+		Chris Higgins
+* [ ] 107384 - Run and issue cost report 
 	Distribution:
 		Mark Wiggins
 		Dan Gleason
