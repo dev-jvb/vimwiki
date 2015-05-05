@@ -22,6 +22,7 @@ Caelus:
 
 = Tuesday =
 BRPC:
+* [ ] 107278 - Update Burn Up Chart (Internal Only) - [[file:///R:/BRPC/107278/Project Controls/Reports/107278 Burn Up Chart.xlsx]]
 * [ ] 107278 - Run and issue cost report
 	Ditribution:
 		Fred Fitzhugh
@@ -65,9 +66,6 @@ Caelus:
 
 * [ ] Complete Time Sheet
  
-11:00 - 12:00 OTP Team Meeting
-15:00 - 16:00 NDS-1 Team Meeting
-
 = Wednesday =
 * [ ] Update Project Go binders with final 018, 014 and 006 reports for the reporting period
 	* [ ] BRPC
