@@ -10,6 +10,8 @@ BRPC:
 	 
 * [ ] Prepare for team meeting.
 	* [ ] Send Agenda Items to Heather
+		* [ ] Period CPI
+		* [ ] Open CNs
 
 11:30 - 12:30 BRPC Team Meeting
 

@@ -11,6 +11,9 @@ BRPC:
 	* [ ] 107386
  
 * [ ] Prepare for team meeting.
+	* [ ] Send Agenda Items to Heather
+		* [ ] Period CPI
+		* [ ] Open CNs
 
 Caelus:
 * [ ] Prepare Labor Distributions for Brent, Mike, and Ron
