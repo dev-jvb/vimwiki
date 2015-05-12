@@ -13,6 +13,8 @@ BRPC:
 * [ ] Prepare for team meeting.
 	* [ ] Send Agenda Items to Heather
 		* [ ] Period CPI
+			* [ ] 107315
+			* [ ] 107386
 		* [ ] Open CNs
 
 Caelus:
@@ -70,7 +72,6 @@ BRPC:
 * [ ] Updated Weekly Cum Performance by Workgroup to Heather
 
 Caelus:
-* [ ] Update Project Controls deck for team meeting
 * [ ] Update Project Go Binder
 
 * [ ] Complete Time Sheet
