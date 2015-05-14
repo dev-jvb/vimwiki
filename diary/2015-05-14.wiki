@@ -1,10 +1,12 @@
 Arrive 0730.
 
-Met with Quyen Kay and Brent ot discuss restart schedules.
-	- [ ] Revise VSM install to start 11/1/16 and last 6 weeks.
-	- [ ] Add major engineering activities from restat APP when available.
-	- [ ] Add Fabrication and Construction Support activities (both NDS-1 and OTPEX)
-		- [ ] Engineering Support to run through Construction
-		- [ ] Procurement Support to run through delivery to North Slope
-		- [ ] QA Support to run from 1 month after Procurement Restart to 1 month after last delivery
-		- [ ] Revise Project Restart date to 11/1/2015.
+Met with Quyen Kay and Brent to discuss restart schedules.
+	- [X] Revise VSM install to start 11/1/16 and last 6 weeks.
+	- [X] Add major engineering activities from restart APP when available.
+	- [X] Add Fabrication and Construction Support activities (both NDS-1 and OTPEX)
+		- [X] Engineering Support to run through Construction
+		- [X] Procurement Support to run through delivery to North Slope
+		- [X] QA Support to run from 1 month after Procurement Restart to 1 month after last delivery
+		- [X] Revise Project Restart date to 11/1/2015.
+
+Completed above revisions. OK to charge Scheduler time per Brent.

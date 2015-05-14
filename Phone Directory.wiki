@@ -4,7 +4,7 @@
 | Badyoczek   | 3584                |
 | Baker, B    | 3533                |
 | Baker, P    | 3386 C:509-768-5922 |
-| Barnes      | 3539                |
+| Barnes, C   | 3539                |
 | Belsher     | 3765                |
 | Bertagnolli | 3313                |
 | Brown       | 3034                |
@@ -31,6 +31,7 @@
 | McAllister  | 3781                |
 | McMannis    | 3499                |
 | McGowan     | 3707                |
+| McGrew      | 3467                |
 | Moora       | 3030                |
 | Olson, B    | 3086                |
 | Olson, M    | 3802                |
