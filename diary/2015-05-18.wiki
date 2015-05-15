@@ -1,2 +1,5 @@
 Agenda Topics for Team Meeting
 	- Update EHTC Forecasting for all BRPC Projects.
+	- Revisions to CNs
+		- 107315 CN11, 12, 13, 15
+		- 107386 CN2, 4
