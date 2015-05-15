@@ -1,5 +1,16 @@
 = Brooks Range Petroleum Corporation (BPRC) =
-Project Controls Contact:
+
+= Sub Job Mapping =
+Job Number	Sub Job	Description
+107315		400	Module 62 & 63 PMAC
+107315		415	Module 63 Detailed Engineering
+107315		417	Module 62 Detailed Engineering
+107384		400	VFD Module PMAC
+107384		410	VFD Module Detailed Engineering
+107386		400	Module 65 PMAC
+107386		420	Module 65 Detailed Engineering
+
+= Project Controls Contact: =
 	Full Name:	Cynthia Schiller Geiermann
 	Job Title:	Project Controls
 	Company:	Brooks Range Petroleum Corp.
