@@ -1,0 +1,7 @@
+Arrive 0800.
+
+Added PMAC hours to PSE for 107386 CN4.
+
+Prepared Job/SubJob/EBS mapping for Program Change Log. Emailed to Cynthia.
+
+Out at 1200.
