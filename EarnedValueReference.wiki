@@ -19,8 +19,11 @@ Impact of Inefficiency in Dollars:
 
 Impact of Rate Differential:
 	Actual Dollars - (Actual Hours x Budgeted Rate)
+	or,
+	Actual Hours x (Actual Rate - Budgeted Rate)
 
 Impact of OT:
 	OT Dollars - (OT Hours x Regular TIme Composite Rate)
 	or,
 	OT Hours x (OT Cum Rate - Reg Rate)
+	
