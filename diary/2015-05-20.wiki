@@ -1,0 +1,48 @@
+Arrive 0745.
+
+107315.415 Analysis
+	Remaining Budget Left to Earn	1291.5 hours
+	Current CPI			0.90
+	Actual Hours Req'd to Earn Remaining Budget	1291.5/0.90 = 1435.0 hours
+	Current Straight Time Rate	130.04
+	Estimated Cost to Complete = 1435 x 130.04 = 186607.4
+	Actuals Cost to Date	404084
+	PMAC Cost at Original Budget 57160
+	Estimated Cost At Completion = 404084 + 186607 + 57160 = 647851
+	Less Original Budget	450000
+	Less Approved Change	109553
+	Additional Forecast to Go = 647851 - 450000 - 109553 = 88298
+
+107315.415 OT Premium:
+	OT Dollars to Date	46865
+	OT Hours to Date	  278
+	OT Rate			  168.58
+
+	ST Dollars to Date	358135
+	ST Hours to Date	  2754
+	ST Rate			   130.04
+
+	OT Hourly Premium = OT Rate - ST Rate = 168.58 - 130.04 = 38.54
+	OT Cost = OT Hourly Premium x OT Hours = 38.54 x 278 = 10714.12
+
+107315.415 Rate Differential
+	ST Dollars to Date	358135
+	ST Hours to Date	  2754
+	Budgeted Rate		   128.67
+	ST Dollars at Budget Rate = 2754 x 128.67 = 354357.18
+	Cost of Rate Diff = ST Dollars to Date - ST Dollars at Budget Rate = 358135 - 354357 = 3778
+
+107315.415 Additional Forecast to Complete
+	.415 Actuals to Date	$395471 (Reporting)
+	.415 ETC		$163055 (Reporting)
+	PMAC at Orig Budg	 $57160
+				=======
+	EAC			$615686
+	Minus Orig Budg		$450000
+	Minus Approved Change	$109553
+				=======
+	Add'l Forecast To Go	 $56133
+
+Worked on experimental S-Curve workbook for 107384. Coming along well. Reset Plan = Actual at WE 5/15. Requested update to EHTC Forecasting from disciplines.
+
+Out at 1630.
