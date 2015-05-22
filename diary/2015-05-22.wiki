@@ -1,0 +1,3 @@
+Arrive 0800.
+
+Priced DAPP for 107407. Included 10% allowance for OT as follows: priced normally using Prior Month Rate (Client). Calculated OT premium based on resulting comp rate x 1.35.Multiple OT premium ($45) by 10% of estimated hours (439). Resulting comp rate inclusive of OT is ~138 (consistent with recent billings.)
