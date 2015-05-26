@@ -1,5 +1,9 @@
 Earned Value & Progress Tracker Cheat Sheet
 
+Budget is the amount that the client has agreed to pay for some amount of work/deliverable. This is the amount that we can earn for completing the work. The budgeted amount can be revised, up or down, through Change Management.
+
+
+
 In Progress Tracker:
      Budget at Completion (BAC) = Current Budget for the element
      Earned = BAC * % Complete

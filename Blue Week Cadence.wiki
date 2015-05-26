@@ -19,11 +19,8 @@ BRPC:
 
 Caelus:
 * [ ] Prepare Labor Distributions for Brent, Mike, and Ron
-* [ ] Review 006 Reports for NDS and PGP, noting any major deficiencies
 * [ ] Review actual rates
 * [ ] Update IPDMS Outstanding MR Report for Anna
-
-11:30 - 12:30 BRPC Team Meeting
 
 * [ ] Complete Time Sheet
 
