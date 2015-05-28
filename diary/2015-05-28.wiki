@@ -1,0 +1,7 @@
+Arrive 0700.
+
+Worked on S-Curve workbook for 107386 (Module 65)
+
+Per Heather, Piping and possibly Structural have time charged to Module 63 that should go to the Interconnect Project (107407). Per Bruce Raymond, 32 hours of Piping need to be moved. Ryan Smith had nothing. Reached out to Ron to see if he was aware of others that need transfers.
+
+Heather reminded me that the discipline M&C hours remain in SJ415, so will not be able to close it down completely after Module 63 IFF. Must monitor closely. Do we close the RFS for 415 when Module 63 goes IFF and then roll further charges agaist .415 to the RFS for .417? Talk to Justin about how to address this. Upon review of Tracker, there are separate M&C elements in .417; so this may be a non-issue.

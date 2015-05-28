@@ -37,6 +37,7 @@
 | Olson, M    | 3802      |
 | Otero       | 3130      |
 | Plagge      | 3057      |
+| Raymond, B  | 3026      |
 | Ridenhour   | 3379      |
 | Russo       | 3153      |
 | Schramer    | 3714      |
