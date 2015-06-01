@@ -50,6 +50,7 @@ BRPC:
 		Mike Moora
 		Ron Otero
 		Chris Higgins
+		Craig Wilson
 * [ ] 107384 - Update project metrics
 	* [ ] Hours CPI
 	* [ ] Dollars CPI
@@ -62,6 +63,7 @@ BRPC:
 		Mike Moora
 		Ron Otero
 		Chris Higgins
+		Craig Wilson
 * [ ] 107386 - Update project metrics
 	* [ ] Hours CPI
 	* [ ] Dollars CPI
@@ -74,6 +76,20 @@ BRPC:
 		Mike Moora
 		Ron Otero
 		Chris Higgins
+		Craig Wilson
+* [ ] 107407 - Update project metrics
+	* [ ] Hours CPI
+	* [ ] Dollars CPI
+* [ ] 107407 - Run and issue cost report 
+	Distribution:
+		Mark Wiggins
+		Dan Gleason
+		Cynthia Geiermann
+		Raj Bhargava (Rbhargava@brpcak.com)
+		Mike Moora
+		Ron Otero
+		Chris Higgins
+		Craig Wilson
 
 * [ ] Run informational 014, 018, and 006 reports for the prior period
 * [ ] Update Project Go Binder

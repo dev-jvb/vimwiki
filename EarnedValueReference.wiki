@@ -23,7 +23,7 @@ Impact of Rate Differential:
 	Actual Hours x (Actual Rate - Budgeted Rate)
 
 Impact of OT:
-	OT Dollars - (OT Hours x Regular TIme Composite Rate)
+	OT Dollars - (OT Hours x Regular Time Composite Rate)
 	or,
 	OT Hours x (OT Cum Rate - Reg Rate)
 	

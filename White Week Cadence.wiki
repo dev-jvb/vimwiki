@@ -48,6 +48,7 @@ BRPC:
 		Mike Moora
 		Ron Otero
 		Chris Higgins
+		Craig Wilson
 * [ ] 107384 - Update project metrics
 	* [ ] Hours CPI
 	* [ ] Dollars CPI
@@ -60,6 +61,7 @@ BRPC:
 		Mike Moora
 		Ron Otero
 		Chris Higgins
+		Craig Wilson
 * [ ] 107386 - Update project metrics
 	* [ ] Hours CPI
 	* [ ] Dollars CPI
@@ -72,7 +74,21 @@ BRPC:
 		Mike Moora
 		Ron Otero
 		Chris Higgins
-* [ ] Updated Seed Funding Balance to Heather
+		Craig Wilson
+* [ ] 107407 - Update project metrics
+	* [ ] Hours CPI
+	* [ ] Dollars CPI
+* [ ] 107407 - Run and issue cost report 
+	Distribution:
+		Mark Wiggins
+		Dan Gleason
+		Cynthia Geiermann
+		Raj Bhargava (Rbhargava@brpcak.com)
+		Mike Moora
+		Ron Otero
+		Chris Higgins
+		Craig Wilson
+ 
 * [ ] Updated Weekly Cum Performance by Workgroup to Heather
 
 Caelus:
