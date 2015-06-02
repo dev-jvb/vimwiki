@@ -38,6 +38,7 @@ BRPC:
 		Gerry Thompson
 		Mike Moora
 		Terry Caetano
+		Craig Wilson
 * [ ] 107315 - Update project metrics
 	* [ ] Hours CPI
 	* [ ] Dollars CPI
