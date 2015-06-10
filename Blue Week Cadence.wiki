@@ -81,7 +81,7 @@ BRPC:
 * [ ] 107407 - Update project metrics
 	* [ ] Hours CPI
 	* [ ] Dollars CPI
-* [ ] 107407 - Run and issue cost report 
+* [ ] 107407 - Run and issue cost report (Only after funding received.)
 	Distribution:
 		Mark Wiggins
 		Dan Gleason
@@ -95,8 +95,7 @@ BRPC:
 * [ ] Run informational 014, 018, and 006 reports for the prior period
 * [ ] Update Project Go Binder
 * [ ] Updated Weekly Cum Performance by Workgroup to Heather
-
-Caelus:
+* [ ] Report Hours and Dollars CPIs internally to Project Leadership
 
 * [ ] Complete Time Sheet
 
