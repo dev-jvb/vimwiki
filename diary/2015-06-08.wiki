@@ -1,0 +1,19 @@
+Arrive 0730.
+
+Revised client funding for .400 and .415 to reflect approved change and revised funding. #107315
+
+Transferred M&C hours associated with CN1 from .415 to .417.
+
+Transferred hours from .415 to .417 to account for budget transfer for M&C hours.
+	Control Systems Designer	50 hours
+	Control Systems Engineer	47 hours
+	Electrical Engineer		40 hours
+	Electrical Designer		 8 hours
+	Piping Designer		       114 hours
+	Piping Engineer		      42.5 hours (all that was available in May for Transfer; wanted 58.)
+
+After completion of transfers, EAC is within $1k of Funding (assuming $25k this week.)
+
+CN21 changes picture. IFF now pushed out to 6/13; additional HVAC, and others?, hours needed. Added PMAC and PC hours to CN21 to address additional week.
+
+Out at 1630.

@@ -79,7 +79,7 @@ BRPC:
 * [ ] 107407 - Update project metrics
 	* [ ] Hours CPI
 	* [ ] Dollars CPI
-* [ ] 107407 - Run and issue cost report (Only after funding received.)
+* [ ] 107407 - Run and issue cost report 
 	Distribution:
 		Mark Wiggins
 		Dan Gleason
@@ -93,6 +93,9 @@ BRPC:
 * [ ] Updated Weekly Cum Performance by Workgroup to Heather
 * [ ] Report Hours and Dollars CPIs internally to Project Leadership
 
+Caelus:
+* [ ] Update Team Meeting Deck
+
 * [ ] Complete Time Sheet
  
 = Wednesday =
@@ -102,6 +105,9 @@ BRPC:
 * [ ] Cost report ready for review by PC Leads
 
 * [ ] Complete Time Sheet
+
+11:00 - 12:00 Caelus Program Coordination Meeting
+16:00 - 17:00 Caelus Conference Call with Quyen
 
 = Thursday =
 * [ ] Review cost report
