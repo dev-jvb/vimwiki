@@ -1,0 +1,13 @@
+Arrive 0730.
+
+Corrected spelling error in header of Condensed Program Change Log #BRPC
+
+Confirmed that signed, approved copies of all CNs are in the project folders/attached to the CN in PSE. Notices the we do not have singed copy of 107278 CN2, notified Terry, he has verbal approval only but will pursue obtaining a signed copy.
+
+Rolled Trend CN for PSVs into Progress Tracker.
+
+Opened 107278 CN3 for additional MRs. Sent to Terry Caetano and Gerry Thompson. #107278
+
+Terry requested an estimated EAC for 107278. Assume ~1700 additional procurement hours, no more than 5% OT.
+
+Out at 1700.
