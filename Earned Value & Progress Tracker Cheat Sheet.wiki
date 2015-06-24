@@ -2,7 +2,7 @@ Earned Value & Progress Tracker Cheat Sheet
 
 Budget is the amount that the client has agreed to pay for some amount of work/deliverable. This is the amount that we can earn for completing the work. The budgeted amount can be revised, up or down, through Change Management.
 
-
+Only 1 LoE element per Work Group per subjob is allowed in Progress Tracker.
 
 In Progress Tracker:
      Budget at Completion (BAC) = Current Budget for the element

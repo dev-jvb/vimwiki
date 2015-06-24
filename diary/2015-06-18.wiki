@@ -1,0 +1,9 @@
+Arrive 0730.
+
+Started to look at estimating an EAC for 107278. Left voice mail for Terry to get further guidance.
+
+Reviewed invoicing against seed funding to verify all used. Also prepared spreadsheet showing how used and on which invoices. Researched invoice 1487; was for interconnect package scope development. Still need RFS for interconnect package engineering.
+
+Talked to Jeff Carleton about schedule slides. He indicated that delay sin Low Voltage Switchgear and a re-bid of the Transfomrers were the primary drivers of the Mod 65 slide. This led directly to the slide in the Interconnect package. On the interconnect, Jeff also added a couple-three weeks to allow for some spacing between packages. Interconnect would need to be in check when Mod 65 went IFF. This is too much overlap between dependent packages, so Jeff wanted more room. He admits the 6 week slide on interconnect is "soft" and could be drawn back a bit; but since there is no client pressure...
+
+Out at 1630.

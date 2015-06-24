@@ -1,0 +1,183 @@
+Arrive 0800.
+
+Attended weekly team meeting. #107315
+
+Pulled budget hours data and updated BRPC Dashboard. Send project metrics to Heather with disciplines broken out for 107315.415.
+
+For schedule change CN, assume 3 more weeks of PMAC for 107386 and 6 more weeks for 107407. Example, PC and PS, 3 weeks * 8 hours/week + 6 weeks * 8 hours/week = 72 additional hours each.
+
+Out at 1615.
+
+Trasncript of Chat with xFinity:
+
+user JOHN has entered room
+
+analyst Mark Angelo has entered room
+
+Mark Angelo: Hello JOHN_, Thank you for contacting Comcast Live Chat Support. My name is Mark Angelo. Please give me one moment to review your information.
+
+JOHN: My Issue: Why did my bill increase from $185.30 last month to $206.95 this month?
+
+Mark Angelo: How are you doing today?
+
+JOHN: Fine thanks.
+
+Mark Angelo: Glad to hear you are doing fine.
+
+Mark Angelo: I understand you need help in checking why your bill increased from $185 to $206
+
+Mark Angelo: Let me go ahead and check on the account for details.
+
+JOHN: OK.
+
+Mark Angelo: I'm pulling up your account info now. It might take a few moments - thanks for being patient!
+
+JOHN: No problem.
+
+Mark Angelo: I see your monthly rate is $159.99 + equipment + taxes and that would be $206.96
+
+JOHN: Why did it change from last month?
+
+Mark Angelo: I see that the promotional rate has partially expired.
+
+Mark Angelo: Your rate rolled from $139.99 to $159.99, which is the semi-promotional rate.
+
+JOHN: Can it be rolled back? Or is there another promotion available?
+
+Mark Angelo: It is going to be $194.95 after the promotional rate.
+
+JOHN: Not $185?
+
+Mark Angelo: Currently your rate is in semi promotional rate.
+
+Mark Angelo: And you have a contract.
+
+JOHN: I do not recall agreeing to any contract.
+
+Mark Angelo: We will be able to check for promotions only if you are open for some upgrades.
+
+JOHN: In fact, I recall specifically not agreeing to a contract.
+
+Mark Angelo: Okay, would you want our order entry to check and discuss for options to lower the monthly rate?
+
+JOHN: Yes, please.
+
+Mark Angelo: Okay, please do not close the chat.
+
+JOHN: OK.
+
+Mark Angelo: Thank you! Connecting order entry now.
+
+Mark Angelo: Please wait, while the problem is escalated to another analyst
+
+Waiting for response from Mark Angelo
+
+JOHN: My Issue: Why did my bill increase from $185.30 last month to $206.95 this month?
+
+user JOHN has entered room
+
+analyst Meena has entered room
+
+Meena: You have reached Sales Department and I will be assisting you with your concern for today. Please give me 2-3 minutes to review your conversation with the previous representative. This will give me a better understanding of the issue at hand so that we can resolve it in the most efficient way possible. Will that be okay?
+
+JOHN: Yes.
+
+Meena: Much appreciated, thank you so much.
+
+Meena: John , as I understood that you are looking to lower down your monthly bill. Am I correct?
+
+JOHN: Yes, I would like to lower my bill back to what it was last month.
+
+Meena: Thank you for confirmation .
+
+Meena: I will be more than happy to check the information for you, John . You've certainly reached the right department! Please be assured I will do my best to help you with your concern
+
+Meena: Please be online while I share the information for you.
+
+JOHN: OK.
+
+Meena: as I can see on your account you have Hd preferred plus deal $159.99/ month
+
+Meena: +$1.99 for additional basic cable box
+
+Meena: +$10 for modem
+
+JOHN: It was $139.99 last month.
+
+Meena: $2.50 for non publish list +$4.99 for protection plan $9.95 for DVR +taxes
+
+Meena: Ok, if you don't mind, I'm going to take a few moments to look into this, and I'll get back with you asap.
+
+JOHN: OK.
+
+Meena: as I can see you opt this deal 06/13/2014. so till 06/13/2015 it will $139.99/ month after that it will cost $159.99/ month for next 12 month till 06/13/2016 then at regular price $189.99/ month .
+
+Meena: Your deal is HD Preferred Plus XF Triple Play for $139.00 for 12 months, then $159.99 for next 12 months and then $189.99 per month with 2 year agreement.
+
+Meena: as i can see your current deal is with contract .
+
+JOHN: I do not recall agreeing to a contract.
+
+Meena: and with contract deal you can upgrade your service any time however in case of downgrade service make the changes with bin agreement period then one time early termination fee would be apply .
+
+Meena: and if you will make changes current month early termination fee would be around $120.
+
+Meena: currently you have bundle deal at still on promotion price and if you will make the changes another deal will cost at regular price .
+
+JOHN: I did not agree to a 2 year contract.
+
+Meena: I really apologize for the inconvenience.
+
+JOHN: Thanks, but how does that help me?
+
+Meena: Ilmc
+
+Meena: Ok, if you don't mind, I'm going to take a few moments to look into this, and I'll get back with you asap.
+
+JOHN: OK.
+
+JOHN: I'll wait here.
+
+Meena: Much appreciated, thank you so much.
+
+Meena: John ,I am trying the deal $139.99/ month deal on your account however early termination fee code automatically added on your account .
+
+Meena: we are unable to remove it from here .
+
+Meena: I really apologize for the inconvenience.
+
+Meena: John , i would suggest you to please contact our Customer Solutions team.
+
+Meena: You may reach them through phone at 1-800-934-6489.
+
+Meena: They are available from Mondays to Saturdays at 8am-6pm.
+
+Meena: Might be they can help you with this concern .
+
+Meena: They have different deal available over the phone .
+
+JOHN: OK, will they be able to access this transcript so I don't have to repeat everything?
+
+Meena: John , I will make note on your account ,
+
+Meena: It will help you and no need to repeat it again .
+
+JOHN: OK. I will call during a break from work tomorrow.
+
+Meena: Thank you for understanding .
+
+Meena: If you need assistance in the future, please do not hesitate to chat with us at your convenience. We are available 24 hours a day, 7 days a week. Xfinity also offers great FAQ and Help forums located at http://xfinity.comcast.com/help-and-support/ to help you solve many issues on your own.
+
+Meena: Good Bye, Take Care of yourself .
+
+JOHN: Thanks. Good night.
+
+The analyst has left and your issue has been closed.
+
+Waiting for response from Meena
+
+Meena: Good Night !!
+
+Meena: Bye!!
+
+Meena: Stay safe !!

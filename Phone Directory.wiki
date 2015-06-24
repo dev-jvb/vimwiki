@@ -39,6 +39,7 @@
 | Plagge      | 3057      |
 | Raymond, B  | 3026      |
 | Ridenhour   | 3379      |
+| Ruiz, J     | 3137      |
 | Russo       | 3153      |
 | Schramer    | 3714      |
 | Schiavi     | 3056      |

@@ -1,0 +1,20 @@
+'Grand Tour 2015' Motorcycle Schedule:
+D1 Philly thru Sun 6/21
+D2 Chelmsworth, MA on Mon
+D3 Utica, NY on Tue
+D4 Hamburg, NY on Wed
+D5 New Philadelphia, OH on Thur
+D6 Marion, VA on Fri
+D7 Robbinsville, NC on Sat
+D8 Cincinnati, OH on Sun 6/28
+D9 Avon, IN on Mon
+D10 Vincennes, IN on Tue
+D11 Camdenton, MO on Wed
+D12 Nebraska City, NE on Thur
+D13 Sioux Falls, SD on Fri
+D14 Rapid City, SD on Sat & Sun
+D15 Sheridan, WY on Mon 7/6
+D16 West Yellowstone, WY on Tue
+D17 Helena, MT on Wed
+D18 Hayden, ID on Thur
+D19 Home on Fri 7/10

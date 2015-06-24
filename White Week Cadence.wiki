@@ -2,6 +2,7 @@ White Week Cadence
 
 = Monday =
 BRPC:
+* [ ] Run 013 report and check for OT charges (only Paige Lewis is approved.)
 * [ ] Run 006's and check for tracking.
 	* [ ] 107278
 	* [ ] 107315
@@ -16,8 +17,6 @@ BRPC:
 11:30 - 12:30 BRPC Team Meeting
 
 Caelus:
-* [ ] Prepare Labor Distributions for Brent, Mike, and Ron
-* [ ] Review 006 Reports for NDS and noting any major deficiencies
 * [ ] Prepare updated IPDMS reports for Anna
  
 * [ ] Complete Time Sheet
