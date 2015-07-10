@@ -1,0 +1,21 @@
+Arrive 0730.
+
+Asked Chris to provide list of engineering-critical VDDRs to provide to Gerry Thompson. Forwarded to Gerry along with suggestion that we get weekly status update at engineering team meeting.
+
+ Talked to Paige Lewis re critical VDDRs (Fuel Gas Heaters). Paige has only just receive dthe QTS from Gerry and still has to review it with Mark later today. Advised her that it is on our engineering critical path. Seem sunlikley that PO will get issued and VDDR received by end of the month. Puts 107315.417 IFF data at risk. Paige confirmed that BRPC had suspended issuing POs for a couple of weeks. She did not want to discuss why.
+ 
+How can we better coordinate between engineering and procurement, esp wrt VDDR?
+
+Gerry responded to my email indicating that supplier document control is responsible for tracking  and expediting VDDR. However, until a PO is issued, there is nothing to expedite.
+
+	Meeting with John Mahoney to discuss BRPC projects. Provided background, issues of note:
+		Lack of PC involvement in early DAPP
+		Early deviations from planned aassumptions, esp structural.
+		Piping miss on Iso count
+		Schedule slide, 8 weeks became 15 weeks
+
+		Expressed cautious optimism about outcome of other projects.
+
+		John has an interesting view on Trends. In his mind, a T&M NTE contract does not guarantee completion of a scope of work for a fixed price. When we hit the NTE threshold we stop. Trends must still be paid for as the work was necessary to complete the scope. T&M NTE means that we will not spend more without getting approval. His position is that we should do no more work on Module 63 without an approved Trend.
+
+Out at 1630.

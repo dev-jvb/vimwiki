@@ -1,0 +1,19 @@
+Arrive 0745.
+
+Talked with Craig Wilson about BRPC Projects; notably Module 63 and its overrun. Advised tha twe had additional change in work to help resolve the overrun.
+
+Caontacted Ron re need for info about HVAC change. It was to use a VFD on the exhaust fan for Mod 63. This was not a client-directed change, it was Ron's call to go for a "better" solution than a "bang-bang" fan. Dave Smith on vacation (with no delegate.) Ron suggested contacting Dave Smith for details. Per Tiffany, Dave is reachable via email. As a backup, he suggested reaching out to Phil Baker (cell: 509-768-5922). 
+
+Opened 107278 CN5 for Non-Labor associated with VSM inspections. Nadine Janacek to populate.
+
+Reached Dave Smith via email. HVAC effort for exhaust fan VFD changes was minimal; 2-3 hours. Per Nathan Brown, Control Systems effort associated with exhaust fan VFD change was also minimal, He estimates 4 hours for Designer and 2 hours for Engineer. This is not looking like much.
+
+Left message for Heather to get more info on Dave Smith exhaust fan issue. Per Heather, issue was that fans other than Tri-Metal (same as Caelus) were quoted. Dan Gleason has approved use of Tri-Metal fans, so not modifications shoul dbe needed. This potential change should evaporate.
+
+107401 CN1 - Additional PMAC for scheudle slide approved. Marked as approved and rolled into Progress Tracker. How to have it add to existing elements?
+
+Conversation with Heather and Werner. SJ415 charge elemetns to remain closed unless approved by Werner. Reporting indicates $30k left to go, putting our EAC at $600k ($50k over funding.) This is BAD.
+
+Going forward, Heather wants to more carefully manage disciplines. Need to report performance by discipline each week.
+
+Out at 1715.

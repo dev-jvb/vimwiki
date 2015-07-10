@@ -16,10 +16,9 @@ BRPC:
 			* [ ] 107315
 			* [ ] 107386
 		* [ ] Open CNs
+* [ ] Check actuals for OT charges
 
 Caelus:
-* [ ] Prepare Labor Distributions for Brent, Mike, and Ron
-* [ ] Review actual rates
 * [ ] Update IPDMS Outstanding MR Report for Anna
 
 * [ ] Complete Time Sheet
@@ -30,6 +29,7 @@ BRPC:
 * [ ] 107278 - Update project metrics
 	* [ ] Hours CPI
 	* [ ] Dollars CPI
+* [ ] 107278 Check non-labor charges and advise Terry Caetano if SJ501 is at 80% of budget
 * [ ] 107278 - Run and issue cost report
 	Distribution:
 		Fred Fitzhugh

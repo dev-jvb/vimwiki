@@ -1,3 +1,10 @@
+From the Anvil Code of Ethics:
+1. Record all hours worked daily 
+2. Do not average your time between days or projects 
+3. Always charge correct projects for time worked 
+4. Do not allow others to change time for you in our timekeeping system–it is your personal responsibility.
+
+
 Thou shalt charge thy time to the job/subjob/wbs where you are working.
 Thou shalt distribute thy overtime in over all of thy jobs in equal measure to thy regular time.
 Thou shalt not over-report thy progress.

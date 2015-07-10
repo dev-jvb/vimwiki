@@ -1,0 +1,95 @@
+Arrive 0700.
+
+Project controls tracking is set for LoE. Multiple elements. Need to revise to reflect correct EHTC. Have Chris revise.
+
+Per Heather, Matt Schiavi OT for WE 6/26 will be billed as Straight Time. Manually changed to reflect as ST on the cost report.
+
+Per Terry, Mark Steele OT for WE 6/26 will be billed as Straight Time. Manually changed to reflect as ST on the cost report.
+
+Chat transcript with Comcast/xFinity:
+	JOHN: My Issue: I made some changes to my service last week. At that time, the CSR recommended that I contact you this week to get the revised amount due on my bill.
+
+	user JOHN has entered room
+
+	analyst Terex has entered room
+
+	Terex: Hello JOHN_, Thank you for contacting Comcast Live Chat Support. My name is Terex. Please give me one moment to review your information.
+
+	Terex: It is a pleasure to have you on chat. I hope you haven’t waited so long to be assisted. How are you doing today?
+
+	JOHN: I am well, thank you.
+
+	Terex: That's nice to know that you're well.
+
+	Terex: I understand that you want to check if the correct rates are already applied in account for the changes you made last.
+
+	Terex: No problem I can help you check
+
+	Terex: As I review your account, may I ask a few questions that would help us understand how to address your concern?
+
+	JOHN: OK
+
+	Terex: Great thank you.
+
+	Terex: John, I see you have logged into your account so there is no need for us to verify security thank you for doing that.
+
+	Terex: I appreciate the effort in providing me the information needed.
+
+	Terex: How much you expected in your bill or your rate?
+
+	JOHN: About $206.
+
+	Terex: Thanks for the info.
+
+	Terex: Please give me 1 to 3 minutes to review and work on your account will that be okay?
+
+	JOHN: OK
+
+	Terex: Thank you for patiently waiting.
+
+	Terex: I have good news for you.
+
+	Terex: I am glad to tell you that that you have a new promotion added in your account.
+
+	Terex: It was added last 6/23
+
+	Terex: The promotional rate is $159.99 plus equipment rental and tax.
+
+	JOHN: That's great. So what's my balance due on July 5?
+
+	Terex: Let me check.
+
+	Terex: Thank you for patiently waiting.
+
+	Terex: It will be $206.95.
+
+	Terex: So happy I could help. How else can I be of service to you today?
+
+	JOHN: Thank you. That's all I need.
+
+	Terex: You're very welcome, it's my pleasure to help!
+
+	Terex: Just to make sure that we covered everything, I am glad that I have resolved your issue today by confirming the new promotion is added in your account and confirming the balance due this July 5.
+
+	Terex: Have a great day and take care, John.
+
+	The analyst has left and your issue has been closed.
+
+	Terex: I am glad I was Knowledgable enough to have Resolved your reason of contact for today thus making you a Highly Satisfied customer.
+
+	Terex: Comcast appreciates your business and values you as a customer! Our goal is to resolve everything for your satisfaction. We constantly strive to meet and exceed your expectations. If you need further assistance, you can chat with one of our Customer Support Specialists 24 hour a day, 7 days a week at http://www.comcastsupport.com/videochat. Thank you for choosing Comcast as the provider of your service/s, it has been a pleasure having you as a part of Comcast family. You have a good one. Take care! Bye for now.
+
+Discussed state of affairs wrt budgets and $ on 415 with Ron. He will discuss with Werner.
+
+Contacted Cynthia re funding for Interconnects. The FRFS has been generated and is awaiting Mark's signature. Mark will not be in the office until Thursday.
+
+Per Ron, he will be the PoC for $ issues on BRPC. Requested CN for the following:
+	Composite Rate Variance
+	Schedule Change LoE
+	VFD Change last week (HVAC)
+	Potential revision to CN21
+Ron thinks there should be enough here to make up the cost overage.
+
+Prepared cost reports. Seems to be an issue with the report for 107278 wherein Tim Wright's hours for 6/26 are getting doubled up. Needs further investigation.
+
+Out at 1630.
