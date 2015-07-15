@@ -1,0 +1,43 @@
+Arrive 0745.
+
+Pulled dashboard data and prepared for meeting with Walter Michelutti and Jim Turner at 0930.
+
+Met with Walter Michelutti, John Mahoney, Jim Turner and Craig Wilson to discuss BRPC. 
+	We need to protect ourselves form ourselves [WM].
+	[x] Send most recent cost report to meeting attendees.
+	John Mahoney will be talking to Mike Moors this afternoon.
+	107315.415 to remain closed unless/until directed otherwise.
+	Continue to monitor and report burn rate and zero-date for 107278.
+	Desire for a summary report sim to what Brent Belsher has done for Caelus. Be prepared to support.
+	A need for more "professional" management [WM].
+	Provided same data set to Mike Moora, Ron Otero and Werner Plagge.
+
+BRPC Team Meeting
+	Following CNs identified:
+		Module 62 - Modify walkways for ice/snow
+		Module VFD - Modify walkways for ice/snow
+		Module 65 - Modify walkways for ice/snow
+		Module 65 - Modify platform for easier access to remove equipment
+		Module 62 - Revision to Flare Purge Control
+		Module 62 - Schedule Slide
+		Module 62 - Integral Platform Framing
+		VFD Module - Integral Platform Framing
+		Module 65 - Integral Platform Framing
+		Module 63 - Client-directed Exhaust Fan Manufacturer Change
+		
+In consultation with Ron Otero, opened the following CNs in PSE:
+	Job.SubJob	DA CN #	Description								BRPC RFS
+	107315.415	24	Module 63 - Client Directed Exhaust Fan/Unit Heater Manufacturer Change	MSF-0033
+	107315.417	25	Module 62 - Modify walkways for ice/snow				MSF-0043
+	107315.417	26	Module 62 Revision to Flare Purge Control				MSF-0043
+	107315.417	27	Module 62 Schedule Slide due to Client PO delays			MSF-0043
+	107315.417	28	Module 62 - Integral Platform Framing					MSF-0043
+	107384.410	1	VFD Module - Modify walkways for ice/snow				MSF-0049
+	107384.410	2	VFD Module - Integral Platform Framing					MSF-0049
+	107386.420	5	Module 65 - Modify walkways for ice/snow				MSF-0044
+	107386.420	6	Module 65 - Modify platform for Easier Access to Remove Equipment	MSF-0044
+	107386.420	7	Module 65 - Integral Platform Framing					MSF-0044
+
+Transfered 4 hours of Lee Aiken's time for WE 7/10 to 107315.400 per Terry Caetano direction.
+
+Out at 1645.
