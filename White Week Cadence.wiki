@@ -90,8 +90,11 @@ BRPC:
 		Chris Higgins
 		Craig Wilson
  
+* [ ] Run informational 014, 025, 018, and 006 reports for the prior period
+* [ ] Update Project Go Binder
 * [ ] Updated Weekly Cum Performance by Workgroup to Heather
 * [ ] Report Hours and Dollars CPIs internally to Project Leadership
+* [ ] Update Dashboard
 
 * [ ] Complete Time Sheet
  
