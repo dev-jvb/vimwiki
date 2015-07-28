@@ -103,7 +103,7 @@ uuuuund a steady job. My wife told me." - Howard Nemerov
 "Work out your own salvation. Do not depend on others." - Buddha
 "I am always ready to learn although I do not always like being taught." - Winston Churchill
 A million status meetings on a project can't make up for not having a planning meeting before it started. - Meeting Boy
-"There are moments on bikes when you?re concentrating so intently on the moment, the rest of the world, life, worries, memories are all pushed out of your mind as you focus on the now. There?s no such thing as perfect happiness, but on two wheels, these can get close." - Kevin Ash
+"There are moments on bikes when you?re concentrating so intently on the moment, the rest of the world, life, worries, memories are all pushed out of your mind as you focus on the now. There's no such thing as perfect happiness, but on two wheels, these can get close." - Kevin Ash
 "If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee." - Abraham Lincoln
 "The four building blocks of the universe are fire, water, gravel and vinyl." - Dave Barry
 "The length of this document defends it well against the risk of its being read." - Winston Churchill
@@ -119,3 +119,8 @@ How does the old dog catch the rabbit? He waits until the rabbit gets tired. - O
 "I am a Mechanical Engineer - I solve Problems You Don't Know you Have in Ways you Can't Understand."
 "People resemble their times more than they resemble their parents." - Arab Proverb
 "A rich man is nothing but a poor man with money." - W. C. Fields
+"Few men have virtue to withstand the highest bidder." - George Washington
+"Never trust a husband too far, nor a bachelor too near." - Helen Rowland
+"I believe in luck: how else can you explain the success of those you dislike?" - Jean Cocteau
+"Nine-tenths of wisdom is being wise in time." - Theodore Roosevelt
+"We didn't lose the game; we just ran out of time." - Vince Lombardi
