@@ -30,7 +30,6 @@
 [[Parts Repairs for 4Runner]]
 [[JonAndFranksGrandTour2015]]
 
-[[AnOpenLetterToWGLs]]
 	
 
 	
@@ -42,6 +41,8 @@
 	* [[White Week Cadence]]
         
 = [[Caelus]] =
+
+= [[ShellPSR]] =
 
 = [[/diary/diary|Journal]] =
 
