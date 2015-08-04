@@ -1,0 +1,18 @@
+= New PO Checklist =
+
+Upon reciept of a new PO:
+* Save a copy to the [Project Number], Project Management, Funding Docs, [Phase] folder.
+* Determine if the PO is for on-site or Cap work.
+	* If On-site, using ACE, seach JN102698 by Client Job ID to determine the correct subjob.
+	* If Cap, using ACE, search by Client Job ID to determine the correct job number.
+* In Client Funding tool:
+	* Create new CF record
+	* Use WO/PO Editor to add PO to PO tab, only need to enter 4 fields:
+		* PO #
+		* Description
+		* Type
+		* Status
+	* Use Charge Number Editor to create next sequential charge number.
+	* Using the pull down in the grid, assign the newly-created charge number to the CF record.
+	* Set the Active CCN for the SJ.
+	* In the grid, right click the CF Record, Manage Documents, attach the PO PDF.

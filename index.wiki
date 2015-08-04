@@ -42,7 +42,11 @@
         
 = [[Caelus]] =
 
-= [[ShellPSR]] =
+= ShellPSR =
+	* [[Weekly Cadence]]
+	* [[Monthly Report]]
+	* [[New PO Checklist]]
+	* 
 
 = [[/diary/diary|Journal]] =
 

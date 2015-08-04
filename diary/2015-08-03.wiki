@@ -1,3 +1,15 @@
 Arrive 0715.
 
+Met with Geoff Latimer.
+
 Updated REM file for Shell monthly reporting.
+
+Updated Shell Resource Forecast with Bill Richardson.
+	Verify that jobs listed in:
+	\\bham-eng-data\share\SHELLPSR\GENERAL\PMC\PC\Resource Forecast\2015\2015-07\Prospective_and_Future_Resource_Projection_Island_Bay_07_13_15.xlsx (provided by Geoff) are also in:
+	\\bham-eng-data\share\SHELLPSR\GENERAL\PMC\PC\Resource Forecast\2015\2015-07\Prospective_and_Future_Resource_Projection_Island_Bay_07_13_15.xlsx (provided by Gretta.)
+	and that EHTC hours are distributed be Geoff's spreadsheet.
+
+Question on 107431: Geoff's direction to Bill was to show P3 starting in late August. However the forecast workbook includes a P2 that starts in September; did Geoff really mean P3 in August or did he mean P2? Sent email to Geoff. Geoff clarified that he did mena P3, P2 will be skipped. Workbook is correct.
+
+Out at 1730.

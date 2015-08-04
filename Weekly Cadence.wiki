@@ -1,0 +1,34 @@
+= ShellPSR Weekly Cadence =
+First business day of the month:
+* [X] Update and distribute Shell Resource Forecast to Project Leaders
+
+Fifth business day of the month:
+* [ ] Issue Shell Resource Forecast to Client
+
+First week of the month:
+* [X] Run 030 reports as required.
+ 
+== Monday ==
+
+== Tuesday ==
+* [X] Issue weekly reports 
+	* [X] Internal
+		* [X] Island Bay Progress Report (014) 
+		* [X] Shell PSR Change Notice Summary
+		* [X] TGER Change Notice Summary (Angie) 
+		* [X] Tesoro Logistics Change Notice Summary (Angie) 
+		* [X] Work Group CPI Spreadsheet
+		* [X] Weekly Labor Report (Office)(015)
+	* [X] External
+		* [X] Weekly Labor Report (Office)(015)
+		* [X] Weekly Labor Report (Onsite)(027)
+		* [X] Shell PSR Weekly Progress Report (031)
+		* [X] Shell PSR Change Notice Summary
+* [X] Prepare (014) reports for weekly meeting; 15 copies
+
+== Wednesday ==
+[0700 - 0830] Weekly Program Meeting
+
+== Thursday ==
+
+== Friday == 
