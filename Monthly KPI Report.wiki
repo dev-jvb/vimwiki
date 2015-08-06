@@ -1,0 +1,18 @@
+= Monthly KPI Report =
+
+== In Reporting ==
+* Pull Actuals for all jobs worked in the period
+* Paste into Sheet 1 of \\bham-eng-data\share\SHELLPSR\GENERAL\PMC\PC\Anvil KPIs - Island Bay\06-2015\Island Bay KPIs 06-2015_Find Tool Data.xlsx
+* Using criteria, determin which jobs require KPI Reporting:
+	* Has a budget
+	* > 20% Complete
+	* Not on hold
+* For each of the above, pull Budget History data for last week of prior month
+== In KPI Workbook ==
+* Paste Budget History daa into Budget tab of KPI Workbook.
+* For Schedule Tab of KPI workbook:
+	* Check Transmittal Tool for and IFF/IFCs, TIC Estimates
+	* Schedule dates come from Schedule (Gretta may be able to assist.)
+* For the Quality tab:
+	* Contact PLs to see if any P&ID Validation occurred and when.
+	* Enter into workbook

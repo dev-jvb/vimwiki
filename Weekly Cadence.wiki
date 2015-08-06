@@ -1,15 +1,29 @@
-= ShellPSR Weekly Cadence =
+= ShellPSR Monthly/Weekly Cadence =
+Throughout the month:
+* [ ] Update Cost Savings Log with any new items received from Geoff Latimer
+
 First business day of the month:
-* [X] Update and distribute Shell Resource Forecast to Project Leaders
+* [O] Update and distribute Shell Resource Forecast to Project Leaders:
+	* [X] Harv Aujla
+	* [ ] Jim Holein
+	* [X] Howard Leung
+	* [X] Ron Peterson
 
 Fifth business day of the month:
-* [ ] Issue Shell Resource Forecast to Client
+* [ ] Issue Shell Resource Forecast to Client [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Cost Reports/2015/]]
 
 First week of the month:
-* [X] Run 030 reports as required.
+* [X] Receive and issue monthly Engineering and Onsite Hours/Dollars report
+
+Second week of the month:
+* [ ] After narratives complete, run 028 reports as required.
+* [ ] Transmit (upload to SharePoint) the Monthly Report.
+* [ ] Managers Monthly Workgroup - Internal Resource Forecast
+ 
  
 == Monday ==
-
+* [ ] Check with PLs for new CNs in Development or Issued
+ 
 == Tuesday ==
 * [X] Issue weekly reports 
 	* [X] Internal
@@ -28,7 +42,8 @@ First week of the month:
 
 == Wednesday ==
 [0700 - 0830] Weekly Program Meeting
-
+ 
 == Thursday ==
 
 == Friday == 
+* [ ] Update Progress Tracking

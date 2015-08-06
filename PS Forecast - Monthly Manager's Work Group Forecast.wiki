@@ -1,0 +1,30 @@
+= Manager's Workgroup Forecast =
+
+== Input to Manager's Monthly file ==
+* Gretta updated EHTC Forecasting
+* Pull EF data into EF Preliminary Review (to Latimer) workbook
+	* Open previous period's file.
+	* Save as current period file.
+	* Copy-Paste previous period's data into previous period row.
+	* Delete prior month column.
+	* Copy per-month data from EHTC Forecating data into workbook.
+		* Verify correct number of rows.
+		* Delete top row
+	* Zero out 106162 (if not already zero'd in EHTC Forecasting)
+* Provide hardcopy to Geoff Latimer for mark up.
+* Incorporate Geoff Latimer's mark ups into EHTC Forecasting.
+* Re-paste updated EHTC Forecasting data into the workbook; verify no major movement.
+* If needed, adjust 106062 Prospective values to get desired FTEs per Geoff Latimer mark ups.
+* Filter to Shell jobs only and verify that FTE does not go negative.
+
+== Prepare input to Mgr's file ==
+* Open previous period's EF Data (input to Mgr's file)
+* Save as current period's EF Data (input to Mgr's File)
+* Copy-Paste previous period hours into previous period row.
+* Copy per week EHTC Forecasting data into EF Data tab.
+* Clear contents of top row.
+* Delete prior month column.
+
+== Prepare Manager's Monthly WG File ==
+* Copy-Paste data data for each job from the EEF Data (input to Mgr's) file into Monager's Monthly WG File (provided by Justin Allyne.)
+* Email completed file to Justin Allyne and Walter Michelutti, cc: Geoff Latimer and Angie Hintz.

@@ -45,8 +45,12 @@
 = ShellPSR =
 	* [[Weekly Cadence]]
 	* [[Monthly Report]]
+	* [[Weekly Reporting]]
 	* [[New PO Checklist]]
-	* 
+	* [[Monthly Estimate Process]]
+	* [[Project Forecast Cost Summary]]
+	* [[PS Forecast - Monthly Manager's Work Group Forecast]]
+	* [[Monthly KPI Report]]
 
 = [[/diary/diary|Journal]] =
 
