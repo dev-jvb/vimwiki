@@ -1,17 +1,19 @@
 = Monthly Report Contents =
-= For Each Active Job =
-* 01_[ClientJobNumber]-[AnvilJobNumber]_Cost Forecast Summary_[mmddyy]
-* 02_[ClientJobNumber]-[AnvilJobNumber]_Performance by PG (028)_[mmddyy]
-* 03_[ClientJobNumber]-[AnvilJobNumber]_Eng Cost Report (030)_[mmddyy]
-* 04_[ClientJobNumber]-[AnvilJobNumber]_Change Log_[mmddyy]
-* 05_[ClientJobNumber]-[AnvilJobNumber]_LVL1_[yyyy]_[mmdd]
-* 06_[ClientJobNumber]-[AnvilJobNumber]_LVL3_[yyyy]_[mmdd]
-* 07_[ClientJobNumber]-[AnvilJobNumber]_AIN List_[mmddyy]
-* 08_[ClientJobNumber]-[AnvilJobNumber]_PSR_[mmddyy]
-* 
-= Determine Jobs with Hours during the prior month = =
 
+= Determine Jobs with Hours during the prior month = =
 In Reporting:
 	Actual Hours tab
 	Favorite: Shell Monhtly Report List
 	Copy to Shell PSR_Monthly Report List (MM yyyy).xlsx, Job check tab
+
+= For Each Active Job =
+* 01_[ClientJobNumber]-[AnvilJobNumber]_Cost Forecast Summary_[mmddyy]
+* 02_[ClientJobNumber]-[AnvilJobNumber]_Performance by PG (028)_[mmddyy]
+* 03_[ClientJobNumber]-[AnvilJobNumber]_S-Curve_[mmddyy]
+* 04_[ClientJobNumber]-[AnvilJobNumber]_Eng Cost Report (030)_[mmddyy]
+* 05_[ClientJobNumber]-[AnvilJobNumber]_Change Log_[mmddyy]
+* 06_[ClientJobNumber]-[AnvilJobNumber]_LVL1_[yyyy]_[mmdd]
+* 07_[ClientJobNumber]-[AnvilJobNumber]_LVL3_[yyyy]_[mmdd]
+* 08_[ClientJobNumber]-[AnvilJobNumber]_AIN List_[mmddyy]
+* 09_[ClientJobNumber]-[AnvilJobNumber]_PSR/Procurement Plan_[mmddyy]
+* 10_[ClientJobNumber]-[AnvilJobNumber]_Procurement Plan_[mmddyy]

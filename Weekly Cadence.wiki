@@ -3,14 +3,14 @@ Throughout the month:
 * [ ] Update Cost Savings Log with any new items received from Geoff Latimer
 
 First business day of the month:
-* [O] Update and distribute Shell Resource Forecast to Project Leaders:
+* [X] Update and distribute Shell Resource Forecast to Project Leaders:
 	* [X] Harv Aujla
-	* [ ] Jim Holein
+	* [X] Jim Holein
 	* [X] Howard Leung
 	* [X] Ron Peterson
 
 Fifth business day of the month:
-* [ ] Issue Shell Resource Forecast to Client [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Cost Reports/2015/]]
+* [X] Issue Shell Resource Forecast to Client [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Cost Reports/2015/]]
 
 First week of the month:
 * [X] Receive and issue monthly Engineering and Onsite Hours/Dollars report
@@ -46,4 +46,5 @@ Second week of the month:
 == Thursday ==
 
 == Friday == 
-* [ ] Update Progress Tracking
+* [X] Update Progress Tracking
+* [X] Approve timesheet

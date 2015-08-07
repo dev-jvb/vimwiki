@@ -51,6 +51,8 @@
 	* [[Project Forecast Cost Summary]]
 	* [[PS Forecast - Monthly Manager's Work Group Forecast]]
 	* [[Monthly KPI Report]]
+	* [[Resource Forecast]]
+	* [[Invoice Processing]]
 
 = [[/diary/diary|Journal]] =
 
