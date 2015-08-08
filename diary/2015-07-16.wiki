@@ -1,0 +1,14 @@
+Arrive 0730.
+
+Received RFS for 107407. Entered in Client Funding Tool. Pro-rated amount based on % of project funded as follows:
+	150000/615000 = .2439
+	PSE SJ400 =  78458 * .2439 =  19136
+	PSE SJ430 = 536542 * .2439 = 130864
+	-----------------------------------
+        TOTAL       615000           150000
+
+Re-opened 107407 charge elements.
+
+Updated the Internal Dashboard Report and distributed to Michelutti, Wilson, Turner, and Mahoney.
+
+

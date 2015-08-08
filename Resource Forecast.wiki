@@ -1,0 +1,4 @@
+= Resource Forecast =
+After entry of mark-ups from PLs, adjust forecast for Factored lines to keep FTE count fluctuations to a minimum, especially in the next 2-3 months.
+
+Remove the EHTC column and the totals rows at the bottom. Copy-Paste values of whole workbook and save as new name. This is the file that gets issued to the client.

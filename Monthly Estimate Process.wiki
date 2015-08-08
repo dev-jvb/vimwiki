@@ -1,0 +1,6 @@
+= Monthly Estimated Engineering and Onsite Hours =
+* [ ] Receive email from Mary Shoemaker during first week of the month.
+* [ ] Paste data from Mary's file into \\bham-eng-data\share\SHELLPSR\GENERAL\PMC\PC\Shell Monthly Accruals & Estimates\yyyy-mmnto columns C through G.
+* [ ] Adjust formulas in columns A and B to pull correct JN Left(xx,6)
+* [ ] Use VLOOKUP for Client JN
+* [ ] Email modified file to GSXOPUSR-ProjectControls@shell.com, cc: Latimer, Hintz.

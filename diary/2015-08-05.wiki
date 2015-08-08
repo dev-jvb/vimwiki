@@ -1,0 +1,30 @@
+Arrive 0630.
+
+Attended weekly WGL meeting. Actions:
+	107483 - Not on 014 report; found that the Client Group Code was not assigned in ACE.
+	Harv has a number of job phases at or near 100% complete, should these be closed?
+		106504 P4
+		106703 P4 - Closed by Bill Richardson
+		107225 P4
+	107185 - Jeff Wong mentioned that it had "issues."
+	107484 - Not on 014 report; that report client criteria need to include Tesoro Log. Anacortes Ref.
+	107433.195 - Should be on next week's 014 report (Howard.)
+	106888 - IFC/IFB dates are sliding. CN8 in development to address. Added to CN summary.
+
+Worked with Bill to process monthly estimate file from Mary Shoemaker. A glitch caused my change sto not be saved in the file sen to the client. Caught the error and resent.
+
+Changed Client Project Lead from Jennifer Kirby to Scott Hackett.
+* [X] 106966 – 01570
+* [X] 107136 – 01693
+* [X] 107283 – 01781 (This project will be split into 3 projects)
+* [X] 107365 – 02019
+* [X] 107414 – 02070
+* [X] I also have A14014/02247 the HTU1 Start-up Mods - Jn 107500
+* [ ] And the two Safeguarding Breakout Projects for SRU3/FGR – It has not yet been assigned a USMF number. 
+
+Attended conference call on 106504 with Harv, Bill, Mark Boger, and Vanessa Gray:
+	Expect PO increase by $115k to cover final P4 costs, P5 Construction support and P7 Redlines.
+	Harv to draft a Trend (CN6) to bring EAC into line with Funding.
+	Need a more accurate forecast on 107225.
+
+Out at 1645.

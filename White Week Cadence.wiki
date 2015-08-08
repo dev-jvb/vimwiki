@@ -2,121 +2,69 @@ White Week Cadence
 
 = Monday =
 BRPC:
-* [ ] Run 013 report and check for OT charges (only Paige Lewis is approved.)
 * [ ] Run 006's and check for tracking.
 	* [ ] 107278
 	* [ ] 107315
-	* [ ] 107384
 	* [ ] 107386
-	 
+	* [ ] 107404
+	* [ ] 107407
+ 
 * [ ] Prepare for team meeting.
 	* [ ] Send Agenda Items to Heather
 		* [ ] Period CPI
+			* [ ] 107315
+			* [ ] 107386
 		* [ ] Open CNs
+* [ ] Check actuals for OT charges
 
-11:30 - 12:30 BRPC Team Meeting
-
-Caelus:
-* [ ] Prepare updated IPDMS reports for Anna
- 
 * [ ] Complete Time Sheet
 
 = Tuesday =
 BRPC:
 * [ ] 107278 - Update Burn Up Chart (Internal Only) - [[file:///R:/BRPC/107278/Project Controls/Reports/107278 Burn Up Chart.xlsx]]
+* [ ] 107278 Check non-labor charges and advise Terry Caetano if SJ501 is at 80% of budget
 * [ ] 107278 - Update project metrics
 	* [ ] Hours CPI
 	* [ ] Dollars CPI
-* [ ] 107278 Check non-labor charges and advise Terry Caetano if SJ501 is at 80% of budget
-* [ ] 107278 - Run and issue cost report
+* [ ] 107315 - Update project metrics
+	* [ ] Hours CPI
+	* [ ] Dollars CPI
+* [ ] 107384 - Update project metrics
+	* [ ] Hours CPI
+	* [ ] Dollars CPI
+* [ ] 107386 - Update project metrics
+	* [ ] Hours CPI
+	* [ ] Dollars CPI
+* [ ] 107407 - Update project metrics
+	* [ ] Hours CPI
+	* [ ] Dollars CPI
+* [ ] Terry Caetano review 107278 cost report before issue to client
+* [ ] Issue cost reports:
 	Distribution:
 		Fred Fitzhugh
 		Mark Wiggins
 		Cynthia Geiermann
+		Fred Fitzhugh
 		Gerry Thompson
 		Mike Moora
 		Terry Caetano
 		Craig Wilson
-* [ ] 107315 - Update project metrics
-	* [ ] Hours CPI
-	* [ ] Dollars CPI
-* [ ] 107315 - Run and issue cost report 
-	Distribution:
-		Mark Wiggins
-		Dan Gleason
-		Cynthia Geiermann
-		Raj Bhargava (Rbhargava@brpcak.com)
-		Mike Moora
-		Ron Otero
-		Chris Higgins
-		Craig Wilson
-* [ ] 107384 - Update project metrics
-	* [ ] Hours CPI
-	* [ ] Dollars CPI
-* [ ] 107384 - Run and issue cost report 
-	Distribution:
-		Mark Wiggins
-		Dan Gleason
-		Cynthia Geiermann
-		Raj Bhargava (Rbhargava@brpcak.com)
-		Mike Moora
-		Ron Otero
-		Chris Higgins
-		Craig Wilson
-* [ ] 107386 - Update project metrics
-	* [ ] Hours CPI
-	* [ ] Dollars CPI
-* [ ] 107386 - Run and issue cost report 
-	Distribution:
-		Mark Wiggins
-		Dan Gleason
-		Cynthia Geiermann
-		Raj Bhargava (Rbhargava@brpcak.com)
-		Mike Moora
-		Ron Otero
-		Chris Higgins
-		Craig Wilson
-* [ ] 107407 - Update project metrics
-	* [ ] Hours CPI
-	* [ ] Dollars CPI
-* [ ] 107407 - Run and issue cost report (Only after funding received.)
-	Distribution:
-		Mark Wiggins
-		Dan Gleason
-		Cynthia Geiermann
-		Raj Bhargava (Rbhargava@brpcak.com)
-		Mike Moora
-		Ron Otero
-		Chris Higgins
-		Craig Wilson
- 
+* [ ] Run informational 014, 025, 018, and 006 reports for the prior period
+* [ ] Update Project Go Binder
 * [ ] Updated Weekly Cum Performance by Workgroup to Heather
+* [ ] Update Dashboard
 * [ ] Report Hours and Dollars CPIs internally to Project Leadership
 
 * [ ] Complete Time Sheet
- 
+
 = Wednesday =
-* [ ] Update Project Go binders with final 018, 014 and 006 reports for the reporting period
-	* [ ] BRPC
-	* [ ] Caelus
-* [ ] Cost report ready for review by PC Leads
 
 * [ ] Complete Time Sheet
 
 = Thursday =
-* [ ] Review cost report
-* [ ] Update Cost to Complete Analysis
-* [ ] Discipline narratives due to PA
-* [ ] Send out reminder to update: Progress Tracking, Schedule Update and IPDMS 
-* [ ] Disciplines complete status reporting
- 
+
 * [ ] Complete Time Sheet
 
 = Friday =
-Caelus:
-* [ ] PA Compiles Report
-* [ ] PL reviews report; approves for issue
-* [ ] PA Transmits Cost report
-* [ ] Disciplines complete schedule workbook updates and IPDMS updates
 
 * [ ] Complete and Approve Time Sheet

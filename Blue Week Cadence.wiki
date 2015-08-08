@@ -17,20 +17,31 @@ BRPC:
 			* [ ] 107386
 		* [ ] Open CNs
 * [ ] Check actuals for OT charges
-
-Caelus:
-* [ ] Update IPDMS Outstanding MR Report for Anna
+* [ ] Remind Tiffany to prepare bi-weekly narrative
 
 * [ ] Complete Time Sheet
 
 = Tuesday =
 BRPC:
 * [ ] 107278 - Update Burn Up Chart (Internal Only) - [[file:///R:/BRPC/107278/Project Controls/Reports/107278 Burn Up Chart.xlsx]]
+* [ ] 107278 Check non-labor charges and advise Terry Caetano if SJ501 is at 80% of budget
 * [ ] 107278 - Update project metrics
 	* [ ] Hours CPI
 	* [ ] Dollars CPI
-* [ ] 107278 Check non-labor charges and advise Terry Caetano if SJ501 is at 80% of budget
-* [ ] 107278 - Run and issue cost report
+* [ ] 107315 - Update project metrics
+	* [ ] Hours CPI
+	* [ ] Dollars CPI
+* [ ] 107384 - Update project metrics
+	* [ ] Hours CPI
+	* [ ] Dollars CPI
+* [ ] 107386 - Update project metrics
+	* [ ] Hours CPI
+	* [ ] Dollars CPI
+* [ ] 107407 - Update project metrics
+	* [ ] Hours CPI
+	* [ ] Dollars CPI
+* [ ] Terry Caetano review 107278 cost report before issue to client
+* [ ] Issue bi-weekly cost reports:
 	Distribution:
 		Fred Fitzhugh
 		Mark Wiggins
@@ -39,90 +50,21 @@ BRPC:
 		Mike Moora
 		Terry Caetano
 		Craig Wilson
-* [ ] 107315 - Update project metrics
-	* [ ] Hours CPI
-	* [ ] Dollars CPI
-* [ ] 107315 - Run and issue cost report 
-	Distribution:
-		Mark Wiggins
-		Dan Gleason
-		Cynthia Geiermann
-		Raj Bhargava (Rbhargava@brpcak.com)
-		Mike Moora
-		Ron Otero
-		Chris Higgins
-		Craig Wilson
-* [ ] 107384 - Update project metrics
-	* [ ] Hours CPI
-	* [ ] Dollars CPI
-* [ ] 107384 - Run and issue cost report 
-	Distribution:
-		Mark Wiggins
-		Dan Gleason
-		Cynthia Geiermann
-		Raj Bhargava (Rbhargava@brpcak.com)
-		Mike Moora
-		Ron Otero
-		Chris Higgins
-		Craig Wilson
-* [ ] 107386 - Update project metrics
-	* [ ] Hours CPI
-	* [ ] Dollars CPI
-* [ ] 107386 - Run and issue cost report 
-	Distribution:
-		Mark Wiggins
-		Dan Gleason
-		Cynthia Geiermann
-		Raj Bhargava (Rbhargava@brpcak.com)
-		Mike Moora
-		Ron Otero
-		Chris Higgins
-		Craig Wilson
-* [ ] 107407 - Update project metrics
-	* [ ] Hours CPI
-	* [ ] Dollars CPI
-* [ ] 107407 - Run and issue cost report (Only after funding received.)
-	Distribution:
-		Mark Wiggins
-		Dan Gleason
-		Cynthia Geiermann
-		Raj Bhargava (Rbhargava@brpcak.com)
-		Mike Moora
-		Ron Otero
-		Chris Higgins
-		Craig Wilson
-
-* [ ] Run informational 014, 018, and 006 reports for the prior period
+* [ ] Run informational 014, 025, 018, and 006 reports for the prior period
 * [ ] Update Project Go Binder
 * [ ] Updated Weekly Cum Performance by Workgroup to Heather
+* [ ] Update Dashboard
 * [ ] Report Hours and Dollars CPIs internally to Project Leadership
 
 * [ ] Complete Time Sheet
 
 = Wednesday =
-* [ ] Run final 014 and 006 reports for the reporting period
-* [ ] Cost report ready for review by PC Leads
-
 * [ ] Complete Time Sheet
 
 = Thursday =
-* [ ] PC Leads Review cost report
-* [ ] Discipline leads submit narratives to PA
-* [ ] PL Reviews Monthly Management (Anvil) Report
-* [ ] Update [[file:///S:/Caelus/106726/Project Controls/Project Accounting/106726 - NDS-1 & OTPEX - Cost to Complete Analysis - Through WE 032015.xlsx|Cost to Complete Analysis]]
-
 * [ ] Complete Time Sheet
 
 = Friday =
-Caelus:
-	* [ ] PA Compile Cost and Schedule report [[Bi Weekly Report Contents]]
-		Cost Engineer Products:
-			* [ ] Bi Weekly Cost Report PDF
-			* [ ] Bi Weekly Cost Report XLS
-			* [ ] If monthly reporting week:
-				* [ ] Performance Chart (Banana Curve; added 071814; only sent with the last report of the month.)
-	* [ ] PL review Cost and Schedule report
-	* [ ] PA Transmit Cost and Schedule report
 
 * [ ] Complete and Approve Time Sheet
 
