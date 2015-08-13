@@ -1,0 +1,16 @@
+= Revised PO Checklist =
+Upon reciept of a revised PO:
+* Save a copy to the [Project Number], Project Management, Funding Docs, [Phase] folder.
+* Determine if the PO is for on-site or Cap work.
+	* If On-site, using ACE, seach JN102698 by Client Job ID to determine the correct subjob.
+	* If Cap, using ACE, search by Client Job ID to determine the correct job number.
+* In Client Funding tool:
+	* Update amount for existing CF record.)
+	* In the grid, right click the CF Record, Manage Documents, attach the PO PDF.
+
+= If notified by GSAP email =
+== In GSAP ==
+	* Process
+	* Confirm
+	* Send
+ 

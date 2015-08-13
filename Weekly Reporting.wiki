@@ -3,13 +3,13 @@
 == Contents ==
 	* [ ] Internal
 		* [ ] Island Bay Progress Report (014) 
-		* [ ] Shell PSR Change Notice Summary
+		* [ ] [[//bham-eng-data/share/SHELLPSR/GENERAL/PMC/PC/Island Bay - Weekly Reports/Change Management/Shell PSR CN Summary|Shell PSR Change Notice Summary]]
 		* [ ] TGER Change Notice Summary (Angie) 
 		* [ ] Tesoro Logistics Change Notice Summary (Angie) 
-		* [ ] Work Group CPI Spreadsheet
+		* [ ] [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Island Bay - Weekly Reports/Island Bay Internal CPI Spreadsheet/2015/|Work Group CPI Spreadsheet]] - For Prior Week
 		* [ ] Weekly Labor Report (Office)(015)
 	* [ ] External
-		* [ ] Weekly Labor Report (Office)(015)
-		* [ ] Weekly Labor Report (Onsite)(027)
+		* [ ] Weekly Labor Report (Office)(015) - For Current Month
+		* [ ] Weekly Labor Report (Onsite)(027) - For Current Month
 		* [ ] Shell PSR Weekly Progress Report (031)
 		* [ ] Shell PSR Change Notice Summary

@@ -1,0 +1,13 @@
+= Invoice Processing =
+
+* Receive invoice PDFs from Mary Shoemaker (billing services.)
+* Print, collate and arrange invoices in Job Number order.
+* Enter Invoice # and Amount in the PO Log workbook.
+
+== Stages ==
+* Inbox
+* Entered in PO Log
+* Entered in SUS
+* Need PO Increase
+* Other Exception
+
