@@ -1,0 +1,7 @@
+Arrive 0745.
+
+Completed invoice entry (excluding those for which PO increases are needed.)
+
+Opened 106472 P5 per Harv direction.
+
+Out at 1645.

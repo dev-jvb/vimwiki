@@ -1,0 +1,7 @@
+Arrive 0715.
+
+Resolved multiple document upload issue with SharePoint needed to upgrade to IE 11 (thanks Natalie Elmore!)
+
+Spoke with Jeff Wong re 106688. Job is Closed but is not 100% complete and has non-zero EHTC. Per Jeff, should be 100% complete. Project was never built and still may be. When that happens, it may need to be re-opened for construction support charges.
+
+Out at 1630.

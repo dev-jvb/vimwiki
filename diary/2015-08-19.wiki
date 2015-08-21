@@ -1,0 +1,12 @@
+Arive 0630.
+
+Attended weekly WGL meeting:
+	* [ ] 107400 - Load budget; did Angie get the OB fixed?
+	* [X] 107382 Off Loading Pump; need PO; set status to On Hold Booked
+	* [ ] TGER CNs that need to be issued; Angie?
+	* [ ] Start developing a tool to aid in estimating P5-7 budgets.
+	* [ ] Heavy emphasis on maintenance of PSR. Could Caelus reports be helpful?
+
+Issued Monthly KPI report to Justin and Walter.
+
+Out at 1630.

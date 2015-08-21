@@ -1,0 +1,17 @@
+= Estimated Accrual Report =
+
+Data comes from Billing History:
+	Client: Shell Puget Sound Refinery
+	Job: Group By All Jobs
+	Sub Job: Group by All Sub Jobs
+	Date View: Month
+	Start: First of month
+	End: First of month
+
+Using this data, forecast total hours for the month using simple ratio.
+
+Insert columns for client job number and use VLOOKUP to fill.
+
+Filter for Estimated to Bill > $50k.
+
+Send result to GXAOPUSPR-ProjectControls@Shell.com.

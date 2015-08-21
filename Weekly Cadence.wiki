@@ -17,12 +17,20 @@ First week of the month:
 
 Second week of the month:
 * [X] After narratives complete, run 028 reports as required.
-* [ ] Transmit (upload to SharePoint) the Monthly Report.
-* [ ] Managers Monthly Workgroup - Internal Resource Forecast
+* [X] Transmit (upload to SharePoint) the Monthly Report.
+* [X] Managers Monthly Workgroup - Internal Resource Forecast
+
+Third week of the month:
+* [X] Issue Internal Program Project Services Resource Forecast
+* [X] Issue Monthly Internal KPI Report
  
- 
+ Last Tuesday of the month:
+* [ ] Prepare [[Estimated Accrual Report]]
 == Monday ==
-* [ ] Check with PLs for new CNs in Development or Issued
+* [ ] Approve Timesheets
+	* [ ] Angie
+	* [ ] Gretta
+* [X] Check with PLs for new CNs in Development or Issued
  
 == Tuesday ==
 * [X] Issue weekly reports 
@@ -33,11 +41,13 @@ Second week of the month:
 		* [X] Tesoro Logistics Change Notice Summary (Angie) 
 		* [X] [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Island Bay - Weekly Reports/Island Bay Internal CPI Spreadsheet/2015/|Work Group CPI Spreadsheet]] - For Prior Week
 		* [X] Weekly Labor Report (Office)(015)
+		* [X] Issue Report
 	* [X] External
 		* [X] Weekly Labor Report (Office)(015) - For Current Month
 		* [X] Weekly Labor Report (Onsite)(027) - For Current Month
 		* [X] Shell PSR Weekly Progress Report (031)
 		* [X] Shell PSR Change Notice Summary
+		* [X] Issue Report
 * [X] Prepare (014) reports for weekly meeting; 15 copies
 
 == Wednesday ==
@@ -46,5 +56,5 @@ Second week of the month:
 == Thursday ==
 
 == Friday == 
-* [ ] Update Progress Tracking
+* [X] Update Progress Tracking
 * [ ] Approve timesheet
