@@ -55,12 +55,16 @@
 	* [[Resource Forecast]]
 	* [[Invoice Processing]]
 	* [[ShellPSR Phone List]]
+	* [[Cost Savings Processing]]
 	* [[Shell Project Controls Assignments]]
 	* [[LE Update File Processing]]
 	* [[Estimated Accrual Report]]
 	* Project Controls Team
 		* [[AngieHintz]]
 		* [[GrettaStribling]]
+		* [[PaulDuersch]]
+	* Schedule Standards
+		* [[ActivityNamingScheme]]
 
 = [[/diary/diary|Journal]] =
 

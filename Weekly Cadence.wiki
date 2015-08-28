@@ -25,11 +25,11 @@ Third week of the month:
 * [X] Issue Monthly Internal KPI Report
  
  Last Tuesday of the month:
-* [ ] Prepare [[Estimated Accrual Report]]
+* [X] Prepare [[Estimated Accrual Report]]
+* [X] Issue Estiamted Accrual Report
 == Monday ==
-* [ ] Approve Timesheets
-	* [ ] Angie
-	* [ ] Gretta
+* [X] Approve Timesheets
+	* [X] Angie
 * [X] Check with PLs for new CNs in Development or Issued
  
 == Tuesday ==
@@ -40,7 +40,7 @@ Third week of the month:
 		* [X] TGER Change Notice Summary (Angie) 
 		* [X] Tesoro Logistics Change Notice Summary (Angie) 
 		* [X] [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Island Bay - Weekly Reports/Island Bay Internal CPI Spreadsheet/2015/|Work Group CPI Spreadsheet]] - For Prior Week
-		* [X] Weekly Labor Report (Office)(015)
+		* [X] Weekly Labor Report (Office)(015) - for Current Month
 		* [X] Issue Report
 	* [X] External
 		* [X] Weekly Labor Report (Office)(015) - For Current Month
@@ -48,7 +48,8 @@ Third week of the month:
 		* [X] Shell PSR Weekly Progress Report (031)
 		* [X] Shell PSR Change Notice Summary
 		* [X] Issue Report
-* [X] Prepare (014) reports for weekly meeting; 15 copies
+* [X] Prepare (014) reports for weekly meeting; 12 copies
+* [X] Copy of 12 week LA schedule to Geoff Latimer for weekly meeting
 
 == Wednesday ==
 [0700 - 0830] Weekly Program Meeting
@@ -56,5 +57,5 @@ Third week of the month:
 == Thursday ==
 
 == Friday == 
-* [X] Update Progress Tracking
+* [ ] Update Progress Tracking
 * [ ] Approve timesheet

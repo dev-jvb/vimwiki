@@ -1,0 +1,48 @@
+= ShellPSR Schedule Activity Numbering Scheme =
+
+Format: [Discipline Code][Phase Number][Sequential Activity ID Number]
+
+Discipline Codes:
+	CO = Contractor Activity
+	CS = Control Systems
+	CV = Civil Activity
+	EL = Electrical
+	EV = Environmental
+	IPA = IPA Benchmarks
+	M = Milestone
+	ME = Mechanical/Equipment
+	MM = Major Milestone
+	OV =
+	PC = Project Controls
+	PM = Project Management
+	PO = Procurement/Vendor Activity
+	PP = Piping
+	PR = Process
+	QA = Qulity Assurance
+	SH = Shell Client Activity
+	ST = Structural
+	SU = Startup
+	TA = Turn Around
+
+Phase Number:
+	1 - Assess
+	2 - Define
+	3 - Select
+	4 - Execute
+	5 - Construction
+
+Sequential Activity ID Number:
+	Major Milestone activity ID numbers are 4 digits.
+
+Example:
+	EL310 = Electrical Activity, Phase 3
+
+Reserved Numbers:
+	Activity numbers ending in "00" are reserved for Manage & Coordinate Activities.
+		Example: CS300 = Control Systems Phase 3 Manage & Coordinate 
+	
+	Milestones ending in "00" are reserved for the start of Phases.
+		Example: M200 = Start of Phase 2
+	
+	Milestones ending in "99" are reserved for the end of Phases.
+		Example: M299 = Complete Phase 2

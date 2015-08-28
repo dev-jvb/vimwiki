@@ -1,0 +1,7 @@
+= Cost Savings Processing =
+
+Upon receipt of new Cost Savings from Program Manager:
+* [ ] Make new entry in Cost Savings Log
+* [ ] Number Cost Savings form and save in folder
+* [ ] Send numbere dform bakc to Program Manager.
+* [ ] Print Cost Savings Log and post near copier.
