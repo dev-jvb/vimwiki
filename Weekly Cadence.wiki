@@ -10,23 +10,23 @@ First business day of the month:
 	* [X] Ron Peterson
 
 Fifth business day of the month:
-* [X] Issue Shell Resource Forecast to Client [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Cost Reports/2015/]]
+* [ ] Issue Shell Resource Forecast to Client [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Cost Reports/2015/]]
 
 First week of the month:
-* [X] Receive and issue monthly Engineering and Onsite Hours/Dollars report
+* [ ] Receive and issue monthly Engineering and Onsite Hours/Dollars report
 
 Second week of the month:
-* [X] After narratives complete, run 028 reports as required.
-* [X] Transmit (upload to SharePoint) the Monthly Report.
-* [X] Managers Monthly Workgroup - Internal Resource Forecast
+* [ ] After narratives complete, run 028 reports as required.
+* [ ] Transmit (upload to SharePoint) the Monthly Report.
+* [ ] Managers Monthly Workgroup - Internal Resource Forecast
 
 Third week of the month:
-* [X] Issue Internal Program Project Services Resource Forecast
-* [X] Issue Monthly Internal KPI Report
+* [ ] Issue Internal Program Project Services Resource Forecast
+* [ ] Issue Monthly Internal KPI Report
  
  Last Tuesday of the month:
-* [X] Prepare [[Estimated Accrual Report]]
-* [X] Issue Estiamted Accrual Report
+* [ ] Prepare [[Estimated Accrual Report]]
+* [ ] Issue Estimated Accrual Report
 == Monday ==
 * [X] Approve Timesheets
 	* [X] Angie
@@ -58,4 +58,4 @@ Third week of the month:
 
 == Friday == 
 * [ ] Update Progress Tracking
-* [ ] Approve timesheet
+* [ ] Approve personal timesheet

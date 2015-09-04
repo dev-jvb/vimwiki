@@ -44,6 +44,7 @@
 
 = ShellPSR =
 	* [[Weekly Cadence]]
+	* [[Monthly Cadence]]
 	* [[Monthly Report]]
 	* [[Weekly Reporting]]
 	* [[New PO Checklist]]
@@ -65,7 +66,7 @@
 		* [[PaulDuersch]]
 	* Schedule Standards
 		* [[ActivityNamingScheme]]
-
+	* [[BASH Shell Commands]]	
 = [[/diary/diary|Journal]] =
 
 = Reference Materials =

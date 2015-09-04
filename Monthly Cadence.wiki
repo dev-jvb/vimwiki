@@ -1,0 +1,21 @@
+= Monthly Cadence =
+
+First Week
+* [ ] Receive and issue monthly Engineering and Onsite Hours/Dollars report
+* [ ] Receive monthly LE Update file from Shell; see [[LE Update File Processing]]
+* [ ] Issue Resource Forecast to PLs for Review
+* [ ] Run 030 Reports as required
+* [ ] PLs make input to BIT
+* [ ] Request job narratives from PLs
+
+Second Week
+* [ ] After narratives complete, run 028 reports as required.
+* [ ] Transmit (upload to SharePoint) the Monthly Report.
+* [ ] Managers Monthly Workgroup - Internal Resource Forecast
+
+Third Week
+* [ ] Issue Internal Program Project Services Resource Forecast
+* [ ] Issue Monthly Internal KPI Report
+
+Last Week
+* [ ] Issue Estimated Accrual Report

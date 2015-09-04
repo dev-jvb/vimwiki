@@ -1,0 +1,9 @@
+Create source file folders for monthly reports:
+
+while read job; do mkdir -p /cygdrive/s/SHELLPSR/$job/Project\ Controls/Reports/Monthly\ Reports/yyyy-mm/source\ files; done < "input.txt";
+
+Where input.txt is a file containing the list of job numbers in a single column.
+
+Copy prior month's source files into current reporting month source file folder:
+
+while read job; do cp /cygdrive/s/SHELLPSR/$job/Project\ Controls/Reports/Monthly\ Reports/yyyy-mm/source\ files/*; /cygdrive/s/SHELLPSR/$job/Project\ Controls/Reports/Monthly\ Reports/yyyy-mm/source files/done < "input.txt";

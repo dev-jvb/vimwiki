@@ -1,0 +1,11 @@
+Arrive 0700.
+
+Revised 107433 P3 Schedule per Howard's markups.
+
+Called Ask-CP for help with Supplier Reference Number error. Directed to submit via email to Susan. Did so. Was able to ente rthe invoice by appending a "A" on the end of the invoice number.
+
+Opened Ask-CP Ticket for issue with 4516229174 updated value not being reflected on portal. This issue was resolved an Shell's end by re-pushing the change. Was able to confirm the PO revision and submit the invoice.
+
+Prepared Monthly Report file with updated LE data and actuals for July. Verified hyperlinks to job folders.
+
+Out at 1645.
