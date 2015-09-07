@@ -25,20 +25,20 @@ Second week of the month:
 * [ ] Check with PLs for new CNs in Development or Issued
  
 == Tuesday ==
-* [X] Issue weekly reports 
-	* [X] Internal
-		* [X] Island Bay Progress Report (014) 
-		* [X] Shell PSR Change Notice Summary
-		* [X] TGER Change Notice Summary (Angie) 
-		* [X] Tesoro Logistics Change Notice Summary (Angie) 
-		* [X] Work Group CPI Spreadsheet
-		* [X] Weekly Labor Report (Office)(015)
-	* [X] External
-		* [X] Weekly Labor Report (Office)(015)
-		* [X] Weekly Labor Report (Onsite)(027)
-		* [X] Shell PSR Weekly Progress Report (031)
-		* [X] Shell PSR Change Notice Summary
-* [X] Prepare (014) reports for weekly meeting; 15 copies
+* [ ] Issue weekly reports 
+	* [ ] Internal
+		* [ ] Island Bay Progress Report (014) 
+		* [ ] Shell PSR Change Notice Summary
+		* [ ] TGER Change Notice Summary (Angie) 
+		* [ ] Tesoro Logistics Change Notice Summary (Angie) 
+		* [ ] Work Group CPI Spreadsheet
+		* [ ] Weekly Labor Report (Office)(015)
+	* [ ] External
+		* [ ] Weekly Labor Report (Office)(015)
+		* [ ] Weekly Labor Report (Onsite)(027)
+		* [ ] Shell PSR Weekly Progress Report (031)
+		* [ ] Shell PSR Change Notice Summary
+* [ ] Prepare (014) reports for weekly meeting; 15 copies
 
 == Wednesday ==
 [0700 - 0830] Weekly Program Meeting
@@ -46,5 +46,5 @@ Second week of the month:
 == Thursday ==
 
 == Friday == 
-* [X] Update Progress Tracking
-* [X] Approve timesheet
+* [ ] Update Progress Tracking
+* [ ] Approve timesheet

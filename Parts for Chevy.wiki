@@ -1,8 +1,8 @@
 Chevy parts needed:
-	Driver's door
-	Front bumper
-	Radiator support
-	Hood
-	Right and Left Fenders
-	Right and left mirrors
-	AC Compressor
+	* [ ] Driver's door
+	* [ ] Front bumper
+	* [ ] Radiator support
+	* [ ] Hood
+	* [ ] Right and Left Fenders
+	* [X] Right and left mirrors, done 9/7/15
+	* [ ] AC Compressor
