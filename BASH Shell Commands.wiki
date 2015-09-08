@@ -1,0 +1,9 @@
+List files in job reporting folders:
+
+while read job; do tree -L 1 /cygdrive/s/SHELLPSR/$job/Project\ Controls/Reports/Monthly\ Reports/2015-08/; done < "AugustJobs.txt";
+
+Copy prior month source files into current reporting month:
+
+while read job; do cp /cygdrive/s/SHELLPSR/$job/Project\ Controls/Reports/Monthly\ Reports/2015-07/source\ files/* /cygdrive/s/SHELLPSR/$job/Project\ Controls/Reports/Monthly\ Reports/2015-08/; done < "AugustJobs.txt";
+
+
