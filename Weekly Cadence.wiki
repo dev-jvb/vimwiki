@@ -13,10 +13,10 @@ Fifth business day of the month:
 * [ ] Issue Shell Resource Forecast to Client [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Cost Reports/2015/]]
 
 First week of the month:
-* [ ] Receive and issue monthly Engineering and Onsite Hours/Dollars report
+* [X] Receive and issue monthly Engineering and Onsite Hours/Dollars report
 
 Second week of the month:
-* [ ] After narratives complete, run 028 reports as required.
+* [X] After narratives complete, run 028 reports as required.
 * [ ] Transmit (upload to SharePoint) the Monthly Report.
 * [ ] Managers Monthly Workgroup - Internal Resource Forecast
 
@@ -30,7 +30,11 @@ Third week of the month:
 == Monday ==
 * [X] Approve Timesheets
 	* [X] Angie
-* [X] Check with PLs for new CNs in Development or Issued
+* [O] Check with PLs for new CNs in Development or Issued
+	* [X] Aujla
+	* [X] Holien
+	* [X] Leung
+	* [ ] Peterson
  
 == Tuesday ==
 * [X] Issue weekly reports 
@@ -43,13 +47,14 @@ Third week of the month:
 		* [X] Weekly Labor Report (Office)(015) - for Current Month
 		* [X] Issue Report
 	* [X] External
+		* [X] Island Bay Progress Report (014) - Shell Only 
 		* [X] Weekly Labor Report (Office)(015) - For Current Month
 		* [X] Weekly Labor Report (Onsite)(027) - For Current Month
 		* [X] Shell PSR Weekly Progress Report (031)
 		* [X] Shell PSR Change Notice Summary
 		* [X] Issue Report
 * [X] Prepare (014) reports for weekly meeting; 12 copies
-* [X] Copy of 12 week LA schedule to Geoff Latimer for weekly meeting
+* [ ] Copy of 12 week LA schedule to Geoff Latimer for weekly meeting
 
 == Wednesday ==
 [0700 - 0830] Weekly Program Meeting

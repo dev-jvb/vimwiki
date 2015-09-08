@@ -1,5 +1,28 @@
+Arrive 0730.
+
+Opened 105478 P3 for charges at Howard's request.
+
+Set Tracking mode to LoE Actual/Budget for 107163; Project Leader, Project Assistant, Doc Tech and Technical Writer at Howard's request.
+
 Topics for meeting with Paul:
 	Schedules for monthly report
 	Schedule for 105478 APP (Howard)
 	Schedule for 107224 APP (Ron)
 	APP Look Ahead for Program
+
+Met with Paul to discuss schedule deliverables.
+	Discussed using 1st Monday as data date. Agreed that an interim update should also happen.
+	
+Setup CN 0.005 for 106472.
+
+Prepared Cost Summary Reports for August\\bham-eng-data\share\SHELLPSR\106211\Project Controls\Reports\Monthly Reports\2015-08\source files.
+
+Processed new PO for 104609.199.
+
+Processed revised PO for 107136.
+
+Rolled Pending CNs in PT for 106888 and 106817. 
+
+Printed 014 report sof rWednesdya morning meeting.
+
+Out at 1700.
