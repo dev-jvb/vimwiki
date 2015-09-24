@@ -41,6 +41,7 @@ Third week of the month:
 	* [ ] Zehner
  
 == Tuesday ==
+<<<<<<< HEAD
 * [X] Issue weekly reports 
 	* [X] Internal (Issue ~1400)
 		* [X] Island Bay Progress Report (014) 
