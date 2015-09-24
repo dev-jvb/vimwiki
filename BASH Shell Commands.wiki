@@ -6,4 +6,18 @@ Copy prior month source files into current reporting month:
 
 while read job; do cp /cygdrive/s/SHELLPSR/$job/Project\ Controls/Reports/Monthly\ Reports/2015-07/source\ files/* /cygdrive/s/SHELLPSR/$job/Project\ Controls/Reports/Monthly\ Reports/2015-08/; done < "AugustJobs.txt";
 
+Assemble Monthly Reports:
+Prepare text file with Anvil and Client job numbers in two columns.
+Use file as input to AssembleMonthlyReport.sh script.
 
+Duplicate Folder Structure to a new Folder (folders only, no files):
+
+In parent of desired structure:
+
+	find . -type d >dirs.txt
+
+to create the list of directories, then copy dirs.txt to the desired parent and CD to the desired parent. Then:
+
+	xargs mkdir -p <dirs.txt
+
+to create the directories on the destination.

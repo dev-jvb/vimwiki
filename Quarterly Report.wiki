@@ -1,0 +1,88 @@
+= Report Contents =
+
+* [X] 01_Quarterly Report Cover 3Q 2015.pdf
+* [ ] 02_2Q 2015 Review Meeting Agenda.pdf
+* [ ] 03_Anvil Corp Safety Statistics_06-2015.pdf
+* [ ] 04_2Q 2015 KPI_part 1 of 4 (Fee Scorecard).pdf
+* [ ] 05_2Q 2015 KPI_part 2 of 4 (Non Fee Scorecard).pdf
+* [ ] 06_2Q 2015 KPI_part 3 of 4 (Project Data).pdf
+* [ ] 07_2Q 2015 (Procurement Metrics).pdf
+* [ ] 08_2Q 2015 KPI_part 4 of 4 (KPI Trend Charts).pdf
+* [ ] 09_Estimate Data and Charts ($0-$3MM).pdf
+* [ ] 10_Estimate Data and Charts (above $3MM).pdf
+* [ ] 11_Alliance Rolling Action Items List.pdf
+* [ ] 12_2Q15 Shell Eng Services Alliance Org Chart.pdf
+* [ ] 13_Shell FTE Charts (Overall).pdf
+* [ ] 14_Shell FTE Charts (By Workgroup).pdf
+* [ ] 15_Shell Progress Report_WE 062614.pdf
+* [ ] 16_Cost Savings Summary.pdf
+* [ ] APPROVED - 2Q15 Quarterly Report Results Summary Sign Off Sheet.pdf
+* [ ] Shell PSR Quarterly Business Performance Review - 2Q15 Rev. 1.pdf
+
+= SHELL PSR – Quarterly Report updating =
+
+All related files are located in folders at this file path:  S:\SHELLPSR\GENERAL\PMC\PC\Quarterly Reports (Shell PSR)
+
+Send Client Surveys (about 1-2 wks. before end of quarter) *P3, P4, P5 (do not send P7) – where one of these phases was closed during the subject quarter.
+
+	* Input needed from external sources (email requests):
+		* Request the latest Schedule KPI dump file from Gretta Stribling (P6 data)
+		* 	Request the latest Shell PSR KPI Report from Latimer (comes from Diane Berhow) – you only need the Anvil data from the ‘PIA Score’ tab on their report.
+		* Request which jobs need IPA Cost Summaries (from Diane Berhow) – these are jobs which receive full FID funding in the subject quarter.  See my email from last quarter, you might just forward this email to Diane so she knows what you’re asking for:  S:\SHELLPSR\GENERAL\PMC\PC\Quarterly Reports (Shell PSR)\2014 Reports\IPA Cost Summaries\Emails
+		* Obtain latest LE Update file from Jim Holien (from Kerian Bevan or Carole Gillis)
+		* Request Cost Savings Log file from Heather Calvin
+		* Obtain latest Safety Statistics file from Eric Peterson (Ask: Any incidents at Shell refinery during quarter?)
+
+	* Create new excel files for the IPA Cost Summary tab (from Anvil TIC Estimate) –
+		* Copy tab into a new excel workbook, save files here:  S:\SHELLPSR\GENERAL\PMC\PC\Quarterly Reports (Shell PSR)\2014 Reports\IPA Cost Summaries
+		* Email excel files to Diane Berhow
+
+	* Save a PDF of Shell-only Report 014 – for Month-end week, save into PRINT folder
+
+	* “Estimate Data & Charts” file – saved in the Cost folder within the current Quarter file S:\SHELLPSR\GENERAL\PMC\PC\Quarterly Reports (Shell PSR)\2014 Reports
+
+		* Use LE Update file to update this file (Tab: ‘Cost Data (source)’) – Bill Richardson will be doing this update for Shell Monthly Reports during the first week of each month, so this task may already be done. 
+		* The ‘Cost Data (source)’ tab will be copied into the files below for use (so make sure it’s completely updated before copying the data):
+			* KPI-Scorecard (KPI folder) 
+			* Eng. % of TIC (Cost folder)
+
+	* Update the file “Actual Find_6-12 month list” – saved in the Reporting Data folder
+		* Use the “Eng. % of TIC” column to update the Eng. % of TIC file (Cost folder).
+			* In ‘Data’ tab, copy/paste previous quarters’ TIC/LE columns (grouped columns)
+			* Copy values from LE ‘Cost Data (source)’ tab
+			* Update any new jobs in ‘Job Numbers’ tab
+			* Export data from Anvil Reporting into ‘Budget Hours’ tab
+			* Update list in ‘Data’ tab (add new jobs, remove old jobs)
+			* Review Delta columns for issues, make notes as needed
+			* Print copy for Latimer/ Holien for review/ comments/ approval
+		* Use “Estimate Charts” column to add job numbers to the ‘Chart Selection Table’ tab
+			* Jobs need to be in correct columns, sorted by TIC value (but don’t need to be in any other order vertically down the column)
+			* Values in this table populate the tornado charts in the first two tabs of this file.  Ask Jim Holien if you run into issues with the charts displaying correctly.
+
+	* KPI Scorecard file – saved in the KPI Scorecard folder
+		* Update cell B1 in ‘Scorecard (Fee)’ tab (file version)
+		* In each ‘Scorecard’ tab (before changing any data in file), copy/paste the scores from previous quarters in columns J-M (to keep a rolling 12 mo history)
+		* In ‘Trend Charts’ tab, copy formulas highlighted in yellow & paste in next column to right.  Also, copy/paste special values from prior quarter in their cells. 
+		* Update ‘Project Info’ tab with any new jobs from quarter.
+		* Update ‘Cost Data’ tab (from Estimate Source file/ LE Update file) 
+		* Update ‘Project Data’ tab, starting from the top, and working down (see bold/red text on right side of each section, as well as inserted notes/comments throughout)
+		* Update ‘Scorecard’ tabs – make sure scores show up in correct Green/yellow/red columns – and are highlighted appropriately.
+		* LAST: 
+			* Update ‘Sign-off’ tab.  
+			* Print PDF’s of each tab (except last 2 tabs) & Save into PRINT folder (keeping naming convention with page numbers).
+
+	* Procurement Metrics file – saved in Procurement folder
+		* Update tabs 2 & 3 with data dumps from IPDMS
+		* Update tab 1 (top section is from Anvil Reporting, bottom section is a summary of tab 2, use PSR report for tagged vs not tagged)
+
+	* Shell FTE Charts file – saved in the Resource Graphs folder
+		* Copy Booked/ Future/ Prospective data from most recent Island Bay Resource Forecast (published to Manager’s Monthly Forecast file)
+		* Update Actuals
+		* Check that graphs are showing a rolling 12 months for Workgroups & Summary
+		* Print PDF’s of workgroup graphs & summary tab, save into PRINT folder.
+
+	* Billing Discounts file – saved in Cost folder
+		* Update Monthly Shell actuals in column C (both with & without 106215)
+		* Determine Tier level for each month (based on rubric)
+		* Determine KPI Multiplier for each month (based on rubric)
+		* Use totals from ‘Quarterly Summary’ section to populate the Meeting Agenda – Cost Savings section 

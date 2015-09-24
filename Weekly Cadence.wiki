@@ -8,16 +8,18 @@ First business day of the month:
 	* [X] Jim Holein
 	* [X] Howard Leung
 	* [X] Ron Peterson
+	* [ ] Dean Zehner
 
 Fifth business day of the month:
-* [ ] Issue Shell Resource Forecast to Client [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Cost Reports/2015/]]
+* [X] Issue Shell Resource Forecast to Client [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Cost Reports/2015/]]
 
 First week of the month:
 * [X] Receive and issue monthly Engineering and Onsite Hours/Dollars report
+* [X] [[Onsite Capital Project Hours]]	
 
 Second week of the month:
 * [X] After narratives complete, run 028 reports as required.
-* [ ] Transmit (upload to SharePoint) the Monthly Report.
+* [X] Transmit (upload to SharePoint) the Monthly Report.
 * [ ] Managers Monthly Workgroup - Internal Resource Forecast
 
 Third week of the month:
@@ -27,6 +29,7 @@ Third week of the month:
  Last Tuesday of the month:
 * [ ] Prepare [[Estimated Accrual Report]]
 * [ ] Issue Estimated Accrual Report
+
 == Monday ==
 * [X] Approve Timesheets
 	* [X] Angie
@@ -35,10 +38,11 @@ Third week of the month:
 	* [X] Holien
 	* [X] Leung
 	* [ ] Peterson
+	* [ ] Zehner
  
 == Tuesday ==
 * [X] Issue weekly reports 
-	* [X] Internal
+	* [X] Internal (Issue ~1400)
 		* [X] Island Bay Progress Report (014) 
 		* [X] [[//bham-eng-data/share/SHELLPSR/GENERAL/PMC/PC/Island Bay - Weekly Reports/Change Management/Shell PSR CN Summary|Shell PSR Change Notice Summary]]
 		* [X] TGER Change Notice Summary (Angie) 
@@ -46,7 +50,7 @@ Third week of the month:
 		* [X] [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Island Bay - Weekly Reports/Island Bay Internal CPI Spreadsheet/2015/|Work Group CPI Spreadsheet]] - For Prior Week
 		* [X] Weekly Labor Report (Office)(015) - for Current Month
 		* [X] Issue Report
-	* [X] External
+	* [X] External (Issue ~1600)
 		* [X] Island Bay Progress Report (014) - Shell Only 
 		* [X] Weekly Labor Report (Office)(015) - For Current Month
 		* [X] Weekly Labor Report (Onsite)(027) - For Current Month
@@ -54,10 +58,11 @@ Third week of the month:
 		* [X] Shell PSR Change Notice Summary
 		* [X] Issue Report
 * [X] Prepare (014) reports for weekly meeting; 12 copies
-* [ ] Copy of 12 week LA schedule to Geoff Latimer for weekly meeting
+* [X] Prepare and issue [[12 Week Lookahead]]
 
 == Wednesday ==
 [0700 - 0830] Weekly Program Meeting
+* [ ] [[Onsite Capital Project Hours]]	
  
 == Thursday ==
 

@@ -8,11 +8,12 @@
 	* > 20% Complete
 	* Not on hold
 * For each of the above, pull Budget History data for last week of prior month
+
 == In KPI Workbook ==
-* Paste Budget History daa into Budget tab of KPI Workbook.
+* Paste Budget History data into Budget tab of KPI Workbook.
 * For Schedule Tab of KPI workbook:
-	* Check Transmittal Tool for and IFF/IFCs, TIC Estimates
+	* Check Transmittal Tool for any IFF/IFCs, TIC Estimates
 	* Schedule dates come from Schedule (Gretta may be able to assist.)
 * For the Quality tab:
-	* Contact PLs to see if any P&ID Validation occurred and when.
+	* Contact PLs to see if any P&ID Validations occurred and when.
 	* Enter into workbook

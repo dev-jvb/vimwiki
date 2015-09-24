@@ -16,6 +16,7 @@
 	[[Change Management]]
 [[Quotes]]
 [[Lexophiles]]
+[[Paraprosdokians]]
 [[MySimpleRules]]
 [[LessonsLearned]]
 [[BestPractices]]
@@ -44,6 +45,7 @@
 
 = ShellPSR =
 	* [[Weekly Cadence]]
+	* [[12 Week Lookahead]]
 	* [[Monthly Cadence]]
 	* [[Monthly Report]]
 	* [[Weekly Reporting]]
@@ -60,11 +62,13 @@
 	* [[Shell Project Controls Assignments]]
 	* [[LE Update File Processing]]
 	* [[Estimated Accrual Report]]
+	* [[Onsite Capital Project Hours]]
+	* [[Quarterly Report]]
 	* Project Controls Team
 		* [[AngieHintz]]
 		* [[GrettaStribling]]
 		* [[PaulDuersch]]
-	* Schedule Standards
+	* [[Schedule Standards]]
 		* [[ActivityNamingScheme]]
 	* [[BASH Shell Commands]]	
 = [[/diary/diary|Journal]] =

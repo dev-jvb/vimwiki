@@ -7,6 +7,7 @@ First Week
 * [ ] Run 030 Reports as required
 * [ ] PLs make input to BIT
 * [ ] Request job narratives from PLs
+* [ ] [[Onsite Capital Project Hours]]	
 
 Second Week
 * [ ] After narratives complete, run 028 reports as required.
