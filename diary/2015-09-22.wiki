@@ -1,0 +1,38 @@
+Arrive 0730.
+
+Closed 106211 P4 and opened P5 per Hav direction.
+
+Approved and published 107162 CN1 per Howard direction.
+
+Met with GEoff, Paul and Justin to discuss schedule template issues/development.
+	Notes/Actions:
+		Tighten up network; reduce open ends.
+		Replace lags with durations.
+		Consolidate duplicate activities in a manner that best supports interactive planning process.
+		OK to separate Permitting as it is rarely used.
+		Need input from Shell on WBS structure.
+		OK to consolidate MM and OV activities
+		Geoff wishes to drive toward Interactive Planning. OK to step into this at will.
+		Add schedule review activities; internal and with client.
+		Send Geoff a link to a sample schedule basis. Start considering implementing this; need to discuss with Shell.
+		Geoff would like to reduce the "chaos" that happens at the end of a Phase.
+		Geoff to mull over a "deliverable-centric" WBS vs. a "discipline-centric model. Paul to prepare a What If to illustrate
+		Consolidate stray Procurement activities into the Procurement section.
+		Incorporate Derek's comments into the Procurement section.
+		Re-visit the logic between the Estimate and the APP. Should be less than week duration.
+
+Prepared KPI report and submitted to Geoff for review.
+
+Incorporated Geoff's comments into the KPI report.
+
+Processed new PO for 105478.
+
+Prepared Estimate Accrual report.
+
+Attended Project Controls Department Safety Meeting.
+
+Issued internal and external weekly reports.
+
+Began entering PC hours into PSE ofr 107554. Looked at Caimen's PC Estimator workbook as use don BP. More info needed.
+
+Out at 1700.

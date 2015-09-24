@@ -1,0 +1,13 @@
+Arrive 0645.
+
+Attended weekly team meeting. Actions:
+	* [X] Update PLs on CN Summary
+	* [X] Update Project Leader Assignements in P6 (Paul)
+	* [ ] Have Paul schedule meeting with Jim Holien to update schedules.
+	* [X] Why is 107382 not on the 014 report? Client Group was Expense/Capitol Project instead of Expense/Capital Projects
+
+Closed 104609.191 because PO has been closed.
+
+Discussed September Forecast with Geoff and Angie. Geoff to complete his input today. Wants to have Monday to review and refine before submitting on Tuesday.
+
+Out at 1615.
