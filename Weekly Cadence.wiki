@@ -41,23 +41,23 @@ Third week of the month:
 	* [ ] Zehner
  
 == Tuesday ==
-* [.] Issue weekly reports 
-	* [O] Internal (Issue ~1400)
+* [X] Issue weekly reports 
+	* [X] Internal (Issue ~1400)
 		* [X] Island Bay Progress Report (014) 
 		* [X] [[//bham-eng-data/share/SHELLPSR/GENERAL/PMC/PC/Island Bay - Weekly Reports/Change Management/Shell PSR CN Summary|Shell PSR Change Notice Summary]]
 		* [X] TGER Change Notice Summary (Angie) 
 		* [X] Tesoro Logistics Change Notice Summary (Angie) 
 		* [X] [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Island Bay - Weekly Reports/Island Bay Internal CPI Spreadsheet/2015/|Work Group CPI Spreadsheet]] - For Prior Week
 		* [X] Weekly Labor Report (Office)(015) - for Current Month
-		* [ ] Issue Report
-	* [O] External (Issue ~1600)
+		* [X] Issue Report
+	* [X] External (Issue ~1600)
 		* [X] Weekly Labor Report (Office)(015) - For Current Month
 		* [X] Weekly Labor Report (Onsite)(027) - For Current Month
 		* [X] Shell PSR Weekly Progress Report (031)
 		* [X] Shell PSR Change Notice Summary
-		* [ ] Issue Report
-* [ ] Prepare (014) reports for weekly meeting; 12 copies
-* [ ] Prepare and issue [[12 Week Lookahead]]
+		* [X] Issue Report
+* [X] Prepare (014) reports for weekly meeting; 12 copies
+* [X] Prepare and issue [[12 Week Lookahead]]
 
 == Wednesday ==
 [0700 - 0830] Weekly Program Meeting

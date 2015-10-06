@@ -5,3 +5,21 @@ Opened 107162 CN2 for P4-7 PSE input.
 Prepared and issued internal weekly reports. Updated distribution list to include Hanif anf Tony.
 
 Geoff observed that new policy of making sub job description a required field complicates making simple changes in ACE (like sub job status.) Inquired of Kevin/Ian the status of pushing default values to existing blank sub job entries.
+
+Reviewed PSE for 107225. Added 100 hours of Cost Engineer to P5 (50 wks @ 2hrs/wk)
+
+Received LE Update file and list of jobs for IPA Summaries.
+
+Prepared IPA Summaries for 106888 and 107164. 107165 started in P3 and has no estimate yet.
+
+Processed new PO for 102698.281.
+
+Prepared updated project cost summaries for monthly report.
+
+Closed 107414 P3 per GL direction. Left P4 open.
+
+Closed 107473 P3 per GL direction. Left P4 open.
+
+Completed Fire Safety training.
+
+Out at 1630.
