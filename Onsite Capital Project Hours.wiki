@@ -1,7 +1,7 @@
 = Monthly Onsite Capital Project Hours =
 In reporting, Actual Hours tab:
 Use Favorite IB Onsite Cap Hours pt1
-Set dat range to Last Month
+Set date range to Last Month
 Copy result and paste into Excel workbook
 Use favorite IB Exp/Cap Field Hours pt2
 Set date range to Last Month

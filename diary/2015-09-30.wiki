@@ -1,0 +1,11 @@
+Arrive 0645.
+
+Attended weekly program meeting. No Project Controls actions.
+
+Testing login process for Shell P6 environment. All well but P6 credentials not working. Issue was with the P6 database selection. Need to select "sand" as the db. Then it works.
+
+Telecon with Pete and John Stiles re: 107164 schedule development timing. Plan for this initial effort is to provide Shell with an XER file by 10/28. They will upload the XER to their P6 environment in anticipation of an on-site interactive session the week of 11/2.
+
+Met with Jim Holien re SHellPSR Resource Forecast. Learned that the spreadsheet originates form the Resource Loaded schedule. In Jim's opinion, EHTC Forecasting is not well enough maintianed to be useful for cashflow forecasting purposes.
+
+Updated the ShellPSR Resseouce Forecast workbook with data from actuals and Budget History.

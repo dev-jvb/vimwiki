@@ -1,0 +1,15 @@
+Arrive 0800.
+
+Updating Progress Tracker and approved Tracking.
+
+Corrected Tracker Assignments for 106888 (Harv Aujla) and 107433 (Howard Leung.)
+
+Updated PT for 107163 per Howard.
+
+Moved DocTech-Eng budget to DocTec on 105478 per Howard.
+
+Updated 106215 CN22.1 to make equal to CN 22.0 per Howard. Edited elements in PSE to align budgeted hours. Checked PT and BAC is correct. No PT data lost.
+
+Added Project Controls elements to 107545 abd 107546. Minimal hours; setup only, no maintenance.
+
+Out at 1715.

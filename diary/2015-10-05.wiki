@@ -1,0 +1,21 @@
+Arrive 0730.
+
+Setup 104239.502 for PO 4516914722. Advised Eric Schoen of charge number.
+
+Setup P4-7 PSE for 106164 and 107258.
+
+Setup CN1 for 107163 to capture P3 PSE elements.
+
+Updated voicemail greeting.
+
+Spoke to John Stiles re: Shell Schedule WBS. He is ok with going with what we have and adjusting from there.
+
+Met with Justin, Geoff, Paul and Jim Holien about the schedule template. Consensus is to proceed with what we have for 107164 and adjust as we go.
+
+Prepared and issued Estimated Engineering & Onsite Hours/Dollars report.
+
+Prepared and issued sample 012 and 019 reports for Jens and Jennifer.
+
+Prepared Change Logs for monthly report.
+
+Out at 1630.
