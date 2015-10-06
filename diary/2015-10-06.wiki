@@ -1,3 +1,7 @@
 Arrive 0800.
 
+Opened 107162 CN2 for P4-7 PSE input.
 
+Prepared and issued internal weekly reports. Updated distribution list to include Hanif anf Tony.
+
+Geoff observed that new policy of making sub job description a required field complicates making simple changes in ACE (like sub job status.) Inquired of Kevin/Ian the status of pushing default values to existing blank sub job entries.
