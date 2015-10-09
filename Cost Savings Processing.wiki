@@ -2,6 +2,6 @@
 
 Upon receipt of new Cost Savings from Program Manager:
 * [ ] Make new entry in Cost Savings Log
-* [ ] Number Cost Savings form and save in folder
+* [ ] Number Cost Savings form and save in folder; add log number to front of file name.
 * [ ] Send numbered form back to Program Manager.
 * [ ] Print Cost Savings Log and post near copier.
