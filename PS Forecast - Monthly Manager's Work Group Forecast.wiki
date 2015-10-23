@@ -26,5 +26,5 @@
 * Delete prior month column.
 
 == Prepare Manager's Monthly WG File ==
-* Copy-Paste data data for each job from the EF Data (input to Mgr's) file into Monager's Monthly WG File (provided by Justin Allyne.)
+* Copy-Paste data for each job from the EF Data (input to Mgr's) file into Manager's Monthly WG File (provided by Justin Allyne.)
 * Email completed file to Justin Allyne and Walter Michelutti, cc: Geoff Latimer and Angie Hintz.

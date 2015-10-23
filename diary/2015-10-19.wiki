@@ -1,0 +1,47 @@
+Arrive 0745.
+
+Approved Paul's timesheet.
+
+Updated Progress Tracking for Cost Engineer.
+
+Conference call with Pete Allred and John Stiles:
+	Monthly IFC Report:
+		Send by COB Friday after First Monday(data date.)
+		Distro:
+			Akiaten, Gene; 
+			Allred, Pete P SOPUS-DMW/424; 
+			Baker, Sheri M SOPUS-DMW/424; 
+			Berhow, Diane C SOPUS-DMW/452; 
+			Calkins, Stephanie DA SOPUS-DMW/424; 
+			Du Vall, Ben D SOPUS-DMW/452; 
+			Finfrock, Anthony J SOPUS-DMW/465; 
+			Calabretta, Francesco SOPUS-DMW/424; 
+			Forney, Gregg SOPUS-DMW/424; 
+			Gross, Matt SOPUS-DMW/424; 
+			Hodgin, Tye B SOPUS-DMW/424; 
+			Holien, Jim D.; 
+			Kirby, Jennifer J SOPUS-DMW/424; 
+			Kotadia, Hanif; 
+			Latimer, John A SOPUS-DMW/424; 
+			Luciano, Joe N SOPUS-DMW/42; 
+			Boger, Mark SOPUS-DMW/424; 
+			Miner, Larry A SOPUS-DMW/424; 
+			Newbry, Burt C SOPUS-DMW/424; 
+			Pauly, Thomas SOPUS-DMW/4; 
+			Stiles, John SOPUS-DMW/424; 
+			Wehrhahn, Evie M SOPUS-DMW/465
+			Tom Lacroix
+	12 week Look ahead
+		Send weekly on Tuesdays
+		Same distro as IFC Report
+		Should show: IFAs, Model Review, Estimates
+
+	John Stiles will be tied up workong on resource loaded cosntruction schedule for Burt Newbry.
+	107164 - Clay Treaters Project
+		Shell not ready for Anvil to use Shell P6 environment for 107164. Anvile to use our own P6 environment per usual.
+		Shell still wants to do an interactive; will be Shell-led on site sometime the week of 11/2.
+		Pete out in HOU this week.
+		
+Priced PSE for 107164 and uploaded to TIC Estimating tool with Caimen's assistance.
+
+Out at 1630.
