@@ -1,0 +1,10 @@
+Arrive 0700.
+Attended PL/WGL Meeting:
+	Good discussion wrt Progress Tracking; if there is an element that you will not be doing, set % Complete to 0 and reduce EHTC to 0. Goal should be to establish an accurate EHTC.
+Setup new PO for 107862.300.
+Started reviewing EHTC Forecasting for Project Controls team. Did not get far. Need to talk to Justin for insight on how to plan with dwindling projects. Seems like as the number of projects gets lower, the burden on each increases; how to justify?
+Imported PSE hours into TIC Estimating for 107756.
+Imported TIC Estimate for CN10 on 106152 into APEX. (Thanks Justin!)
+Recompiled monthly reports to pick up late-breaking schedule updates.
+Staged monthly reports for upload.
+Out at 1630.

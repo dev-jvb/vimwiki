@@ -1,0 +1,5 @@
+Arrive 0730.
+
+Reviewed 107483 schedule. Noted that procurement onsites are FF to finish construction with variable lags. Discussed alternative approaches with Paul including: Use one common lag for all; add a "All material on-site" milestone and collect individual on-sites there; switch relationship to FS with Construction start and let end of construction show negative float. Paul to revisit logic.
+
+Out at 13:15.

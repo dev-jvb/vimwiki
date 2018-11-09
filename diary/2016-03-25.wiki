@@ -1,0 +1,8 @@
+2016-03-25
+
+Arrive 0810. 
+Updated Progress Tracker for Cost Engineer. Confirmed with Paul that the final BM IFC for 106888 will be delayed until 31 March. 
+Reviewed client funding for 105478 and 107546 at Geoff's request. 
+Prepared change log for 107258 in anticipation of revision to CN 6.2. not quite done with PSE revisions, so left Change Log Excel file in Change Management folder. The CN may not go out until Monday. 
+Jim finished CN revisions and I published a new Change Log to the Change Management Folder. 
+Out at 1210.

@@ -3,8 +3,8 @@
 = Determine Jobs with Hours during the prior month = =
 In Reporting:
 	Actual Hours tab
-	Favorite: Shell Monhtly Report List
-	Copy to Shell PSR_Monthly Report List (MM yyyy).xlsx, Job check tab
+	Favorite: Shell Monthly Report List
+	Cost Report 
 
 = For Each Active Job =
 * 01_[ClientJobNumber]-[AnvilJobNumber]_Cost Forecast Summary_[mmddyy]

@@ -1,0 +1,19 @@
+2015-12-15
+
+Arrive 0800. 
+Processed increased POs for 104609.196 and 104609.198. 
+Processed new PO for 106212.100. 
+Updated ShellPSR Dashboard. 
+Re-opened 107400 P4 per Harv request (updated PO received.) 
+Prepared weekly report components. 
+Entered elements into PSE for 107431 P4-7 Estimate. 
+Unable to login to Shell Supplier portal. Same issue with "expired password" as occurred on 11/4/2015. 
+Received call from mom; house phone is down; possible modem issue. Need to visit this evening and troubleshoot. 
+Took phone to T-Mobile store. They processed a warranty return ($20 processing fee!) Should receive replacement phone 12/24. 
+Requested GET distribution for Spring 2016. 
+Met with Kevin to discuss WGL Performance Report. Stumbled into a discussion about use of Client Group Code and Service Type. The "Project" Service Type is intended for jobs that have or will have budgets. This is key because Kevin uses this project type to evaluate performance (which can't happen if there is no budget.) For on-site jobs, that do not have budgetable scope, Kevin has asked Aaron to create a new Project Type (Project (Not Budgeted) for these. Need to discuss with Geoff if there are any unforeseen consequences of this. 
+Also discussions the potential need for separating out the Nonene tetramer project (107550) similar to how the BP Rail and Caelus jobs were separated from their parent program. 
+Finally, we discussed the use of LoE projects. Shell program does not earn against these. We are the only program that does not. 
+Prepared Budget portion of monthly KPI report. 
+Logged two Cost Savings. 
+Out at 1630.

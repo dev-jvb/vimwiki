@@ -1,0 +1,13 @@
+2016-01-14
+
+Arrive 0700.
+Talked to Paul about Shell P6 operation. Mouse lag an issue, but more of a nuisance than a functional roadblock. Paul will work through printing pdfs today.
+Assemble and Stage Monthly Reports for upload.
+Attended weekly team meeting for 107483.
+Per John Clair:
+F&G Scope will definitely be split out.
+Shell is re-running the economics to suss the viability of the project.
+John expects to have funding to get to FID (including early procurement) next week.
+John aske dthat we not start P4 work unless necessary to retain staff on the project.
+Alison Hester requested default duration for MR prep from our Shell schedule template. Per Paul, this is 2 weeks.
+Removed Project Procurement Plan from 107165 Monthly Report at Jim Holien&apos;s request.Uploaded monthly reports to SharePoint and send notification email at 1600.Out at 1630.

@@ -1,0 +1,12 @@
+2015-12-01
+
+Arrive 0730. 
+Ran 014, 015, 027 and 031 reports for the week. 
+Sent weekly CN summary to PLs for review. Requested responses by noon. 
+Worked through folder permissions issues on 107433 and 107483 with Rick Wilskey. 
+Ran 030 reports for 106472, 106888, 107049. 
+Reviewed 12 week look ahead. 
+Updated dashboard workbook for WE 11/27. 
+Prepared a CPI workbook for 107416 at Ron Peterson's request. 
+Met with Kevin and Jim Eaton to discuss import of 107433 TIC estiamte into APEX. Continued work with Jim to import and align TIC estimate with existing items in APEX. 
+Out at 1630.

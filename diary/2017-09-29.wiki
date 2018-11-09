@@ -1,0 +1,6 @@
+Arrive 0800.
+Reviewed and revised package IFC dates on 105787 schedule.
+Imported TIC Estimate into APEX for 105787.
+Reviewed CN1 on 108137.
+Added WP2 to schedule for 108237.
+Out at 1530.

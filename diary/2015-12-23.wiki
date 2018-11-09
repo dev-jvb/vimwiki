@@ -1,0 +1,16 @@
+2015-12-23
+
+Arrive 0630.
+Processed new PO 4517703659 for 107670.200.
+Attended weekly program meeting:
+Add PO Issue dates to 12 week look-ahead
+Schedule for 107670?
+107164 - potential delays in treater vessel; VDDR impact to IFCs?
+* Do NOT import estimates into APEX until estimate IFU *
+Allow PLs to validate MR Group assignments and incorporate client comments.
+107554 and 107164 were imported prematurely.
+Merged CN0.2 into 107162 per Howard request.
+Completed outstanding Shell training on SOU.
+Talked to Howard about APEX on 107554. Gerry Thompson entered items (prematurely?) last week. These will be replaced when the estimate is imported. Need to contact Gerry to see what his intent was.
+Confirmed with Jim Eaton that it is not necessary to have MR Groups define din APEX prior to import; only reason to do this is if early procurement is needed.
+Entered early December invoices x6.Loaded PSE into TICe for 107483.Out at 1530

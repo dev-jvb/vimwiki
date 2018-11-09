@@ -1,0 +1,10 @@
+2016-01-13
+
+Arrive 0630. 
+Revised Project Procurement Plans for 107162 & 107433. Updated 028 report for 107433 at Howard's request. 
+Attended weekly PL/WGL meeting. 
+Witnessed Paul successfully login to the Shell P6 environment. Mouse response is alittle sluggish, but it seem workable. Still need to solve the printing problem. 
+Discussed with Justin if there would be any impact to Anvil's internal reporting from P6 due to the Shell schedules being hosted remotely (SAMS, etc.) Justin allowed that there is no significant internal reporting done from P6 that would be impacted. So no worries there. 
+Advised Geoff Latimer of progress on the credentials front. Geoff agreed that it would be wise for Paul and I both to have logins in case of one or the other being temporarily unavailable. Sent email to Jim Rhodes to that effect. 
+Unlocked 107550 P2 OB in PSE at Ron Peterson's request. 
+Out at 1700.

@@ -1,0 +1,7 @@
+Arrive 0700.
+Attended PL/WGL meeting.
+	* Need to check PT on 108130 for Piping; impact of CN03 budget xfers.
+	* Close 107767 per Harv.
+	* Have Paul update 108290 Description on schedules.
+108130 CN03 - Budget reduction elements should be set to 0% complete in PT so they also reduce the EHTC.
+Out at 1630.

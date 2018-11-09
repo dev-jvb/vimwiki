@@ -1,0 +1,9 @@
+2016-02-15
+
+Arrive 0745. 
+Reviewed and approved timesheets for Bennett, Duersch and Hintz. 
+Reviewed Invoice workbook with Tim and revised entries requiring special handling. 
+Emailed Kevin re: invoice flat-file. He pointed me to Damon Gray. Emailed Damon. 
+Conducted first 10@10 with Paul and Tim. Went well. Need to add Paul's dates at Shell to calendar. Also need to get new 015 report parameters and distro to Tim for weekly reporting. 
+Imported January invoices into prototype SQL database. Experimented with different queries to get list of POs with negative balances. 
+Out at 1645.

@@ -1,6 +1,7 @@
-= Report Contents =
+= Quarterly Report =
+== Report Contents ==
 
-* [X] 01_Quarterly Report Cover 3Q 2015.pdf
+* [ ] 01_Quarterly Report Cover 3Q 2015.pdf
 * [ ] 02_2Q 2015 Review Meeting Agenda.pdf
 * [ ] 03_Anvil Corp Safety Statistics_06-2015.pdf
 * [ ] 04_2Q 2015 KPI_part 1 of 4 (Fee Scorecard).pdf
@@ -19,7 +20,7 @@
 * [ ] APPROVED - 2Q15 Quarterly Report Results Summary Sign Off Sheet.pdf
 * [ ] Shell PSR Quarterly Business Performance Review - 2Q15 Rev. 1.pdf
 
-= SHELL PSR – Quarterly Report updating =
+== SHELL PSR – Quarterly Report updating ==
 
 All related files are located in folders at this file path:  S:\SHELLPSR\GENERAL\PMC\PC\Quarterly Reports (Shell PSR)
 
@@ -27,7 +28,7 @@ Send Client Surveys (about 1-2 wks. before end of quarter) *P3, P4, P5 (do not s
 
 	* Input needed from external sources (email requests):
 		* Request the latest Schedule KPI dump file from Gretta Stribling (P6 data)
-		* 	Request the latest Shell PSR KPI Report from Latimer (comes from Diane Berhow) – you only need the Anvil data from the ‘PIA Score’ tab on their report.
+		* Request the latest Shell PSR KPI Report from Latimer (comes from Diane Berhow) – you only need the Anvil data from the ‘PIA Score’ tab on their report.
 		* Request which jobs need IPA Cost Summaries (from Diane Berhow) – these are jobs which receive full FID funding in the subject quarter.  See my email from last quarter, you might just forward this email to Diane so she knows what you’re asking for:  S:\SHELLPSR\GENERAL\PMC\PC\Quarterly Reports (Shell PSR)\2014 Reports\IPA Cost Summaries\Emails
 		* Obtain latest LE Update file from Jim Holien (from Kerian Bevan or Carole Gillis)
 		* Request Cost Savings Log file from Heather Calvin

@@ -1,0 +1,15 @@
+2015-12-09
+
+Arrive 0645. 
+Attend weekly program meeting. 
+Per Jim Holine request, unlocked CN10.1 in 107164; deleted associated elements from Progress Tracker, created a new CN11 and copied Piping elements from CN10.1 into CN11; renamed CN10.1 to CN10.2. 
+Dicsussed needs/desired for a Schedule Update View in APEX with Paul. He would like to see one line per MR with the 13 key steps (as listed on the IPDMS Exception Report.) 
+Met with Kevin and Jim Eaton to discuss APEX views. 
+Prepared job cost summaries for monthly reports. 
+Transferred hours on 107225 per Harv direction and Greg Boerner direction. Closed SJ400 for Electrical per Harv. 
+Closed 107225 P3 per discussion with Harv. Progressed all P3 Project Controls elements to 100%. 
+Re-opened 107225.400 for Electrical at Harv's request. 
+Prepared PPP and PSR monthly reports. 
+Setup 102621.791 for 2016 PEI Drafting per Geoff request. Also setup new PO (4517577731) for same. 
+Prepared and sent November Capital Projects Onsite Hours for November to Heather Calvin. 
+Out at 1630.

@@ -1,0 +1,21 @@
+Arrive 0730.
+
+Imported TIC Estimate into APEX for 107162. Per Howard, MR Groups are set in TICE.
+
+Documented my understanding of high-level TICe/APEX workflow to Kevin.
+
+At Harv's requested, opened 107225.300 to charges for all groups.
+
+Vanessa Gray is working on filling in missing account codes in 107164 estimate.
+
+Attended Merrill Lynch presentation on retirement plans.
+
+Talked to Jim Holien about rate and pricing on 107164. Settled on 283k for P4-7. I updated the APP cover letter.
+
+Talked to Alison Hester re MR creation in APEX. After importing the TIC Estimate into APEX, one must create a new MR for each MR Group. (The disciplines should do this as they need to provide need dates, lead times, etc.)
+
+Discussed 107483 with Paul Duersch. Sounds like the client is pushing us to roll right into P4 to save time. Driving to an April 1construction start; really a pinch with Procurement.
+
+Howard noted that freight line items (and itme swiht no MR Group assigned.) were imported into APEX.
+
+

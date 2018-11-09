@@ -1,0 +1,25 @@
+2016-05-04
+
+Arrive 0645. 
+Attend weekly PL/WGL meeting. 
+  CN Summary Comments: 
+      Relabel 107258 CN7 
+      New CN for 107258 
+      Move 106888 CN 11.1 to 11.2 in Development 
+  Discussed new factored estimating process. Key feedback: 
+          PLs to approve P5 and 7 factored hours; also able to make adjustmenst for "special circumstances." 
+      When published ot PT, set P5 Tracking mode to LoE Duration using dates from schedule. 
+  New Estimating Guidelines: 
+          Contingency: 
+        TIC < $1MM, use 10% 
+        TIC > $1MM, use Monte Carlo 
+      MTO Allowances: 
+        P2/3, use 2.5% for Equipment, 5% for all else. 
+      Owner's Cost, Use 9% 
+      Owner's Construction Management, use 4% 
+      Escalation, use 2.5% 
+Prepared and issued Eng and Onsite Hours report for April. 
+SUbmitted to breath, saliva and hair drug testing for SPSR. 
+Prepared and issued Capital Project Onsite Hours for April. 
+Paid Collin's rent ($250). 
+Out at 1630.

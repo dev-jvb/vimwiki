@@ -1,0 +1,12 @@
+Arrive 0715.
+Attended PL/WGL meeting:
+	Discussion wrt GES work:
+		Considering using GES on 107986.
+		- How does this bill out?
+		- How do we set up elements in PSE to ID as GES?
+		- 	Separate sub-jobs?
+		- How do we progress GES elements?
+	Smart Cards - Have to be updated when machines are upgraded to Win 10. Does this impact Paul?
+Re-ran and re-issued 015 and 027 reports after multiple emails of issues and inconsistencies. Found that Danielle's reporting favorites had inexplicably dropped their Client Category criteria.
+Issued January/February KPI report to Justin and Walter.
+Out at 1400 for dental appointment.

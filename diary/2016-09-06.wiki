@@ -1,0 +1,11 @@
+Arrive 0730.
+Update Desk Reference to incluse Monthly SAM Import/Update procesdure per Justin Allyne.
+Updated SPSR Change Notice Summary.
+Prepared weekly reports.
+Closed 107756 P2 and P3 at Harv's direction.
+Prepared CN10 for 105483. Not too unwieldy; a few issues with the form not picking up the right values in VLOOKUPS. Need to document and send to Kevin or resolve myself.
+Discussed PC manpower concerns with Geoff. He suggest discussing contingency plans for personnel reassignments with Kevin. He would be inclined to keep Paul and I on Shell as Angie has the depth and experience to easily transition to another program if necessary.
+Requested meeting with Kevin to discuss SPSR PC manpower.
+Met with Kevin. BP program is on the rise and may have a need for Angie in coming weeks.
+Issued weekly reports to Shell. Had to re-issue the 031 as it was generated with the incorrect criteria.
+Out at 1630.

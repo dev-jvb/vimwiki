@@ -1,0 +1,16 @@
+2015-11-20
+
+Arrive 0830. 
+Updated Client Funding for 107185 to reflect funding for CN4 (+$59500) 
+Processed PO increase requests. 
+Generated an 022 report for 107185 reflecting the increased funding. Emailed to Geoff and Jeff. 
+Revised Client PL on 102698.258 to Mark Boger per Mark Boger email. 
+Processed approved CN4 on 107431 for TIC Estimate schedule change. Updated Shell CN Summary and PSE. 
+Prepared reports for 107185 reviewing funding position. 
+Opened 102698.272 for Process at request of Matt Hula. 
+Merge P4-7 PSE into Progress Tracker for 107258 per Jim Holien direction. 
+Assigned Brian Schneider as Electrical Engineer tracker for 107258 and Matt Tedder for Electrical Designer. 
+Discussed PRINT$ proposal with Geoff and Paul. Submitted schedule resource loading was heavily front-loaded which is counter to reality. Something to be aware of in future efforts. 
+Entered 107225.300 invoice against 107225.400 PO per direction from Mark Boger. 
+Angie reported that ACE is not starting up. Verified. Kevin suggested contacting Erik Eklund. Erik not available. 
+Out at 1500.

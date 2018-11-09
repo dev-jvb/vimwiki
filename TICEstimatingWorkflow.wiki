@@ -1,0 +1,27 @@
+= TIC Estimating/APEX Workflow =
+
+1. Engineering disciplines prepare their project services estimate in the PSE Tool and procured equipment in APEX.
+
+2. Estimators prepare the Field Cost estimate in the TIC Estimating Tool.
+
+3. When ready, the Cost Engineer imports the PSE into the TIC Estimating Tool.
+
+4. Prior to IFR, the estimate is locked (CLOSED) in the TIC Estimating Tool.
+
+5. The estimate goes IFR to the client.
+
+6. If revisions are needed, a new estimate REVISION is created in the TIC Estimating Tool.
+
+7. Revisions are incorporated into the newly-created revision.
+
+8. Cost Engineer verifies that MR Groups are assigned; (disciplines own this, Cost Engineer just verifies that they are there.)
+
+9. Prior to IFA , the revised estimate is locked (CLOSED) in the TIC Estimating Tool.
+
+10. The estimate goes IFA to the client.
+
+11. Cost Engineer PUBLISHES the estimate to APEX.
+
+12. Revisions after IFA are via Change Management Process.
+
+Once imported into APEX, the disciplines must create a new MR for each MR Group to establish need-by dates.

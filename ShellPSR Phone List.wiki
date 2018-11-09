@@ -9,6 +9,8 @@
 | Eaton            | 3606         |
 | Emplit           | 3635         |
 | Formway          | 3364         |
+| Gray, Vanessa    | 360-299-0166 |
+| Hester           | 3338         |
 | Hintz            | 3614         |
 | Holein           | 3535         |
 | Latimer          | 3420         |
@@ -18,7 +20,11 @@
 | Martin, Danielle | 3527         |
 | Martin, Dena     | 360-293-1723 |
 | Peterson         | 3814         |
-| Stribling        | 3819         |
+| Rockwell, A      | 3311         |
+| Shoemaker, M     | 3496         |
+| Stiles, J        | 360-739-6437 |
+| Thompson, D      | 3741         |
+| Walker, S        | 3352         |
 | Wazny            | 3786         |
 | Wong             | 2131         |
-|                  |              |
+| Zehner, D        | 3620         |

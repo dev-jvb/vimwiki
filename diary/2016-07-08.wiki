@@ -1,0 +1,7 @@
+Arrive 0745.
+Reviewed Shell Resource forecast.
+Re-ran Progress Tracker Audit. Big improvement. Only two elements missing Tracker Assignments. (Both on 107225 and s/b Harv.)
+Geoff asked: Can we identify Tracker elements assigned to non-active employees? Tried comparing to Reporting and The Telephone Directory. Employee names are different in Reporting and TD from what is in PT. Example, Roosendaal, Joel in PT is Roosendaal, Joel S. in Reporting and TD. So simple match. Sent email to Kevin about Employee Name Consistency.
+Issued Monthly IFC Report.
+Prepared personal timesheet.
+Out at 1215.

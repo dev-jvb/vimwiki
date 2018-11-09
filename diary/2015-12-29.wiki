@@ -1,0 +1,13 @@
+2015-12-29
+
+Arrive 0645. 
+Setup folders for December monthly reports. 
+Ran 030 reports and quarter end 014 report. 
+Prepared weekly report components. 
+Discussed CFM issue on 107433 with Howard. His take is that the estimators took a shortcut byupdating the workbook and not updating TICe. Talked to Kevin about this so that he is aware and communicates to estimators the importance of working in the tool. 
+Updated data ID 67222 in TICe to include CFM or $4403 to match issued workbook. 
+Upon receommendation from Kevin, used Escalation & Contingency to balance APEX with issued estimate on 107433. 
+Per Angie, no change to TES CN Summary in the last week. Issued last week's file to the internal distribution. 
+Issued weekly reports. 
+Issued 12 week LA. 
+Out at 163

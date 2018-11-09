@@ -1,0 +1,15 @@
+2016-05-03
+
+Arrive 0730. 
+Updated dashboard. Gave Ron a head's up that 107564 has exceeded its P3 funding. He mentioned that the client has balked at the estimate and that the job my get put on hold. Client may want to consolidate multiple PLC replacement projects to gain economy of scale. More to come. 
+Updated S-Curves. Noted some P3 Piping Designer charges from last week. Discussed with Angie, who discussed with Brent and Dean. Concluded that we should move the hours to P2 as that is what the work was and that is where the funding is.Angie to execute the transfer. 
+Explored "enhanced" SUS portal. 
+Reviewed 107550 P3 Resource spreads from schedule. 
+Transferred 4 hours from 106503.200 to 106502.300 per Geoff Latimer direction. We are skipping P2 and writing the APP for P3. 
+Attended schedule review meeting for 107550. 
+  Seems like we are too quick to lock into focus on dates before getting the logic and durations set; then the dates fall where they fall and you adjust as needed. 
+  Start from known contraints, then fill in what needs to happen to get there. "Big rocks first." 
+  How can we get the schedule to carry as much authority as an engineering specification? The schedule seems to be treated very casually whil eengineering contraints are strictly respected. "The schedule is close enough, we'll tweak it as we go." - you don't tweak and engineering spec as you go. Why do you gget to do so with the schedule? 
+Opened CN 1 for 107746 to capture P4 PSE. This will be first to use the "factored" estimating concept for P5 and 7. 
+Printed copies of 014 report for morning meeting. 
+Out at 1645.

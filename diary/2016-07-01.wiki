@@ -1,0 +1,17 @@
+2016-07-01
+
+Arrive 0800. 
+Revised client funding on 107164 to move unused P4 funding to P5 at Jim's direction. 
+    Funding was: 
+        P4  252522+111600 
+        P5  20165 
+        P7  10313 
+    Funding is: 
+        P4  155000+111600 
+        P5  117687 
+        P7  10313 
+Revised client funding on 107165 to allocate to P4, P5, and P7 per the APP. 
+Published CN8.1 for 105483 to Progress Tracker. 
+Paid Comcast bill. 
+Setup folders for Q2 Quarterly Report. 
+Out at 1400.

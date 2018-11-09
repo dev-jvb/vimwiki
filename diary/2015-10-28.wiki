@@ -1,0 +1,34 @@
+Arrive 0630.
+
+Attended weekly team meeting:
+	Ron Peterson has multiple CNs in development.
+		* [X] 105786 CN18
+		* [X] 106888, CN9 and CN10
+		* [X] 107049 CN5
+	Update Tesoro Logistics CN Summary:
+		* [X] Delete CN for 107226
+		* [X] CN 9.1 Verbally approved
+	Assing Ron Peterson as Anvil PL on:
+		* [X] 105786
+		* [X] 106342
+		* [X] 106696
+		* [X] 107545
+		* [X] 107546
+
+Responded to Dena Martin re 107609 missing subjob title on 027 report. Corrected sub job title in ACE.
+
+Worked with Kevin to further align TICE with issued estimate for 107164. Developed beginnings of work flow diagram.
+
+Prepped and sent file to Pete Allred with assigned Shell Account Codes.
+
+Imported PSE estimate into TICE for 107162. Entered non-labor 
+
+Imported PSE estimate into TICE for 107225. Used budget for P3.
+
+Processed new PO for 107164 Execute Engineering.
+
+Attended monthly Project Control Department Safety Meeting.
+
+Setup 104609.133.
+
+Out at 1700.

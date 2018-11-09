@@ -1,0 +1,10 @@
+Arrive 0630.
+Attended weekly PL/WGL meeting.
+Loaded OB for 108702 P3.
+Set P5 elements in PT to LOE Actual/Budget per Geoff's request.
+Set 108722 SJ200 EHTC type to Booked to get it to show on the 014 report.
+Substituted Jim Shipley for Tony Ma in PT.
+Published 107926 CN06 to PT.
+Published 107899 CN04 to PT.
+Priced P2 OB for 108722.
+Out at 1630.

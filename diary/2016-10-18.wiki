@@ -1,0 +1,9 @@
+Arrive 0745.
+Prepared weekly reporting package and issued internally for review.
+Met with Geoff to discuss October Funding Review. Concluded that it is appropriate to re-allocate funding from P5 and P7 to cover P4 EAC if possible. This is sensible in that Shell does not distinguish between P4, 5 and 7 and only looks at the PO amount. we would not look for a PO increase if we run over in P4 and the overage can be covered by the PO. Se would no thav eexceeded our funding.
+Geoff inquired about when I might start looking at the Shell dashboard request. I advised that it was in the 3 week range. Geoff is also looking at data regarding the progrma demographics wrt experience level and cost. He may need some support in this effort.
+Re-allocated funding on 107049 to have P4 funding cover P4 EAC.
+Prepared monthly KPI report and submitted to Geoff for review.
+Issued weekly reports to external distro.
+Reported issue with Change Log doubling up Anvil Services to Aaron. Worked with Aaron to troubleshoot the issue.
+Out at 1700.

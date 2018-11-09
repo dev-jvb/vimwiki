@@ -1,0 +1,17 @@
+Arrive 0745.
+Reviewed funding for projects with funding variances:
+	106152.P3 - OB ($318k) was not fully funded ($275k)
+	106152.P4 - Not yet funded. Per Harv, it will go to screening committee on 9/19.
+	106472.P7 - Not yet funded; P4 OB ($1467k) was not fully funded ($1281k)
+	106888.P5 - OB ($97.977k) was not fully funded ($54k)
+	107049.P4 - CB fully funded, actuals overage; will need explanation.
+	107049.P5 - OB ($79k) not funded.
+	107225.P5 - Bill to P4 PO; adjusted funding distribution to fund P5 and P7.
+	107258.P5 - Redistributed funding to fund P5 and P7 OBs.
+	107433.P5 - Redistributed funding to fund P5 and P7 OBs.
+	107756.P2 - OB ($112k) was not fully funded ($100k)
+
+106152 - Discussed with Harv the need for potential rate-like Trend to document expected overtime to complete project on accelerated schedule. Need to figure out how to implement.
+107756 - At Harv's direction, transferred all P3 hours to P4.
+Paid Chase/Amazon bill; confirmation 2758155755.
+Out at 1600.

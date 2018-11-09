@@ -1,0 +1,8 @@
+2016-03-04
+
+Arrive 0815. 
+Added hours to EHTC Forecasting version on 106503 per Derek Thompson request. 
+Opened 105634.510 Charge Elements for Control Systems Engineer per Jeff Wong request. 
+Reviewed invoice flat file from Business Services and updated Client Funding for missing POs. Notified Hannah Neubuck and she will have Mary re-sync and re-run the invoices to pick up the changes. 
+Assisted Tim in pricing APP for 107670. Looking up rates for specific personnel, etc. 
+Out at 1200.

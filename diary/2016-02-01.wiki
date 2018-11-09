@@ -1,0 +1,11 @@
+2016-02-01
+
+Arrive 0730. 
+Updated Progress Tracking for 107162 and 107163. 
+Timesheets approved from home last night. 
+Plan for Tim: 
+  - Support Angie in producing the ShellPSR Resource Forecast. 
+Revised client Funding for 107165 to set SJ300 funding to actual and rolled remaining funding over to SJ400. 
+Revised Client Funding for 107258 to reflect amount of P4 work invoiced against the P3 PO. This amount counts as P4 funding and so adds to the P4 PO amount. This is the work-around for maintaining the client funding alignment with the sub jobs when billing is split. It is necessary to re-align this as we go when the work gets split. 
+Opened 107431 P4 and published PSE to PT at Harv's request. Expect P3 to close at the end of this week. 
+Out at 1630.

@@ -1,0 +1,11 @@
+2016-04-06
+
+Arrive 0745. 
+Attended weekly WGL meeting. 
+Changed Procurement status in ACE on 107483 from Open to On Hold. 
+Prepared and Issued Eng & Onsite Hours report for March. 
+Prepared and issued Onsite Capital Project Hours report for March. 
+Imported TIC Estimate into APEX for 105478. Attempted to verify totals. Ther eis a mismatch with the CraftSupport Labor and Temp Facilities. While trying to identify the issue, found that I am unable to clear the criteria for TIC Category in the search pane of the APEX application. Contacted Erik Eklund (in Aaron's absence) to see if he could clear. He is troubleshooting the issue. 
+Above issued resolved. Now have a discrepancy in the Craft Support Labor line between what is in TIC Estimating/APEX and what was issued. 
+I’ve traced the Craft Support Labor issue to a discrepancy in the labor rate. The rate on what was issued is $47.53. The rate in the TIC Estimating tool is $63.81. Manually updated APEX to reflect lower rate. 
+Out at 1630.

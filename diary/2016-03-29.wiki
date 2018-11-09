@@ -1,0 +1,9 @@
+2016-03-29
+
+Arrive 0800. 
+Researched POs for 107136.400 and .510 for Geoff. Each sub job has a separate PO. 
+Updated Shell CN Summary to include 107225 CN7 as In Development. 
+Prepared and issued Estimated accrual report for March. 
+Published 107483 Trend CN and refresehd reporting snapshot. Asked Tim to re-run 014 report. 
+Worked request from Harv/Mark Boger for Procurement data on 107430 and 107431. 
+Struggled with APEX to identify the two components added by CN2. They each need to have a new MR created to populate the date fields. Sent Aaron Rockwell a note asking why the existing data does not flow into the PPP. I hate APEX; and I am not alone. I believ ethat it will fail as a tool because it is so ungainly and difficult to use with any efficiency. Perhaps it does too much and needs to be scaled back or split into multiple, more-focused tools. It just shouldn't be so damn difficult to use and understand.

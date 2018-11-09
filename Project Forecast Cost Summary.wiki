@@ -2,3 +2,8 @@
 Part of the Monthly reporting package.
 
 Prepare AFTER receiving the updated LE file from the client:
+* In the LE file, group or hide columns O through BN, BO through DI, and DT through DV.
+* In a second instance of Excel, open the Summary Cost Report and enter the values as follows:
+		* Shell Funding Expense Total = DL
+		* Shell SAP to Date = DR
+		* Shell Forecast = DZ

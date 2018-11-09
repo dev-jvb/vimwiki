@@ -1,0 +1,6 @@
+Arrive 0730.
+Talked to Jim about Procurement On-Site KPI. We _should_ be comparing the MR Required On-Site date with the Actual On-Site date; _not_ the Forecast vs Actual. Re-pulled data and it makes more sense now. There is an open question about prior quarters performance though as the var was measured differently.
+Setup 102698.314 to capture 106215 closeout costs to new PO 4520403531.
+Continued work on Q3 report. Still waiting for surveys to come back. Geoff's poll of client PLs indicates that they were sent back; so they appear to be stuck on our end somewhere. Angie is in contact with Erik Eklund to see what's up.
+Discussion with Dena regarding "overrun" on 107756. Part of the issue is $18.5k of Select phase charges going against the Execute PO. This, combined with an $11k forecast overrun led her to see a $29k potential overrun. Situation will need to continue to be monitored.
+Out at 1630.

@@ -1,0 +1,10 @@
+Arrive 0800.
+Traded emails with Kevin wrt MR Budget Total vs. TIC Budget Total Cost. Looks like the MR Budget Total is using the incorrect value. It is using the TIC Budget Cost and should be using the TIC Budget Total Cost. Seems like the similar filed names are causing some confusion.
+Call from Dena. Expect a revised PO for 105483 CN8.1. Also expect a new PO for Owner's cost. (Will need a new SJ under 102698.)
+Paul demonstrated P6 login process. Documented credentials in encrypted Evernote.
+Added Estimator hours to PSE for 107885.
+Requested Q2 Safety Stats from Eric Peterson.
+Updated 2Q 2016 KPI Scorecard (partially.)
+Work on update to TICe for 106960 at Jim Holien's request.
+Received latest safety statistics from Eric Peterson. We had one First Aid incident at Shell in April Asked Geoff how we should report this.
+Out at 1645.

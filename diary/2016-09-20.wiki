@@ -1,0 +1,9 @@
+Arrive 0800.
+Spoke with Dena about Select phase charges on 107756. She i ssaying tha the Execut ePO will need to cover the Select phase invoice for ~18k. Need to remmeber this if/when we need an increase on the Execute PO.
+Spoke with Pete Allred about cost savings. After discussion we agreed that the Schedule Integration effor tis yielding 2 hours/month per project. Assuming 20 projects each month, this is 480 hours/year @ $100/hour or $48000/year.
+Savings on the estimating side are estimated at 30 hours/month. This is 360 hours/year or $36000.
+Published 107430 CN3 to Progress Tracker.
+Closed 106152 P3 to all groups except Process and Control Systems.
+Published 107756 tp Progress Tracker.canoe
+Prepared and issued weekly reports.
+Out at 1600; feeling poorly.

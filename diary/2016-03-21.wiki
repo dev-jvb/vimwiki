@@ -1,0 +1,10 @@
+2016-03-21
+
+Arrive 0800. 
+Closed 105879 P5 (earned all remaining budget; 655.75 hours) Opened P7 at Howard's request. 
+Merged P4-7 budget into Progress Tracker at Jim Holien's request. 
+Prepared Change Log for 107049 CN7. 
+Setup new subjob 104239.504 for 2016 CUI Support Erik Schoen. 
+Reworked cost savings to address incorporation of Shell checklist into Anvil estimate workbook. 
+Preared list of projects with activ ephases where Client Funding < Original Budget for Howard. 
+Out at 1645.

@@ -1,0 +1,4 @@
+Arrive 0745.
+Added electrical panel line item to APEX for 107767 per Harv request.
+Prepared CN docs for 107926 CN3.
+Out at noon.

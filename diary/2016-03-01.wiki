@@ -1,0 +1,10 @@
+2016-03-01
+
+Arrive 0800. 
+Reviewed and approved 107554 CN2 (Schedule change.) 
+Prepared monthly report list workbook for February reports. 
+Reviewed weekly reports as prepared by Tim. 
+Prepared and Issued Estimated Engineering and Onsite Report. 
+Prepared Change Log for 107554. 
+Discussed special request with Jim Holien; calculate average pipe diameter from MTOs by BM for Francesco. Worked on adding columns to the by BOD breakdown workbook to show average pipe diameters. It's manual, so if the MTOs change, it will have to be updated. 
+Out at 1630.

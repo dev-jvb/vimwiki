@@ -1,0 +1,4 @@
+Arrive 0800.
+Input remaining invoices.
+Approved timesheet.
+Out at 1230.

@@ -1,0 +1,11 @@
+Arrive 0700.
+Attend PL/WGL meeting.
+Saved Rev 0 version of PSE for 108597 at Geoff's request. Unlocked Official Version for changes (Rev 1)
+Research Tech Writer charges to 102698.339 at Dena's request.
+Setup up CN4 for P4-7 PSE entry on 107986.
+Processed increased PO for 102698.339.
+Processed new PO for 108326.400.
+Processed increased PO for 104609.308.
+Imported January invoices into invoice database.
+Out at 1630.
+

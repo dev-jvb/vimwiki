@@ -1,0 +1,10 @@
+2016-03-15
+
+Arrive 0800. 
+Transferred Chris Bochert hour from WE 3/11 from 105478 to 102698.212 per Howard Leung and MAtt Hula email. 
+Prepared KPI report and issued to Geoff Latimer for review. 
+Adjusted duration-based Project Controls hours for 105787 CN0 per Ron Peterson email. 
+Picked up comments from Geoff Latimer on KPI Report. 
+Began invoice entry. Stopped when portal inexplicable stopped displaying catalog entries. Restarting the portal got it work once; but then it failed again. 
+Created folder for 106503. Had to use CJPS to create folder structure. Not sure why this function was not included in ACE. 
+Out at 1630.

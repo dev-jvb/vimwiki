@@ -1,0 +1,5 @@
+Arrive 0700.
+Attended WGL and PL meeting. Geoff drove home need for good tracking (again.)
+Demo'd weekly report process with Danielle. Her Reporting Budget Hours tab has additional columns (PO Number, WO Number and others) showing that do not show on mine with the same criteria. Per Aaron Rockwell, it shouldn't be a permissions issue. He is investigating. Need to uncheck both checkboxes for Client Charge criteria.
+Processed POs on SUS portal.
+Out at 1430.

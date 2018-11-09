@@ -1,0 +1,7 @@
+Arrive 0700.
+Attended weekly PL/WGL meeting.
+Reviewed new CPI report with PLs. Suggested adding a filter for Active Phases/SubJObs.
+Look into idea to report EHTC vs Distributed hours from EHTC Forecasting for WGs. (BP/Jeff Jacobi do this.)
+Changed Client PL to Nick Fuhr (from Mark Boger) on 108052.
+Copied Electrical's P3 PSE from CN21 to CN23 on 108229. This was done at Marty Olson's request. Electrical Estiamted their P3 scope and will now trim back for the Bridge Funding Proposal.
+Out at 1630.

@@ -1,0 +1,13 @@
+2016-05-02
+
+Arrive 0730. 
+Approved timesheets for Bennett, Duesrsch, and Hintz. 
+Ref Bennett timesheet, after consulting wtih Kevin, determine dthat Tim shoul dcharge 10 hours vacation, 11 hours sick leave, 0.5 hours to CH2 Training charge line and he will use his floating holiday and request 1 day off w/o pay OR request 2 days off w/o pay. This, combined with the 2.5 hours of billable should get him to 40 for last week. 
+Updated Progress Tracking. 
+Published 106152 CN7.2 to PT as it was transmitted. 
+Imported and validated TIC Estimate for 105483 into APEX. Had to sort out existing MRs/POs. Per Jimmy O'Conner, there was a PSV in EBS that was deleted. It is still in the estimate, but I deleted it from APEX. Otherwise, APEX aligns with TIC Estimating. 
+Sent reminder to PLs to update project narratives for Shell projects. 
+Went to Dr. Hawkins. Pretty confident that it is an infection. Prescribed antibiotics. 
+Paid People's Bank. Picked up prescription. 
+Kicked around ideas for large budget, long duration effort tracking (large model dev) with Tim and Angie. Tim mentioned that he has seen line lists used as a statusing tool. This is an interesting idea, but, I foresee resistance. Need to show a clear benefit to making the extra effort. 
+Out at 1730.

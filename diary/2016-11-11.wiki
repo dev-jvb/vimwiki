@@ -1,0 +1,6 @@
+Arrive 0815.
+TIL: In Client Funding, it is possible to set a different CCN in the grid than in the CCN dialog. ACE only uses the one form the CCN dialog. So you can have one CCN shown in the grid while another is the "Active" CCN for the subjob. This seems confusing to me.
+Made minor corrections to Howard's monthly reports for October.
+Set up PO for 102698.318.
+Reworked Cost Summary Report workbook to accommodate changed to the LE Update file. Re-ran Cost Summary Reports for October. Re-assembled October Monthly Reports.
+Out at 1215.

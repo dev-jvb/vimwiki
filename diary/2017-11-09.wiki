@@ -1,0 +1,7 @@
+Arrive 0800.
+Added TIC elements to CN7 for 108143.
+Added TIC elements to CN3 for 108062.
+Prepared docs for 108062 CN3.
+Prepared docs for 108143 CN7.
+Out at 1630.
+

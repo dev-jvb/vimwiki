@@ -1,0 +1,7 @@
+2016-04-12
+
+Arrive 0800. 
+Processed approved PO for 105786. 
+Imported March invoices into database. 
+Updated S-Curves. 
+Out at 1630.

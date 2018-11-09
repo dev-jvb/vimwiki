@@ -1,0 +1,8 @@
+Arrive 0800.
+Setup PO 4526720812.
+Setup internal transfer 0.1 on 108137 to move field tie-in activities to P5 per Harv direction.
+Updated 108702 Tracking with Rev 2 PSE budgets.
+Setup 104239.565 and sent to Vaughn Thomas and James Bough per Geoff.
+Updated monthly report workbook to point to 10-2018 LE Update file.
+Updated Eng % of TIC file to point to 10-2018 LE Update file.
+OUt at 1300.

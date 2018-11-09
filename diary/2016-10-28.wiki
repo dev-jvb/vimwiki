@@ -1,0 +1,10 @@
+Arrive 0745.
+Worked on 107756 CN5.
+Met with Kevin and Aaron to discuss Change Log revisions.
+	- Remove Misc. Costs Total calculation from existing 204 report.
+	- New cat/subcat mapping for TEA (600/29) and to column AD.
+	- Create new version of Change Log that pulls Anvile Services data from APEX instead of PSE.
+		- Map Anvil hours to APEX Direct Hours field.
+		- Publish Anvil hours/dollars by phase to the Anvil Project Services columns using cat/subcat 500/50.x where x is the Phase number.
+Discussed change management ideas with Geoff. Could/should we use MTO allowance to budget incidental small purchases? Do we need a CN to add even the smallest scope? How much of this is a result of KEMs and the ability of the tools to provide more visibility of change.
+Out at 1230.

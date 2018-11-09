@@ -1,0 +1,16 @@
+2016-04-27
+
+Arrive 0645, 
+Attended weekly PL/WGL meeting. 
+  * Going forward, P3 TIC estimates to meet following guidance (per Tim Bennett's data analysis): 
+    * P5 = 4.5% P4 
+    * P7 = 0.65% P4 
+  * Disciplines will no longer directly estimate P5 and P7; these will be factored as above and modelled similar to Prospective work for discipline distribution. 
+Setup POs for 107842 and 107843. 
+Reviewed Eng % of TIC report; noted a few ommissions from the Q1 report. Made notes in DRAFT Q2 workbook. 
+Thought through request from Geoff to recast Eng % of TIC using zero EHTC. Concern is that we are overstating our EHTC and thus our EAC which may be skewing the % TIC number. 
+Started setup of Monthly Report file for April. Subject to final adjustments next week. 
+Added 8 hours of Scheduler to CN7.2 on 106152 per Paul. 
+Imported and verified TIC estimate into APEX for 107546. Worked without a hitch! One in a row! 
+Updated P4-7 PSE on 107483. 
+Out at 1630.

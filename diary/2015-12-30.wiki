@@ -1,0 +1,10 @@
+2015-12-30
+
+Arrive 0830. No program meeting today. 
+Published 107164 CN10.2 and 11 to Progress Tracker. 
+Processed revised PO 4517184834 for 107164.400. 
+Installed Galaxy S6 update G920TUVU3DOJ7/G920TTMB3DOJ7/G920TUVU3DOJ7 from T-Mobile. 
+poke with Geoff Latimer re PO for 107483. We are still holding November hours and will soon be holding December hours. Geoff will contact John Clair to see where we stand with getting a PO. 
+Talked to Howard about APEX and the PSR for 107433; items not appearing. After talking to Alison, only those items that have an Anvil MR number and are Owner Equipment will appear on the PSR. As the Electrical Building is a major piece of subcontractor-supplied equipment, I changed the TIC Budget Category to Owner Equipment to get it on the PSR for visibility. 
+Published 105483 CN6.1 to Progress Tracker. 
+Out at 1515.

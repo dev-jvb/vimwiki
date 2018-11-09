@@ -1,0 +1,6 @@
+Arrive 0800.
+Priced and prepared multiple CNs for 108229.
+Prepared Cost Summary reports for monthly reporting packages.
+Updated Monthly Report workbook to reference the LE Update file.
+Updated factoring of PSE for 108130 to account for Harv's revisions. Re-uploaded PSE to TICe.
+Out at 1630.

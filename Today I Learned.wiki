@@ -1,0 +1,2 @@
+Client Funding: It is possible to set a different CCN in the grid than in the CCN dialog. ACE only uses the one form the CCN dialog. So you can have one CCN shown in the grid while another is the "Active" CCN for the subjob. This seems confusing to me.
+2018-05-16 TIL: Voiding a CN removes the BAC, but not the EHTC from PT. Bummer. Hav eto go into PT and verify that elements with 0 BAC also have 0 EHTC. Good times.

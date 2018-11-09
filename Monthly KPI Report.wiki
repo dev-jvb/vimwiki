@@ -13,7 +13,9 @@
 * Paste Budget History data into Budget tab of KPI Workbook.
 * For Schedule Tab of KPI workbook:
 	* Check Transmittal Tool for any IFF/IFCs, TIC Estimates
-	* Schedule dates come from Schedule (Gretta may be able to assist.)
+	* Schedule dates come from Schedule (Paul may be able to assist.)
 * For the Quality tab:
 	* Contact PLs to see if any P&ID Validations occurred and when.
 	* Enter into workbook
+
+* When ready, have Geoff Latimer Review prior to issuing to Justin Allyne and Walter Michelutti.

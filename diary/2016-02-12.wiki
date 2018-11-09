@@ -1,0 +1,9 @@
+2016-02-12
+
+Arrive 0730. 
+Re-assembled monthly reports and staged for upload. Reviewed contents against workbook. 
+Assigned Tim to enter invoices into PO Invoice tracking workbook. Discussed opportunities for process improvement. 
+REviewed client funding and invoiceing history for 106888 (results are here: S:\SHELLPSR\106888\Project Controls\Project Accounting\PO-Invoice Record through 12-2015.xlsx) 
+Met with Geoff and Tim to discuss data mining efforts. Geoff is pleased with work so far. Need to re-pull the data to include only closed phases/sub jobs. Geoff will also review the data to scrub out jobs that may be swinging th e numbers. 
+Uploaded monthly reports to SharePoint. 
+Out at 1200.

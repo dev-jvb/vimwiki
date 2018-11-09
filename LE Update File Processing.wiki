@@ -1,5 +1,9 @@
+= LE Update File Processing =
+
 * Store file in \\bham-eng-data\share\SHELLPSR\GENERAL\PMC\PC\Quarterly Reports (Shell PSR)\2015 Reports\3rd Quarter\Cost
-* LE Update file gets tored in Quarterly Reports folder for current Quarter.
+* LE Update file get stored in Quarterly Reports folder for current Quarter.
 * Use to update monthly Project Cost Summary
 * Also update LE Data tab of the Monthly Report List workbook.
 * Also used to update LE in ACE.
+* Copy to Estimate Data & Charts File as Cost Data (source) tab.
+* Copy tab from Estimate Data & Charts file to KPI Scorecard and Eng % of TIC files.

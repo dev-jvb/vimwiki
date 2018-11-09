@@ -1,0 +1,9 @@
+2016-06-17
+
+Arrive 0745. 
+Prepared timesheet. 
+Worked with Justin to get Piping MTO entered into new PERF for 105483 CN8. Quite the chore; took ~1 hour (and this is a small change.) 
+Was unable to locate the 3 Bellows PSVs in the estimate. Learned from Joel and confirmed with Geoff that the CN is purely additive. The PSVs in quesiton are not in our current scope/estimate. 
+Also discussed the issue of Owner's Cost with Geoff. He noted that we have Process hours in our PSE. The cost of these hours will be moved over to Owner's Cost and will be performed by Shell (Francesco.) 
+Worked on TICe for CN8, adding Retaining Ring costs as provided by Jim Shipley. 
+Out at 1400.

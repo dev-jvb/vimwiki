@@ -1,0 +1,6 @@
+2016-03-09
+
+Arrive 0745. 
+Requested new job number per Jim Holien request. 
+Imported TIC Estimate IT02 for 107430 into APEX per Kevin direction. Also loaded field costs int o TIC Budgeting 1.0 to allow it to appear on CN form and Change Log. 
+Out at 1630

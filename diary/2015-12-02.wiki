@@ -1,0 +1,13 @@
+2015-12-02
+
+Arrive 0645. 
+Attended weekly program WGL meeting. 
+Locked and tracked 107163 CN0.1 per Howard request. 
+Process PO increase for PO 4515833784; JN 104239.495. 
+Process PO increase for PO 4512398277; JN 102698.198. 
+Revised PRINT$ to PRINT for 107550 per Geoff Latimer direction. 
+Continued validation of 107433 TIC estimate. Found what Jim and I think is a miss related to the ~$15k freight on electrical equipment in EBS 2. Found issue with 107433 APEX not matching TIC. In TIC, Data ID #60879, came into APEX with Contractor Labor and Contractor Material but lacking Owner Material cost. Values are in TIC Estimating tool, but did not all import into APEX. I added a line in APEX to capture the Owner Material, then everything came into alignment. 
+Prepared and sent the Monthly Estimated Engineering and Onsite Hours workbook. 
+Discussed multiple on site dates in the schedule vs dates in APEX with Paul. Expect more to come on this after Geoff discusses with Pete Allred. 
+Discussed my attendance at initial schedule interactive/review meetings with Paul. Agreed that 107433 is too far gone and will be released as is. Jim Holien's 107258 project is next up. 
+Out at 1630

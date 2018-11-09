@@ -1,0 +1,7 @@
+Arrive 0715.
+Attended PL/WGL meeting.
+	Review P5 jobs with 0 EHTC and determine if the phase should be closed.
+	Set 107899 P4 EHTC type to Booked to allow WGL to review resource needs in EHTC Forecasting.
+	Set 108130 P3 EHTC type to Booked to allow WGL to review resource needs in EHTC Forecasting.
+	Add SPSR Progrma Calendar to Out of Office events.
+Attended meeting to discuss CNs for 105787. Was able to eliminate 2 that are no longer required.

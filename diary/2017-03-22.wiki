@@ -1,0 +1,5 @@
+Arrive 0800.
+Imported TIC Estimate for 107926 into APEx at Howard's request.
+Setup 102698.327 for Tom Pauly's time on 108062 HTU3 Heater MBT Safety. Transferred his March hours from 104609.301 to 102698.327 to get them onto the correct PO.
+Entered Process activities into "template" project. Exported them to P3 PSE for 107977. Matt Hula unable to see the CN in his Find Tool. Why? Needed to check the Active button in PSE Change Management.
+Out at 1630.

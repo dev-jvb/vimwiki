@@ -1,0 +1,7 @@
+Arrive 0730.
+Updated 108143 PSE for Cost Engineer.
+Updated 108172 PSE for Cost Engineer.
+Entered Cost Engineer P3 PSE for 108237.
+Reviewed and updated PO Balances. Figured out query for PO Balance Check. Found several PO's that did not have originating entries in my database.
+Approved Paul's timesheet and my own.
+Out at 1330.

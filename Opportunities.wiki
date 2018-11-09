@@ -1,0 +1,4 @@
+APEX
+  PSR Report - Use MR Name instead of MR Group in the PSR; more descriptive and relevant. - Jim Holien
+  Can we automatically map the Group Code to the Discipline on the MR? - Jim Holien - Jim Holien
+  Auto create a blank MR for each MR Group? - Jim Holien

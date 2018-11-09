@@ -1,0 +1,11 @@
+Arrive 0700.
+Attended PL/WGL meeting,
+	There is a "dead zone" prior to and following the TA when it may be challenging to get SPSR personnel engagement. Starts 8/25 and extends through the TA. Need to evaluate schedules to spot any potential conflicts.
+Prepared and entered factored budgets for P5 and 7 on 108062. Need Buyer hours to complete.
+Setup 108062 in APEX to allow Harv to create a Project Procurement Plan. Imported PSE into TIC Estimating.
+Reopened P2 for 108130 at Harv's request.
+Setup CN12 for 107258.
+Researched Monte Carlo guidance on TIC > $1MM. Found reference in diary entry for 5/6/16.
+Entered all invoices >$10k at Diane's request.
+Uploaded monthly reports, committed cost report and dashboard report to SharePoint.
+Out at 1630.

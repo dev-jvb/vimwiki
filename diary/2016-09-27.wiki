@@ -1,0 +1,23 @@
+Arrive 0800.
+Prepared weekly reports.
+Setup PO for 104609.142.
+Entered invoice 196806.
+Transferred hours for Rick St. James from 107225.500 to 107225.400 at Harv's request.
+Primavera login sequence:
+After connecting to Shell network:
+	Login into PCAD portal: https://pcad-portal-logon-am.shell.com/InPCAD/auth/login.aspx
+		Username: paul.duersch@americas.shell.com
+		Password:246810+token 184-3 code
+	Click on PCD POrtal V2-13 icon (may need to click twice.)
+	Click Agree.
+	In Left menu, expand WASPSR-SOPUS
+	Expand Puget Sound
+	Click on BINZ
+	In right pane, select RDP.
+	Login to PSRBINZ
+		Username: paul.duersch
+		Password: Cougars16-
+	Use Start button to launch P6.
+	Login to P6
+		Password: paul
+Out at 1530. Eye exam at Costco.

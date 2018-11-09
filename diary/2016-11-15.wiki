@@ -1,0 +1,12 @@
+Arrive 0800.
+Prepared weekly reports.
+Worked with Aaron to finish revision to Change Log report.
+Transferred 0.5 hours from 106472.700 to 106152.400 at Harv's direction.
+Transferred 2 hours from 106817.700 to 107049.500 at Harv's direction.
+Closed 106817 at Harv's direction.
+Conference call with Kevin and Pete Allred to discuss Contingency on Change Notices. Guidance is:
+	The inclusion of Contingency in Change Notices is dependent on the impact of the change to the project scope; i.e., Shell’s project scope (the premise.)
+	In the event of a change in the project scope, it is appropriate to include some contingency in the Change Notice. The amount of contingency should be appropriate to the amount of risk in the estimated cost of the change.
+	More commonly, Changes are Trends to the project scope. In these cases, contingency should not be included in the Change Notice. In these cases it may be desirable to include a “rounding” factor to bring the cost of the change to a round number. This “rounding” factor will appear on the Contingency line of the Change Notice and in the Contingency column of the Change Log. Use of a rounding factor is not required.
+Transmitted weekly reports to Shell.
+Out at 1630.

@@ -1,0 +1,6 @@
+Arrive 0800.
+Name change on 104609.215.
+Exported CN4 PSE to CN4.1 on 105478 at Howard's direction.
+Prepared documents for CN4.1.
+Worked on database query to identify invoices that have not yet appeared on an ERS report. These are either "stuck" in GSAP or not yet approved (if > $10k) Working with Diane Berhow to get this dialled in as a monthly check.
+Out at 1645.

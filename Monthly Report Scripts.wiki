@@ -1,0 +1,45 @@
+= Monthly Report Processing Scripts =
+
+== List report folders (to check for all report components.): ==
+MonthlyReportTree.sh [filename] [yyyy-mm]
+where:
+     [filename] is a text file containing the Shell and Anvil job numbers in two columns:
+               107554 02373
+     [yyyy-mm] is the year and month of the reporting period.
+Example: 
+    MonthlyReportTree.sh OctoberJobs.txt 2015-10
+    Will list the contents of the October 2015 Monthly Report folders.
+
+== Assemble the report components into a single PDF: ==
+AssembleMonthlyReport.sh [filename] [yyyy-mm] [month]
+where:
+      [filename] is a text file containing the Shell and Anvil job numbers in two columns:
+           107554 02373
+      [yyyy-mm] is the year and month of the reporting period.
+      [month] is the name of the month to be used in the filename
+Example:
+     AssembleMonthlyReport.sh OctoberJobs.txt 2015-10 October
+     Will concatenate the PDFs in each folder into a single PDF file.
+
+== Stage reports for upload: ==
+Once assembled, stage the reports to a single folder for convenient uploading to SharePoint:
+StageMonthlyReport.sh [filename] [yyyy-mm]
+where:
+       [filename] is a text file containing the Shell and Anvil job numbers in two columns:
+            107554 02373
+       [yyyy-mm] is the year and month of the reporting period.
+Example:
+	StageMonthlyReport.sh OctoberJobs.txt 2015-10
+       Will copy the October 2015 monthly report PDFs to the staging folder (default is 'staged').
+
+== Remove Monthly Reports: ==
+Use if you need to re-compile the reports and want to delete the existing versions.
+RemoveMonthlyReport.sh [filename] [yyyy-mm] [month]
+where:
+      [filename] is a text file containing the Shell and Anvil job numbers in two columns:
+          107554 02373
+      [yyyy-mm] is the year and month of the reporting period.
+      [month] is the name of the month to be used in the filename
+Example:
+      RemoveMonthlyReport.sh OctoberJobs.txt 2015-10 October
+      Will remove the Monthly Report PDF's in each folder.

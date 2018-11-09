@@ -1,0 +1,7 @@
+Arrive 0745.
+Implemented revised ECN form into PSE tool.
+Attended CD project weekly meeting. Expressed concern about loosy-goosy scope for "P2.5" Ruffled Brent a bit and was told that he didn't have answers to clarify the scope nad that we "should stop being such engineers about it." Also stated there would be minimal oversight during the bridge funding period and that most work woul dbe done at the direction of Shell with no specific finsihed delvierables. I'm quite uncomfortable about this.
+108229 Copied Process P2 PSE to P3 CN at Joe's request.
+108229 Copied Equipment Engineer and Piping Engineer P2 PSE to P2.250 and P3 CN at Dennis McGrew's request.
+Played with EHTC Forecasting and PowerQuery to produce FTE forecast charts in Excel. Works, but EHTCF was giving weird values wihen toggling between hours and FTEs. Still needs refining.
+Out at 1630.

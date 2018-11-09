@@ -1,0 +1,11 @@
+Arrive 0715.
+Prepared December KPI report and issued to Geoff for review.
+Setup PO for 2108 IPA Review support, 103234.424.
+APEX REconciliation Issues:
+	Copy-Paste of Tag Numbers between lines does not stick
+	Mapping of PO Line Items > TIC Budget Lines
+	Double entry of PO Line Item Cost on TIC Budget Lines
+Issued December KPI Report.
+Prepared CN06 for 107163.
+Prepared CN04 for 107831.
+Out at 1600.

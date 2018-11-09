@@ -1,0 +1,10 @@
+Arrive 0800.
+Opened P3 on 108273 for Process only.
+Updated project names in ACE to contain Shell project IDs for 03322 and 03393.
+Entered PC hours and priced PSE for 108172 P3.
+Closed P5 and P7 for 106888 per Harv request.
+Closed P2 on 108237 per Harv request.
+Prepared and issued Eng & Onsite Hours for June.
+Revised CN4.1 docs and analyzed rate differential impact on 108143.
+Prepared Procurement data for Quarterly Report.
+Out at 1630.

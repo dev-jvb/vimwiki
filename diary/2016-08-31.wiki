@@ -1,0 +1,10 @@
+Arrive 0745.
+Moved P3 PSE to P4 on 107756 per Harv's direction.
+Processed new PO for 102698.286.
+Discussed PO strategy for 107872 with Kisha Lafferty at Shell.
+Explored closed sub job data; actual vs OB and actual vs CB.
+Prepared CN3 for 107430; passed to PAs for issue.
+Assisted Harv in identifying new Owner Purchased Material in APEX for 107049.
+Ran 030 reports for monthly reporting packages.
+Tinkered with SQL to produce list of projects where Actuals exceed funding.
+Out at 1630.

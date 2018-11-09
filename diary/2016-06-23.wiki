@@ -1,0 +1,11 @@
+2016-06-23
+
+Arrive 0800. Helped Collin load up for Paradiso. 
+Met briefly with Kevin regarding new Shell ECN workbook issues with Factored Allowances. 
+Removed duplicate tracker entries for Piping Designer (with Ellen Grey) on 107163. 
+Updated Progress Tracking. 
+Prepared monthly report workbook for June. 
+Investigated Structural TIC Budget for 107258 at request of Liz Bowers. Appears that not all structural steel procurement line items are mapped to the same MR, thus causing the MR to hav ea lower-than-expected TIC budget. 
+Setup up CN10 for 107049 at Harv's request. 
+Worke don updates to CN8 on 105483. Need to finish tomorrow. 
+Out at 1715.

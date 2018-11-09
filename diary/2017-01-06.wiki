@@ -1,0 +1,5 @@
+Arrive 0830.
+Setup PERF for TIC of CN 17 on 106152.
+Added Piping costs to TIC for CN10 on 107756.
+Priced APP for 107899.
+Out at 1645.

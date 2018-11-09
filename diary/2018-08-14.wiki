@@ -1,0 +1,7 @@
+Arrive 0745.
+Completed processing new replacement POs.
+Prepared 108130 CN06 documentation. Need to use report 204 APEX 2 for Change Log and manually expand available EBSs.
+Updated weekly CPI report and dashboard report.
+Issued weekly CPI report to PLs.
+Issued 12 WLA schedule.
+Out at 1630.

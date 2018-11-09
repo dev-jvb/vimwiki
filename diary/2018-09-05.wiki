@@ -1,0 +1,6 @@
+Arrive 0715.
+Attended PL/WGL meeting.
+Assembled docs for 108130 CN10 per Howard's request. (Howard did not notify Danielle that he created this CN. Mentioned this to Geoff.)
+Renumbered CN3 to CN2 in 108701 at Harv's request.
+Updated CN10 for 108130.
+Met briefly with Brent to disucss P3 schedule structure for 108229. Thinking we organizew by engineering deliverable.

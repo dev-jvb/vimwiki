@@ -1,0 +1,4 @@
+Arrive 0745.
+Updated dashboard workbook for WE 5/18.
+Prepared PSE with hours for CN10 on 108229. Scaled up M&C hours for each group by ratio of 36/32 to account for schedule extension.
+Out at 1630.

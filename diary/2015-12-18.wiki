@@ -1,0 +1,18 @@
+2015-12-18
+
+Arrive 0800. 
+ Started to work on resolving delta between APEX and estimate on 107433; other higher priorities came up, so had to put on pause. 
+ Worked minor schedule revisions for 107165 per Jim Holien. 
+     Dissolved OV4020 
+     Revised Activity Name on ME4000 
+     Added 5d lag between CS4051 and PID_4102 to get Validation Meeting to not coincide with Final Client Review; reduced Piping ISO development by 5d to hold IFC date per Jim Holien. 
+     Removed PROC4050, PROC4076, PROC4284 as Predecessors to OV5000. 
+     Dissolved OV5100 
+     Linked PP4130 as a Predecessor to ME4001 with SS 
+     Set link from ME4001 to ME4002 to SS 
+     Set link from ME4002 to ME4010 to FF 
+     Removed PROC4043, 4041,4067,4093,4119, 4145, 4197, 4223, 4275 as predecessor to OV4030 
+Design allowance budget transfers for 106888. 
+Transferred 20 hours of P5 Tech Writer budget to Process Engineer on 106342 per Ron Peterson request. 
+Setup 107670. 
+Out at 1445.

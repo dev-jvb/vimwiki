@@ -1,0 +1,26 @@
+Arrive 0730.
+Jimmy O'Connor: 108399 not yet in APEX; 108229 also missing.
+	108399: Estimate went IFU on 4/26; so needs to be published to APEX. Published TIC Estimate to APEX.
+Placed 105478 P4 On Hold Booked per Howard's request.
+Closed 108018 per Geoff's request.
+Published CN07 to PT for 108231.
+Prepared CN07.1 docs for 108231.
+Published CN09.1 to 108143.
+Entered PC hours for CN12 on 105787. Paul in need of team input to prepare schedule to accompany the CN.
+Setup new PO for 108610.400. Closed 108610.300. Emailed all who had charged to 108610.300 to transition to 10610.400.
+10@10 with Paul:
+	He will be at Shell Wednesday and out Friday. 
+	All but one of the BP schedules are handed over to T. Bertagnolli. 
+	Paul waiting on team input on: 
+		105787 CN (team schedule input)
+		108137 (PSE)
+		108130 (PSE)
+	Discussed having Paul work on May accruals report in anticipation of having to prepare June's accrual report.
+	Also need to familiarize Paul with process for sending out client surveys.
+	As Paul's scheduling duties ease up, need to acquaint him with more cost functions; PO management, etc.
+Earned out and closed P3 for 108290 per Chris Schweigert request.
+Opened P4 for 107986 at Howard's request. FID/Execute PO expected late May.
+Published 107899 CNs 0.6,0.7 and 0.8 to PT per Howard's request.
+Discussed with Mirek treatment of hours in CN03 on 108130. As these are BO hours, they should be earnable. Thus the CN should not be a Trend, it should be BO. Changed in PSE so Mirek can appropriately earn the work. Good catch Mirek.
+Setup LoE tracking for PL on 108229.
+

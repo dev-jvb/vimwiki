@@ -1,0 +1,23 @@
+Arrive 0800.
+Reviewed PT for last week. Set some projects to LoE for Cost Engineer weekly reporting.
+Attended meeting with Kevin. Harv, and Geoff to discuss estimating categories. The main points were:
+1. Remote Shop Mat’l = Owner Furnished, Bulk Material
+2. Remote Shop Fab = Contractor Furnished, TBD – maybe Subcontractor?
+3. Field Mat’l = Contractor Furnished, Bulk Mat’l (nuts, bolts, gaskets, etc)
+Discussed and prepared a list of POs form 2014 that have had no activity in quite some time. Sent list to Dena and Pete with suggestion for closure.
+Client surveys for Q1 (Sent to Geoff Latimer for review):
+	105787 P2 - Sent
+	106888 P4 - Sent
+	107049 P4 - Sent
+	107049 P5 - Construction Coordinator: Tye Hodgin
+	107163 P4
+	107225 P4 - Sent
+	107430 P4
+	107431 P4
+	107433 P4
+	107746 P4
+	107767 P4
+	107979 P2
+Discussed IPA Duration KPI nuances with Geoff.
+Need to arrive at a consistent source of TIC basis for IPA duration calculation. LE Update workbook?
+Out at 1710.

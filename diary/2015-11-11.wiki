@@ -1,0 +1,12 @@
+2015-11-11
+
+Arrive 0645.
+Attended weekly program meeting.
+Prepared and issued Monthly Capital Onsite Hours Report for October 2015.
+Revised client PL on 107566.400 to Francesco from Scott Hackett per Dena Martin direction.
+Met with Kevin Formway re TICE issues on 106164 and 107162. Mapped missing Client Accounts to existing Field Elements. Still some Filed Elements missing. Kevin working on how to handle allowances.
+Merged CN18 into 105786.
+Merged CN9 onto 106888.
+Setup geeknote (geeknote.me) to link Evernote and Vim.
+Logged cost savings 15-36 and 15-37.
+Out at 1630.

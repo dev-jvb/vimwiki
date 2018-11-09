@@ -1,0 +1,8 @@
+Arrive 0800.
+Updated S-curves for 105787. Concerned about Piping Designer overrun. Also Control Systems still over-running.
+Transferred hours from SJ450 on 108137 to SJ 400. Closed all P4 subjobs other than 400 to prevent stray charges in the future.
+Attended 105787 weekly meeting. Expressed concern about Control Systems and Piping Designer overruns.
+Researched EAC on 107986 based on Owner's cost numbers from Diane. Her estiamte of EHTC and EHTC Rate are both low. She is forecasting $403 for P3; I'm seeing $435-440k
+Prepared monthly KPI report.
+Processed closed and increased POs on SUS portal.
+Out at 1630.

@@ -1,7 +1,7 @@
 = Manager's Workgroup Forecast =
 
 == Input to Manager's Monthly file ==
-* Gretta updates EHTC Forecasting (EF)
+* Scheduler updates EHTC Forecasting (EF)
 * Pull EF data into EF Preliminary Review (to Latimer) workbook
 	* Open previous period's file.
 	* Save as current period file.

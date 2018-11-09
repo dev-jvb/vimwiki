@@ -1,0 +1,4 @@
+Arrive 0745.
+Transferred hours charged to 108172 to 108702. Set 108702 P3 to Active.
+Published 108381 P3 PSE to PT (APP issued.) Set up LoE tracking for Cost Engineer for same.
+

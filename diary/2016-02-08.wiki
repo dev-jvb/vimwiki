@@ -1,0 +1,24 @@
+2016-02-08
+
+Start 0730 - WFH. 
+Approved timesheets. 
+Attended meeting at SPSR to discuss small projects support. 
+  Currently 13 projects in the queue (later revised to 12.) 
+  2 Shell PEs; Scott Hackett and Jens Jensen. Jennifer Kirby serving as an "adviser." 
+  Shell's last IPA review indicated a need for more Project Controls support on small projects. 
+  There is a need to manage the small project resources better in the context of the overall resource picture. 
+  Small projects team meets weekly on Wednesdays at 0930. 
+  Agreed to start with scheduling and bring in estimating support later. 
+  Two schedule updates per month should be adequate. OK if they are on the "off" weeks; weeks 2 and 4. 
+  Important to keep things simple and lean. 
+  Pete not sure about how to charge Paul's effort. Whether it be against a single "Small Project Support" charge line or spread amongst all of the small projects. Consensus was that a single charge line would be most convenient. Geoff made the point that most small projects already have their own POs, 
+  When updating schedule, presumption would be a 1.0 CPI; Earned = Actual and Actual/Budget = % Complete. Would also maintain resource utliziation; 25% per week, etc. and let it drive durations. 
+  Small projects are rearely schedule driven and are subject to interruption by higher priority efforts. 
+  Paul will be on-site this coming Thursday, 2/11. (Possibly attend Wednesday morning meeing on 7/10.) 
+  Meeting focus shifted to Schedule Integration: 
+    Still have not tied schedules together with interproject (IP) links. 
+    Butane By Truck project is candidate for piloting this effort. 
+    John Stiles to manage the IP links. May be an IP link log to keep track and some IP link activity coding/naming schema involved. Paul and John to coordinate. 
+Depart Shell at 1020; arrive Anvil 1115. 
+Overheard conversation between Geoff and Francesco wrt s-curves on 107550. Upshot is that we will need to better align the P6 resource loading with the "massaged" version depicted in the s-curves. 
+Out at 1630.

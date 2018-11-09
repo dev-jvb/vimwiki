@@ -1,0 +1,15 @@
+Arrive 0745.
+Reviewed charges to 103234.419 against list from Scott Hackett. Names are good, but hours range from 4-6.5; not sure why. Closed the sub job to prevent further charges this week.
+Ran 028 reports for August jobs.
+Ran Cost Forecast Summary Reports.
+Ref 106152 CN10: This "option" was previously estimated (outside the TIC Estimating tool) back in June. Should the ROM be approved, we will need to recreate the field cost estimate in the tool.
+Conducted 10@10.
+	Weekly Reports
+	Monthly Reports
+	Deep Dive Project Controls EHTC
+	Resist temptation to shortcut new processes; they don't get better unless we use them.
+Prepared balance of monthly reports. Compiled PDF files. Issued to PLs for review.
+Reviewed funding for 107049. Need to request PO increase to fund approved CNs. Sent request to Tracey Anderson, cc: Diane Berhow.
+Setup CN0 to capture OB for 107862 at Harv's request.
+Updated Project Percent Complete chart through WE 9/5.
+Out at 1645.

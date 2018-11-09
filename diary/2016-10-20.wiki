@@ -1,0 +1,7 @@
+Arrive 0800.
+Priced and exported 107756 CN3 from PSE to TIC Estimating. Imported TIC Estiamte to APEX and validated. All good. (Note that CN assignment did not come into APEX.)
+Prepared revised Change Log for 106152 CN13 and sent to Harv.
+Prepared CN form, Change Log and PSE report for CN14 106152. (Had rogue hours issue again on Change Log; let Aaron know.)
+Prepared CN form, Change Log and PSE report for CN3 107756. (Had rogue hours issue again on Change Log; let Aaron know.)
+Prepared CN form, Change Log and PSE report for CN4 107756. (Had rogue hours issue again on Change Log; let Aaron know.)
+Out at 1645.

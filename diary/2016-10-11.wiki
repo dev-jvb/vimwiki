@@ -1,0 +1,12 @@
+Arrive 0745.
+Added 107767 CNs 2 and 3 to CN Summary.
+Created new subjobs for 104609.143, 144, 145 for new Assess projects. Subjob set to Hold until PO received per Geoff.
+Prepared weekly reports for Shell.
+Asked Angie to stay on the Q3 report while I focus on getting the monthly reports compiled.
+Prepared monthly report components and compiled monthly reports.
+Attended meeting to discuss CNs 2 and 3 for 107767.
+Made mulitple attempts to import 106152 CN13 TIC Estiamte to APEX only to find that Factored Allowances are not importing. Initiated an AIN for the issue. Had further discussions with Aaron. He agrees that there appears to be an issue; he is troubleshooting.
+Issued weekly reports to PLs for review.
+Issued monthly reports to PLs for review.
+Printed copies of 014 report fof tomorrow's PL/WGL meeting.
+Out at 1645.

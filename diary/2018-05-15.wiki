@@ -1,0 +1,10 @@
+Arrive 0745.
+Met with Geoff and Dan Lewis to discuss CompRate report.
+	Dan will provide a monthly snapshot of BIT.
+	Each month's snapshot will append to the data set to prvide the rolling 12 month history.
+	All cum data will be from 4/1/18 forward (contract cumulative.)
+	Hope is that the report can be generated from BIT (and maybe Vision) data.
+	Dan noted that the onsite discount doesn't get applied until amounts are in Vision. So will need Vision data to get on-site billing amounts correct.
+For 108229 monthly reporting package, need to include an 030 report.
+Worked on CompRate workbook.
+Out at 1630.

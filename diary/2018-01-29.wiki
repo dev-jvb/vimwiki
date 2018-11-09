@@ -1,0 +1,8 @@
+Arrive 0800.
+Imported ERS files into invoicing database.
+Met briefly with Geoff re 108597 vs 108229. 108597 is the proposal development charge code; 108229 is the project IF we get the work.
+Met with Paul for 10@10. Paul will need support in developing the Resource Forecast this month due to need to work on 108697 (ECD) proposal schedule. Discussed Paul's nacent effort to create a Scheduler peer group. Expressed my desire to find a way to engage with and get buy-in from PLs and WGLs. Paul told me of an encounter he had last week with Howard about a schedule to accompany a ROM change. (Is Howard abusing the ROM policy? He issues many ROM changes that are not followed up by final changes. Should I discuss this with Geoff.)
+Closed 107756 as PO is being Closed.
+Met with Brent, Geoff, Justin and Paul re ECD Proposal effort and project staffing.
+Discussed Howard's heavy use of ROM CNs with Geoff. Geoff is not aware of Howard expressing any particular frustration with the CM process. Geoff noted that ROMs do not get as much review as regular CNs and also do not count toward our CM KPI. We will discuss with Howard tomorrow.
+Out at 1630.

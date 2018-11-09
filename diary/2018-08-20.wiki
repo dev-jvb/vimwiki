@@ -1,0 +1,9 @@
+Arrive 0730.
+Closed 108130 P3 at Howard's request.
+Closed 108290 P4 to all groups except Doc Tech per Chris direction.
+Opened 108312 P5 per Chris direction.
+Adjusted EHTCs for PA and PL per Brent;s direction. Took PA to 120 hours and PL to 300. Also took FP Engineer to 0 hours.
+Tuned up EHTC Forecasting for PC Cost.
+Prepared docs for 108130 CN07.
+Worked on updating ECN form template.
+Out at 1630.

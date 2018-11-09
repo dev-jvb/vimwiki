@@ -1,0 +1,11 @@
+Arrive 0745.
+Republished P4-7 PSE to Progress Tracker for 108130.
+Completed preparation of June monthly reports and requested PL review.
+Telecon with Dena re invoicing for 108229 - Clean Diesel
+	Ariba problem is a global issue related to use of different OA on separate line items on PO. No ETA for a fix.
+	In the interim, I am to email invoices to Leandra and cc: Dena for manual entry.
+	Dena also noted that the address on the invoices is incorrect. Need to coordinate with Business Services to update address on future invoices to avoid having them rejected.
+Prepared Eng % of TIC workbook using 07-2018 LE Update file.
+Imported TIC Estimate into APEX for 108130.
+Worked on determining when 108237 ran out of funding. Best guess is WE 5/11. Ran 013 report to list employees who charged the job since that day for Harv.
+Out at 1615.

@@ -1,0 +1,16 @@
+2015-11-30
+
+Arrive 0745. 
+Approved timesheets for Paul and Angie. 
+Reviewed thread with Dena wrt 107566 billing. This is the job that needs to billed complete in December. 
+Opened 107550 (PRINT$) per Geoff Latimer direcion. 
+Paid Collin's December rent and food. 
+Updated Progress Tracking for Cost Engineer. 
+Researched issue with APEX PSR Report. Howard found BP verbiage on report. Solution: be sure to use the Shell version of the report; report 002. 
+Closed 107224 (Tier 3) per Geoff Latimer direction. Closed PO in PO Tracker per Dena Martin. 
+Transferred DocTech hours on 107258 to DocTech-Eng and DocTech-Proc per Jim Holien request. 
+Changed tracker for Control Systems on 107164 to Brian Stump per his and Jim Holien's request. 
+Discussed implementation of internal interactive planning sesssions with Paul and Geoff. Geoff gave green light to setting up meetings for upcoming estimates. 
+Further APEX troubleshooting with Alison and Howard on 107162. 
+Reviewed overview of Bullit Journal and Strikethru organization systems. 
+Out at 1630.

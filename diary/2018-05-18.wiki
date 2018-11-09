@@ -1,0 +1,3 @@
+Arrive 0815.
+Spent time on hold with Ariba (Ryan) trying to troubleshoot SES entry issue with invoice for 108229.
+Shell has to resolve the error on their side, because Ariba does not have access to the catalog configuration.

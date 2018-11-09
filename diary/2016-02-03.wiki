@@ -1,0 +1,12 @@
+2016-02-03
+
+Arrive 0645. 
+Attended weekly WGL meeting. 
+Transferred my and Tim's time off of 106504.500 to 107225.499. 
+Received Invoicing History for 107225 from Mary Shoemaker. Able to discern that $120,247.14 of P4 work was (most probably) invoiced against the P3 PO. This is offset by $63,303 of P3 work billed to the P4 PO. Need to add this to the P4 PO value to align correct P4 funding. 
+Processed new PO for 107746. 
+Set up recurring Monday 10 @ 10 for Shell Project Controls team. 
+Tim ran Onsite Cap Project hours report and emailed to Heather Calvin. 
+Changed CN4 on 107049 to have Anvil Budget Status = COA and Client Budget Status = Trend. This allowed assocaited budget to be available fof earning in Progress Tracker. This per discussion with Ron Peterson. 
+On 107283, do we need to re-distribute Scott Hackett's January hours among the 300, 301, 302 sub-jobs fof billing? Geoff is wondering. 
+Out at 1630.

@@ -1,0 +1,14 @@
+2016-06-15
+
+Arrive 0645. 
+Attended weekly PL/WGL Meeting 
+Tuned up formatting and formulas in the new ECN template for PSE. 
+Discussed concerns wrt Estimating duration with Geoff. 
+  - Who decided that the duration should be 2.5 weeks instead of 2 and why was the program (ie. Geoff) not consulted? 
+  - Why is 2.5 weeks being suggested? Is this consistent with other programs? 
+  - What can we do to hold the 2 week duration? 
+  - Schedule logic allows 2 weeks after last MTO for estimate prep; why is this not enough? 
+  - Geoff is happy to attend the validation meeting if it will maintain the 2 week duration 
+  - We anticipate push-back from Shell if duration is increased (all indicators are driving Anvil toward faster execution, not slower.) 
+  - 2 week shas been sufficient in the past, what changed? 
+Out at 1630.

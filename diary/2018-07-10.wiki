@@ -1,0 +1,6 @@
+Arrive 0800.
+Reduced PL EHTC by 100 hours to 544 at Brent's direction. 45 hrs/week until 10/1.
+Prepared S Curve work book for 108130.
+Updated CPI Dashboard report for WE 7/6.
+Minor formatting tweaks to CompRate workbook from Geoff's comments.
+

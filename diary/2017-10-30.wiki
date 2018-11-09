@@ -1,0 +1,3 @@
+Arrive 0800.
+Ppopulate dPSE for CN0.4 on 107899 to delete scope per Howard direction.
+Out at 1630.

@@ -1,0 +1,7 @@
+Arrive 0745.
+Added P2 and P3 Anvil Engineering cost to TICe on 107899 per Howard.
+Updated P4 Anvil Engineerting cost in TICe for 107900 per Howard.
+Prepared resource charts for Q3 report.
+Reviewed Q3 report with Geoff. Only minor revisions needed. No RAIL this period as all AIs are complete.
+Processed several new POs in Client Funding.
+Out at 1645.

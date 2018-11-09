@@ -1,0 +1,6 @@
+Arrive 0800.
+Spent about 90 minutes tuning up Structural Progress Tracking wrt CN0.4. Progress was taken against PT elements that were removed by CN0.4.
+Attended Scheduler Peer Group meeting for 1 hour.
+107899 - APEX not matching TIC Estimating. Requested assistance from Tony Brodd. Factored allowances appear to hav e not transferred into APEX.
+107899 - Spent 3-4 horus re-aligning APEX with IFU estimate.
+Out at 1800.

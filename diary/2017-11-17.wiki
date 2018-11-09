@@ -1,0 +1,4 @@
+Arrive 0745.
+Attended Estimate Validation Meeting for 108273.
+Loaded Anvil Engineering costs into TIC Estimating for 107899. Had issues with importing CN0.4 into TIC Estimating. Created an AIN.
+Out at 1230.

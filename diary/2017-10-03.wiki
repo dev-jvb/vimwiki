@@ -1,0 +1,20 @@
+Arrive 0745.
+Published P4-7 budget to Progress Tracking for 108237 at Harv's direction.
+Attended weekly team meeting for 105787 to get schedule updates. Observations:
+	* Team members often ask "What does that mean?" when referring to schedule activities. Meaning of activities needs to be more clear.
+	* I'm questioning the efficacy of keeping procurement details in the schedule. APEX manages and reports out all of the details, so why duplicate them in the schedule. Perhaps we should keep only a few key dates in the schedule and rely on the PSR to monitor procurement activity.
+Actions:
+	* Add a line for Electrical in WP 2 - Cable Tray
+	* Consolidate the multiple MRs into single Procurement blocks
+	* Assign the APP baseline as the project baseline.
+	* Harv has 4 CNs in development. See AIN item 1. Added these ot PSE and to weekly CN Summary Report.
+Logged 7 cost savings for Q4.
+Prepared monthly report workbook.
+Prepared 030 reports for September.
+Prepared SPSR dashboard for WE 9/29.
+Attended weekly team meeting for 108237 to get schedule updates.
+Attended weekly team meeting for 108143 to get schedule updates.
+Attended weekly team meeting for 108273 to get schedule updates. Process is stalled. Electrical and Control Systems have not started any significant work.
+Updated 108143 schedule per meeting markups.
+Worked on P4 schedule revisions for 108237. Need more input on P3 activities from Harv. Also need clarity on baselining for the APP.
+Out at 1800.

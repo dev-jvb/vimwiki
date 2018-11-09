@@ -1,0 +1,6 @@
+Arrive 0800.
+Prepared and issued weekly reprots to internal distro.
+Closed P4 and opened P5 on 107049 per Harv direction.
+Requested and received extension for submittal of monthly and quarterly reports. Need to finish quarterly report on 1/17 to support quarterly meeting on 1/18. Monthly could slide to 1/19 if necessary. Slide precipitated by delay in obtaining 01-17 LE Update file from Shell.
+Used crew mix to calculate composite rate for Process on 107899. After review, decided to leave PSE pricing as it was as the difference was insignificant.
+

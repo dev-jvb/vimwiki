@@ -1,0 +1,4 @@
+Arrive 0700.
+Attended weekly PL/WGL meeting.
+Prepped CN2 for 107767 with Change Log (manually tweaked to get OB and CN amounts correct. Need to meet with Kevin to work out how missing quantities are mapped to the Change Log.
+Out at 1630.

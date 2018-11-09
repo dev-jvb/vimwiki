@@ -1,0 +1,6 @@
+Arrive 0700.
+Attended PL/WGL meeting.
+	Verify that ACE has proper client assigned for 108229. s/b Shell Global Solutions. Goal is to keep it off the Procurement Status Reports.
+Prepared docs for CN05 on 108130.
+Changed 107977 to Seconded and opened P4 per Geoff.
+Tweaked Non-Fee KPI Scoresheet to pick up % GES (Drafters) KPI.

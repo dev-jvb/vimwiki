@@ -1,0 +1,13 @@
+2016-05-09
+
+Arrive 0800. 
+Learned from Geoff that Ron Peterson no longer works at Anvil. A replacement is in the works. Stand by for direction. 
+Prepared Change Log for 107554 CN3. Reviewed and approved CN. Attached Change Log to CN in PSE (incorporate this step into standard workflow.) 
+Updates Progress Tracking. 
+Conducted 10@10. 
+Reassigned Ron Peterson projects in ACE per Geoff Latimer direction. 
+Worked on import/validation of 107163 estimate. Still a little discrepancy in Process and Electrical. Totalling $5k. 
+Revised estimate and APEX to reflect an additional $36k in Process Engineer costs in P4 on 107163. This is attributed to CN3 and will be treated as BO per conversation with Howard. Client will include the additional amount in their funding request. 
+Published CN 3 to 107554. 
+Assembled monthly reports and sent email to PLs to review. 
+Out at 1700.

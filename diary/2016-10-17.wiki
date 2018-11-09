@@ -1,0 +1,16 @@
+Arrive 0815.
+Approved timesheets for Paul. Angie has not yet approved hers.
+Updated Progress Tracking.
+Reviewed jobs in P4 and laid out EHTC in spreadsheet.
+Inquired with Geoff about Angie's cube. He agreed that moving Paul to the spot is a good idea.
+Sent request to relocate Paul to Patricia Gonzales.
+Logged cost savings 16-35.
+10 @ 10 with Paul:
+	He will follow up with Angie to make sure PS Forecast gets done today/tomorrow.
+	He has been summoned to Federal Court for potential Jury Duty.
+	Let him know that I will be requesting he be relocated.
+Attended meeting with Kevin and other PC Program Leads to discuss data integrity.
+	Need to review discrepancies between engineering budget in APEX and in Reporting.
+	Integrate steps into workflow checklists to support KEMs.
+	Note that Reporting budget is calculated from Progress Tracking budget hours multiplied by PSE budget rates. Thus, if elements are deleted from PT, they can affect the budget in Reporting. This is potentially a BIG DEAL.
+Out at 1645.

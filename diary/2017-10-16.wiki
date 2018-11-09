@@ -1,0 +1,3 @@
+Arrive 0730. Welcome back Paul.
+105478.410 is showing up in EHTC Forecasting. Seems like it should not. It is in the EHTS Forecasting version of PSE but not in the Official version. Need to remove from PS forecast. Advised Paul.
+Out at 1645.

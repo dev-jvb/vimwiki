@@ -1,0 +1,14 @@
+Arrive 0745.
+Confirmed that house payment processed and late fee was waived.
+Chatted with BofA CSR re AmEx transaction; no new info available. He recommended contacting AmEx. It appears to be a physical check that was converted to an electronic transaction by AmEx.
+Opened P4 for 107767 per Harv's direction.
+Changed future phases of 105787 from Future to Prospective per Geoff Latimer.
+Changed future phases of 106503 from Future to Prospective per Geoff Latimer.
+Started invoice entry.
+Attended 401k/AQRP information meeting about transition to Principal group management.
+Assembled budget portion of monthly KPI report.
+Worked with Diane Berhow to unravel invoicing for 102698.212 and .304. Invoices in May/June went against 2 different POs (4514629118 and 4518623508) and likely should have gone against a third (4519087446.) Summarized results in an email with attachments. More to come.
+Identifed source of mystery charge in BofA account. It's Sheila's Macy's card (which is issued by AmEx.) Sheila confirmed the amount. Had BofA lift the stop pay.
+Printed 014 reports for tomorrow morning's meeting.
+Finished up monthly KPI report. Ready to review with Geoff in the morning.
+Out at 1715.

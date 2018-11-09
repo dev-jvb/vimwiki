@@ -1,0 +1,19 @@
+2016-06-16
+
+Arrive 0730. 
+Met with Kevin to discuss estimate prep duration. 
+- 2 Estimators 
+- Hard to predict when multiple program's estimate periods will align 
+- Kevin will discuss with Tony and Scott Walker. 
+Asked Tim to investigate discrepancy in 107430 Resource Forecast for 2017. P5 has 492 hours budgeted, 1360 in the forecast. 
+- Looks like we did not update the hours distribution to match the final budget when we transitioned to P4 back in January. 
+- Discussed checking EHTC vs Distribution and questioning discrepancies > 15%. 
+Reviewed Shell Resource Forecast for 107430 and 107431. Both issues raised by Dena/Mark Boger. 
+  - 107430 - The distributed hours are much higher than the EHTC hours. Looks like the distributed values did not get updated when we switched form the PSE EHTC Version to the Official Version back in January. 
+  - 107431 - Opposite issue, the distributed hours are somewhat lower than the EHTC. Also, EHTC for P5 and P7 are missing. Found that I had marked P5 and P7 as 100% complete back on March 17. This was an error while I was completing P3. 
+  - Need to highlight differences between EHTC and Distributed to catch errors. 
+  - Ask Geoff about getting some time in the weekly meeting to review the forecast workbook. 
+Reached out to Jim Shipley, Mike Sullivan and Joel Roosendahl to get MTOs/field cost information for 105478 CN8. 
+Spoke with Tony Brodd re: 107767 estimate. He is looking for PSE hours. (Not all groups have their hours in.) Tony was also unaware of the need for Monte Carlo analysis on jobs with TIC > $1M. Per Harv vmail, disciplines have until COB Monday to enter PSE hours. Validation to proceed w/o engineering hours. 
+Validated 107431 estimate in APEX. MTO allowances not properly distributed. 
+Out at 1630.

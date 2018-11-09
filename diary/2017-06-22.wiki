@@ -1,0 +1,4 @@
+Arrive 0730.
+Entered factored P5 & P7 budgets into PSE for 107979.
+Imported PSE into TICE Estimating for 107979.
+Out at 1310.

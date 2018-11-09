@@ -1,0 +1,18 @@
+2016-05-18
+
+Arrive 0730. 
+Issued KPI Report to Justin and Walter. 
+Researched values for rate change CN on 107546. 
+  Original Budget Rate: 106.80 
+  Current Actual Rate: 119.85 
+  Rate Differential: 13.05 
+  Original Budget Hours: 549 
+  Net Cost of Rate Differential (OB Hours * Rate Diff): 7164.45 
+Published CN7 and 8 to PT for 107258. 
+Tim to have Tesoro orientation on 6 June; followed by 2-3 weeks of full time training. On-going will be 86 hours/month; concentrated in the the first two and final week of each month. 
+Met with Denise Owen to demonstrate some TICe/APEX techniques. APEX seems to be failing; throwing timeout errors on imports and saves. Denise to follow up with Kevin. 
+Talked with Scott Horne about Project Controls on-boarding. Discussed desk referneces for common processes/procedures. 
+Processed new PO for 104609.205. 
+Discussed resource distribution in schedules. Shell is begining to look at this. Talked about need for more attention to the schedule - work the plan - to keep us in sync with what Shell can see in their environment. More to come. Talked about possible use of green room technique to identify and document inter-disciplinary deliverables and committments. 
+Discussed issues surrounding unapproved APP on 107550. What are we to report our progress against. Response from Francesco is ambiguous and I am concerned about reaction when we blend our actual performance with the "approved" plan when it comes. Left a message with Brent Belsher to discuss. 
+Out at 1630.

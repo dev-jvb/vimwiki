@@ -1,0 +1,10 @@
+Arrive 0700.
+Attended weekly WGL/PL meeting
+	Per Geoff, P4 to remain open through drawing return
+	Geoff acknowledges that this may result in additional weeks of unbudgeted PC support; but feels this is a temporary situation caused by a backup in Doc Control due to the large number of packages being issued in recent weeks. Also, some PLs may elect to budget the drawing return effort in P5 in the future.
+Paid Comcast bill.
+Paid Amazon Visa bill.
+Prepared 107163 CN5 Rate Trend for Howard. Note that he prefers to see the rate differential amount shown on the CN in the Other column. This amount needs to be entered in TIC Budgeting 1.0 as non-Labor to make this happen. Then, it must be manually added to APEX as Anvil Labor.
+Initiated CN11 for 107258 at Jim Holien's request.
+Prepped docs for 106152 CN16.
+Out at 1600.

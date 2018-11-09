@@ -3,24 +3,24 @@ Throughout the month:
 * [ ] Update Cost Savings Log with any new items received from Geoff Latimer
 
 First business day of the month:
-* [X] Update and distribute Shell Resource Forecast to Project Leaders:
-	* [X] Harv Aujla
-	* [X] Jim Holein
-	* [X] Howard Leung
-	* [X] Ron Peterson
-	* [X] Dean Zehner
+* [ ] Update and distribute Shell Resource Forecast to Project Leaders:
+	* [ ] Harv Aujla
+	* [ ] Jim Holein
+	* [ ] Howard Leung
+	* [ ] Ron Peterson
+	* [ ] Dean Zehner
 
 Fifth business day of the month:
-* [X] Issue Shell Resource Forecast to Client [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Cost Reports/2015/]]
+* [ ] Issue Shell Resource Forecast to Client [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Cost Reports/2015/]]
 
 First week of the month:
-* [X] Receive and issue monthly Engineering and Onsite Hours/Dollars report [[Monthly Estimate Process]]
-* [X] [[Onsite Capital Project Hours]]	
+* [ ] Receive and issue monthly Engineering and Onsite Hours/Dollars report [[Monthly Estimate Process]]
+* [ ] [[Onsite Capital Project Hours]]	
 
 Second week of the month:
-* [X] After narratives complete, run 028 reports as required.
-* [X] Transmit (upload to SharePoint) the Monthly Report.
-* [X] Managers Monthly Workgroup - Internal Resource Forecast
+* [ ] After narratives complete, run 028 reports as required.
+* [ ] Transmit (upload to SharePoint) the Monthly Report.
+* [ ] Managers Monthly Workgroup - Internal Resource Forecast
 
 Third week of the month:
 * [ ] Issue Internal Program Project Services Resource Forecast
@@ -31,8 +31,8 @@ Third week of the month:
 * [ ] Issue Estimated Accrual Report
 
 == Monday ==
-* [X] Approve Timesheets
-	* [X] Angie
+* [ ] Approve Timesheets
+	* [ ] Angie
 * [ ] Check with PLs for new CNs in Development or Issued
 	* [ ] Aujla
 	* [ ] Holien
@@ -41,23 +41,22 @@ Third week of the month:
 	* [ ] Zehner
  
 == Tuesday ==
-* [X] Issue weekly reports 
-	* [X] Internal (Issue ~1400)
-		* [X] Island Bay Progress Report (014) 
-		* [X] [[//bham-eng-data/share/SHELLPSR/GENERAL/PMC/PC/Island Bay - Weekly Reports/Change Management/Shell PSR CN Summary|Shell PSR Change Notice Summary]]
-		* [X] TGER Change Notice Summary (Angie) 
-		* [X] Tesoro Logistics Change Notice Summary (Angie) 
-		* [X] [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Island Bay - Weekly Reports/Island Bay Internal CPI Spreadsheet/2015/|Work Group CPI Spreadsheet]] - For Prior Week
-		* [X] Weekly Labor Report (Office)(015) - for Current Month
-		* [X] Issue Report
-	* [X] External (Issue ~1600)
-		* [X] Weekly Labor Report (Office)(015) - For Current Month
-		* [X] Weekly Labor Report (Onsite)(027) - For Current Month
-		* [X] Shell PSR Weekly Progress Report (031)
-		* [X] Shell PSR Change Notice Summary
-		* [X] Issue Report
-* [X] Prepare (014) reports for weekly meeting; 12 copies
-* [X] Prepare and issue [[12 Week Lookahead]]
+* [ ] Issue weekly reports 
+	* [ ] Internal (Issue ~1400)
+		* [ ] Island Bay Progress Report (014) 
+		* [ ] [[//bham-eng-data/share/SHELLPSR/GENERAL/PMC/PC/Island Bay - Weekly Reports/Change Management/Shell PSR CN Summary|Shell PSR Change Notice Summary]]
+		* [ ] TGER & Tesoro Logistics Change Notice Summary (Angie) 
+		* [ ] [[file:///S:/SHELLPSR/GENERAL/PMC/PC/Island Bay - Weekly Reports/Island Bay Internal CPI Spreadsheet/2015/|Work Group CPI Spreadsheet]] - For Prior Week
+		* [ ] Weekly Labor Report (Office)(015) - for Current Month
+		* [ ] Issue Report
+	* [ ] External (Issue ~1600)
+		* [ ] Weekly Labor Report (Office)(015) - For Current Month
+		* [ ] Weekly Labor Report (Onsite)(027) - For Current Month
+		* [ ] Shell PSR Weekly Progress Report (031)
+		* [ ] Shell PSR Change Notice Summary
+		* [ ] Issue Report
+* [ ] Prepare (014) reports for weekly meeting; 12 copies
+* [ ] Prepare and issue [[12 Week Lookahead]]
 
 == Wednesday ==
 [0700 - 0830] Weekly Program Meeting

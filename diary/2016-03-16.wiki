@@ -1,0 +1,12 @@
+2016-03-16
+
+Arrive 0645. 
+Attended meeting with Pete Allred, Kevin Formway and Paul Duersch. Topics: 
+  Review of 105483 Estiamte Workbook (including Shell checklist tab) 
+  Review of Monthly Report for 105483. (Noted that LE does not match estimate total; this was later resolved.) 
+  Pete shared that Burt had directed Contingency be removed from project LEs for 2016. This in response to a $10MM decrease in available LE. Also, historically, little contingency has been used. Discussed Shells need for a protocol to manage project contingency. Pete shared a milestone-based contingnency drawdown from Jacobs. 
+  Pete is happy with the small project schedule effort by Paul. Reiterated need for a second set of credentials for P6 for backup. 
+  Paul to work with John Stiles to come up with a protocol for coding/labelling inter-project links. 
+Jim Holien requested revisions to the 105483 estimate to delete the 11-08 scope from EBS 8. This turned into a goat rope as changes in the workbook do not flow through factored allowances and indirects properly. After consulting with Kevin, went back into TIC Estimating and made the desired changes and re-exported the workbook. Results look more reasonable now. Provided link to workbook and summary of changes to Jim via email. 
+Reported Contract Catalog issue to Ask-CP. 
+Out at 1630.

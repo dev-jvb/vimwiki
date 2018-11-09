@@ -1,0 +1,7 @@
+Arrive 0830. Snowy commute.
+Setup new subjobs:
+104239.528	HTU2 Compressor Dis Temp IPF 1 of 2
+104239.529	HTU2 Compressor Dis Temp IPF 2 of 2
+104239.530	HTU2 Heater Dis Temp IPF 1 of 2
+104239.531	HTU2 Heater Dis Temp IPF 2 of 2
+Out at 1630.

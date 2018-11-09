@@ -1,0 +1,19 @@
+2015-12-16
+
+Arrive 0700. 
+Attended weekly WGL/PL meeting. 
+Closed 102698.237 to prevent further charges per Mark Boger/Vanessa Gray. 
+Transferred 0.5 hours of Russ Dart time in WE 12/11 on 102698.237 to 106817.500 per Geoff Latimer and Russ Dart. 
+Contacted Mary Shoemaker re Nathan Rust hours transfer. She suggested contacting Aaron Rockwell. Left VM for Aaron. 
+Departed Anvil 0900 to go to Shell training in Ferndale with Paul. 
+Returned to Anvil 1130. 
+Met with Geoff re 12 week look ahead. Need to see the IFC target dates fromt eh TA schedule matrix on the 12WLA. Passed note to Paul. 
+Transferred Nathan Rust time for WE 11/27 on 105478 from DocTech-Eng to DocTech per Howard request. (Note that the entry had to be finalized in BIT by Hannah.) 
+Set Project Type to "Seconded" for all On Site Projects. Intent is to exclude them from the weekly WGL Performance Reporting. 
+Attempted to complete password reset process for SAP Portal. Failed. Notified Ask-CP. 
+Reviewed 107550 P2 PSE for PC. 
+Issued KPI Report. 
+Meetign with Pete Allred and Kevin to discuss IPA summary issues. 
+Received another password reset email from Ask-CP. Still cannot set a new password. GRRRRRR. 
+After phone call with Ask-CP, finally resolved password issue. 
+Out at 1700.

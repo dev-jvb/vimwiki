@@ -1,0 +1,10 @@
+2016-06-30
+
+Arrive 0745. 
+Back in the saddle again. 
+Attended meeting re TIC Estimating with Ross Warne and other Program Leads. Learned that 2.5 week estiamte duration guidance was from Scott Walker. Ross suggested a meeting with Geoff and the Estimators to defend the change. Also, there was clear direction that estimating deliverables and process need to be documented. All actions on Kevin Formway. 
+Setup new subjobs under 107283 for Define (304) and Execute (401) after discussion with Dena. Needed because job has changed project numbers on Shell side so new POs were needed. Scott Hackett will have to be disciplined about where he charges his time. Closed SJ302 as it has transitioned to 304. Also closed SJ301 as it has transitioned to Execute as SJ401. 
+Setup new PO for 107872.406-409 for Erik Schoen Level Gauge drawings. 
+There is a need to update the resource loading on the PRINT project schedule. Paul is out and I hav eno login credentials. Sent email to Pete. 
+Opened 102698.304 for on-site Owner's Support for 107746 at Howard's request. Howard has requested a PO from Greg Lykke. 
+Out at 1630

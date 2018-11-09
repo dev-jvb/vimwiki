@@ -1,0 +1,6 @@
+Arrive 0800. Client Surveys - Shell PSClient Surveys - Shell PSR(Snow day!)
+Approved personal time sheet.
+Met with Jim Holien re CN12 on 105478. Need to add delta amounts to APEX for field costs. We will not back out existing elements related to the replacement flange scope.
+Imported November invoices into database and added field for invoice submittal date.
+Out at 1200.
+

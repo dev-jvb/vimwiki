@@ -1,0 +1,5 @@
+Arrive 0800.
+Verified that timesheets were approved. Justin approved Paul's.
+Worked through remaining invoices and requested increases where appropriate.Attended, with Paul, conference call with Shannon and Pete regarding IPA schedule KPIs. Pete to provide current IPA duration workbook. Need to complile list of 10 most recent projects to enter Select/Define and provide to Shannon. These will be the first 10 for the new KPI to be reported in Q12017.
+Troublehot Change Log for 107756. Issue is the Change Log total for CN 1, the P4-7 BO, doe snto match what is in APEX. After some digging found that the Change Log was not picking up the P2 Labor, Owner's Construction Management, and TEA that were in APEX. Sent details with screencaps and corrected Change Log to Aaron. He will try to look at it this week.
+Out at 1630. Off to Mom and Dad's to troubleshoot remote control issues.

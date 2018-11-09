@@ -1,0 +1,7 @@
+Arrive 0800.
+Opened CN1 for 108273 for P4-7 PSE input.
+Setup PO for 108237 Execute.
+Setup PO for 105787 Execute.
+Added an EHTCF line to the 105787 PTP charts.
+Setup Procurement for LOE tracking on 108062. need to monitor EAC as we go forward.
+Out at 1530.

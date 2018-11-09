@@ -1,0 +1,13 @@
+Arrive 0715.
+Attended PL/WGL meeting.
+	* Cost PSE for 108130
+	* Close P4 for 108143; continue to monitor schedule.
+	* 105787 - Harv needs CN to move WP8 to 7/20.
+	* 108701 - Requested IFC 7/9; Harv to discuss 7/12 to account for week of 7/4.
+	* 108702 - Harv looking to get APP out next week.
+Priced PSE for 108130 P4-7.
+Updated Owner's Cost in TICe for 108130.
+Conversation with Paul schedule dev for 108130. Paul is hearing that Howard will be discussing organizing the P4 work by unit; not by WP as Harv had planned and as we had structured the estimate and schedule. Also, as the APP needs to get out, milestone dates my be set without benefit of actual scheduling (again.)
+Prepared PO Balance Check workbook for May invoices. Sent table of POs needing increases to Dena Martin.
+Attended Monte Carlo analysis for 108130.
+Out at 1645.

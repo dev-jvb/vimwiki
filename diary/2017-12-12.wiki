@@ -1,0 +1,9 @@
+Arrive 0745.
+Added Cost Eng budget to P4 PSE for 108312.
+Added Cost Eng budget to P4 PSE for 108399.
+Updated P4 Anvil Engineering Cost in TICe to $933k per PSE for 107899 at Howard's direction.
+Prepared docs for CN03 107979.
+Updated S-Curves for 105787 per CN06. Did a linear interpolation between the WP3 IFC and the WP4 IFC on the original APP plan. Seems like a reasonable technique. We remain behind, but the slope of the plan curve is reduced allowing for the possibility of catching up if we continue at present pace. Discussed possible CN strategy with Harv. Delay was not driven from Shell side, as I had heard. It was driven by inability to staff the project, but HArv feels it would be impolitic to say so.
+Prepared PO Balance File to compare remaining balances with November invoice amounts. Sent to Dena and Diane for their review/use.
+Printed and collated November invoices in preparation for entry.
+Out at 1700.

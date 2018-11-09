@@ -1,0 +1,6 @@
+Arrive 0815.
+Requested and received August invoice register.
+Requested and received August CompRate data from Dan Lewis.
+Imported August invoices into invoice database.
+Worked on comparison of invoice amounts to PO Values. Worked on SQL query to produce list.
+Out at 1630.

@@ -1,0 +1,8 @@
+2015-12-28
+
+Arrive 0815 via Uber. Dropped off warranty return phone at Burlington UPS center. Dropped 4Runner at Bellingham Les Schwab. 
+Reviewed, approved and prepared Change Logs for 107164 CN 10.2 and 11; 105483 CN 6.1. 
+Prepared estimating accrual report for December. Note that the month end is 12/25; so no ratio applied to projected hours. 
+Per Brian at Les Schwab; front rotors need to be re-machined (again.) Right front rotor especially bad. Should be under warranty. Also noted some seepage from right rear wheel bearing seal (not critical at this time.) 
+Still working 107433 APEX import. There are difference between what was issued and what is in TICe. In EBS1, there is Civil/Site CFM of $6115 listed in what was issued that does not appear in TICe. GRRRR. Several issues wremain with EBS2; but I got EBS3 to align, so that's something. 
+Out at 1715.

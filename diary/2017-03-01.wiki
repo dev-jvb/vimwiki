@@ -1,0 +1,7 @@
+Arrive 0700.
+Attended weekly PgM meeting.
+Transitioned 108131 to P3. transferred Scott Hackett's hours for February from P2 to P3. Updated CF to show PO 4521305788 assigned to SJ300. Should be cleaner now.
+Made People's Bank payment. Deposited Collin's rent/grocery/utility money.
+Schedule Comcast payment.
+Prepared CN form for 107225 CN8. Ran into snag with Change Log. Does not appear that the TIC Estimate was ever imported into APEX. Gave Kevin a head's up about potential KEM Data Integrity issue.
+Out at 1645.

@@ -1,0 +1,7 @@
+2015-12-04
+
+Arrive 0745. 
+Meeting scheduled with Kevin re 107433 re-import and issue with three columns not comin gin to three lines. 
+Entered field costs into CN10 on 107164 per Jim Holien request. 
+Worked with Kevin on APEX troubleshooting with 107433. 
+Out at 1230.

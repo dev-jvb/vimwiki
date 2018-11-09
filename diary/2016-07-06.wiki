@@ -1,0 +1,12 @@
+Arrive 0645.
+Attended weekly PL/WGL Meeting.
+Transferred WE 7/1 hours from 107283.301 to 107283.401 per Dena direction.
+Transferred WE 7/1 hours from 107283.302 to 107283.304 per Dena direction.
+Transferred WE 7/1 hours for Danielle Martin from 107500.400 to 107550.300 per Dena direction.
+Prepared and issued Onsite Capital Project Hours report to Heather Calvin.
+Opened 107554 P4 at Howard's request.
+Scheduled payment to Citi/Costco.
+Continued work on Q2 Quarterly Report. Setup Eng % of TIC workbook. Still need latest LE data.
+Input Scheduler and Cost Engineer hours into PSE for 107885.
+Howard noted a discrepancy in the Owner Material for Structural in APEX for 107162. Upon investigation, found several lines of Owner Material were missing. Entered them manually and all is matchy-matchy. Funny thing is, I verified this estimate vs APEX on 5/31 and it was dead on. Something changed between 5/31 and 7/6.
+Out at 1630.

@@ -13,3 +13,5 @@ Thou shalt not work on new scope without an approved Change Notice.
 Delay not thy progress tracking lest ye feel the wrath of the Project Controller.
 Own the inputs.
 communication is what the listener does.
+
+Thou shalt update Progress Tracker with Percent Complete AND EHTC each week.

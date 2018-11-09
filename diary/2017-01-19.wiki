@@ -1,0 +1,8 @@
+Arrive 0800.
+At Howard's request, hid P2 from 107960; project will start in P3.
+Entered PC PSE hours in 107960.
+Entered PC PSE hours in 107986.
+Researched Reporting vs PSE discrepancy on 105483 with Jim Holien.
+Geoff mentioned that Pete Allred is exploring ideas for an Owner's Cost estimating tool. Wonder if a bespoke version of PSE would be useful.
+Prepared TIC Estiamte file for CN17 on 106152. Need to review with Harv in the morning.
+Out at 1630.

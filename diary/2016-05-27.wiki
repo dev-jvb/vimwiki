@@ -1,0 +1,3 @@
+2016-05-27
+
+Arrive 0800.Completed re-validation of 105483; found that owner material for freight lines was not present in APEX. Also found a few Control Systems items not in APEX.Out at 1300.

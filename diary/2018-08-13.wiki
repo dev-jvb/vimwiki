@@ -1,0 +1,6 @@
+Arrive 1030. Dr. Carroll appointment.
+Finished prepping July monthly reports.
+Issued to PLs for review.
+Setup ip subjob 250 on 108229 for Bridge Funding Proposal. CN21 to capture budgets.
+Tracked down CPI discrepancy between 028 and 030 reports in the 108130 July reporting package. Difference is in the Actuals which were affected by a transfer of Process hours from P3 to P4 in between the running of the two reports. Notifed Howard of the findings.
+Out at 1800.

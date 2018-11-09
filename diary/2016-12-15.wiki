@@ -1,0 +1,5 @@
+Arrive 1000.
+Prepared docs for 107756 CN9. Note that for schedule trends, need to enter a 0 cost line in APEX to get it the CN to show up on the APEX 2 Change Log.
+Reviewed invoices in GSAP with Diane. A small number seem to have been glitched in GSAP and will need to be delted and re-entered.
+Prepared and approved timesheet.
+Out at 1630.

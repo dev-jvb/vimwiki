@@ -1,0 +1,9 @@
+Arrive 0800.
+Meeting scheduled with Kevin to discuss Change Log issues.
+	Meeting scheduled with Aaron for tomorrow morning.
+	Plan is to develop a third Change Log report that pulls data exclusively from APEX.
+Set up CN15 and PERF P3 R0 IT3 for 106152 to capture addition on Twin Seal Valves and Critical Check Valves to TIC/APEX.
+Prepared CN3 for 107767 for issue.
+Prepared CN15 for 106152 with Harv.
+Reviewed Aaron's code fo rthe Change Log and may have spotted the issue with doubling up of Demo and Removals.
+Out at 1630.

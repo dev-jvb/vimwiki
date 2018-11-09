@@ -1,0 +1,19 @@
+2015-11-10
+
+Arrive 0730.
+Closed 107405 at Jeff Wong direction.
+Reviewed TICE for 107162 for client account codes; many missing. Emailed Kevin seeking additional support to fill in blanks.
+Re-ran 028 reports fof jim Holien&apos;s projects and assemble monthly report PDF. Send email to PLs to review reports NLT 1200 Thursday.
+Prepared weekly report components.
+Reviewed 107225 schedule. notes that Control Systems and Electrical have a lot of tasks that run in parallel for long durations with no intermediate milestones for progress. Discussed this Harv and this is normal and he is not concerned. He also recognized that this "technique" provides the discipline with flexibility in managing the work. If there is no plan, no one can say you are not on plan. Discussed with Paul and Geoff joined in. Geoff is in agreement 
+Talked to Paul who had some comments from Jim wrt when baselines get assigned. Jim was urging that the baseline be changed when a change is issued (i.e. Pending.) Paul an dI feel that it should not be changed until the change is approved by the client. Further discussion with Jim led to him deferring to Project control&apos;s judgement on the issue. I presented the argument that as long as the CN is still unapproved, the negative variances will trigger discussion and keep the issue visible. Jim agrees with this.
+Talked to Derek Thompson about the 107225 schedule. He agreed to split the durations into thirds to represent completion of 1/3 of the loops for each unit. Derek provided the number of loops per unit for reference:
+     DCU - 526 loops, 503 demo loops
+     VPS - 570 loops, 570 demo loops
+     HTU1 - 644 loops, 466 demo loops, 466 idle loops
+     HTU2 - 850 loops, 850 demo loops
+Derek recommended NOT splitting the Block Diagram activity. Sent email to Harv and Paul outlining this approach.
+Processed CN18 for 105786.
+Processed CN9 for 106888.
+Processed CN1 for 107431 (Schedule Only.)
+Out at 1700.

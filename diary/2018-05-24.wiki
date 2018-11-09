@@ -1,0 +1,3 @@
+Arrive 0730.
+Worked on CompRate workbook. Getting close. Need to work out cumulative calculation.
+Out at 1615.

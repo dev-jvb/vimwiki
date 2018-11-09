@@ -1,0 +1,9 @@
+2016-02-10
+
+Arrive 0645. 
+Attended weekly WGL/PL meeting. 
+Troubleshot/corrected issue with WO filed getting populated with ???? in Client Funding. Need to be watchful for this in the future. 
+Call from Diane Berhow requesteing list of current sub jobs to 103234. Also, asked for a new SJ to be setup for Paul Duersch's Small Project Controls Support (418). She also asked that we provide an 015 report for 103234 each week to be sent to her, Pete Allred and Burt Newbry. Prepared list and report as requested and emailed to Diane, PEte and Burt. Advised Paul Duersch of new charge line for small project project controls support. 
+Entered PSE hours for Project Controls on 107746. Kept it lean @ 1 hour/week for Cost Engineer and Schedule maintenance. 
+Attended meeting with Kevin, Geoff and Pete Allred. See notes. 
+Out at 1645.

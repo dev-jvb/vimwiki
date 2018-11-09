@@ -1,0 +1,8 @@
+Arrive 1200 - Dental appointment
+Met with Hannah to review Ariba system. Much depends on Shell's implementation. Initial indications are more manual entry than SUS and no upload capability (yet.)
+Re-ran Change Log for 107960 CN09.
+Reviewed CN 09 for 107960.
+Opened P4 PSE for 108399 at Chris Schweigert's request.
+Started preparation of Feb SPSR Resource Forecast.
+Met with Pete Allred.
+Out at 1630.

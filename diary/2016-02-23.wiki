@@ -1,0 +1,6 @@
+2016-02-23
+
+Arrive 0740. 
+Re-imported TIC Estimate into APEX for 107431. Needed to pick up Control Panels that were entered in TICe as Contractor-supplied and not Owner-Purchased equipment. Would be nice if there were an easier way to pick up a single item that did not require re-importing the entire estimate, then deleting all but the one item desired. 
+Reviewed weekly reports. Found an errant PA hour charge dto 103234.418. Verified with Alicia Diaz that the hour was charged incoorectly. Transferred hour to 103234.400 and asked Tim to re-run the 015 and 027 reports. 
+Attended Project Controls Department Safety Meeting. Justin Allyne delivered presentation on Rig 142 project.

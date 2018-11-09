@@ -1,0 +1,14 @@
+Arrive 0800.
+Transcribed GES (108597) meeting notes per Geoff's request.
+Processed new PO for 108626.300.
+Processed PO Closure for 104609.320.
+Processed cost savings 18-10.
+10@10:
+	- Paul has concerns about MTO's getting to estimating in time for 108130 - WSSG.
+	- Also concerned about 108137 NSSG wrt client reviews sliding.
+Opened P4 on 108312 per Chris Schweigert and email from Matt Gross dd 2/22. Published P4-7 PSE to PT.
+Chris also mentioned that he has heard that he may lose his Piping Designer for 108290 MDO Header to ECD in a couple of weeks. Could have schedule impact.
+Processed PO for 104609.321.
+Processed PO for 104609.323.
+Processed PO for 104609.319.
+Out at 1630.

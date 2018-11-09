@@ -1,0 +1,4 @@
+Arrive 0715.
+Attended PL/WGL meeting.
+TIL: Voiding a CN removes the BAC, but not the EHTC from PT. Bummer. Hav eto go into PT and verify that elements with 0 BAC also have 0 EHTC. Good times.
+Out at 1630.

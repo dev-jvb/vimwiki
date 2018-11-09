@@ -1,0 +1,21 @@
+Arrive 0730.
+
+Prepared 105483 CN5 for issue to client.
+
+Updated Progres Tracking for WE 10/23.
+
+Attended meeting with Kevin to discuss engineering metric reporting (1.5 hours)
+
+Rolled 105483 CN5 into Progress Tracker.
+
+Processed PO for 107473/02167.
+
+Reviewing totals in TIC Estimating tool for 107164, found discrepanices between what is in TICE and what is in PSE. There were last-minute, post-issue revisions by Procurement and Structural that changed the values in PSE. Re-exported PSE and re-imported to TICE. Talked with Bill Horak about TICE issues with factored amounts and Escalation/Contingency. There does not appear to be a place in TICE where one can see the TIC. How is that possible?
+
+Created CN4.1 on 106817 for Piping hours as Trend per Harv. Rolled into Progress Tracker and marked as 100% complete. Rolled CN4 into PT as Approved Change.
+
+Re-assigned 106888 and 107049 from Harv to Ron Peterson as PL at Harv's request. Notified Paul.
+
+Explored SAM tool. Noted that the sign on the variance value seems reversed. Milestones with schedule/actual dates AFTER the BL date show a POSITIVE variance. Seems like it should be NEGATIVE. Sent note to Kevin.
+
+Out at 1630.

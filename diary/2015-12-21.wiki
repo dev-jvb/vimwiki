@@ -1,0 +1,12 @@
+2015-12-21
+
+Arrive at Shell for Site Orientation at 0700. Orientation lasted until 1000. 
+Arrive at Anvil 1100. 
+Attended monthly PC Department Safety Meeting. 
+Updated PT for 107165 to bring down EHTC. 
+Updated PT for 105483 to bring down EHTC. 
+Closed 106211. 
+Closed 106703. 
+Processed invoices for increased POs. 
+Resolved delta in APEX vs TIC in 107433. Combination of small factors, including variances in Escalation and Contingency. 
+Out at 1630.

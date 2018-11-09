@@ -1,0 +1,17 @@
+2016-04-05
+
+Arrive 0800. 
+Revised Client Funding on 107554 to allow March P3 charges to go against P4 PO at Howard/Geoff's direction. 
+Setup POs for 107767.300 and 102698.301. 
+Updated dashboard report and S-Curves for 107258 and 107550. 
+Met wtih Geoff to discuss multiple topics: 
+  * Committed Cost Report - Issue as Roll Up Report as Jimmy O'Conner has in the past (via email.) 
+  * Print room Scheduling - Shell PRogram is not part of the problem as we already schedule our print room work. Other programs are not and creating havoc. No action on our part required. 
+  * Project controls team re-org - Geoff is supportive as long as certain parameters are kept: 
+    - Angie stays on PRINT (she may relocated to another building to support.) 
+    - Angie supports Jeff Wong (good workign relationship.) 
+  * Client Funding philosophy - Continue current practice but distribute funding across phases when possible. Increased Anvil mgmt scrutiny may drive further action/clean-up of client funding. Discussed several nuances including cross-phase charging. 
+At Geoff's suggestion, contacted Carole Gillis re increase to PO 4516914722 for 104239.502. 
+Entered final outstanding invoices. 
+Copied P2 estiamte elements into P3 estimate for Controls Systems in TIC Estimating tool for job 107163. 
+Out at 1655.

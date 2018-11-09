@@ -1,0 +1,6 @@
+Arrive 0745.
+For 105787, CN12:
+	Published PSE to TIC Estimating.
+	Published TIC Estimate to APEX.
+	Prepared CN docs.
+

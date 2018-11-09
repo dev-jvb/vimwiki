@@ -1,0 +1,6 @@
+Arrive 0700.
+Attended weekly PL/WGL meeting.
+Worked on CN13 for 106152. Noted several issues with CN form double-diping on Piping Materials. Also, issues with values in the Change Log. Asked for some time from Kevin to review.
+Met with Kevin to discuss issues surrounding CNs in APEX/TIC Estimating/Change Logs. Kevin agreed with and implemented the change to the 207 report to remove the double-dipping of Owner's Material. For the Change Log, need to follow up with Aaron as it appears the report is pulling the wrong column from APEX.
+Compiled Procurement data for Q3 report. Noted that ALL delivered material was EXACTLY on time. Call to Jimmy brought to light that, at Latimer and Holien's direction, he has been changing the Forecast dates to be the same as the actual on-site dates when items are received. This may render the KPI meaningless. Need to discuss with Geoff and Jim tomorrow.
+Out at 1630.

@@ -1,0 +1,4 @@
+Arrive 0800.
+Prepared docs for 107960 CN4.
+Imported TIC estimate for 108237 into APEX.
+Out at 1300.

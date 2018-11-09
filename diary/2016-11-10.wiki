@@ -1,0 +1,13 @@
+Arrive 0815.
+"Project control is a continuous process that involves the following functions:
+1. Monitoring work progress
+2. Comparing it with the baseline schedule and budget (what they were supposed to be)
+3. Finding any variances, determining where they are and the extent of the variances, and analyzing them to discover the causes
+4. Taking corrective action whenever and wherever necessary in order to bring the project back on schedule and within budget."
+- Construction Project Schedule and Control, Saleh A. Mubarek
+Attended meeting to discuss ground rules for EHTC Forecasting. Consensu is that it is a wasted effort to assign names resources to Future and Prospective work. WGL focus should initially be on managing Booked work with names resources.
+Voided 107756 CN5 per Harv's direction.
+Re-named SS Sample Station related projects per Diane Berhow request.
+Imported October invoices to POINT (PO-INvoice Tracker)
+Assembled monthly reports and issued to PLs for review.
+Out at 1630.
